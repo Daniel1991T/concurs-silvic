@@ -1,0 +1,1327 @@
+{
+  "id": "cs5",
+  "title": "Codul silvic V – Pază, exploatare, circulația lemnului",
+  "act": "Legea 331/2024, Titlul III, cap. V secț. 7–13 (art. 93–116)",
+  "version": "Codul silvic consolidat la 29 octombrie 2026",
+  "intro": "De la pădurar la drumul forestier: cum se organizează paza și cine răspunde pentru pagube, supravegherea video, incendiile, produsele pădurii, cine poate exploata lemn și cu ce acte, riscul normal de 3%, cum circulă și se vinde lemnul și cum se finanțează drumurile forestiere.",
+  "lesson": [
+    {
+      "title": "1. Organizarea pazei",
+      "paragraphs": [
+        {
+          "text": "Scopul pazei: **preîntâmpinarea, descurajarea și combaterea** faptelor care afectează FFN.",
+          "refs": ["Cod art. 93 alin. (1)"]
+        },
+        {
+          "text": "Măsurile de pază se stabilesc pe baza unei **analize de risc** făcute de structura de administrare și **avizate de Garda Forestieră și de inspectoratul de poliție județean**. Fiecare structură are un **regulament propriu de organizare a pazei**, după un model-cadru aprobat prin HG.",
+          "refs": ["Cod art. 93 alin. (2)–(4)"]
+        },
+        {
+          "text": "Paza se face cu **personal silvic propriu**; în cazuri justificate de analiza de risc, și cu firme specializate de pază. Structura trebuie să asigure **continuitatea pazei**; mai multe ocoale pot organiza paza în comun.",
+          "refs": ["Cod art. 93 alin. (5)–(7)"]
+        },
+        {
+          "text": "**Legea 333/2003** privind paza obiectivelor **nu se aplică** pazei FFN. Poliția și jandarmeria dau sprijin de specialitate.",
+          "refs": ["Cod art. 93 alin. (9)–(10)"]
+        }
+      ],
+      "keep": [
+        "Analiza de risc: avizată de Gardă și IPJ",
+        "Regulament propriu de pază (model-cadru prin HG)",
+        "Personal propriu; firme de pază doar justificat",
+        "Legea 333/2003 nu se aplică pazei FFN"
+      ],
+      "quiz": [
+        {
+          "q": "Paza poate fi organizată în comun de:",
+          "options": ["Nimeni", "Mai multe ocoale silvice", "Ocol și primărie", "Ocol și vânători"],
+          "answer": 1,
+          "explain": "Mai multe ocoale, după caz.",
+          "ref": "Cod art. 93 alin. (7)"
+        }
+      ]
+    },
+    {
+      "title": "2. Ce face personalul de pază",
+      "paragraphs": [
+        {
+          "text": "În serviciu, personalul de pază: cunoaște **punctele vulnerabile**; păzește suprafața predată; **oprește și legitimează** persoanele bănuite de fapte ilegale; **sesizează de îndată poliția**; poartă mijloacele de apărare și armamentul și face uz de armă doar după Legea 295/2004; patrulează contra incendiilor și intervine; **conservă probele** până vin cei împuterniciți.",
+          "refs": ["Cod art. 94 alin. (1)"]
+        },
+        {
+          "text": "Regulamentul de pază trebuie să prevadă și: patrulări de prevenire; constatarea încălcărilor la exploatare și a tăierilor fără drept; combaterea depozitării deșeurilor; protejarea bornelor, culturilor și construcțiilor; **controlul circulației lemnului**; stabilirea prejudiciului și identificarea autorilor.",
+          "refs": ["Cod art. 94 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Oprește și legitimează persoanele suspecte",
+        "Sesizează poliția de îndată",
+        "Uz de armă doar după Legea 295/2004",
+        "Conservă probele",
+        "Controlează circulația lemnului în pădurea păzită"
+      ],
+      "quiz": [
+        {
+          "q": "Ce face pădurarul cu probele unei infracțiuni?",
+          "options": [
+            "Le ia acasă",
+            "Le identifică și conservă până vin cei împuterniciți",
+            "Le distruge",
+            "Le predă exploatatorului"
+          ],
+          "answer": 1,
+          "explain": "Le conservă.",
+          "ref": "Cod art. 94 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "3. Cine răspunde pentru pagube",
+      "paragraphs": [
+        {
+          "text": "Structura care prestează paza **răspunde civil** pentru prejudiciile din pădurea din contract; contractele au clauze de răspundere civilă.",
+          "refs": ["Cod art. 95 alin. (1)–(2)"]
+        },
+        {
+          "text": "La pădurile statului și ale UAT, administratorul sau proprietarul **trebuie să se constituie parte civilă**. Pentru **funcțiile nerealizate ale pădurii** se constituie parte civilă **Garda Forestieră**.",
+          "refs": ["Cod art. 95 alin. (3)–(4)"]
+        },
+        {
+          "text": "Pădurarul **răspunde patrimonial**, după Codul muncii, pentru pagubele din pădurea păzită (făcute de alții sau de el), **dacă nu depune de îndată o informare scrisă** la ocol. Șeful ocolului sesizează imediat poliția sau parchetul. Litigiile merg la **instanțele de conflicte de muncă**.",
+          "refs": ["Cod art. 96 alin. (1)–(3)"]
+        },
+        {
+          "text": "Pagubele le constată personalul cu atribuții de control, pe proces-verbal. Sumele cuvenite proprietarilor se transferă de ocol în **max. 30 de zile**.",
+          "refs": ["Cod art. 96 alin. (4)","Cod art. 96 alin. (7)"]
+        }
+      ],
+      "keep": [
+        "Structura de pază răspunde civil",
+        "Funcțiile nerealizate: parte civilă e Garda",
+        "Pădurarul scapă de răspundere doar cu informare scrisă imediată",
+        "Litigii: instanțele de conflicte de muncă",
+        "Transfer sume la proprietari: max. 30 zile"
+      ],
+      "quiz": [
+        {
+          "q": "Contractele de pază trebuie să conțină clauze de:",
+          "options": [
+            "Exclusivitate",
+            "Răspundere civilă a prestatorului",
+            "Confidențialitate",
+            "Penalități pentru proprietar"
+          ],
+          "answer": 1,
+          "explain": "Clauze de angajare a răspunderii civile.",
+          "ref": "Cod art. 95 alin. (2)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Cine răspunde",
+        "levels": [
+          {
+            "who": "Structura care face paza",
+            "does": ["răspundere civilă pentru prejudiciile din contract"],
+            "ref": "Cod art. 95 alin. (1)"
+          },
+          {
+            "who": "Pădurarul",
+            "does": ["răspundere patrimonială, după Codul muncii","scapă dacă informează în scris ocolul de îndată"],
+            "ref": "Cod art. 96 alin. (1)"
+          },
+          {
+            "who": "Garda Forestieră",
+            "does": ["parte civilă pentru funcțiile nerealizate ale pădurii"],
+            "ref": "Cod art. 95 alin. (4)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Supraveghere video și incendii",
+      "paragraphs": [
+        {
+          "text": "Administratorii instalează **sisteme de supraveghere video** în punctele din analiza de risc; imaginile se păstrează **minimum 3 luni**. Autoritatea, Garda, poliția și jandarmeria au **acces în timp real** la ele, iar sistemele se leagă la sistemul informațional integrat.",
+          "refs": ["Cod art. 97 alin. (1)–(3)"]
+        },
+        {
+          "text": "Proprietarii și ocoalele aplică **normele de prevenire și stingere a incendiilor**, aprobate prin ordin al Autorității.",
+          "refs": ["Cod art. 98 alin. (1)"]
+        },
+        {
+          "text": "Orice persoană care vede un incendiu de pădure trebuie să anunțe autoritățile, inclusiv la **112**, și să încerce, după posibilități, să-l limiteze.",
+          "refs": ["Cod art. 98 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Video: imagini păstrate min. 3 luni; acces în timp real pentru Gardă, poliție",
+        "Incendii: norme prin ordin al Autorității",
+        "Cetățeanul anunță la 112 și ajută la stingere"
+      ],
+      "quiz": [
+        {
+          "q": "Sistemele video ale administratorilor se conectează la:",
+          "options": ["Poliție doar", "Sistemul informațional integrat pentru păduri", "Primărie", "Nimic"],
+          "answer": 1,
+          "explain": "Autoritatea asigură conectarea.",
+          "ref": "Cod art. 97 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "5. Produsele pădurii",
+      "paragraphs": [
+        {
+          "text": "Produsele pădurii sunt **lemnul**, **produsele asimilate lemnului** și **produsele nelemnoase**. Lemnul: principale (regenerare), secundare (îngrijire), accidentale, extraordinare. Asimilate: arbori ornamentali, **pomi de Crăciun**, răchită, puieți.",
+          "refs": ["Cod art. 99 alin. (1)–(3)"]
+        },
+        {
+          "text": "Nelemnoase: fructe de pădure, semințe, ciuperci (inclusiv trufe), plante medicinale, rășină. Se recoltează cu **acordul administratorului** (la public) sau al proprietarului, **în afară de uzul casnic**, pentru care nu trebuie acord.",
+          "refs": ["Cod art. 99 alin. (4)–(6)"]
+        },
+        {
+          "text": "**Comunitățile dependente de pădure** (criterii cumulative: dependență, imposibilitatea procurării din altă parte, activități tradiționale, fără degradare) primesc **acces gratuit** la nelemnoase pentru consum propriu în pădurile publice. Locuitorii Munților Apuseni (Legea 33/1996) sunt considerați astfel de comunități.",
+          "refs": ["Cod art. 100"]
+        }
+      ],
+      "keep": [
+        "Produse: lemn, asimilate (pomi de Crăciun, răchită), nelemnoase",
+        "Nelemnoase: cu acordul proprietarului/administratorului, fără acord pentru uz casnic",
+        "Comunități dependente: acces gratuit la nelemnoase; Apusenii incluși"
+      ],
+      "quiz": [
+        {
+          "q": "Locuitorii Munților Apuseni beneficiari ai Legii 33/1996 sunt:",
+          "options": [
+            "Fără drepturi speciale",
+            "Comunități dependente de pădure",
+            "Proprietari de drept ai pădurilor",
+            "Exploatatori atestați"
+          ],
+          "answer": 1,
+          "explain": "Sunt considerați comunități dependente de pădure.",
+          "ref": "Cod art. 100 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "6. Cine exploatează și cu ce acte",
+      "paragraphs": [
+        {
+          "text": "Exploatarea se face de **persoane juridice atestate** de comisia asociației patronale și profesionale forestiere. Certificatul se retrage la propunerea din raportul de control al Gărzii. Firmele fac cursuri de minimum **8 ore/an**; există un **registru electronic al utilajelor** de exploatare.",
+          "refs": ["Cod art. 101 alin. (2)–(3)","Cod art. 101 alin. (5)–(7)"]
+        },
+        {
+          "text": "Fără atestare se poate exploata: de către proprietari, **până la 20 m³/an** din pădurea lor (și membrii obștilor); în **curățiri**; la urgențe în albii și pentru deblocarea drumurilor; de ANIF; la lucrări de îmbunătățiri funciare și pentru siguranța drumurilor și căilor ferate.",
+          "refs": ["Cod art. 101 alin. (4)"]
+        },
+        {
+          "text": "Exploatarea se face pe baza **autorizației de exploatare** sau a **procesului-verbal de inventariere**, înregistrate în sistemul informațional și emise de ocol. În ariile protejate, ele cuprind și condițiile de mediu.",
+          "refs": ["Cod art. 103 alin. (1)–(2)"]
+        },
+        {
+          "text": "Titularul **nu poate începe înainte de predarea parchetului**, nu poate tăia arbori nedestinați extragerii și **răspunde direct** pentru prejudiciile din șantier.",
+          "refs": ["Cod art. 103 alin. (4)–(6)"]
+        }
+      ],
+      "keep": [
+        "Exploatare: doar firme atestate",
+        "Fără atestare: proprietarul până la 20 m³/an, curățiri, urgențe",
+        "Act: autorizație de exploatare sau PV de inventariere, în SUMAL",
+        "Nu începi înainte de predarea parchetului",
+        "Titularul răspunde de prejudiciile din șantier"
+      ],
+      "quiz": [
+        {
+          "q": "Cine răspunde pentru prejudiciile din șantierul de exploatare?",
+          "options": ["Ocolul", "Titularul autorizației de exploatare", "Pădurarul", "Garda"],
+          "answer": 1,
+          "explain": "Titularul, direct.",
+          "ref": "Cod art. 103 alin. (6)"
+        },
+        {
+          "q": "În ariile protejate, autorizația de exploatare cuprinde în plus:",
+          "options": [
+            "Prețul lemnului",
+            "Condițiile de mediu și monitorizarea",
+            "Numele pădurarului",
+            "Nimic în plus"
+          ],
+          "answer": 1,
+          "explain": "Condiții specifice de mediu.",
+          "ref": "Cod art. 103 alin. (2)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "De la act la exploatare",
+        "steps": [
+          {
+            "title": "Act de punere în valoare",
+            "text": "evaluarea lemnului, marcare cu dispozitive speciale",
+            "ref": "Cod art. 104 alin. (1)"
+          },
+          {
+            "title": "Cauțiune 5% sau asigurare",
+            "text": "înainte de autorizare",
+            "ref": "Cod art. 105 alin. (4)"
+          },
+          {
+            "title": "Autorizație de exploatare",
+            "text": "emisă de ocol, înregistrată în SUMAL",
+            "ref": "Cod art. 103 alin. (1)"
+          },
+          {
+            "title": "Predarea parchetului",
+            "text": "abia apoi se poate tăia",
+            "ref": "Cod art. 103 alin. (4)"
+          },
+          {
+            "title": "Exploatare",
+            "text": "firmă atestată; risc normal max. 3%",
+            "ref": "Cod art. 105 alin. (1)"
+          },
+          {
+            "title": "Platforma primară",
+            "text": "introducerea pe piață, măsurare la încărcare",
+            "ref": "Cod art. 109 alin. (2)–(3)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "7. Marcarea și riscul normal",
+      "paragraphs": [
+        {
+          "text": "Arborii de tăiat se inventariază și se marchează cu dispozitive speciale, după regulament. La îngrijirile în **arborete de până la 30 de ani** nu se folosesc dispozitive speciale. Ele marchează și cioatele arborilor tăiați ilegal și au **regimul juridic al mărcilor și sigiliilor**.",
+          "refs": ["Cod art. 104 alin. (1)–(3)"]
+        },
+        {
+          "text": "Le folosește doar personalul împuternicit, numai în locul, scopul și termenul din delegație. Un **sistem alternativ** (marcarea arborilor de viitor în locul celor de extras) cere avizul Gărzii și **monitorizare video permanentă** a tuturor ieșirilor din pădure.",
+          "refs": ["Cod art. 104 alin. (5)–(6)","Cod art. 104 alin. (9)"]
+        },
+        {
+          "text": "**Riscul normal**: arborii vătămați sau distruși la exploatare pot fi cel mult **3% din volumul autorizat**; sub acest prag nu e pagubă și nu se sancționează. Peste 3%, e pagubă.",
+          "refs": ["Cod art. 105 alin. (1)–(3)"]
+        },
+        {
+          "text": "Pentru restul riscurilor (sol, drumuri, maluri, semințiș), exploatatorul face **asigurare** sau depune o **cauțiune de 5%** din valoarea contractului, înainte de autorizare. Vătămările din risc normal se **notifică ocolului în 5 zile**.",
+          "refs": ["Cod art. 105 alin. (4)–(5)"]
+        },
+        {
+          "text": "Trecerea lemnului peste terenul altui proprietar se face cu plata **servituții de trecere**.",
+          "refs": ["Cod art. 106 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Arborete sub 30 de ani: fără dispozitive speciale",
+        "Dispozitive = regimul mărcilor și sigiliilor",
+        "Risc normal: max. 3% din volumul autorizat",
+        "Cauțiune 5% din contract sau asigurare",
+        "Notificarea vătămărilor: 5 zile"
+      ],
+      "quiz": [
+        {
+          "q": "Exploatarea a vătămat 5% din volumul autorizat. Cum se încadrează?",
+          "options": ["Risc normal", "Pagubă adusă pădurii", "Nu contează", "Produs accidental"],
+          "answer": 1,
+          "explain": "Peste 3% e pagubă.",
+          "ref": "Cod art. 105 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Cifrele exploatării",
+        "items": [
+          {"title": "3%", "text": "risc normal din volumul autorizat", "ref": "Cod art. 105 alin. (1)"},
+          {"title": "5%", "text": "cauțiune din valoarea contractului", "ref": "Cod art. 105 alin. (4)"},
+          {
+            "title": "5 zile",
+            "text": "notificarea vătămărilor către ocol",
+            "ref": "Cod art. 105 alin. (5)"
+          },
+          {
+            "title": "30 de ani",
+            "text": "sub această vârstă, îngrijiri fără dispozitive speciale",
+            "ref": "Cod art. 104 alin. (1)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "8. Circulația și vânzarea lemnului",
+      "paragraphs": [
+        {
+          "text": "Proveniența lemnului se certifică prin documentele din sistemul informațional integrat. Lemnul se transportă **numai cu documente specifice**, înregistrate în sistem, care sunt **documente cu regim special**. E interzis să primești, depozitezi, prelucrezi sau vinzi lemn fără aviz de însoțire.",
+          "refs": ["Cod art. 107","Cod art. 108"]
+        },
+        {
+          "text": "**Introducerea pe piață** se face în **platforma primară**, iar **măsurarea** se face **la încărcare**.",
+          "refs": ["Cod art. 109 alin. (2)–(3)"]
+        },
+        {
+          "text": "Valorificarea din pădurile publice urmărește valorificarea superioară, prelucrarea locală, **prioritatea lemnului pentru încălzirea locuințelor**, concurența, transparența. Producătorii de mobilă au **drept de preempțiune** la lemnul fasonat din pădurile statului (la prețul ultimei oferte) și pot încheia contracte-cadru de max. **5 ani** pentru furnir și gater.",
+          "refs": ["Cod art. 110 alin. (1)–(2)"]
+        },
+        {
+          "text": "Lemnul fasonat din depozite: cel puțin **50%** din cel recoltat din pădurile publice, iar de la **1 ianuarie 2030**, cel puțin **70%**.",
+          "refs": ["Cod art. 110 alin. (3)–(4)"]
+        },
+        {
+          "text": "O firmă sau un grup de firme legate nu poate cumpăra sau procesa **mai mult de 30%** din volumul unui sortiment dintr-o specie (media ultimilor 3 ani, la nivel național).",
+          "refs": ["Cod art. 111"]
+        }
+      ],
+      "keep": [
+        "Transport doar cu documente din SUMAL (regim special)",
+        "Introducerea pe piață: în platforma primară; măsurare la încărcare",
+        "Mobilă: preempțiune la lemnul fasonat; contracte max. 5 ani",
+        "Depozit: ≥ 50%, din 2030 ≥ 70%",
+        "Limită: max. 30% dintr-un sortiment/specie per grup"
+      ],
+      "quiz": [
+        {
+          "q": "Măsurarea lemnului pentru transport se face:",
+          "options": ["În parchet, pe picior", "La încărcare", "La destinație", "Lunar"],
+          "answer": 1,
+          "explain": "La încărcare.",
+          "ref": "Cod art. 109 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "9. Drumurile forestiere",
+      "paragraphs": [
+        {
+          "text": "Drumurile forestiere sunt **căi de transport tehnologic, de utilitate privată**, **închise circulației publice**; servesc gestionării pădurii, vânătorii, pescuitului, intervențiilor și accesului proprietarilor. Condițiile de acces se afișează la intrare.",
+          "refs": ["Cod art. 113 alin. (2)–(3)"]
+        },
+        {
+          "text": "**Fondul de accesibilizare** primește **10–20%** din valoarea lemnului din **principale și accidentale I** (la prețul mediu pe picior) plus partea din chiria ocupărilor temporare. Procentul se aprobă prin ordin al Autorității (la stat) sau de proprietar. Banii merg și la depozite de lemn și utilaje de drumuri.",
+          "refs": ["Cod art. 113 alin. (5)–(6)","Cod art. 113 alin. (8)"]
+        },
+        {
+          "text": "Drumurile se proiectează de persoane **atestate** și se construiesc doar după aprobarea **schimbării categoriei de folosință**. Întreținerea e a proprietarului sau a administratorului.",
+          "refs": ["Cod art. 114 alin. (2)", "Cod art. 114 alin. (4)", "Cod art. 115 alin. (1)"]
+        },
+        {
+          "text": "Drumurile Romsilva care deservesc pădurea unei UAT pot fi concesionate **gratuit** UAT-ului, cu acordul Romsilva, pe **max. 5 ani**, fără prelungire. Corectarea torenților e de **interes național**.",
+          "refs": ["Cod art. 115 alin. (3)–(4)","Cod art. 116"]
+        }
+      ],
+      "keep": [
+        "Drum forestier: privat, tehnologic, închis circulației publice",
+        "Fondul de accesibilizare: 10–20% din valoarea principalelor și accidentalelor I",
+        "Proiectare atestată; construcție după schimbarea folosinței",
+        "Concesiune gratuită la UAT: max. 5 ani",
+        "Corectarea torenților: interes național"
+      ],
+      "quiz": [
+        {
+          "q": "Procentul pentru fondul de accesibilizare la pădurile statului îl aprobă:",
+          "options": ["Ocolul", "Conducătorul Autorității, prin ordin", "Garda", "Parlamentul"],
+          "answer": 1,
+          "explain": "Prin ordin (la privați, proprietarul).",
+          "ref": "Cod art. 113 alin. (6)"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Pază și răspundere",
+      "rows": [
+        {
+          "what": "Avizează analiza de risc",
+          "value": "Garda + inspectoratul de poliție județean",
+          "ref": "Cod art. 93 alin. (2)"
+        },
+        {
+          "what": "Modelul-cadru al regulamentului de pază",
+          "value": "prin HG",
+          "ref": "Cod art. 93 alin. (4)"
+        },
+        {
+          "what": "Legea 333/2003 (paza obiectivelor)",
+          "value": "nu se aplică FFN",
+          "ref": "Cod art. 93 alin. (9)"
+        },
+        {
+          "what": "Parte civilă pentru funcțiile nerealizate",
+          "value": "Garda Forestieră",
+          "ref": "Cod art. 95 alin. (4)"
+        },
+        {
+          "what": "Pădurarul scapă de răspundere",
+          "value": "informare scrisă la ocol, de îndată",
+          "ref": "Cod art. 96 alin. (1)"
+        },
+        {
+          "what": "Transferul sumelor la proprietari",
+          "value": "max. 30 zile",
+          "ref": "Cod art. 96 alin. (7)"
+        },
+        {"what": "Stocarea imaginilor video", "value": "min. 3 luni", "ref": "Cod art. 97 alin. (1)"}
+      ]
+    },
+    {
+      "title": "Exploatare",
+      "rows": [
+        {
+          "what": "Exploatare fără atestare de către proprietar",
+          "value": "până la 20 m³/an",
+          "ref": "Cod art. 101 alin. (4)"
+        },
+        {
+          "what": "Cursuri pentru firmele atestate",
+          "value": "min. 8 ore/an",
+          "ref": "Cod art. 101 alin. (7)"
+        },
+        {
+          "what": "Îngrijiri fără dispozitiv special",
+          "value": "arborete până la 30 de ani",
+          "ref": "Cod art. 104 alin. (1)"
+        },
+        {
+          "what": "Risc normal la exploatare",
+          "value": "max. 3% din volumul autorizat",
+          "ref": "Cod art. 105 alin. (1)"
+        },
+        {
+          "what": "Cauțiunea exploatatorului",
+          "value": "5% din valoarea contractului",
+          "ref": "Cod art. 105 alin. (4)"
+        },
+        {"what": "Notificarea vătămărilor", "value": "5 zile", "ref": "Cod art. 105 alin. (5)"}
+      ]
+    },
+    {
+      "title": "Lemn și drumuri",
+      "rows": [
+        {
+          "what": "Locul introducerii pe piață",
+          "value": "platforma primară",
+          "ref": "Cod art. 109 alin. (2)"
+        },
+        {"what": "Măsurarea lemnului", "value": "la încărcare", "ref": "Cod art. 109 alin. (3)"},
+        {
+          "what": "Contracte-cadru pentru mobilă",
+          "value": "max. 5 ani, furnir și gater",
+          "ref": "Cod art. 110 alin. (2)"
+        },
+        {
+          "what": "Lemn fasonat din depozite",
+          "value": "≥ 50%; din 1.01.2030 ≥ 70%",
+          "ref": "Cod art. 110 alin. (3)–(4)"
+        },
+        {
+          "what": "Plafon de achiziție pe grup",
+          "value": "30% dintr-un sortiment/specie",
+          "ref": "Cod art. 111"
+        },
+        {
+          "what": "Fondul de accesibilizare",
+          "value": "10–20% din valoarea principalelor și accidentalelor I",
+          "ref": "Cod art. 113 alin. (5)"
+        },
+        {
+          "what": "Concesiunea drumurilor la UAT",
+          "value": "gratuit, max. 5 ani",
+          "ref": "Cod art. 115 alin. (4)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "„3 și 5” la exploatare: 3% risc normal, 5% cauțiune, 5 zile pentru notificare.",
+    "20 m³ apare de două ori: procesul-verbal de inventariere (CS I) și exploatarea fără atestare a proprietarului.",
+    "Video: „trei luni de imagini”.",
+    "Drumul forestier e privat și închis publicului; poarta e deschisă doar pentru pădure, vânătoare, pescuit, intervenții și proprietari."
+  ],
+  "cards": [
+    {
+      "q": "Pe baza a ce se stabilesc măsurile de pază?",
+      "a": "Pe baza analizei de risc avizate de Gardă și de inspectoratul de poliție județean.",
+      "ref": "Cod art. 93 alin. (2)"
+    },
+    {
+      "q": "Cine aprobă modelul-cadru al regulamentului de pază?",
+      "a": "Guvernul, prin HG.",
+      "ref": "Cod art. 93 alin. (4)"
+    },
+    {
+      "q": "Se poate face paza pădurii cu o firmă de pază?",
+      "a": "Da, în cazuri justificate de analiza de risc, pe lângă personalul propriu.",
+      "ref": "Cod art. 93 alin. (5)"
+    },
+    {"q": "Se aplică Legea 333/2003 pazei FFN?", "a": "Nu.", "ref": "Cod art. 93 alin. (9)"},
+    {
+      "q": "Pe cine poate opri și legitima pădurarul?",
+      "a": "Persoanele despre care există date sau indicii că au săvârșit fapte ilegale în pădurea păzită.",
+      "ref": "Cod art. 94 alin. (1)"
+    },
+    {
+      "q": "După ce lege face pădurarul uz de armă?",
+      "a": "Legea 295/2004 privind regimul armelor și munițiilor.",
+      "ref": "Cod art. 94 alin. (1)"
+    },
+    {
+      "q": "Cum răspunde structura care face paza?",
+      "a": "Civil, pentru prejudiciile din pădurea din contract.",
+      "ref": "Cod art. 95 alin. (1)"
+    },
+    {
+      "q": "Cine se constituie parte civilă pentru funcțiile nerealizate ale pădurii?",
+      "a": "Garda Forestieră competentă.",
+      "ref": "Cod art. 95 alin. (4)"
+    },
+    {
+      "q": "Ce instanțe judecă răspunderea patrimonială a pădurarului?",
+      "a": "Instanțele de conflicte de muncă.",
+      "ref": "Cod art. 96 alin. (3)"
+    },
+    {
+      "q": "Cât timp se păstrează imaginile video?",
+      "a": "Minimum 3 luni.",
+      "ref": "Cod art. 97 alin. (1)"
+    },
+    {
+      "q": "Cine are acces în timp real la camerele din pădure?",
+      "a": "Autoritatea, Garda Națională și gărzile teritoriale, poliția, jandarmeria.",
+      "ref": "Cod art. 97 alin. (2)"
+    },
+    {
+      "q": "Ce trebuie să facă cel care vede un incendiu de pădure?",
+      "a": "Să anunțe autoritățile, inclusiv la 112, și să ajute după posibilități.",
+      "ref": "Cod art. 98 alin. (2)"
+    },
+    {
+      "q": "Ce sunt produsele asimilate lemnului?",
+      "a": "Arbori și arbuști ornamentali, pomi de Crăciun, răchită, puieți și diverse produse din lemn.",
+      "ref": "Cod art. 99 alin. (3)"
+    },
+    {
+      "q": "Trebuie acord ca să culegi ciuperci pentru acasă?",
+      "a": "Nu, pentru uz casnic nu e nevoie de acord.",
+      "ref": "Cod art. 99 alin. (6)"
+    },
+    {
+      "q": "Ce drept au comunitățile dependente de pădure la nelemnoase?",
+      "a": "Acces gratuit pentru consum propriu în pădurile publice.",
+      "ref": "Cod art. 100 alin. (3)"
+    },
+    {
+      "q": "Cine atestă firmele de exploatare?",
+      "a": "Comisia din asociația patronală și profesională forestieră recunoscută național.",
+      "ref": "Cod art. 101 alin. (3)"
+    },
+    {
+      "q": "Cât poate exploata un proprietar fără atestare?",
+      "a": "Până la 20 m³/an din pădurea lui.",
+      "ref": "Cod art. 101 alin. (4)"
+    },
+    {"q": "Trebuie atestare pentru curățiri?", "a": "Nu.", "ref": "Cod art. 101 alin. (4)"},
+    {
+      "q": "Pe baza cărui act se exploatează lemnul?",
+      "a": "Autorizația de exploatare sau procesul-verbal de inventariere, înregistrate în SUMAL.",
+      "ref": "Cod art. 103 alin. (1)"
+    },
+    {
+      "q": "Când poate începe exploatarea?",
+      "a": "Doar după predarea parchetului.",
+      "ref": "Cod art. 103 alin. (4)"
+    },
+    {
+      "q": "La ce lucrări nu se folosesc dispozitive speciale de marcat?",
+      "a": "La îngrijirile în arborete de până la 30 de ani.",
+      "ref": "Cod art. 104 alin. (1)"
+    },
+    {
+      "q": "Ce regim juridic au dispozitivele speciale de marcat?",
+      "a": "Regimul mărcilor și sigiliilor.",
+      "ref": "Cod art. 104 alin. (3)"
+    },
+    {
+      "q": "Ce condiții are un sistem alternativ de marcare?",
+      "a": "Avizul Gărzii și monitorizare video permanentă a ieșirilor din pădure.",
+      "ref": "Cod art. 104 alin. (9)"
+    },
+    {
+      "q": "Cât e riscul normal la exploatare?",
+      "a": "Max. 3% din volumul autorizat.",
+      "ref": "Cod art. 105 alin. (1)"
+    },
+    {
+      "q": "Ce cauțiune depune exploatatorul?",
+      "a": "5% din valoarea contractului (sau asigurare).",
+      "ref": "Cod art. 105 alin. (4)"
+    },
+    {
+      "q": "În cât timp notifică titularul vătămările din risc normal?",
+      "a": "5 zile.",
+      "ref": "Cod art. 105 alin. (5)"
+    },
+    {
+      "q": "Ce regim au documentele de transport al lemnului?",
+      "a": "Documente cu regim special, înregistrate în SUMAL.",
+      "ref": "Cod art. 108 alin. (1)"
+    },
+    {
+      "q": "Unde se introduce lemnul pe piață?",
+      "a": "În platforma primară.",
+      "ref": "Cod art. 109 alin. (2)"
+    },
+    {
+      "q": "Când se măsoară lemnul?",
+      "a": "La încărcare, pentru transport.",
+      "ref": "Cod art. 109 alin. (3)"
+    },
+    {
+      "q": "Ce drept special au producătorii de mobilă?",
+      "a": "Preempțiune la lemnul fasonat din pădurile statului, la prețul ultimei oferte.",
+      "ref": "Cod art. 110 alin. (1)"
+    },
+    {
+      "q": "Cât lemn fasonat trebuie vândut din depozite din 2030?",
+      "a": "Cel puțin 70% din lemnul din pădurile publice.",
+      "ref": "Cod art. 110 alin. (4)"
+    },
+    {
+      "q": "Ce plafon de achiziție are un grup de firme?",
+      "a": "Max. 30% dintr-un sortiment al unei specii (media ultimilor 3 ani).",
+      "ref": "Cod art. 111"
+    },
+    {
+      "q": "Ce sunt drumurile forestiere?",
+      "a": "Căi de transport tehnologic, de utilitate privată, închise circulației publice.",
+      "ref": "Cod art. 113 alin. (2)"
+    },
+    {
+      "q": "Cât merge în fondul de accesibilizare?",
+      "a": "10–20% din valoarea lemnului din principale și accidentale I.",
+      "ref": "Cod art. 113 alin. (5)"
+    },
+    {
+      "q": "Când se poate construi un drum forestier?",
+      "a": "După aprobarea schimbării categoriei de folosință.",
+      "ref": "Cod art. 114 alin. (4)"
+    },
+    {
+      "q": "Pe cât timp se concesionează un drum Romsilva unei UAT?",
+      "a": "Max. 5 ani, gratuit, fără prelungire.",
+      "ref": "Cod art. 115 alin. (4)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Analiza de risc pentru pază se avizează de:",
+      "options": ["Primărie", "Garda Forestieră și inspectoratul de poliție județean", "Romsilva", "ISU"],
+      "answer": 1,
+      "explain": "Gardă + IPJ.",
+      "ref": "Cod art. 93 alin. (2)"
+    },
+    {
+      "q": "Paza FFN se face, ca regulă, prin:",
+      "options": ["Firme de pază", "Personal silvic propriu", "Jandarmerie", "Voluntari"],
+      "answer": 1,
+      "explain": "Personal propriu; firmele doar justificat.",
+      "ref": "Cod art. 93 alin. (5)"
+    },
+    {
+      "q": "Legea 333/2003 privind paza obiectivelor:",
+      "options": [
+        "Se aplică integral",
+        "Nu se aplică pazei FFN",
+        "Se aplică doar la stat",
+        "Se aplică doar la privați"
+      ],
+      "answer": 1,
+      "explain": "Nu se aplică.",
+      "ref": "Cod art. 93 alin. (9)"
+    },
+    {
+      "q": "Pădurarul care găsește arbori tăiați trebuie, între altele:",
+      "options": [
+        "Să aștepte controlul de fond",
+        "Să sesizeze poliția de îndată",
+        "Să taie el restul",
+        "Să anunțe doar proprietarul"
+      ],
+      "answer": 1,
+      "explain": "Sesizează de îndată poliția.",
+      "ref": "Cod art. 94 alin. (1)"
+    },
+    {
+      "q": "Pentru valoarea funcțiilor nerealizate ale pădurii, parte civilă se constituie:",
+      "options": ["Ocolul", "Garda Forestieră", "Primăria", "Proprietarul"],
+      "answer": 1,
+      "explain": "Garda.",
+      "ref": "Cod art. 95 alin. (4)"
+    },
+    {
+      "q": "Pădurarul răspunde patrimonial pentru pagubele produse de terți dacă:",
+      "options": [
+        "Paguba e mare",
+        "Nu depune de îndată o informare scrisă la ocol",
+        "Nu prinde autorul",
+        "E în concediu"
+      ],
+      "answer": 1,
+      "explain": "Informarea scrisă imediată îl exonerează.",
+      "ref": "Cod art. 96 alin. (1)"
+    },
+    {
+      "q": "Imaginile din camerele de supraveghere se păstrează minimum:",
+      "options": ["30 de zile", "3 luni", "6 luni", "1 an"],
+      "answer": 1,
+      "explain": "3 luni.",
+      "ref": "Cod art. 97 alin. (1)"
+    },
+    {
+      "q": "Normele de prevenire a incendiilor în FFN se aprobă prin:",
+      "options": ["HG", "Ordin al conducătorului Autorității", "Decizie ISU", "Lege"],
+      "answer": 1,
+      "explain": "Ordin al Autorității.",
+      "ref": "Cod art. 98 alin. (1)"
+    },
+    {
+      "q": "Pomii de Crăciun sunt, după Cod:",
+      "options": ["Lemn", "Produse asimilate lemnului", "Produse nelemnoase", "Produse extraordinare"],
+      "answer": 1,
+      "explain": "Asimilate lemnului.",
+      "ref": "Cod art. 99 alin. (3)"
+    },
+    {
+      "q": "Culegerea de fructe de pădure pentru uz casnic:",
+      "options": ["Cere acordul proprietarului", "Nu cere acord", "E interzisă", "Cere aviz de la Gardă"],
+      "answer": 1,
+      "explain": "Uzul casnic nu cere acord.",
+      "ref": "Cod art. 99 alin. (6)"
+    },
+    {
+      "q": "Exploatarea lemnului se face, ca regulă, de:",
+      "options": ["Oricine", "Persoane juridice atestate", "Ocoale doar", "Persoane fizice autorizate"],
+      "answer": 1,
+      "explain": "Persoane juridice atestate.",
+      "ref": "Cod art. 101 alin. (2)"
+    },
+    {
+      "q": "Un proprietar poate exploata fără atestare din pădurea lui cel mult:",
+      "options": ["5 m³/an", "10 m³/an", "20 m³/an", "50 m³/an"],
+      "answer": 2,
+      "explain": "20 m³/an.",
+      "ref": "Cod art. 101 alin. (4)"
+    },
+    {
+      "q": "Retragerea certificatului de atestare al unui exploatator se face:",
+      "options": [
+        "De Gardă direct",
+        "De comisia de atestare, la propunerea din raportul de control",
+        "De ocol",
+        "De instanță doar"
+      ],
+      "answer": 1,
+      "explain": "Comisia, la propunerea organului de control.",
+      "ref": "Cod art. 101 alin. (6)"
+    },
+    {
+      "q": "Exploatatorul poate începe tăierea:",
+      "options": [
+        "La semnarea contractului",
+        "După predarea parchetului",
+        "După plata avansului",
+        "Oricând în sezon"
+      ],
+      "answer": 1,
+      "explain": "Interzis înainte de predarea parchetului.",
+      "ref": "Cod art. 103 alin. (4)"
+    },
+    {
+      "q": "La o curățire într-un arboret de 15 ani, arborii se marchează:",
+      "options": [
+        "Cu ciocanul rotund",
+        "Fără dispozitive speciale de marcat",
+        "Cu ciocanul pătrat",
+        "Cu ciocanul pentagonal"
+      ],
+      "answer": 1,
+      "explain": "Sub 30 de ani, fără dispozitive speciale.",
+      "ref": "Cod art. 104 alin. (1)"
+    },
+    {
+      "q": "Dispozitivele speciale de marcat au regimul juridic al:",
+      "options": ["Armelor", "Mărcilor și sigiliilor", "Documentelor clasificate", "Bunurilor de consum"],
+      "answer": 1,
+      "explain": "Mărcilor și sigiliilor.",
+      "ref": "Cod art. 104 alin. (3)"
+    },
+    {
+      "q": "Volumul arborilor vătămați la exploatare care e considerat risc normal este de max.:",
+      "options": ["1%", "3%", "5%", "10%"],
+      "answer": 1,
+      "explain": "3% din volumul autorizat.",
+      "ref": "Cod art. 105 alin. (1)"
+    },
+    {
+      "q": "Cauțiunea pentru riscurile exploatării este de:",
+      "options": ["3%", "5%", "10%", "20% din contract"],
+      "answer": 1,
+      "explain": "5% din valoarea contractului.",
+      "ref": "Cod art. 105 alin. (4)"
+    },
+    {
+      "q": "Vătămările din risc normal se notifică ocolului în:",
+      "options": ["24 de ore", "5 zile", "15 zile", "30 de zile"],
+      "answer": 1,
+      "explain": "5 zile, altfel răspundere contravențională sau penală.",
+      "ref": "Cod art. 105 alin. (5)"
+    },
+    {
+      "q": "Documentele de transport al lemnului sunt:",
+      "options": [
+        "Facultative",
+        "Documente cu regim special, din SUMAL",
+        "Simple facturi",
+        "Avize ale Gărzii"
+      ],
+      "answer": 1,
+      "explain": "Regim special.",
+      "ref": "Cod art. 108 alin. (1)"
+    },
+    {
+      "q": "Introducerea lemnului pe piață se face:",
+      "options": ["La fabrică", "În platforma primară", "În parchet", "La depozitul final"],
+      "answer": 1,
+      "explain": "Platforma primară.",
+      "ref": "Cod art. 109 alin. (2)"
+    },
+    {
+      "q": "De la 1 ianuarie 2030, din lemnul recoltat din pădurile publice se vinde fasonat din depozite cel puțin:",
+      "options": ["30%", "50%", "70%", "100%"],
+      "answer": 2,
+      "explain": "70%.",
+      "ref": "Cod art. 110 alin. (4)"
+    },
+    {
+      "q": "Un grup de firme legate nu poate cumpăra mai mult de ___ dintr-un sortiment al unei specii:",
+      "options": ["10%", "20%", "30%", "50%"],
+      "answer": 2,
+      "explain": "30%, media ultimilor 3 ani.",
+      "ref": "Cod art. 111"
+    },
+    {
+      "q": "Drumurile forestiere sunt:",
+      "options": [
+        "Drumuri publice",
+        "Căi tehnologice de utilitate privată, închise circulației publice",
+        "Drumuri comunale",
+        "Drumuri județene"
+      ],
+      "answer": 1,
+      "explain": "Utilitate privată, închise publicului.",
+      "ref": "Cod art. 113 alin. (2)"
+    },
+    {
+      "q": "În fondul de accesibilizare merge un procent din valoarea lemnului de:",
+      "options": ["5–10%", "10–20%", "20–30%", "30–50%"],
+      "answer": 1,
+      "explain": "10–20% din principale și accidentale I.",
+      "ref": "Cod art. 113 alin. (5)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Arborii vătămați la exploatare",
+      "situation": "Într-o partidă de 800 m³ autorizați, exploatatorul a rupt și julit arbori de pe picior însumând 30 m³.",
+      "steps": [
+        {
+          "q": "E pagubă?",
+          "a": "Da: 3% din 800 m³ înseamnă 24 m³. Vătămările de 30 m³ (3,75%) depășesc limita riscului normal, deci sunt pagubă adusă pădurii.",
+          "ref": "Cod art. 105 alin. (1)–(3)"
+        },
+        {
+          "q": "Ce trebuia să facă exploatatorul după vătămări?",
+          "a": "Să notifice ocolul în 5 zile de la producere.",
+          "ref": "Cod art. 105 alin. (5)"
+        },
+        {
+          "q": "Din ce se acoperă prejudiciile peste limite?",
+          "a": "Din asigurare sau din cauțiunea de 5% din valoarea contractului, depusă înainte de autorizare.",
+          "ref": "Cod art. 105 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "Proprietarul care vrea să-și taie singur lemnele",
+      "situation": "Un proprietar de 8 ha vrea să-și exploateze singur 15 m³ de lemne de foc, fără firmă atestată.",
+      "steps": [
+        {
+          "q": "Poate exploata fără atestare?",
+          "a": "Da, proprietarii pot exploata din pădurea lor până la 20 m³/an fără atestare.",
+          "ref": "Cod art. 101 alin. (4)"
+        },
+        {
+          "q": "Ce act îi trebuie?",
+          "a": "Autorizație de exploatare sau proces-verbal de inventariere, emise de ocol și înregistrate în SUMAL.",
+          "ref": "Cod art. 103 alin. (1)"
+        },
+        {
+          "q": "Cum transportă lemnul acasă?",
+          "a": "Doar însoțit de documentul de transport din sistemul informațional, document cu regim special.",
+          "ref": "Cod art. 108 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "Camerele de la ieșirea din pădure",
+      "situation": "Ocolul vrea să pună camere video la ieșirile din pădure. Poliția îți cere imaginile de acum două luni.",
+      "steps": [
+        {
+          "q": "Unde se amplasează camerele?",
+          "a": "În punctele stabilite prin analiza de risc, avizată de Gardă și IPJ.",
+          "ref": "Cod art. 97 alin. (1)"
+        },
+        {
+          "q": "Mai ai imaginile?",
+          "a": "Ar trebui: termenul minim de stocare e de 3 luni.",
+          "ref": "Cod art. 97 alin. (1)"
+        },
+        {
+          "q": "Ești obligat să-i dai poliției acces?",
+          "a": "Da, poliția, jandarmeria, Garda și Autoritatea au acces în timp real și la imaginile stocate.",
+          "ref": "Cod art. 97 alin. (2)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlul III, cap. V, secț. 7–13 (art. 93–116)",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {"title": "Secţiunea a 7-a – Paza FFN", "from": "93"},
+          {"title": "Secţiunea a 8-a – Prevenirea şi stingerea incendiilor", "from": "98"},
+          {"title": "Secţiunea a 9-a – Produsele pădurii", "from": "99"},
+          {"title": "Secţiunea a 10-a – Exploatarea lemnului", "from": "101"},
+          {"title": "Secţiunea a 11-a – Provenienţa şi circulaţia lemnului", "from": "107"},
+          {"title": "Secţiunea a 12-a – Introducerea pe piaţă a lemnului", "from": "109"},
+          {"title": "Secţiunea a 13-a – Accesibilitatea FFN", "from": "113"}
+        ],
+        "articles": [
+          {
+            "no": "93",
+            "label": "Art. 93 – Reguli de organizare a pazei",
+            "items": [
+              ["(1)","Paza FFN se realizează potrivit dispoziţiilor prezentei legi, iar scopul pazei îl constituie preîntâmpinarea, descurajarea, combaterea actelor păgubitoare pentru integritatea FFN şi a obiectivelor, bunurilor şi produselor acestuia."],
+              ["(2)","Măsurile de pază şi securitate ale FFN se stabilesc pe bază de analiză de risc elaborată de către structurile de administrare a FFN sau de prestare a serviciilor silvice şi avizată de către Garda Forestieră şi de către inspectoratul de poliţie judeţean, competente teritorial."],
+              ["(3)","Conducătorii structurilor de administrare a FFN sau de prestare a serviciilor silvice elaborează regulamentul propriu privind organizarea pazei."],
+              ["(4)","Modelul-cadru al regulamentului privind organizarea pazei, prevăzut la alin. (3), criteriile şi procedurile privind realizarea analizei de risc se aprobă prin hotărâre a Guvernului."],
+              ["(5)","Paza se asigură prin personal silvic propriu al structurii de administrare. În cazuri justificate, pe baza informaţiilor rezultate din analiza de risc, structura de administrare poate asigura paza fondului forestier şi cu structuri specializate autorizate conform reglementărilor specifice în domeniul pazei bunurilor."],
+              ["(6)","Structura de administrare a FFN are obligaţia asigurării continuităţii pazei FFN aflat în responsabilitate."],
+              ["(7)","Paza poate fi organizată, după caz, de mai multe ocoale silvice în comun."],
+              ["(8)","Conducătorul structurii de administrare a FFN răspunde pentru neîndeplinirea obligaţiilor prevăzute la alin. (3)."],
+              ["(9)","Prevederile Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor, republicată, cu modificările şi completările ulterioare, precum şi ale actelor normative subsecvente nu au aplicabilitate în ceea ce priveşte realizarea şi implementarea măsurilor de pază şi de securitate în FFN."],
+              ["(10)","Unităţile de poliţie şi jandarmerie, potrivit atribuţiilor ce le revin conform legii, asigură sprijin de specialitate în asigurarea pazei FFN."]
+            ]
+          },
+          {
+            "no": "94",
+            "label": "Art. 94 – Obligaţiile generale ale personalului silvic cu atribuţii de pază",
+            "items": [
+              ["(1)","Personalul silvic cu atribuţii de pază are următoarele obligaţii generale în timpul serviciului:"],
+              ["a)","să cunoască locurile şi punctele vulnerabile din fondul forestier în pază, pentru a preveni producerea faptelor de natură să aducă prejudicii fondului forestier;"],
+              ["b)","să păzească suprafeţele de fond forestier predate spre pază;"],
+              ["c)","să oprească şi să legitimeze persoanele despre care există date sau indicii că au săvârşit fapte care pot fi încadrate ca infracţiuni, contravenţii silvice ori alte fapte ilicite în fondul forestier aflat în pază;"],
+              ["d)","să sesizeze poliţia, de îndată, în legătură cu fapte de natură a prejudicia fondul forestier aflat în pază şi să îşi dea concursul ori de câte ori este solicitat de către organele de urmărire penală sau de organele de poliţie;"],
+              ["e)","să poarte în timpul serviciului mijloacele de apărare, de protecţie şi armamentul cu care este dotat şi să facă uz de armă numai în cazurile şi în condiţiile Legii nr. 295/2004 privind regimul armelor şi al muniţiilor, republicată, cu modificările şi completările ulterioare;"],
+              ["f)","să execute alte sarcini care i-au fost încredinţate, potrivit regulamentului şi planului de pază;"],
+              ["g)","să execute patrulări în vederea prevenirii incendiilor în zonele şi perioadele de risc, iar în cazul declanşării unui incendiu să alarmeze ocolul silvic şi celelalte instituţii abilitate pentru astfel de situaţii şi să acţioneze imediat pentru localizarea şi stingerea incendiului;"],
+              ["h)","să asigure măsuri de identificare şi conservare a mijloacelor de probă cu ocazia constatării infracţiunilor până la sosirea personalului împuternicit pentru control sau a organelor de urmărire penală."],
+              ["(2)","Regulamentul privind organizarea pazei, elaborat conform art. 93 alin. (3), trebuie să cuprindă cel puţin următoarele obligaţii ale personalului silvic cu atribuţii de pază:"],
+              ["a)","să execute patrulări şi să desfăşoare activităţi de prevenire şi de combatere a faptelor penale şi contravenţionale care ar putea aduce atingere integrităţii FFN;"],
+              ["b)","să constate nerespectarea prevederilor legale privind exploatarea lemnului şi a tăierilor fără drept;"],
+              ["c)","să execute patrulări în vederea prevenirii incendiilor în zonele şi perioadele de risc, iar în cazul declanşării unui incendiu să alarmeze ocolul silvic şi celelalte instituţii abilitate pentru a interveni în astfel de situaţii;"],
+              ["d)","să ia măsuri de prevenire şi combatere a depozitării de deşeuri de orice tip pe terenurile din FFN;"],
+              ["e)","să ia măsuri de asigurare a integrităţii FFN împotriva ocupării sau folosirii ilegale de terenuri, sustragerii de lemn sau a altor produse ale pădurii, distrugerii construcţiilor, instalaţiilor, bornelor, culturilor, degradării arborilor, puieţilor şi lăstarilor, precum şi a oricăror fapte ilegale;"],
+              ["f)","să controleze circulaţia materialului lemnos în FFN pentru care asigură paza în vederea stabilirii provenienţei şi legalităţii transportului de materiale lemnoase;"],
+              ["g)","să stabilească prejudiciul produs în FFN aflat în pază şi să acţioneze pentru identificarea autorilor acestor fapte."],
+              ["(3)","În cazul asigurării pazei FFN şi cu structuri specializate, regulamentul de pază cuprinde şi atribuţiile acestora."]
+            ]
+          },
+          {
+            "no": "95",
+            "label": "Art. 95 – Răspunderea structurii de administrare a FFN",
+            "items": [
+              ["(1)","Structura de administrare prestatoare a serviciilor de pază răspunde civil în cazul producerii de prejudicii în terenul forestier obiect al contractului de administrare/prestare a serviciilor de pază."],
+              ["(2)","Contractele de administrare/asigurare a serviciilor de pază vor conţine clauze de angajare a răspunderii civile menţionate la alin. (1)."],
+              ["(3)","În cazul pagubelor constatate în FFN, proprietatea statului sau a unităţilor administrativ-teritoriale, administratorul/proprietarul terenului este obligat să se constituie parte civilă în instanţă pentru recuperarea pagubei."],
+              ["(4)","În cazul valorilor nerecuperate ale funcţiilor nerealizate ale pădurii, constatate pe terenurile din FFN, Garda Forestieră cu competenţă teritorială se constituie parte civilă în instanţă pentru recuperarea valorii funcţiilor nerealizate."]
+            ]
+          },
+          {
+            "no": "96",
+            "label": "Art. 96 – Răspunderea personalului cu atribuţii de pază",
+            "items": [
+              ["(1)","Personalul silvic cu atribuţii de pază a FFN răspunde patrimonial, în conformitate cu prevederile Legii nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, pentru pagubele în FFN pe care îl are în pază, produse de terţi sau din fapta proprie, în situaţia în care acesta nu depune o informare scrisă către ocolul silvic de îndată ce constată existenţa pagubelor."],
+              ["(2)","Conducătorul ocolului silvic are obligaţia de a sesiza de îndată de la primirea informării scrise menţionate la alin. (1) unităţile de poliţie sau de parchet competente teritorial."],
+              ["(3)","Acţiunile în răspundere patrimonială formulate împotriva personalului silvic cu atribuţii de pază a FFN pentru pagubele produse în FFN pe care îl are în pază, în condiţiile prezentei legi, sunt de competenţa materială a instanţelor de conflicte de muncă."],
+              ["(4)","Constatarea şi evaluarea pagubelor care angajează răspunderea patrimonială se fac de către personalul silvic cu atribuţii de control, prin fişa postului sau prin delegare, după caz, pe bază de proces-verbal. Încălcarea obligaţiilor de serviciu atrage răspunderea penală sau disciplinară, după caz."],
+              ["(5)","Contravaloarea pagubelor constatate şi evaluate în condiţiile alin. (4) se încasează de către ocolul silvic care asigură administrarea/serviciile silvice şi are destinaţiile prevăzute de prezenta lege. În cazul pagubelor constatate în FFN, proprietatea statului sau a unităţilor administrativ-teritoriale, administratorul/proprietarul terenului este obligat să se constituie parte civilă în instanţă pentru recuperarea pagubei, sub sancţiunea recuperării acestei pagube pe cale civilă de la conducătorul structurii de administrare."],
+              ["(6)","În cazul terenurilor din FFN preluate în pază de ocolul silvic în baza actelor de constatare menţionate la art. 31 alin. (3) şi pentru care nu sunt încheiate contracte de administrare sau de servicii silvice minimale, sumele încasate ca despăgubiri şi care, potrivit prezentei legi, ar trebui să se acorde proprietarului pădurii în care s-a produs paguba se fac venit la fondul de ameliorare a fondului funciar cu destinaţie silvică şi se utilizează, la cerere, de către ocolul silvic care asigură administrarea/serviciile silvice."],
+              ["(7)","Transferul sumelor prevăzute la alin. (5) şi (6) care, potrivit prezentei legi, revin proprietarilor/deţinătorilor cu orice titlu de fond forestier se face de ocolul silvic în maximum 30 de zile de la data încasării acestora."]
+            ]
+          },
+          {
+            "no": "97",
+            "label": "Art. 97 – Utilizarea instrumentelor şi tehnologiilor moderne de supraveghere",
+            "items": [
+              ["(1)","Pentru asigurarea integrităţii FFN, prevenirea şi combaterea activităţilor ilegale şi asigurarea trasabilităţii lemnului recoltat din pădure, precum şi pentru administrarea mijloacelor de probă, administratorii de fond forestier instalează sisteme de supraveghere video, pentru care termenul de stocare a imaginilor video este de minimum 3 luni. Locaţiile sistemelor de supraveghere video se vor amplasa în punctele stabilite pe baza analizei de risc prevăzute la art. 93 alin. (2)."],
+              ["(2)","Structurile de administrare de fond forestier care utilizează sisteme proprii de supraveghere video sunt obligate să asigure accesul nemijlocit, în timp real, la aceste sisteme şi accesul la informaţiile stocate, la cererea Autorităţii, a Gărzii Forestiere Naţionale, a Gărzilor Forestiere, poliţiei şi jandarmeriei."],
+              ["(3)","Autoritatea asigură conectarea sistemelor de monitorizare instalate de structurile de administrare ale fondului forestier la sistemul informaţional integrat pentru păduri."],
+              ["(4)","Sistemele prevăzute la alin. (1) şi Sistemul informaţional integrat pentru păduri se dezvoltă inclusiv cu capacităţi automate de detectare şi alertare a posibilelor activităţi ilegale la regimul silvic. Mecanismul de monitorizare şi alertare şi procedura de intervenţie a autorităţilor prevăzute la art. 136 se stabilesc prin hotărârea Guvernului prevăzută la art. 20."],
+              ["(5)","Prelucrarea datelor cu caracter personal, efectuată de entităţile care utilizează informaţiile şi datele preluate din sistemele de supraveghere video prevăzute la alin. (1), se realizează cu respectarea prevederilor Regulamentului (UE) 679/2016 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46 CE, precum şi a legislaţiei naţionale aplicabile domeniului protecţiei datelor."]
+            ]
+          },
+          {
+            "no": "98",
+            "label": "Art. 98 – Obligaţii referitoare la prevenirea şi stingerea incendiilor",
+            "items": [
+              ["(1)","Proprietarii terenurilor din FFN, ai perdelelor forestiere de protecţie şi ai terenurilor degradate din afara FFN pe care s-au realizat lucrări de împădurire, precum şi ocoalele silvice care asigură servicii silvice sau administrarea acestora sunt obligaţi să aplice şi să respecte normele specifice de prevenire şi apărare împotriva incendiilor, aprobate prin ordin al conducătorului Autorităţii."],
+              ["(2)","Persoana fizică care observă un incendiu de pădure are obligaţia să întreprindă toate demersurile pentru informarea autorităţilor, inclusiv apelarea numărului unic de urgenţă 112, şi să ia măsuri, după posibilităţile sale, pentru limitarea şi stingerea incendiului."]
+            ]
+          },
+          {
+            "no": "99",
+            "label": "Art. 99 – Produsele pădurii",
+            "items": [
+              ["(1)","În sensul prezentei legi, produsele specifice FFN sunt lemnul, produsele lemnoase asimilate lemnului şi produsele nelemnoase."],
+              ["(2)","Lemnul este reprezentat prin:"],
+              ["a)","produse principale, rezultate din tăieri de regenerare a pădurilor;"],
+              ["b)","produse secundare, rezultate din tăieri de îngrijire şi conducere a arboretelor;"],
+              ["c)","produse accidentale, rezultate în urma acţiunii factorilor biotici şi abiotici destabilizatori;"],
+              ["d)","produse extraordinare."],
+              ["(3)","Produsele lemnoase asimilate lemnului sunt: arbori şi arbuşti ornamentali, pomi de Crăciun, răchită, puieţi şi diferite produse din lemn."],
+              ["(4)","În sensul prezentei legi, produsele nelemnoase specifice FFN sunt reprezentate prin:"],
+              ["a)","fructe de pădure;"],
+              ["b)","seminţe forestiere;"],
+              ["c)","trufe şi alte ciuperci comestibile din flora spontană din cuprinsul acestuia;"],
+              ["d)","plante medicinale şi aromatice din cuprinsul acestuia;"],
+              ["e)","răşină;"],
+              ["f)","alte produse."],
+              ["(5)","Produsele nelemnoase se recoltează cu acordul administratorului în cazul FFN proprietate publică sau al proprietarului în celelalte cazuri, în condiţiile stabilite prin ordin al conducătorului Autorităţii."],
+              ["(6)","Prin excepţie de la prevederile alin. (5), nu este necesar acordul administratorului în cazul FFN proprietate publică sau al proprietarului în celelalte cazuri, în cazul recoltării produselor nelemnoase pentru uz casnic."]
+            ]
+          },
+          {
+            "no": "100",
+            "label": "Art. 100 – Sprijinirea comunităţilor dependente de produsele pădurii",
+            "items": [
+              ["(1)","Comunităţile locale dependente de pădure sunt comunităţi locale tradiţionale care depind în mare măsură de resursele oferite de pădure pentru asigurarea subzistenţei, păstrarea identităţii culturale sau îmbunătăţirea situaţiei economice şi sociale, cu îndeplinirea în mod cumulativ a următoarelor criterii:"],
+              ["a)","dependenţa de resursele forestiere;"],
+              ["b)","fezabilitatea procurării resurselor forestiere din alte zone;"],
+              ["c)","activităţi tradiţionale care ţin de lucrul la pădure sau de practicarea lemnăritului;"],
+              ["d)","recoltarea resurselor nu contribuie la degradarea pădurilor."],
+              ["(2)","Indicatorii de desemnare, procedurile de identificare a comunităţilor dependente de pădure definite la alin. (1) şi a terenurilor forestiere de care acestea depind se stabilesc prin metodologie aprobată prin hotărâre a Guvernului."],
+              ["(3)","Este interzisă cesionarea dreptului de recoltare a produselor nelemnoase pentru pădurile proprietate publică, care oferă resurse forestiere de bază pentru comunităţile locale dependente de pădure. Proprietarii/Administratorii FFN proprietate publică au obligaţia să acorde acces gratuit pentru comunităţile dependente de pădure pentru consum propriu al produselor nelemnoase ale pădurii prevăzute la art. 99 alin. (4) lit. c) -f), cu respectarea condiţiilor legale de recoltare."],
+              ["(4)","Valorificarea lemnului din FFN proprietate publică de care comunităţile locale dependente de pădure depind şi achiziţionarea de servicii de către administratorii de FFN proprietate publică a statului sau a unităţilor administrativ-teritoriale respective trebuie să contribuie la dezvoltarea socioeconomică a comunităţilor locale definite la alin. (1)."],
+              ["(5)","Beneficiarii prevăzuţi la art. 2 alin. (1) din Legea nr. 33/1996 privind repunerea în unele drepturi economice a locuitorilor Munţilor Apuseni, republicată, sunt consideraţi comunităţi locale dependente de pădure şi beneficiază de drepturile acordate acestor comunităţi."]
+            ]
+          },
+          {
+            "no": "101",
+            "label": "Art. 101 – Atestarea agenţilor economici care efectuează exploatarea lemnului",
+            "items": [
+              ["(1)","Exploatarea lemnului include toate fazele tehnologice/procesele care se aplică pentru obţinerea sortimentelor de lemn brut."],
+              ["(2)","Exploatarea lemnului se realizează de către persoane juridice atestate."],
+              ["(3)","Atestarea persoanelor juridice pentru activitatea de exploatare a lemnului se face de către Comisia de atestare care funcţionează în cadrul asociaţiei patronale şi profesionale din domeniul forestier, recunoscută la nivel naţional. Comisia de atestare funcţionează pe baza Regulamentului privind aprobarea criteriilor şi procedura de atestare/reatestare, organizarea, funcţionarea şi componenţa comisiei de atestare a agenţilor economici pentru exploatarea lemnului, aprobat prin ordin al conducătorului Autorităţii."],
+              ["(4)","Prin excepţie de la prevederile alin. (2), exploatarea lemnului se poate realiza şi fără atestare, în următoarele cazuri:"],
+              ["a)","de către proprietarii de fond forestier persoane juridice şi fizice care pot exploata din proprietatea lor un volum de până la 20 metri cubi/an/teren forestier în proprietate, precum şi persoanele fizice membre ale formelor asociative prevăzute la art. 8 alin. (1);"],
+              ["b)","la exploatarea lemnului din parchetele de curăţiri;"],
+              ["c)","la intervenţia de urgenţă în cazul calamităţilor în albia minoră a râurilor sau pe suprafaţa construcţiilor hidrotehnice, în scopul prevenirii inundaţiilor, precum şi la intervenţia de urgenţă în vederea deblocării infrastructurii de transport;"],
+              ["d)","de către Agenţia Naţională de Îmbunătăţiri Funciare, în scopul asigurării apei preluate prin sistemele de desecare-drenaj şi evacuate în emisari prin canale deschise în zona dig-mal sau pentru asigurarea aducerii apei de la staţia de pompare de bază, prin canale deschise executate;"],
+              ["e)","la executarea lucrărilor de întreţinere şi reparaţii pe terenurile amenajate cu lucrări de îmbunătăţiri funciare, respectiv amenajări de irigaţii, de desecare sau de combatere a eroziunii solului, după caz, inclusiv în zonele de protecţie aferente acestora;"],
+              ["f)","pentru prevenirea deteriorării elementelor infrastructurii rutiere şi feroviare şi pentru asigurarea circulaţiei rutiere şi feroviare."],
+              ["(5)","La nivelul Comisiei de atestare se înfiinţează Registrul electronic naţional al evidenţei utilajelor specifice de exploatare. Dezvoltarea şi operaţionalizarea registrului se fac de către asociaţia profesională în cadrul căreia funcţionează Comisia de atestare."],
+              ["(6)","Retragerea certificatelor de atestare se face de către Comisia de atestare în baza propunerii de retragere din raportul de control întocmit de Garda Forestieră Naţională şi structurile acesteia sau alte instituţii cu rol de control. Retragerea poate fi contestată în condiţiile legii."],
+              ["(7)","Asociaţia profesională în cadrul căreia funcţionează Comisia de atestare are obligaţia organizării de cursuri de formare profesională pentru administratorii agenţilor economici şi personalul de specialitate, în vederea creşterii gradului de cunoaştere a legislaţiei şi a regulilor de exploatare a lemnului. Durata acestor cursuri trebuie să fie de minimum 8 ore/an."]
+            ]
+          },
+          {
+            "no": "102",
+            "label": "Art. 102 – Impactul exploatării lemnului asupra ecosistemelor forestiere",
+            "items": [
+              ["(1)","În organizarea si derularea activităţii de exploatare a lemnului se urmăreşte reducerea impactului, exprimat ca durată şi intensitate, asupra ecosistemului forestier."],
+              ["(2)","Instrucţiunile privind aprobarea criteriilor specifice impactului exploatării lemnului în ariile naturale protejate, a termenelor, modalităţilor şi perioadelor de colectare, scoatere şi transport al materialului lemnos se aprobă prin ordin al conducătorului Autorităţii."],
+              ["(3)","Criteriile specifice ale impactului exploatării lemnului în ariile naturale protejate sunt:"],
+              ["a)","la punerea în valoare a arboretelor din FFN şi a vegetaţiei forestiere din afara acestuia, situate în ariile naturale protejate, la nivel de unitate de producţie, necesare menţinerii/îmbunătăţirii stării de conservare a speciilor/habitatelor, precum şi a celorlalte elemente naturale/de patrimoniu natural prezente în arboretele pentru care a fost desemnată aria naturală protejată;"],
+              ["b)","pentru desfăşurarea activităţii de exploatare forestieră în ariile naturale protejate, care vor fi introduse în cuprinsul autorizaţiei de exploatare forestieră, în vederea menţinerii/îmbunătăţirii stării de conservare a speciilor/habitatelor, precum şi a celorlalte elemente naturale/de patrimoniu natural prezente în arboretele pentru care a fost desemnată aria naturală protejată."]
+            ]
+          },
+          {
+            "no": "103",
+            "label": "Art. 103 – Autorizaţia de exploatare",
+            "items": [
+              ["(1)","Exploatarea lemnului se realizează pe baza autorizaţiei de exploatare/procesului-verbal de inventariere înregistrate/înregistrat în sistemul informatic integrat şi emise/emis, după caz, de ocolul care asigură administrarea sau serviciile silvice sau de personalul silvic prevăzut la art. 35."],
+              ["(2)","În ariile naturale protejate autorizaţiile de exploatare/procesul-verbal de inventariere trebuie să cuprindă condiţiile specifice de mediu pentru desfăşurarea activităţii de exploatare forestieră şi măsurile pentru monitorizarea acesteia."],
+              ["(3)","Emiterea autorizaţiei de exploatare/procesului-verbal de inventariere se face în condiţiile Instrucţiunilor privind termenele, modalităţile şi perioadele de colectare, scoatere şi transport al materialului lemnos, aprobate prin ordin al conducătorului Autorităţii."],
+              ["(4)","Titularului autorizaţiei de exploatare i se interzice începerea exploatării lemnului înaintea predării parchetului."],
+              ["(5)","Este interzisă tăierea sau extragerea prin orice mijloc a arborilor care nu sunt destinaţi extragerii conform autorizaţiei de exploatare/procesului-verbal de inventariere."],
+              ["(6)","Titularii autorizaţiilor de exploatare/procesului-verbal de inventariere sunt direct răspunzători pentru prejudiciile produse în şantierul de exploatare a lemnului."]
+            ]
+          },
+          {
+            "no": "104",
+            "label": "Art. 104 – Marcarea arborilor",
+            "items": [
+              ["(1)","Arborii destinaţi tăierii se inventariază şi, în funcţie de natura tăierii, se marchează, după caz, cu dispozitive speciale de marcat, în conformitate cu regulamentul prevăzut la alin. (4). Pentru lucrările de conducere şi îngrijire a arboretelor cu vârsta până la 30 de ani nu se folosesc dispozitive speciale de marcat."],
+              ["(2)","Dispozitivele speciale de marcat se folosesc şi de către personalul cu atribuţii de control pentru marcarea cioatelor arborilor tăiaţi ilegal."],
+              ["(3)","Dispozitivelor speciale de marcat li se aplică regimul juridic al mărcilor şi sigiliilor."],
+              ["(4)","Forma şi modul de utilizare a dispozitivelor speciale de marcat, precum şi modul de marcare a arborilor sau a unor loturi de arbori se stabilesc prin regulament, aprobat prin ordin al conducătorului Autorităţii."],
+              ["(5)","Folosirea dispozitivelor speciale de marcat se face numai de către personalul împuternicit."],
+              ["(6)","Personalul împuternicit pentru folosirea dispozitivului special de marcat are obligaţia de a nu îl folosi în alte scopuri sau în alte locaţii decât cele prevăzute în delegaţia de marcare emisă sau după expirarea termenului înscris în delegaţie."],
+              ["(7)","Pentru marcarea arborilor pot fi utilizate şi alte sisteme de marcare în baza regulamentului prevăzut la alin. (4)."],
+              ["(8)","Prin regulamentul prevăzut la alin. (4) se pot stabili, pe zone-pilot, şi modalităţi de recoltare a arborilor fără folosirea dispozitivelor speciale de marcat."],
+              ["(9)","Administratorii de terenuri cu destinaţie forestieră pot alege să implementeze un sistem alternativ de marcare, care să consemneze elemente de identificare a arborilor de viitor, cu renunţarea marcării arborilor de extras. Experimentarea acestor sisteme este supusă avizării prealabile a Gărzii Forestiere competente teritorial şi este condiţionată de existenţa unei monitorizări video permanente a tuturor ieşirilor posibile din fondul forestier administrat."]
+            ]
+          },
+          {
+            "no": "105",
+            "label": "Art. 105 – Riscul normal şi prejudiciile asociate exploatării lemnului",
+            "items": [
+              ["(1)","Volumul arborilor vătămaţi sau distruşi prin procesul tehnologic de exploatare a lemnului nu poate depăşi 3% din volumul autorizat la exploatare."],
+              ["(2)","Vătămarea sau distrugerea arborilor sub volumul prevăzut la alin. (1) reprezintă risc normal al exploatării lemnului, nu constituie pagubă adusă pădurii şi nu se sancţionează contravenţional sau penal, după caz."],
+              ["(3)","Dacă în procesul de exploatare sunt afectaţi arbori în volum care depăşeşte limita stabilită la alin. (1), aceştia constituie pagubă adusă pădurii."],
+              ["(4)","Acoperirea riscurilor privind prejudiciile cauzate de exploatarea lemnului asupra solului, drumurilor forestiere, a lucrărilor de artă şi malurilor apelor, distrugerea sau vătămarea seminţişului utilizabil, precum şi a arborilor nedestinaţi exploatării, peste limitele admise de instrucţiunile prevăzute la art. 102 alin. (2), se face prin asigurarea riscului la asigurători autorizaţi sau prin depunerea unei cauţiuni de către persoana contractantă a exploatării lemnului, în valoare de 5% din valoarea contractului, în contul proprietarului/administratorului, anterior emiterii autorizaţiei de exploatare."],
+              ["(5)","Este obligatorie notificarea de către titularul autorizaţiei de exploatare a ocolului silvic cu privire la prejudiciile care decurg din riscul normal al activităţii de exploatare, apărute asupra arborilor care nu sunt destinaţi extragerii, în termen de 5 zile de la data producerii; în caz contrar titularul autorizaţiei de exploatare răspunde contravenţional sau penal, după caz."]
+            ]
+          },
+          {
+            "no": "106",
+            "label": "Art. 106 – Platforme primare şi accesul la parchete",
+            "items": [
+              ["(1)","Pentru exploatarea lemnului, în şantierele de exploatare a lemnului, se folosesc căi de colectare, se amenajează platforme primare şi amenajări necesare lucrărilor de exploatare a lemnului, în conformitate cu prevederile Instrucţiunilor privind termenele, modalităţile şi perioadele de colectare şi transport al lemnului, aprobate prin ordin al conducătorului Autorităţii."],
+              ["(2)","Colectarea lemnului prin traversarea terenurilor, respectiv depozitarea lemnului pe terenuri aparţinând altor proprietari se face cu plata servituţii de trecere şi, după caz, a despăgubirilor stabilite prin înţelegerea părţilor sau în instanţă."],
+              ["(3)","Conţinutul-cadru al caietului de sarcini pentru licitaţiile/negocierile care se organizează pentru vânzarea lemnului din proprietatea publică cuprinde informaţii privind asigurarea condiţiilor de acces la lemnul care se oferă spre vânzare, cu menţionarea părţii responsabile pentru efectuarea diligenţelor necesare obţinerii acestui drept."]
+            ]
+          },
+          {
+            "no": "107",
+            "label": "Art. 107 – Provenienţa lemnului",
+            "items": [
+              ["(1)","Provenienţa lemnului, înţeleasă ca porţiunea de teren poziţionată geografic, se certifică în baza documentelor legal aprobate introduse în sistemul informatic integrat."],
+              ["(2)","Obligaţiile operatorului şi comercianţilor privind provenienţa lemnului şi trasabilitatea materialelor lemnoase se reglementează prin hotărârea prevăzută la art. 20 alin. (1)."]
+            ]
+          },
+          {
+            "no": "108",
+            "label": "Art. 108 – Transportul materialelor lemnoase",
+            "items": [
+              ["(1)","Lemnul/Materialele lemnoase se transportă numai însoţit(e) de documente specifice de transport înregistrate în sistemul informatic integrat pentru păduri, din care să rezulte provenienţa legală a acestuia/acestora. Documentele specifice de transport al lemnului/materialelor lemnoase sunt documente cu regim special."],
+              ["(2)","Se interzice transportul cu orice mijloace de transport al materialelor lemnoase neînsoţite de documentele prevăzute la alin. (1) sau din care nu rezultă provenienţa legală a acestora."],
+              ["(3)","Se interzic primirea, depozitarea, prelucrarea şi comercializarea materialelor lemnoase fără avizul de însoţire a materialelor lemnoase prevăzut la alin. (1) sau din care nu rezultă provenienţa legală a acestora."]
+            ]
+          },
+          {
+            "no": "109",
+            "label": "Art. 109 – Introducerea pe piaţă a lemnului",
+            "items": [
+              ["(1)","Recoltarea lemnului şi introducerea pe piaţă a lemnului se realizează în condiţiile prezentei legi."],
+              ["(2)","Introducerea lemnului pe piaţă se realizează în platforma primară definită ca locul poziţionat geografic, raportat în sistemul informaţional integrat pentru păduri, unde se încheie exploatarea lemnului şi se asigură îndeplinirea condiţiilor necesare prevăzute de normele reglementate la art. 20 alin. (1)."],
+              ["(3)","Măsurarea lemnului/materialelor lemnoase se face la încărcarea în vederea transportului, potrivit hotărârii prevăzute la art. 20 alin. (1)."],
+              ["(4)","Evaluarea cantitativă a materialelor lemnoase se face prin metodele incluse în normele prevăzute la art. 20 alin. (1) şi prin alte metode cu utilizarea tehnologiilor moderne, aprobate de Autoritate."]
+            ]
+          },
+          {
+            "no": "110",
+            "label": "Art. 110 – Reguli de valorificare a lemnului",
+            "items": [
+              ["(1)","Valorificarea lemnului de pe terenurile din FFN proprietate publică se face în conformitate cu regulamentul de valorificare aprobat prin hotărâre a Guvernului şi se realizează ţinând cont de următoarele obiective:"],
+              ["a)","valorificarea superioară a lemnului;"],
+              ["b)","sprijinirea dezvoltării rurale prin prelucrarea locală a lemnului, care să vizeze inclusiv dimensionarea adecvată a grupajului de partizi sau a loturilor de lemn fasonat, astfel încât să ţină cont de capacitatea de prelucrare locală;"],
+              ["c)","prioritatea alocării resurselor de materiale lemnoase din pădurile proprietate publică, necesare încălzirii locuinţelor;"],
+              ["d)","asigurarea condiţiilor concurenţiale pe piaţa lemnului, care să vizeze inclusiv adoptarea unor criterii obiective şi transparente de selectare a partizilor care se valorifică ca lemn pe picior sau fasonat la drum auto;"],
+              ["e)","transparenţa comercializării lemnului şi materialelor lemnoase;"],
+              ["f)","minimizarea impactului exploatării lemnului, conform criteriilor prevăzute la art. 102;"],
+              ["g)","crearea cadrului de dezvoltare şi stabilitate pentru sectorul de exploatare prin contracte-cadru multianuale pentru prestări de servicii de exploatare;"],
+              ["h)","asigurarea cu prioritate de masă lemnoasă pentru producătorii din industria mobilei, din păduri proprietate publică a statului, sub formă de lemn fasonat, pe baza necesarului anual estimat. Aceştia au drept de preempţiune la cumpărarea de lemn fasonat, după depunerea ultimei oferte la fiecare lot, la un nivel egal de preţ cu ultima ofertă, în condiţiile exprimării unei oferte pentru lotul respectiv;"],
+              ["i)","asigurarea accesului comunităţilor locale dependente de pădure la cumpărarea lemnului şi materialelor lemnoase de care acestea depind, în acord cu prevederile art. 100 alin. (4)."],
+              ["(2)","Producătorii atestaţi din industria mobilei pot încheia contracte-cadru multianuale, pentru o perioadă de maximum 5 ani, în baza unei proceduri reglementate prin regulamentul de valorificare prevăzut la alin. (1), încheiate cu administratorii fondului forestier proprietate publică a statului, pentru sortimentele lemn rotund furnir şi lemn rotund gater."],
+              ["(3)","Începând cu data intrării în vigoare a prezentei legi, cel puţin 50% din lemnul recoltat din fondul forestier proprietate publică se valorifică ca lemn fasonat situat în depozitele pentru materiale lemnoase."],
+              ["(4)","Începând cu data de 1 ianuarie 2030, cel puţin 70% din lemnul recoltat din fondul forestier proprietate publică se valorifică ca lemn fasonat situat în depozitele pentru materiale lemnoase."],
+              ["(5)","Administratorii fondului forestier proprietate publică a statului prevăzuţi la art. 32 alin. (1) şi (6) sau proprietarii/administratorii fondului forestier proprietate publică a unităţii administrativ-teritoriale sunt obligaţi să ia măsuri pentru încadrarea în prevederile alin. (3) şi (4)."]
+            ]
+          },
+          {
+            "no": "111",
+            "label": "Art. 111 – Limitarea volumului de lemn achiziţionat",
+            "items": [
+              ["","O întreprindere economică/Un grup de întreprinderi economice legate nu poate achiziţiona/procesa mai mult de 30% din volumul dintr-un sortiment de lemn din fiecare specie, stabilit ca medie a ultimilor 3 ani în baza actelor de punere în valoare autorizate la exploatare şi exploatate la nivel naţional, indiferent de forma de proprietate."]
+            ]
+          },
+          {
+            "no": "112",
+            "label": "Art. 112 – Valorificarea superioară a lemnului",
+            "items": [
+              ["(1)","În sensul prezentei legi, valorificarea superioară a lemnului semnifică modul de valorificare a lemnului în produse de folosinţă îndelungată, apte pentru utilizarea lemnului în cascadă şi cu valoare socioeconomică şi de mediu ridicată."],
+              ["(2)","Statul încurajează, prin politici de achiziţie publică şi instrumente economice, utilizarea lemnului în construcţii cel puţin pentru clădirile şi infrastructura aparţinând domeniului public."],
+              ["(3)","Statul încurajează, prin politici publice şi instrumente economice, utilizarea energetică eficientă a resursei de lemn."]
+            ]
+          },
+          {
+            "no": "113",
+            "label": "Art. 113 – Accesibilizarea FFN",
+            "items": [
+              ["(1)","Mărirea gradului de accesibilizare a terenurilor din FFN, parte integrantă a Strategiei naţionale pentru păduri, constituie o condiţie de bază a gestionării durabile a pădurilor, cu respectarea prevederilor planurilor de management aprobate, în cazul ariilor naturale protejate."],
+              ["(2)","Drumurile auto forestiere sunt căi de transport tehnologic, de utilitate privată, utilizate pentru: gestionarea pădurilor, desfăşurarea activităţilor de vânătoare şi pescuit sportiv, intervenţii în caz de avarii, calamităţi sau dezastre, fiind închise circulaţiei publice, precum şi pentru accesul proprietarilor la propriile terenuri."],
+              ["(3)","Condiţiile de acces se afişează pe indicatoare specifice, la intrarea pe drumul forestier."],
+              ["(4)","Accesibilizarea FFN se realizează, alături de alte surse, prin constituirea şi utilizarea Fondului de accesibilizare a pădurilor."],
+              ["(5)","Fondul de accesibilizare a pădurilor se constituie din următoarele surse:"],
+              ["a)","între 10-20% din valoarea lemnului vândut şi încasat sau autorizat spre exploatare, provenit din produse principale şi accidentale I, calculată la nivelul preţului mediu al unui metru cub de lemn pe picior;"],
+              ["b)","suma cuvenită administratorului fondului forestier proprietate publică a statului, stabilită potrivit prevederilor art. 46 alin. (1) lit. b)."],
+              ["(6)","Procentul prevăzut la alin. (5) lit. a) se aprobă prin ordin al conducătorului Autorităţii pentru FFN proprietate publică a statului şi de proprietarul fondului forestier în alte situaţii."],
+              ["(7)","Alimentarea Fondului de accesibilizare a pădurilor se face la data la care obligaţiile de plată decurgând din sursele de finanţare prevăzute la alin. (5) devin exigibile."],
+              ["(8)","Prin derogare de la prevederile art. 6 din Legea nr. 56/2010 privind accesibilizarea fondului forestier naţional, republicată, Fondul de accesibilizare a pădurilor se utilizează şi pentru dezvoltarea infrastructurii de depozitare a materialelor lemnoase necesare valorificării superioare a lemnului, respectiv pentru:"],
+              ["a)","proiectarea şi executarea lucrărilor de construire de depozite permanente pentru comercializarea masei lemnoase sub formă fasonată, inclusiv a lucrărilor de modernizare a depozitelor existente, precum şi dotarea acestora cu bunuri de capital;"],
+              ["b)","achiziţia de terenuri de către administratorii FFN proprietate publică a statului, în numele statului, pentru înfiinţarea de noi depozite pentru materiale lemnoase; terenurile achiziţionate se includ în FFN;"],
+              ["c)","achiziţionarea de utilaje pentru construcţia şi întreţinerea drumurilor forestiere;"],
+              ["d)","lucrări de întreţinere a drumurilor forestiere existente."]
+            ]
+          },
+          {
+            "no": "114",
+            "label": "Art. 114 – Proiectarea şi construirea drumurilor forestiere",
+            "items": [
+              ["(1)","Proiectarea şi construirea drumurilor forestiere se realizează pe baza principiilor care respectă încadrarea în peisaj şi a evaluării impactului de mediu, cu obligaţia de a nu afecta calitatea apei, a solului şi a habitatelor."],
+              ["(2)","Proiectarea de drumuri forestiere se realizează de persoane fizice sau juridice atestate în baza unei metodologii."],
+              ["(3)","Metodologia, criteriile de atestare şi comisia de atestare se stabilesc prin ordin al conducătorului Autorităţii, cu consultarea asociaţiilor profesionale de profil."],
+              ["(4)","Construirea drumurilor forestiere se realizează numai după aprobarea schimbării categoriei de folosinţă forestieră, în condiţiile prevăzute la art. 47."],
+              ["(5)","Studiile de fezabilitate pentru dezvoltarea reţelei de drumuri forestiere se realizează în corelare cu cele pentru lucrările de corectare a torenţilor, după caz."]
+            ]
+          },
+          {
+            "no": "115",
+            "label": "Art. 115 – Întreţinerea şi utilizarea drumurilor forestiere",
+            "items": [
+              ["(1)","Întreţinerea şi repararea drumurilor forestiere sunt responsabilitatea proprietarului, respectiv a administratorului, în cazul drumurilor forestiere aflate în fondul forestier proprietate a statului, cu respectarea normativelor aprobate prin ordin al conducătorului Autorităţii."],
+              ["(2)","Deţinătorii drumurilor forestiere care nu se află în proprietatea statului pot să îşi adopte propriile regulamente de utilizare şi transport pe aceste drumuri forestiere, cu respectarea prevederilor art. 58 şi 59."],
+              ["(3)","Drumurile forestiere şi terenurile aferente acestora aflate în FFN proprietate publică a statului, administrate de Romsilva, şi care deservesc FFN proprietate publică a unei unităţi administrativ-teritoriale pot fi date în concesiune acesteia, cu titlu gratuit, cu acordul Romsilva."],
+              ["(4)","Contractul de concesiune se încheie pe o perioadă ce nu poate depăşi data trecerii drumului forestier şi a terenului aferent acestuia în proprietatea publică a unităţii administrativ-teritoriale potrivit procedurii reglementate de Legea nr. 192/2010, cu modificările şi completările ulterioare, dar nu mai mult de 5 ani, fără posibilitate de prelungire."]
+            ]
+          },
+          {
+            "no": "116",
+            "label": "Art. 116 – Lucrări de corectare a torenţilor",
+            "items": [
+              ["","Lucrările de corectare a torenţilor din FFN, precum şi cele de întreţinere şi reparaţii ale acestora sunt de interes naţional şi de utilitate publică şi se realizează în conformitate cu prevederile Strategiei naţionale pentru păduri - 2030 şi ale Strategiei naţionale de management al riscului la inundaţii pe termen mediu şi lung."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

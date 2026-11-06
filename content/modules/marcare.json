@@ -1,0 +1,1728 @@
+{
+  "id": "marcare",
+  "title": "Dispozitivele speciale de marcat",
+  "act": "Ordinul nr. 396/2026 și Regulamentul anexă",
+  "version": "Ordin și regulament în forma la zi (29.10.2026); Codul silvic art. 104 în forma din ianuarie 2025",
+  "intro": "Ciocanul silvic este semnătura ocolului pe arbore. Regulamentul spune ce forme există, cine le folosește, cum se fac și se înregistrează, cum se aplică marca și ce faci dacă se pierde. La concurs se întreabă des formele, termenele delegațiilor și pașii la pierdere.",
+  "lesson": [
+    {
+      "title": "1. Ce sunt și ce se marchează cu ele",
+      "paragraphs": [
+        {
+          "text": "Dispozitivele speciale de marcat sunt **instrumente cu regim special**, folosite numai de personal silvic împuternicit.",
+          "refs": ["Reg. art. 1"]
+        },
+        {
+          "text": "Cu ele se marchează: **arborii destinați recoltării**, **arborii care delimitează parchetele**, **cioatele arborilor tăiați ilegal**, arborii care arată locul de unde s-a scos un arbore fără să rămână cioată și arborii rupți, distruși sau scoși din rădăcini fără drept.",
+          "refs": ["Reg. art. 1"]
+        },
+        {
+          "text": "Li se aplică **regimul juridic al mărcilor și sigiliilor**.",
+          "refs": ["Reg. art. 2"]
+        },
+        {
+          "text": "La lucrările de îngrijire în arboretele **până la 30 de ani** nu se folosesc dispozitive de marcat. Arborii de scos se însemnează **prin grifare sau cu un punct de vopsea**.",
+          "refs": ["Cod art. 104 alin. (1)","Reg. art. 21"]
+        },
+        {
+          "text": "Ordinul 396/2026 a abrogat vechiul Ordin 1346/2011. Dispozitivele făcute după ordinele vechi (33/2002, 85/2002, 758/2004, 1346/2011) **rămân în uz** cât timp nu sunt deteriorate.",
+          "refs": ["Ord. art. 2–3"]
+        }
+      ],
+      "keep": [
+        "Regim juridic: al mărcilor și sigiliilor",
+        "Arborete sub 30 de ani: fără ciocan, cu grifare sau punct de vopsea",
+        "Ciocanele vechi rămân în uz dacă nu sunt deteriorate"
+      ],
+      "quiz": [
+        {
+          "q": "Cu ce se însemnează arborii de extras la îngrijirea unui arboret de 20 de ani?",
+          "options": [
+            "Cu dispozitivul circular",
+            "Cu dispozitivul pătrat",
+            "Prin grifare sau cu un punct de vopsea",
+            "Nu se însemnează"
+          ],
+          "answer": 2,
+          "explain": "Sub 30 de ani nu se folosesc dispozitive de marcat.",
+          "ref": "Reg. art. 21"
+        },
+        {
+          "q": "Ce se întâmplă cu dispozitivele făcute după Ordinul 1346/2011?",
+          "options": [
+            "Se distrug imediat",
+            "Rămân în uz cât nu sunt deteriorate",
+            "Se predau la gardă",
+            "Se reînregistrează în 30 de zile"
+          ],
+          "answer": 1,
+          "explain": "Rămân în uz dacă nu sunt deteriorate.",
+          "ref": "Ord. art. 2"
+        }
+      ]
+    },
+    {
+      "title": "2. Cele patru forme și cine le folosește",
+      "paragraphs": [
+        {
+          "text": "Fiecare dispozitiv are **două capete**: unul cu însemnele, celălalt cu **muchie tăietoare**. Însemnul fiecărui dispozitiv este **unicat**.",
+          "refs": ["Reg. art. 4 alin. (2)–(3)"]
+        },
+        {
+          "text": "**Circular** (cerc cu diametrul exterior de 30 mm): ocoalele silvice, pentru **arborii destinați recoltării**.",
+          "refs": ["Reg. art. 4 alin. (4) lit. a)","Reg. art. 12"]
+        },
+        {
+          "text": "**Pătrat** (înscris într-un cerc de 40 mm): ocoalele silvice, pentru **delimitarea parchetelor** și a traseelor de scos-apropiat.",
+          "refs": ["Reg. art. 4 alin. (4) lit. b)","Reg. art. 13"]
+        },
+        {
+          "text": "**Pentagonal** (înscris într-un cerc de 40 mm): ocoalele silvice, pentru **cioatele arborilor tăiați ilegal** și ceilalți arbori afectați fără drept, la controale.",
+          "refs": ["Reg. art. 4 alin. (4) lit. c)","Reg. art. 14"]
+        },
+        {
+          "text": "**Triunghiular** (înscris într-un cerc de 40 mm): **Garda Forestieră Națională** și gărzile teritoriale, tot pentru cioate și arbori afectați fără drept.",
+          "refs": ["Reg. art. 4 alin. (4) lit. d)","Reg. art. 15"]
+        },
+        {
+          "text": "Pe amprenta ocolului scrie indicativul județului urmat de codul ocolului, iar dedesubt **codul numeric dat de Garda Forestieră**. La gărzi: indicativul județului și codul dat de GFN; la GFN: „GFN” și codul dat de comisia Autorității. Literele au 10/8 mm, codul numeric 10 mm.",
+          "refs": ["Reg. art. 4 alin. (4)–(5)"]
+        }
+      ],
+      "keep": [
+        "Cerc 30 mm = arbori de recoltat",
+        "Pătrat = limita parchetului",
+        "Pentagon = cioate ilegale (ocol)",
+        "Triunghi = cioate ilegale (Garda)",
+        "Pătrat, pentagon, triunghi: înscrise în cerc de 40 mm"
+      ],
+      "quiz": [
+        {
+          "q": "Ce dispozitiv folosește Garda Forestieră?",
+          "options": ["Circular", "Pătrat", "Pentagonal", "Triunghiular"],
+          "answer": 3,
+          "explain": "Triunghiularul e exclusiv al Gărzii.",
+          "ref": "Reg. art. 4 alin. (4) lit. d)"
+        },
+        {
+          "q": "Cine dă codul numeric de pe amprenta unui ocol?",
+          "options": [
+            "Notarul",
+            "Garda forestieră competentă teritorial",
+            "Romsilva",
+            "Unitatea care îl confecționează"
+          ],
+          "answer": 1,
+          "explain": "Codul numeric îl atribuie garda teritorială.",
+          "ref": "Reg. art. 4 alin. (4) lit. a)"
+        },
+        {
+          "q": "Cu ce dispozitiv marchezi arborii unei partizi de recoltat?",
+          "options": ["Circular", "Pătrat", "Pentagonal", "Triunghiular"],
+          "answer": 0,
+          "explain": "Circularul, pentru arborii destinați recoltării.",
+          "ref": "Reg. art. 12 alin. (1)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Cele patru forme pe scurt",
+        "items": [
+          {
+            "title": "○ Circular · 30 mm",
+            "text": "ocoale · arbori de recoltat · delegație 120 zile",
+            "ref": "Reg. art. 12"
+          },
+          {
+            "title": "□ Pătrat · în cerc 40 mm",
+            "text": "ocoale · limita parchetelor · delegație 7 zile lucrătoare",
+            "ref": "Reg. art. 13"
+          },
+          {
+            "title": "⬠ Pentagonal · în cerc 40 mm",
+            "text": "ocoale · cioate ilegale, controale · delegație 30 zile",
+            "ref": "Reg. art. 14"
+          },
+          {
+            "title": "△ Triunghiular · în cerc 40 mm",
+            "text": "Garda · cioate ilegale · delegație 365 zile",
+            "ref": "Reg. art. 15"
+          }
+        ]
+      }
+    },
+    {
+      "title": "3. Confecționarea și înregistrarea",
+      "paragraphs": [
+        {
+          "text": "Dispozitivele le fac numai **unități specializate cu certificat de abilitare**, emis de o comisie a Autorității cu **minimum 3 membri**. Certificatul e valabil **5 ani**.",
+          "refs": ["Reg. art. 5 alin. (1)–(3)","Reg. anexa 2"]
+        },
+        {
+          "text": "Dacă unitatea își încalcă angajamentele (unicat, confidențialitate, lucru doar pe autorizație, comunicarea amprentei), certificatul se suspendă **până la 6 luni** sau până la conformare.",
+          "refs": ["Reg. art. 5 alin. (4)–(5)"]
+        },
+        {
+          "text": "Utilizatorul cere o **autorizație de confecționare** de la **garda forestieră teritorială** (pentru cele triunghiulare, de la Autoritate). Autorizația e valabilă **90 de zile** și se publică pe site-ul emitentului.",
+          "refs": ["Reg. art. 5 alin. (6)"]
+        },
+        {
+          "text": "Înainte să predea dispozitivul, unitatea înregistrează amprenta în **Registrul național electronic al amprentelor (RNEADSM)**, ținut de notari prin CNARNN-INFONOT. Înregistrarea și consultarea sunt gratuite.",
+          "refs": ["Reg. art. 5 alin. (9)–(12)"]
+        },
+        {
+          "text": "Utilizatorul înregistrează amprentele **la notar în 30 de zile** de la primire. Un original rămâne la notar, unul la utilizator, iar o copie merge la emitentul autorizației tot în 30 de zile. Apoi dispozitivul intră în contabilitate ca **bun de inventar**.",
+          "refs": ["Reg. art. 6 alin. (1)–(3)"]
+        },
+        {
+          "text": "Dispozitivul se poate folosi **numai după toate înregistrările** (RNEADSM și notar).",
+          "refs": ["Reg. art. 6 alin. (4)"]
+        }
+      ],
+      "keep": [
+        "Certificat de abilitare: 5 ani; suspendare până la 6 luni",
+        "Autorizație de confecționare: de la Gardă, 90 de zile",
+        "Notar: în 30 de zile de la primire",
+        "Folosire numai după înregistrare"
+      ],
+      "quiz": [
+        {
+          "q": "Cât e valabilă autorizația de confecționare?",
+          "options": ["30 de zile", "90 de zile", "1 an", "5 ani"],
+          "answer": 1,
+          "explain": "90 de zile.",
+          "ref": "Reg. art. 5 alin. (6)"
+        },
+        {
+          "q": "Când poate fi folosit un dispozitiv nou?",
+          "options": [
+            "Imediat ce îl primești",
+            "Numai după înregistrarea în RNEADSM și la notar",
+            "După 90 de zile",
+            "După avizul poliției"
+          ],
+          "answer": 1,
+          "explain": "Folosirea e permisă numai după înregistrări.",
+          "ref": "Reg. art. 6 alin. (4)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "De la comandă la folosire",
+        "steps": [
+          {
+            "title": "Unitate specializată abilitată",
+            "text": "certificat de la comisia Autorității, valabil 5 ani",
+            "ref": "Reg. art. 5 alin. (1)"
+          },
+          {
+            "title": "Autorizație de confecționare",
+            "text": "de la garda teritorială, valabilă 90 de zile",
+            "ref": "Reg. art. 5 alin. (6)"
+          },
+          {
+            "title": "Înregistrare în RNEADSM",
+            "text": "făcută de unitate, înainte de predare",
+            "ref": "Reg. art. 5 alin. (11)"
+          },
+          {
+            "title": "Înregistrare la notar",
+            "text": "de utilizator, în 30 de zile de la primire",
+            "ref": "Reg. art. 6 alin. (1)"
+          },
+          {
+            "title": "Bun de inventar + declarare în SUMAL",
+            "text": "abia apoi se poate folosi",
+            "ref": "Reg. art. 6 alin. (3)–(4)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Păstrarea, evidența și verificarea",
+      "paragraphs": [
+        {
+          "text": "Până le predă celor împuterniciți, **conducătorul utilizatorului** (șeful ocolului) ține evidența și păstrarea dispozitivelor.",
+          "refs": ["Reg. art. 7 alin. (1)"]
+        },
+        {
+          "text": "Se păstrează în **fișete metalice cu casete individuale securizate**. Accesul se face **concomitent**: împuternicitul are cheia casetei, șeful ocolului are cheia fișetului.",
+          "refs": ["Reg. art. 7 alin. (2)"]
+        },
+        {
+          "text": "Cele triunghiulare le păstrează conducătorul gărzii, respectiv directorul care coordonează controlul la GFN.",
+          "refs": ["Reg. art. 7 alin. (3)"]
+        },
+        {
+          "text": "Utilizatorul ține câte un dosar pentru fiecare dispozitiv, evidența contabilă, împuternicirile, delegațiile și rapoartele, plus actele de pierdere, custodie și casare. Inventarul e în **Registrul de evidență a dispozitivelor** (anexa 5), electronic sau pe hârtie, iar dispozitivele se declară în SUMAL.",
+          "refs": ["Reg. art. 8–9"]
+        },
+        {
+          "text": "Cât timp are delegație, **împuternicitul răspunde de păstrarea în siguranță** a dispozitivului.",
+          "refs": ["Reg. art. 19"]
+        },
+        {
+          "text": "Starea tehnică se verifică **la fiecare 5 ani** sau ori de câte ori e nevoie, cu proces-verbal. Dacă amprenta e uzată, dispozitivul se casează de o comisie numită de emitentul autorizației, iar casarea se comunică la RNEADSM în **10 zile**.",
+          "refs": ["Reg. art. 28"]
+        }
+      ],
+      "keep": [
+        "Fișet metalic + casetă individuală, acces concomitent",
+        "Pe durata delegației răspunde împuternicitul",
+        "Verificare tehnică: la 5 ani",
+        "Casare comunicată la RNEADSM în 10 zile"
+      ],
+      "quiz": [
+        {
+          "q": "Cine răspunde de dispozitiv cât timp e folosit cu delegație?",
+          "options": ["Șeful ocolului", "Împuternicitul", "Garda", "Contabilul"],
+          "answer": 1,
+          "explain": "Împuternicitul răspunde de păstrarea în siguranță.",
+          "ref": "Reg. art. 19"
+        },
+        {
+          "q": "În cât timp se comunică la RNEADSM casarea unui dispozitiv?",
+          "options": ["24 de ore", "5 zile", "10 zile calendaristice", "30 de zile"],
+          "answer": 2,
+          "explain": "În 10 zile calendaristice de la casare.",
+          "ref": "Reg. art. 28 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "5. Cine îl folosește și cu ce acte",
+      "paragraphs": [
+        {
+          "text": "Dispozitivul se folosește de **personalul împuternicit**, pe baza unei **delegații de marcare** emise de conducătorul utilizatorului.",
+          "refs": ["Reg. art. 10 alin. (1)"]
+        },
+        {
+          "text": "Pentru fiecare dispozitiv se împuternicește **o singură persoană**, pe toată perioada cât lucrează la utilizator. Dacă persoana nu mai are dreptul să-l folosească, dispozitivul **nu poate fi dat altcuiva timp de 12 luni**.",
+          "refs": ["Reg. art. 11"]
+        },
+        {
+          "text": "Circularul, pătratul și pentagonul le pot folosi șeful ocolului și cei împuterniciți de el, pe posturi de **inginer, subinginer, tehnician silvic sau șef de district**. Triunghiularul îl folosește **numai personalul Gărzii**.",
+          "refs": ["Reg. art. 12 alin. (3)","Reg. art. 15 alin. (5)"]
+        },
+        {
+          "text": "Delegațiile se dau pe termen strict, fără a depăși: **120 de zile calendaristice** pentru circular, **30 de zile calendaristice** pentru pentagonal, **7 zile lucrătoare** pentru pătrat.",
+          "refs": ["Reg. art. 17 alin. (3)"]
+        },
+        {
+          "text": "Pentru triunghiular, delegația o dă directorul de control al GFN sau conducătorul gărzii și poate ține **cel mult 365 de zile**.",
+          "refs": ["Reg. art. 18 alin. (1), (3)"]
+        },
+        {
+          "text": "Delegația pentru circular se emite **în SUMAL**; se pot da mai multe deodată. Pentru pătrat și pentagon se emite în SUMAL sau pe un **document înseriat, pe hârtie autocopiativă, în 2 exemplare**, trecut în registrul de folosire și în registrul de corespondență.",
+          "refs": ["Reg. art. 17 alin. (1), (4)"]
+        },
+        {
+          "text": "Circularul se folosește pe suprafețele administrate sau cu servicii, trecute în fișele de proprietate din SUMAL. Excepție: arborii afectați de factori biotici și abiotici din alte suprafețe, cu **avizul gărzii forestiere**.",
+          "refs": ["Reg. art. 10 alin. (2)–(3)"]
+        }
+      ],
+      "keep": [
+        "O singură persoană pe dispozitiv; după retragere, 12 luni blocat",
+        "Folosesc: inginer, subinginer, tehnician, șef de district",
+        "Delegații: circular 120 zile, pentagon 30 zile, pătrat 7 zile lucrătoare, triunghi 365 zile"
+      ],
+      "quiz": [
+        {
+          "q": "Cine emite delegația de marcare la un ocol?",
+          "options": [
+            "Șeful de district",
+            "Conducătorul utilizatorului (șeful ocolului)",
+            "Garda",
+            "Proprietarul"
+          ],
+          "answer": 1,
+          "explain": "Conducătorul utilizatorului.",
+          "ref": "Reg. art. 10 alin. (1)"
+        },
+        {
+          "q": "Durata maximă a delegației pentru pătrat:",
+          "options": ["7 zile lucrătoare", "30 de zile", "120 de zile", "365 de zile"],
+          "answer": 0,
+          "explain": "7 zile lucrătoare.",
+          "ref": "Reg. art. 17 alin. (3) lit. c)"
+        },
+        {
+          "q": "Poți folosi circularul pe arbori doborâți de vânt dintr-o pădure care nu e în evidența ocolului?",
+          "options": [
+            "Nu, niciodată",
+            "Da, cu avizul gărzii forestiere",
+            "Da, fără aviz",
+            "Doar cu acordul primarului"
+          ],
+          "answer": 1,
+          "explain": "Excepție pentru arborii afectați de factori biotici și abiotici, cu avizul gărzii.",
+          "ref": "Reg. art. 10 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "6. Cum se aplică marca",
+      "paragraphs": [
+        {
+          "text": "**Circular:** pe un cioplaj **la baza trunchiului**, cât mai aproape de sol, sau pe o rădăcină evidentă; în pantă, **în partea din aval**. Marca se imprimă cu vopsea.",
+          "refs": ["Reg. art. 12 alin. (2)"]
+        },
+        {
+          "text": "**Pătrat:** pe **arborii de limită care nu se recoltează**, pe un cioplaj la **1,30 m** orientat spre parchet sau traseu, și încă o dată la baza trunchiului.",
+          "refs": ["Reg. art. 13 alin. (2)"]
+        },
+        {
+          "text": "**Pentagon și triunghi:** pe un cioplaj **la baza și pe secțiunea tăieturii cioatei**, cu vopsea, în pantă în partea din aval. Cioatele se inventariază în actele de control.",
+          "refs": ["Reg. art. 14 alin. (2)","Reg. art. 15 alin. (2)"]
+        },
+        {
+          "text": "Dacă nu se poate marca cioata, marca se pune pe **cel mai apropiat arbore, la 1,30 m**, pe un cioplaj orientat spre locul arborelui tăiat. Dacă nu se poate face cioplaj la bază, marca se pune pe secțiunea tăieturii.",
+          "refs": ["Reg. art. 14 alin. (3)–(4)"]
+        },
+        {
+          "text": "**Culoarea vopselei** o stabilește anual conducătorul gărzii forestiere teritoriale și o comunică **până la 30 noiembrie** a anului anterior. Se aleg culori din spectrul **roșu, verde și albastru**. Pentru triunghiular decide conducătorul GFN.",
+          "refs": ["Reg. art. 16 alin. (1), (3)"]
+        },
+        {
+          "text": "Șeful ocolului poate folosi altă culoare la circular în trei cazuri: arborii prejudiciați la exploatare, produsele accidentale suprapuse peste un APV și doborâturile în masă pe suprafețe mari. Culoarea se scrie în delegație.",
+          "refs": ["Reg. art. 16 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Circular: la bază, aval",
+        "Pătrat: pe arborele de limită rămas, la 1,30 m spre parchet + la bază",
+        "Pentagon/triunghi: la baza și pe secțiunea cioatei",
+        "Culoarea: decizia gărzii, comunicată până la 30 noiembrie; roșu, verde, albastru"
+      ],
+      "quiz": [
+        {
+          "q": "La ce înălțime se pune marca pătrată pe arborele de limită?",
+          "options": ["La bază, doar", "La 1,30 m, spre parchet, plus la bază", "La 2 m", "Pe ramuri"],
+          "answer": 1,
+          "explain": "La 1,30 m orientat spre parchet și la baza trunchiului.",
+          "ref": "Reg. art. 13 alin. (2)"
+        },
+        {
+          "q": "Unde se aplică marca pentagonală pe cioată?",
+          "options": [
+            "Doar pe coajă",
+            "Pe un cioplaj la baza și pe secțiunea tăieturii",
+            "Pe rădăcini",
+            "Pe ramuri"
+          ],
+          "answer": 1,
+          "explain": "La baza și pe secțiunea tăieturii, în aval pe pante.",
+          "ref": "Reg. art. 14 alin. (2)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Unde se pune marca",
+        "items": [
+          {
+            "title": "Circular",
+            "text": "cioplaj la baza trunchiului sau pe o rădăcină evidentă; în pantă, aval",
+            "ref": "Reg. art. 12 alin. (2)"
+          },
+          {
+            "title": "Pătrat",
+            "text": "pe arborele de limită rămas: la 1,30 m spre parchet și la bază",
+            "ref": "Reg. art. 13 alin. (2)"
+          },
+          {
+            "title": "Pentagon / triunghi",
+            "text": "la baza și pe secțiunea tăieturii cioatei; în pantă, aval",
+            "ref": "Reg. art. 14 alin. (2)"
+          },
+          {
+            "title": "Cioata nu se poate marca",
+            "text": "pe cel mai apropiat arbore, la 1,30 m, spre arborele tăiat",
+            "ref": "Reg. art. 14 alin. (3)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "7. Rapoarte și interdicții",
+      "paragraphs": [
+        {
+          "text": "La pătrat și pentagon, împuternicitul depune delegația completată și **raportul de activitate** cel târziu **în ultima zi** din delegație.",
+          "refs": ["Reg. art. 20 alin. (1)"]
+        },
+        {
+          "text": "La triunghiular, raportul se trimite **lunar, până pe 5 ale lunii următoare**, semnat electronic; la expirarea delegației se depun originalele.",
+          "refs": ["Reg. art. 20 alin. (2)"]
+        },
+        {
+          "text": "Șeful ocolului verifică dacă raportul se potrivește cu delegația la **loc, scop și interval**. Raportul se trece în registrul de corespondență.",
+          "refs": ["Reg. art. 20 alin. (4)–(5)"]
+        },
+        {
+          "text": "Este interzis: să confecționezi sau să folosești dispozitive false, **să le încredințezi altor persoane**, să le folosești în alte scopuri, **în alte locuri** decât cele din delegație, **după expirarea delegației**, fără drept, ori să le deții fără drept.",
+          "refs": ["Reg. art. 24","Cod art. 104 alin. (6)"]
+        },
+        {
+          "text": "Încălcarea atrage răspundere **disciplinară, contravențională sau penală**, după caz.",
+          "refs": ["Reg. art. 25"]
+        }
+      ],
+      "keep": [
+        "Pătrat/pentagon: raport cel târziu în ultima zi a delegației",
+        "Triunghi: raport lunar până pe 5",
+        "Interzis: alt om, alt loc, alt scop, după expirare"
+      ],
+      "quiz": [
+        {
+          "q": "Cât de des trimite personalul Gărzii raportul pentru triunghiular?",
+          "options": [
+            "Săptămânal",
+            "Lunar, până pe 5 ale lunii următoare",
+            "Anual",
+            "La final de delegație, doar"
+          ],
+          "answer": 1,
+          "explain": "Lunar, semnat electronic, până pe 5.",
+          "ref": "Reg. art. 20 alin. (2)"
+        },
+        {
+          "q": "Ce verifică șeful ocolului la depunerea raportului?",
+          "options": [
+            "Doar semnătura",
+            "Corelarea cu delegația la loc, scop și interval",
+            "Culoarea vopselei",
+            "Numărul de pagini"
+          ],
+          "answer": 1,
+          "explain": "Loc, scop și interval.",
+          "ref": "Reg. art. 20 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "8. Pierdere, custodie și zone-pilot",
+      "paragraphs": [
+        {
+          "text": "La pierdere sau furt, împuternicitul anunță **în scris** șeful ocolului în **cel mult 24 de ore**. Șeful ocolului anunță **poliția și garda forestieră** în alte **24 de ore**.",
+          "refs": ["Reg. art. 26 alin. (1)"]
+        },
+        {
+          "text": "Dacă dispozitivul nu e găsit în **15 zile**, pierderea se publică în **Monitorul Oficial, Partea a III-a**, cu mențiunea că folosirea lui e infracțiune (art. 148 din Codul silvic).",
+          "refs": ["Reg. art. 26 alin. (2)"]
+        },
+        {
+          "text": "Apoi emitentul autorizației **anulează** dispozitivul, decizia se comunică notarului, iar dispozitivul iese din inventar.",
+          "refs": ["Reg. art. 26 alin. (3)–(4)"]
+        },
+        {
+          "text": "Dispozitivele se predau **în custodie gărzii forestiere**, pe proces-verbal, în **maximum 5 zile lucrătoare** când utilizatorul își încetează activitatea, i se suspendă dreptul de folosire sau găsește un dispozitiv deja anulat. Dacă nu le predă, e deținere ilegală. După suspendare se restituie în 5 zile lucrătoare; cele rămase în custodie se distrug după **5 ani**.",
+          "refs": ["Reg. art. 27"]
+        },
+        {
+          "text": "În **zonele-pilot** se poate recolta fără ciocan, cu avizul gărzii, pe baza unui memoriu care include **monitorizarea video permanentă** a tuturor ieșirilor auto, cu imaginile păstrate **minimum 3 luni**.",
+          "refs": ["Reg. art. 22"]
+        },
+        {
+          "text": "Tot acolo, arborii de viitor se aleg în arboretele din clasele **I–III de producție**, cu diametrul mediu de **14–30 cm**, și se însemnează vizibil din cel puțin două direcții opuse.",
+          "refs": ["Reg. art. 23"]
+        }
+      ],
+      "keep": [
+        "Pierdere: 24 h împuternicitul → 24 h poliția și garda",
+        "15 zile negăsit → Monitorul Oficial Partea a III-a → anulare",
+        "Custodie la Gardă: 5 zile lucrătoare; distrugere după 5 ani",
+        "Zone-pilot: video la toate ieșirile, stocare min. 3 luni"
+      ],
+      "quiz": [
+        {
+          "q": "În cât timp anunță șeful ocolului poliția și garda despre pierdere?",
+          "options": ["Imediat", "Cel mult 24 de ore de la înștiințare", "5 zile", "15 zile"],
+          "answer": 1,
+          "explain": "În cel mult 24 de ore.",
+          "ref": "Reg. art. 26 alin. (1)"
+        },
+        {
+          "q": "Cât timp se păstrează imaginile video în zonele-pilot?",
+          "options": ["7 zile", "30 de zile", "Minimum 3 luni", "1 an"],
+          "answer": 2,
+          "explain": "Minimum 3 luni.",
+          "ref": "Reg. art. 22 alin. (1) lit. d)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Dispozitivul s-a pierdut",
+        "steps": [
+          {
+            "title": "Împuternicitul anunță în scris",
+            "text": "șeful ocolului, în cel mult 24 de ore",
+            "ref": "Reg. art. 26 alin. (1)"
+          },
+          {
+            "title": "Șeful ocolului anunță",
+            "text": "poliția și garda forestieră, în cel mult 24 de ore",
+            "ref": "Reg. art. 26 alin. (1)"
+          },
+          {
+            "title": "15 zile de căutare",
+            "text": "dacă nu e găsit: publicare în MO Partea a III-a",
+            "ref": "Reg. art. 26 alin. (2)"
+          },
+          {
+            "title": "Anulare",
+            "text": "de emitentul autorizației; se comunică notarului",
+            "ref": "Reg. art. 26 alin. (3)"
+          },
+          {"title": "Scoatere din inventar", "text": "", "ref": "Reg. art. 26 alin. (4)"}
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Formele",
+      "rows": [
+        {
+          "what": "Circular",
+          "value": "diametru 30 mm · ocoale · arbori de recoltat",
+          "ref": "Reg. art. 4 alin. (4) lit. a), art. 12"
+        },
+        {
+          "what": "Pătrat",
+          "value": "în cerc de 40 mm · ocoale · limita parchetelor",
+          "ref": "Reg. art. 4 alin. (4) lit. b), art. 13"
+        },
+        {
+          "what": "Pentagonal",
+          "value": "în cerc de 40 mm · ocoale · cioate ilegale",
+          "ref": "Reg. art. 4 alin. (4) lit. c), art. 14"
+        },
+        {
+          "what": "Triunghiular",
+          "value": "în cerc de 40 mm · Garda · cioate ilegale",
+          "ref": "Reg. art. 4 alin. (4) lit. d), art. 15"
+        },
+        {
+          "what": "Însemne",
+          "value": "10/8 mm literele, 10 mm codul numeric",
+          "ref": "Reg. art. 4 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "Durata delegațiilor",
+      "rows": [
+        {
+          "what": "Circular",
+          "value": "max. 120 de zile calendaristice",
+          "ref": "Reg. art. 17 alin. (3)"
+        },
+        {
+          "what": "Pentagonal",
+          "value": "max. 30 de zile calendaristice",
+          "ref": "Reg. art. 17 alin. (3)"
+        },
+        {"what": "Pătrat", "value": "max. 7 zile lucrătoare", "ref": "Reg. art. 17 alin. (3)"},
+        {"what": "Triunghiular", "value": "max. 365 de zile", "ref": "Reg. art. 18 alin. (3)"}
+      ]
+    },
+    {
+      "title": "Termene",
+      "rows": [
+        {
+          "what": "Anunțarea pierderii de către împuternicit",
+          "value": "max. 24 de ore",
+          "ref": "Reg. art. 26 alin. (1)"
+        },
+        {
+          "what": "Anunțarea poliției și a gărzii de către șeful ocolului",
+          "value": "max. 24 de ore",
+          "ref": "Reg. art. 26 alin. (1)"
+        },
+        {
+          "what": "Publicarea în Monitorul Oficial dacă nu e găsit",
+          "value": "după 15 zile",
+          "ref": "Reg. art. 26 alin. (2)"
+        },
+        {
+          "what": "Înregistrarea amprentei la notar",
+          "value": "30 de zile de la primire",
+          "ref": "Reg. art. 6 alin. (1)"
+        },
+        {
+          "what": "Valabilitatea autorizației de confecționare",
+          "value": "90 de zile",
+          "ref": "Reg. art. 5 alin. (6)"
+        },
+        {"what": "Valabilitatea certificatului de abilitare", "value": "5 ani", "ref": "Reg. anexa 2"},
+        {
+          "what": "Suspendarea certificatului de abilitare",
+          "value": "până la 6 luni",
+          "ref": "Reg. art. 5 alin. (5)"
+        },
+        {"what": "Verificarea stării tehnice", "value": "la 5 ani", "ref": "Reg. art. 28 alin. (1)"},
+        {"what": "Comunicarea casării la RNEADSM", "value": "10 zile", "ref": "Reg. art. 28 alin. (4)"},
+        {
+          "what": "Predarea în custodie la gardă",
+          "value": "max. 5 zile lucrătoare",
+          "ref": "Reg. art. 27 alin. (2)"
+        },
+        {
+          "what": "Distrugerea dispozitivelor din custodie",
+          "value": "după 5 ani",
+          "ref": "Reg. art. 27 alin. (6)"
+        },
+        {
+          "what": "Blocarea după retragerea împuternicitului",
+          "value": "12 luni",
+          "ref": "Reg. art. 11 alin. (3)"
+        },
+        {
+          "what": "Comunicarea culorii vopselei",
+          "value": "până la 30 noiembrie",
+          "ref": "Reg. art. 16 alin. (1)"
+        },
+        {
+          "what": "Raportul lunar la triunghiular",
+          "value": "până pe 5 ale lunii următoare",
+          "ref": "Reg. art. 20 alin. (2)"
+        },
+        {
+          "what": "Stocarea imaginilor video în zone-pilot",
+          "value": "min. 3 luni",
+          "ref": "Reg. art. 22 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "Cine ce face",
+      "rows": [
+        {
+          "what": "Certificatul de abilitare",
+          "value": "comisia Autorității (min. 3 membri)",
+          "ref": "Reg. art. 5 alin. (1)–(3)"
+        },
+        {
+          "what": "Autorizația de confecționare",
+          "value": "garda teritorială; pentru triunghi, Autoritatea",
+          "ref": "Reg. art. 5 alin. (6)"
+        },
+        {
+          "what": "Registrul amprentelor (RNEADSM)",
+          "value": "notarii, prin CNARNN-INFONOT",
+          "ref": "Reg. art. 5 alin. (9)"
+        },
+        {
+          "what": "Delegația de marcare (ocol)",
+          "value": "șeful ocolului",
+          "ref": "Reg. art. 10 alin. (1)"
+        },
+        {
+          "what": "Delegația pentru triunghi",
+          "value": "directorul de control GFN sau conducătorul gărzii",
+          "ref": "Reg. art. 18 alin. (1)"
+        },
+        {
+          "what": "Culoarea vopselei",
+          "value": "conducătorul gărzii teritoriale; pentru triunghi, GFN",
+          "ref": "Reg. art. 16"
+        },
+        {
+          "what": "Anularea dispozitivului pierdut",
+          "value": "emitentul autorizației de confecționare",
+          "ref": "Reg. art. 26 alin. (3)"
+        },
+        {
+          "what": "Casarea",
+          "value": "comisie numită de emitentul autorizației",
+          "ref": "Reg. art. 28 alin. (3)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "Formele, după prima literă: Cercul e pentru Copacii de recoltat, Pătratul pentru Perimetrul parchetului, Pentagonul pentru Pagube (cioate), iar Triunghiul e al Gărzii.",
+    "Delegațiile scad pe măsură ce lucrarea e mai scurtă: 120 de zile pentru punerea în valoare (circular), 30 pentru controale (pentagon), 7 zile lucrătoare pentru delimitarea unui parchet (pătrat). Garda are cel mai mult: 365.",
+    "Pierderea merge 24 – 24 – 15: o zi împuternicitul, o zi șeful ocolului, 15 zile de căutare, apoi Monitorul Oficial.",
+    "Unde pui marca: circularul jos (la bază), pătratul sus (1,30 m, spre parchet) și jos, pentagonul și triunghiul pe cioată (bază și secțiune)."
+  ],
+  "cards": [
+    {
+      "q": "Ce regim juridic au dispozitivele speciale de marcat?",
+      "a": "Regimul juridic al mărcilor și sigiliilor.",
+      "ref": "Reg. art. 2"
+    },
+    {
+      "q": "Ce dimensiune are amprenta circulară?",
+      "a": "Diametrul exterior al cercului: 30 mm.",
+      "ref": "Reg. art. 4 alin. (4) lit. a)"
+    },
+    {
+      "q": "În ce cerc se înscriu amprentele pătrată, pentagonală și triunghiulară?",
+      "a": "Într-un cerc cu diametrul de 40 mm.",
+      "ref": "Reg. art. 4 alin. (4)"
+    },
+    {
+      "q": "Pentru ce se folosește dispozitivul circular?",
+      "a": "Marcarea arborilor destinați recoltării.",
+      "ref": "Reg. art. 12 alin. (1)"
+    },
+    {
+      "q": "Pentru ce se folosește dispozitivul pătrat?",
+      "a": "Delimitarea parchetelor și a traseelor de scos-apropiat.",
+      "ref": "Reg. art. 13 alin. (1)"
+    },
+    {
+      "q": "Pentru ce se folosește dispozitivul pentagonal?",
+      "a": "Marcarea cioatelor arborilor tăiați ilegal și a arborilor afectați fără drept.",
+      "ref": "Reg. art. 14 alin. (1)"
+    },
+    {
+      "q": "Cine folosește dispozitivul triunghiular?",
+      "a": "Numai personalul împuternicit al Gărzii Forestiere Naționale și al gărzilor teritoriale.",
+      "ref": "Reg. art. 15 alin. (5)"
+    },
+    {
+      "q": "Ce are la celălalt capăt dispozitivul de marcat?",
+      "a": "O muchie tăietoare.",
+      "ref": "Reg. art. 4 alin. (3)"
+    },
+    {
+      "q": "Ce scrie pe amprenta unui ocol?",
+      "a": "Indicativul județului și codul ocolului, iar dedesubt codul numeric dat de garda forestieră.",
+      "ref": "Reg. art. 4 alin. (4) lit. a)"
+    },
+    {
+      "q": "Cine emite certificatul de abilitare și cât e valabil?",
+      "a": "Comisia Autorității, cu minimum 3 membri; valabil 5 ani.",
+      "ref": "Reg. art. 5 alin. (1)–(3)"
+    },
+    {
+      "q": "Cine emite autorizația de confecționare și cât e valabilă?",
+      "a": "Garda forestieră teritorială (pentru triunghi, Autoritatea); 90 de zile.",
+      "ref": "Reg. art. 5 alin. (6)"
+    },
+    {
+      "q": "În ce registru se înregistrează amprentele?",
+      "a": "Registrul național electronic al amprentelor dispozitivelor speciale de marcat (RNEADSM), ținut de notari prin CNARNN-INFONOT.",
+      "ref": "Reg. art. 5 alin. (9)"
+    },
+    {
+      "q": "În cât timp se înregistrează amprentele la notar?",
+      "a": "30 de zile de la primirea dispozitivelor.",
+      "ref": "Reg. art. 6 alin. (1)"
+    },
+    {
+      "q": "Cum se păstrează dispozitivele la ocol?",
+      "a": "În fișete metalice cu casete individuale securizate; acces concomitent al împuternicitului și al șefului ocolului.",
+      "ref": "Reg. art. 7 alin. (2)"
+    },
+    {
+      "q": "Cât de des se verifică starea tehnică a dispozitivelor?",
+      "a": "La fiecare 5 ani sau ori de câte ori e nevoie.",
+      "ref": "Reg. art. 28 alin. (1)"
+    },
+    {
+      "q": "Câte persoane pot fi împuternicite pentru un dispozitiv?",
+      "a": "Una singură, pe toată perioada cât e angajată.",
+      "ref": "Reg. art. 11 alin. (1)"
+    },
+    {
+      "q": "Cât timp nu poate fi atribuit altcuiva un dispozitiv după retragerea împuternicitului?",
+      "a": "12 luni.",
+      "ref": "Reg. art. 11 alin. (3)"
+    },
+    {
+      "q": "Ce posturi pot folosi dispozitivele circular, pătrat și pentagonal?",
+      "a": "Inginer, subinginer, tehnician silvic, șef de district (plus șeful ocolului).",
+      "ref": "Reg. art. 12 alin. (3)"
+    },
+    {
+      "q": "Durata maximă a delegației pentru circular?",
+      "a": "120 de zile calendaristice.",
+      "ref": "Reg. art. 17 alin. (3)"
+    },
+    {
+      "q": "Durata maximă a delegației pentru pentagonal?",
+      "a": "30 de zile calendaristice.",
+      "ref": "Reg. art. 17 alin. (3)"
+    },
+    {
+      "q": "Durata maximă a delegației pentru pătrat?",
+      "a": "7 zile lucrătoare.",
+      "ref": "Reg. art. 17 alin. (3)"
+    },
+    {
+      "q": "Durata maximă a delegației pentru triunghiular?",
+      "a": "365 de zile.",
+      "ref": "Reg. art. 18 alin. (3)"
+    },
+    {
+      "q": "Unde se aplică marca circulară?",
+      "a": "Pe cioplaj la baza trunchiului, cât mai aproape de sol, sau pe o rădăcină evidentă; în pantă, în aval.",
+      "ref": "Reg. art. 12 alin. (2)"
+    },
+    {
+      "q": "Unde se aplică marca pătrată?",
+      "a": "Pe arborii de limită care nu se recoltează, la 1,30 m spre parchet, și la baza trunchiului.",
+      "ref": "Reg. art. 13 alin. (2)"
+    },
+    {
+      "q": "Unde se aplică marca pentagonală dacă nu se poate pe cioată?",
+      "a": "Pe cel mai apropiat arbore, la 1,30 m, pe cioplaj orientat spre locul arborelui tăiat.",
+      "ref": "Reg. art. 14 alin. (3)"
+    },
+    {
+      "q": "Cine stabilește culoarea vopselei și până când o comunică?",
+      "a": "Conducătorul gărzii teritoriale, anual, până la 30 noiembrie a anului anterior.",
+      "ref": "Reg. art. 16 alin. (1)"
+    },
+    {
+      "q": "Din ce spectre se aleg culorile vopselei?",
+      "a": "Roșu, verde și albastru.",
+      "ref": "Reg. art. 16 alin. (1)"
+    },
+    {
+      "q": "Până când se depune raportul pentru pătrat și pentagon?",
+      "a": "Cel târziu în ultima zi înscrisă în delegație.",
+      "ref": "Reg. art. 20 alin. (1)"
+    },
+    {
+      "q": "Pași la pierderea dispozitivului?",
+      "a": "Împuternicitul anunță în scris în 24 h; șeful ocolului anunță poliția și garda în 24 h; după 15 zile, publicare în MO Partea a III-a; apoi anulare.",
+      "ref": "Reg. art. 26"
+    },
+    {
+      "q": "În cât timp se predau dispozitivele în custodie la gardă?",
+      "a": "Maximum 5 zile lucrătoare de la constatarea situației.",
+      "ref": "Reg. art. 27 alin. (2)"
+    },
+    {
+      "q": "Ce se folosește în arboretele sub 30 de ani în loc de dispozitiv?",
+      "a": "Grifarea sau un punct de vopsea.",
+      "ref": "Reg. art. 21"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Ce regim juridic se aplică dispozitivelor speciale de marcat?",
+      "options": [
+        "Al bunurilor de inventar obișnuite",
+        "Al mărcilor și sigiliilor",
+        "Al armelor de foc",
+        "Al documentelor clasificate"
+      ],
+      "answer": 1,
+      "explain": "Regulamentul și Codul silvic le aplică regimul mărcilor și sigiliilor.",
+      "ref": "Reg. art. 2"
+    },
+    {
+      "q": "Ce diametru exterior are amprenta circulară?",
+      "options": ["20 mm", "30 mm", "40 mm", "50 mm"],
+      "answer": 1,
+      "explain": "Cercul are 30 mm; celelalte forme sunt înscrise într-un cerc de 40 mm.",
+      "ref": "Reg. art. 4 alin. (4) lit. a)"
+    },
+    {
+      "q": "Cu ce dispozitiv se delimitează parchetele?",
+      "options": ["Circular", "Pătrat", "Pentagonal", "Triunghiular"],
+      "answer": 1,
+      "explain": "Pătratul marchează arborii de limită ai parchetelor și traseelor de scos-apropiat.",
+      "ref": "Reg. art. 13 alin. (1)"
+    },
+    {
+      "q": "Cine folosește dispozitivul cu amprentă triunghiulară?",
+      "options": [
+        "Ocoalele de regim",
+        "Garda Forestieră Națională și gărzile teritoriale",
+        "Poliția",
+        "Proprietarii de păduri"
+      ],
+      "answer": 1,
+      "explain": "Triunghiularul este exclusiv al Gărzii.",
+      "ref": "Reg. art. 15 alin. (5)"
+    },
+    {
+      "q": "Cu ce dispozitiv marchează un ocol cioatele arborilor tăiați ilegal?",
+      "options": ["Circular", "Pătrat", "Pentagonal", "Triunghiular"],
+      "answer": 2,
+      "explain": "Ocolul folosește pentagonul; Garda folosește triunghiul.",
+      "ref": "Reg. art. 14 alin. (1)"
+    },
+    {
+      "q": "Ce se folosește la lucrările de îngrijire în arboretele de până la 30 de ani?",
+      "options": [
+        "Dispozitivul circular",
+        "Dispozitivul pătrat",
+        "Grifarea sau un punct de vopsea",
+        "Nimic, nu se însemnează"
+      ],
+      "answer": 2,
+      "explain": "Codul interzice dispozitivele aici, iar regulamentul cere grifare sau punct de vopsea.",
+      "ref": "Reg. art. 21"
+    },
+    {
+      "q": "Cine emite certificatul de abilitare pentru unitățile care confecționează dispozitive?",
+      "options": [
+        "Garda forestieră teritorială",
+        "O comisie a Autorității, cu minimum 3 membri",
+        "Camera de Comerț",
+        "Notarul public"
+      ],
+      "answer": 1,
+      "explain": "Comisia funcționează în cadrul Autorității și are cel puțin 3 membri.",
+      "ref": "Reg. art. 5 alin. (1), (3)"
+    },
+    {
+      "q": "Cât este valabil certificatul de abilitare?",
+      "options": ["1 an", "3 ani", "5 ani", "Nelimitat"],
+      "answer": 2,
+      "explain": "Modelul din anexa 2 prevede valabilitate de 5 ani.",
+      "ref": "Reg. anexa 2"
+    },
+    {
+      "q": "Cât este valabilă autorizația de confecționare?",
+      "options": ["30 de zile", "60 de zile", "90 de zile", "1 an"],
+      "answer": 2,
+      "explain": "90 de zile de la emitere; se publică pe site-ul emitentului.",
+      "ref": "Reg. art. 5 alin. (6)"
+    },
+    {
+      "q": "Cine emite autorizația de confecționare pentru un dispozitiv circular al unui ocol?",
+      "options": ["Autoritatea", "Garda forestieră competentă teritorial", "Direcția silvică", "Notarul"],
+      "answer": 1,
+      "explain": "Garda teritorială; doar pentru triunghi emite Autoritatea.",
+      "ref": "Reg. art. 5 alin. (6)"
+    },
+    {
+      "q": "În cât timp înregistrează utilizatorul amprentele la notar?",
+      "options": ["10 zile", "15 zile", "30 de zile", "90 de zile"],
+      "answer": 2,
+      "explain": "În 30 de zile de la primirea dispozitivelor.",
+      "ref": "Reg. art. 6 alin. (1)"
+    },
+    {
+      "q": "Cine ține Registrul național electronic al amprentelor dispozitivelor?",
+      "options": [
+        "Garda Forestieră Națională",
+        "Uniunea Națională a Notarilor Publici, prin CNARNN-INFONOT",
+        "Romsilva",
+        "Ministerul de Interne"
+      ],
+      "answer": 1,
+      "explain": "RNEADSM e gestionat de notari prin CNARNN-INFONOT.",
+      "ref": "Reg. art. 5 alin. (9)"
+    },
+    {
+      "q": "Cum se păstrează dispozitivele la ocol?",
+      "options": [
+        "În biroul fiecărui pădurar",
+        "În fișete metalice cu casete individuale securizate, cu acces concomitent",
+        "În seiful băncii",
+        "La domiciliul împuternicitului"
+      ],
+      "answer": 1,
+      "explain": "Împuternicitul are cheia casetei, șeful ocolului cheia fișetului.",
+      "ref": "Reg. art. 7 alin. (2)"
+    },
+    {
+      "q": "Câte persoane pot fi împuternicite pentru același dispozitiv?",
+      "options": ["Una singură", "Două", "Câte una pe district", "Oricâte, cu delegație"],
+      "answer": 0,
+      "explain": "O singură persoană, pe toată perioada angajării.",
+      "ref": "Reg. art. 11 alin. (1)"
+    },
+    {
+      "q": "După ce împuternicitul pierde dreptul de folosire, dispozitivul nu poate fi atribuit altcuiva timp de:",
+      "options": ["3 luni", "6 luni", "12 luni", "5 ani"],
+      "answer": 2,
+      "explain": "12 luni.",
+      "ref": "Reg. art. 11 alin. (3)"
+    },
+    {
+      "q": "Care post NU este enumerat printre cei care pot folosi dispozitivul circular?",
+      "options": ["Inginer silvic", "Tehnician silvic", "Șef de district", "Pădurar"],
+      "answer": 3,
+      "explain": "Regulamentul enumeră inginer, subinginer, tehnician și șef de district.",
+      "ref": "Reg. art. 12 alin. (3)"
+    },
+    {
+      "q": "Durata maximă a unei delegații de marcare pentru dispozitivul circular este:",
+      "options": ["30 de zile", "90 de zile", "120 de zile calendaristice", "365 de zile"],
+      "answer": 2,
+      "explain": "120 de zile calendaristice.",
+      "ref": "Reg. art. 17 alin. (3) lit. a)"
+    },
+    {
+      "q": "Durata maximă a unei delegații pentru dispozitivul pătrat este:",
+      "options": ["7 zile lucrătoare", "15 zile", "30 de zile calendaristice", "120 de zile"],
+      "answer": 0,
+      "explain": "7 zile lucrătoare.",
+      "ref": "Reg. art. 17 alin. (3) lit. c)"
+    },
+    {
+      "q": "Durata maximă a unei delegații pentru dispozitivul pentagonal este:",
+      "options": ["7 zile lucrătoare", "30 de zile calendaristice", "60 de zile", "120 de zile"],
+      "answer": 1,
+      "explain": "30 de zile calendaristice.",
+      "ref": "Reg. art. 17 alin. (3) lit. b)"
+    },
+    {
+      "q": "Durata maximă a unei delegații pentru dispozitivul triunghiular este:",
+      "options": ["30 de zile", "120 de zile", "180 de zile", "365 de zile"],
+      "answer": 3,
+      "explain": "Cel mult 365 de zile.",
+      "ref": "Reg. art. 18 alin. (3)"
+    },
+    {
+      "q": "Unde se aplică marca circulară pe un teren în pantă?",
+      "options": [
+        "În partea din amonte, la 1,30 m",
+        "La baza trunchiului, în partea din aval",
+        "Pe ramuri",
+        "Oriunde pe trunchi"
+      ],
+      "answer": 1,
+      "explain": "La bază, cât mai aproape de sol, în aval.",
+      "ref": "Reg. art. 12 alin. (2)"
+    },
+    {
+      "q": "Pe ce arbori se aplică marca pătrată?",
+      "options": [
+        "Pe arborii care se recoltează",
+        "Pe arborii de limită care nu se recoltează",
+        "Pe cioate",
+        "Pe arborii de viitor"
+      ],
+      "answer": 1,
+      "explain": "Pe arborii de limită rămași, la 1,30 m spre parchet și la bază.",
+      "ref": "Reg. art. 13 alin. (2)"
+    },
+    {
+      "q": "Dacă cioata nu poate fi marcată, marca pentagonală se aplică:",
+      "options": [
+        "Nu se mai aplică",
+        "Pe cel mai apropiat arbore, la 1,30 m, spre locul arborelui tăiat",
+        "Pe o tăbliță",
+        "În condica de serviciu"
+      ],
+      "answer": 1,
+      "explain": "Pe cel mai apropiat arbore, cu cioplajul orientat spre arborele tăiat.",
+      "ref": "Reg. art. 14 alin. (3)"
+    },
+    {
+      "q": "Până când comunică garda culoarea vopselei pentru anul următor?",
+      "options": ["1 octombrie", "30 noiembrie", "31 decembrie", "15 ianuarie"],
+      "answer": 1,
+      "explain": "Anual, până la 30 noiembrie a anului anterior.",
+      "ref": "Reg. art. 16 alin. (1)"
+    },
+    {
+      "q": "Din ce spectre se pot alege culorile vopselei?",
+      "options": ["Roșu, galben, albastru", "Roșu, verde, albastru", "Alb, negru, roșu", "Orice culoare"],
+      "answer": 1,
+      "explain": "Roșu, verde și albastru.",
+      "ref": "Reg. art. 16 alin. (1)"
+    },
+    {
+      "q": "Până când depune împuternicitul raportul pentru dispozitivul pentagonal?",
+      "options": [
+        "În 5 zile după expirare",
+        "Cel târziu în ultima zi înscrisă în delegație",
+        "Lunar, până pe 5",
+        "La sfârșitul anului"
+      ],
+      "answer": 1,
+      "explain": "Odată cu delegația completată, cel târziu în ultima zi.",
+      "ref": "Reg. art. 20 alin. (1)"
+    },
+    {
+      "q": "În cât timp anunță împuternicitul pierderea dispozitivului?",
+      "options": ["Imediat, verbal", "În scris, în cel mult 24 de ore", "În 5 zile", "În 15 zile"],
+      "answer": 1,
+      "explain": "În scris, conducătorului utilizatorului, în cel mult 24 de ore.",
+      "ref": "Reg. art. 26 alin. (1)"
+    },
+    {
+      "q": "Dacă dispozitivul pierdut nu e găsit în 15 zile:",
+      "options": [
+        "Se confecționează altul fără formalități",
+        "Pierderea se publică în Monitorul Oficial, Partea a III-a",
+        "Se amendează împuternicitul",
+        "Se închide ocolul"
+      ],
+      "answer": 1,
+      "explain": "Se publică în MO Partea a III-a, apoi se cere anularea.",
+      "ref": "Reg. art. 26 alin. (2)"
+    },
+    {
+      "q": "În ce termen se predau dispozitivele în custodie la gardă când ocolul își încetează activitatea?",
+      "options": ["24 de ore", "Maximum 5 zile lucrătoare", "30 de zile", "90 de zile"],
+      "answer": 1,
+      "explain": "Maximum 5 zile lucrătoare; altfel e deținere ilegală.",
+      "ref": "Reg. art. 27 alin. (2)"
+    },
+    {
+      "q": "Ce NU este interzis prin regulament?",
+      "options": [
+        "Încredințarea dispozitivului altei persoane",
+        "Folosirea după expirarea delegației",
+        "Folosirea în locul înscris în delegație",
+        "Deținerea fără drept"
+      ],
+      "answer": 2,
+      "explain": "Interzis e să-l folosești în alte locuri decât cele din delegație.",
+      "ref": "Reg. art. 24"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Punerea în valoare a unei partizi",
+      "situation": "Șeful ocolului te trimite să marchezi arborii unei tăieri progresive într-un arboret de fag de 110 ani, pe o pantă. Ai în grijă dispozitivul circular al ocolului.",
+      "steps": [
+        {
+          "q": "Pe baza cărui act ai voie să folosești ciocanul și cine ți-l dă?",
+          "a": "Pe baza delegației de marcare emise în SUMAL de șeful ocolului (conducătorul utilizatorului).",
+          "ref": "Reg. art. 10 alin. (1), art. 17 alin. (1) lit. a)"
+        },
+        {
+          "q": "Cât poate ține cel mult delegația?",
+          "a": "120 de zile calendaristice.",
+          "ref": "Reg. art. 17 alin. (3) lit. a)"
+        },
+        {
+          "q": "Unde aplici marca pe fiecare arbore?",
+          "a": "Pe un cioplaj la baza trunchiului, cât mai aproape de sol, sau pe o rădăcină evidentă, în partea din aval a pantei, cu vopsea.",
+          "ref": "Reg. art. 12 alin. (2)"
+        },
+        {
+          "q": "Ce culoare de vopsea folosești?",
+          "a": "Culoarea stabilită pentru anul în curs prin decizia conducătorului gărzii forestiere, comunicată până la 30 noiembrie anul trecut.",
+          "ref": "Reg. art. 16 alin. (1)"
+        },
+        {
+          "q": "Un coleg îți cere ciocanul pentru o oră, la o partidă vecină. Poți să i-l dai?",
+          "a": "Nu. Încredințarea dispozitivului altei persoane și folosirea lui în alt loc decât cel din delegație sunt interzise.",
+          "ref": "Reg. art. 24 lit. b)–c)"
+        }
+      ]
+    },
+    {
+      "title": "Ciocanul pentagonal a dispărut",
+      "situation": "Te întorci de la un control de fond și observi că dispozitivul pentagonal nu mai e în rucsac. Îl cauți toată seara, fără rezultat.",
+      "steps": [
+        {
+          "q": "Ce faci și în cât timp?",
+          "a": "Anunți în scris șeful ocolului, în cel mult 24 de ore de la constatare.",
+          "ref": "Reg. art. 26 alin. (1)"
+        },
+        {
+          "q": "Ce face șeful ocolului?",
+          "a": "Anunță poliția și garda forestieră în cel mult 24 de ore de la înștiințare.",
+          "ref": "Reg. art. 26 alin. (1)"
+        },
+        {
+          "q": "Dispozitivul nu apare nici după 15 zile. Ce urmează?",
+          "a": "Ocolul publică pierderea în Monitorul Oficial, Partea a III-a, precizând că folosirea lui e infracțiune; apoi emitentul autorizației îl anulează, decizia se comunică notarului și dispozitivul iese din inventar.",
+          "ref": "Reg. art. 26 alin. (2)–(4)"
+        },
+        {
+          "q": "După anulare, ciocanul e găsit în pădure. Ce faci cu el?",
+          "a": "Se predă în custodie gărzii forestiere, pe proces-verbal, în maximum 5 zile lucrătoare.",
+          "ref": "Reg. art. 27 alin. (1) lit. c), alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "Ocolul comandă un ciocan nou",
+      "situation": "Un tehnician nou se angajează la ocol și are nevoie de dispozitiv pătrat propriu pentru delimitarea parchetelor.",
+      "steps": [
+        {
+          "q": "De la cine cere ocolul autorizația de confecționare și cât e valabilă?",
+          "a": "De la garda forestieră competentă teritorial; e valabilă 90 de zile.",
+          "ref": "Reg. art. 5 alin. (6)"
+        },
+        {
+          "q": "Cine poate face dispozitivul?",
+          "a": "Doar o unitate specializată cu certificat de abilitare de la comisia Autorității, care înregistrează amprenta în RNEADSM înainte să-l predea.",
+          "ref": "Reg. art. 5 alin. (1), (11)"
+        },
+        {
+          "q": "Ce face ocolul după ce îl primește?",
+          "a": "Înregistrează amprentele la notar în 30 de zile, trimite o copie emitentului autorizației, îl trece în contabilitate ca bun de inventar și îl declară în SUMAL. Abia apoi îl poate folosi.",
+          "ref": "Reg. art. 6, art. 9 alin. (3)"
+        },
+        {
+          "q": "Cum îl primește tehnicianul?",
+          "a": "Prin împuternicire scrisă (anexa 7), fiind singurul împuternicit pentru acel dispozitiv cât lucrează la ocol; primește și cheia casetei individuale din fișetul metalic.",
+          "ref": "Reg. art. 11, art. 7 alin. (2)"
+        },
+        {
+          "q": "Cât poate ține o delegație pentru pătrat?",
+          "a": "Cel mult 7 zile lucrătoare.",
+          "ref": "Reg. art. 17 alin. (3) lit. c)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Ord",
+        "name": "Ordinul nr. 396/2026",
+        "title": "Ordinul nr. 396/2026 al ministrului mediului, apelor și pădurilor",
+        "note": "Publicat în Monitorul Oficial nr. 192 din 12 martie 2026.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["","Se aprobă Regulamentul privind forma şi modul de utilizare a dispozitivelor speciale de marcat, precum şi modul de marcare a arborilor sau a unor loturi de arbori, prevăzut în anexa care face parte integrantă din prezentul ordin."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["","Dispozitivele speciale de marcat confecţionate şi utilizate în baza Ordinului ministrului agriculturii, alimentaţiei şi pădurilor nr. 33/2002 pentru aprobarea Regulamentului privind confecţionarea şi folosirea ciocanelor silvice din dotarea structurilor silvice constituite la nivel de ocoale silvice, necesare pentru gospodărirea pădurilor proprietate privată şi a celor proprietate publică aparţinând comunelor, oraşelor şi municipiilor, cele confecţionate şi utilizate în baza Ordinului ministrului agriculturii, alimentaţiei şi pădurilor nr. 85/2002 pentru aprobarea Regulamentului privind confecţionarea şi folosirea ciocanelor silvice pentru control de către personalul silvic din cadrul autorităţii publice centrale care răspunde de silvicultură, cu modificările ulterioare, cele confecţionate şi utilizate în baza Ordinului ministrului agriculturii, pădurilor şi dezvoltării rurale nr. 758/2004 pentru aprobarea Normelor tehnice privind confecţionarea dispozitivelor de marcat materialul lemnos rotund, cioplit sau ecarisat şi folosirea acestor dispozitive, precum şi cele confecţionate şi utilizate în baza Ordinului ministrului mediului şi pădurilor nr. 1.346/2011 pentru aprobarea Regulamentului privind forma şi modul de utilizare a dispozitivelor speciale de marcat, precum şi modul de marcare a arborilor sau a unor loturi de arbori, cu modificările şi completările ulterioare, rămân în uz, în măsura în care nu sunt deteriorate."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["","La data intrării în vigoare a prezentului ordin, Ordinul ministrului mediului şi pădurilor nr. 1.346/2011 pentru aprobarea Regulamentului privind forma şi modul de utilizare a dispozitivelor speciale de marcat, precum şi modul de marcare a arborilor sau a unor loturi de arbori, publicat în Monitorul Oficial al României, Partea I, nr. 346 din 18 mai 2011, cu modificările şi completările ulterioare, se abrogă."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [["", "Prezentul ordin se publică în Monitorul Oficial al României, Partea I."]]
+          }
+        ]
+      },
+      {
+        "key": "Reg",
+        "name": "Regulamentul dispozitivelor speciale de marcat",
+        "title": "Anexă – Regulamentul privind forma și modul de utilizare a dispozitivelor speciale de marcat",
+        "note": "În vigoare de la 12 martie 2026. Formă aplicabilă la 29 octombrie 2026.",
+        "inText": true,
+        "chapters": [
+          {"title": "CAPITOLUL I – Dispoziții generale", "from": "1"},
+          {"title": "CAPITOLUL II – Forma, dimensiunile și însemnele", "from": "4"},
+          {
+            "title": "CAPITOLUL III – Confecționarea, înregistrarea, evidența și păstrarea",
+            "from": "5"
+          },
+          {"title": "CAPITOLUL IV – Folosirea și destinația", "from": "10"},
+          {"title": "CAPITOLUL V – Dispoziții finale", "from": "24"}
+        ],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["","Dispozitivele speciale de marcat sunt instrumente cu regim special care se folosesc de personalul silvic împuternicit potrivit prezentului regulament pentru marcarea arborilor destinaţi recoltării, a arborilor care delimitează parchetele de exploatare şi a cioatelor arborilor tăiaţi ilegal, precum şi a arborilor ce permit identificarea locului de unde un arbore a fost extras fără lăsarea de cioată în teren sau a arborilor rupţi/distruşi/degradaţi/scoşi din rădăcini fără drept prin acţiunea omului."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["","Dispozitivelor speciale de marcat li se aplică regimul juridic al mărcilor şi sigiliilor."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["","Forma, dimensiunile şi însemnele dispozitivelor speciale de marcat, confecţionarea, înregistrarea, evidenţa, păstrarea şi folosirea acestora sunt şi se fac în conformitate cu prevederile prezentului regulament. CAPITOLUL II Forma, dimensiunile şi însemnele dispozitivelor speciale de marcat"]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","Modelele privind forma, dimensiunile şi însemnele dispozitivelor speciale de marcat sunt prevăzute în anexa nr. 1 la prezentul regulament."],
+              ["(2)","Însemnul fiecărui dispozitiv special de marcat are caracter şi regim de unicat."],
+              ["(3)","Dispozitivul special de marcat are două capete; unul poartă însemnele dispozitivului, iar celălalt are muchie tăietoare."],
+              ["(4)","Dispozitivele speciale de marcat au următorii utilizatori şi următoarele forme, dimensiuni şi însemne specifice:"],
+              ["a)","dispozitivul special de marcat cu amprentă circulară are diametrul exterior al cercului de 30 mm şi se utilizează de ocoalele silvice autorizate prevăzute la art. 12 alin. (1) din Legea nr. 331/2024 privind Codul silvic, cu modificările şi completările ulterioare. Indicativul înscris pe amprentă constă în indicativul judeţului în care ocolul silvic îşi are sediul social, urmat de codul ocolului, sub care se înscrie codul numeric atribuit de către garda forestieră competentă teritorial;"],
+              ["b)","dispozitivul special de marcat cu amprentă pătrată, a cărui dimensiune corespunde pătratului înscris într-un cerc cu diametrul de 40 mm, se utilizează de ocoalele silvice autorizate prevăzute la art. 12 alin. (1) din Legea nr. 331/2024, cu modificările şi completările ulterioare. Indicativul are acelaşi conţinut ca la dispozitivul special de marcat cu amprentă circulară;"],
+              ["c)","dispozitivul special de marcat cu amprentă pentagonală, de forma şi dimensiunea unui pentagon regulat înscris într-un cerc cu diametrul de 40 mm, se utilizează de ocoalele silvice autorizate prevăzute la art. 12 alin. (1) din Legea nr. 331/2024, cu modificările şi completările ulterioare. Indicativul are acelaşi conţinut ca la dispozitivul special de marcat cu amprentă circulară;"],
+              ["d)","dispozitivul special de marcat cu amprentă triunghiulară, de forma şi dimensiunea unui triunghi echilateral înscris într-un cerc cu diametrul de 40 mm, care se utilizează de Garda Forestieră Naţională şi gărzile forestiere teritoriale. Pentru gărzile forestiere, indicativul înscris pe amprentă constă în indicativul judeţului, sub care se înscrie codul numeric atribuit de Garda Forestieră Naţională. Pentru Garda Forestieră Naţională, indicativul înscris pe amprentă constă în indicativul \"GFN\", sub care se înscrie codul numeric atribuit de către comisia care funcţionează în cadrul autorităţii publice centrale pentru silvicultură."],
+              ["(5)","Dimensiunile însemnelor sunt de 10/8 mm pentru indicativul \"GFN\", al judeţului sau codul ocolului silvic şi, respectiv, de 10 mm pentru codul numeric al dispozitivului special de marcat. CAPITOLUL III Confecţionarea, înregistrarea, evidenţa şi păstrarea dispozitivelor speciale de marcat"]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","Confecţionarea dispozitivelor speciale de marcat se realizează de unităţi specializate, care deţin certificat de abilitare emis de către comisia care funcţionează în cadrul autorităţii publice centrale pentru silvicultură, denumită în continuare Autoritate."],
+              ["(2)","Modelul certificatului de abilitare este prevăzut în anexa nr. 2 la prezentul regulament."],
+              ["(3)","Comisia prevăzută la alin. (1) este formată din minimum 3 membri, dintre care un preşedinte, din cadrul Autorităţii, nominalizaţi de către conducătorul acesteia."],
+              ["(4)","În vederea obţinerii certificatului de abilitare, unităţile specializate au obligaţia de a depune, fizic sau prin poştă electronică, la comisia prevăzută la alin. (1) o documentaţie, care trebuie să cuprindă următoarele:"],
+              ["a)","cerere, în original;"],
+              ["b)","certificatul de înregistrare la oficiul registrului comerţului, în copie certificată pentru conformitate cu originalul de către reprezentantul legal al persoanei juridice;"],
+              ["c)","statutul sau actul constitutiv din care să rezulte că persoana juridică are obiect de activitate în domeniul mecanicii fine, în copie certificată pentru conformitate cu originalul de către reprezentantul legal al persoanei juridice;"],
+              ["d)","documente din care să rezulte că persoana juridică deţine utilaje şi personal calificat pentru confecţionarea dispozitivelor cu regim special, în copie certificată pentru conformitate cu originalul de către reprezentantul legal al persoanei juridice;"],
+              ["e)","angajament privind confecţionarea dispozitivelor speciale de marcat în regim unicat, în original;"],
+              ["f)","angajament privind păstrarea confidenţialităţii asupra dispozitivelor confecţionate şi a deţinătorilor acestora, în original;"],
+              ["g)","angajament privind confecţionarea dispozitivelor speciale de marcat numai pentru entităţile economice care deţin autorizaţie de confecţionare, în original;"],
+              ["h)","angajament privind comunicarea online a amprentei dispozitivelor speciale de marcat confecţionate, în vederea înregistrării în Registrul naţional electronic al amprentelor dispozitivelor speciale de marcat, în original."],
+              ["(5)","Nerespectarea angajamentelor prevăzute la alin. (4) lit. e) -h) determină suspendarea certificatului de abilitare pentru o perioadă de până la 6 luni sau până la data conformării."],
+              ["(6)","Confecţionarea dispozitivelor speciale de marcat se realizează de unităţile specializate, care deţin certificat de abilitare, la solicitarea utilizatorilor prevăzuţi la art. 4 alin. (4), ca unicate, în baza autorizaţiei de confecţionare emise de către garda forestieră competentă teritorial, cu excepţia dispozitivelor speciale de marcat cu amprentă triunghiulară, la care autorizaţia de confecţionare este emisă de către Autoritate. Autorizaţia de confecţionare a dispozitivelor speciale de marcat are valabilitate 90 de zile de la data emiterii, emitentul având obligaţia de publicare pe pagina de internet a instituţiei."],
+              ["(7)","Modelul autorizaţiei de confecţionare a dispozitivelor speciale de marcat este prevăzut în anexa nr. 3 la prezentul regulament."],
+              ["(8)","Autorizaţia de confecţionare a dispozitivelor speciale de marcat se emite în baza următoarelor documente transmise fizic sau prin poştă electronică:"],
+              ["a)","cerere, în original, formulată de către conducătorul utilizatorului, în care se specifică numărul şi tipul dispozitivelor speciale de marcat;"],
+              ["b)","autorizaţia de funcţionare a ocoalelor silvice/staţiunilor şi bazelor experimentale, pentru confecţionarea dispozitivelor speciale de marcat prevăzute la art. 4 alin. (4) lit. a) -c), în copie certificată pentru conformitate cu originalul de către reprezentantul legal al persoanei juridice;"],
+              ["c)","certificatului constatator emis de Oficiul Naţional al Registrului Comerţului, pentru confecţionarea dispozitivelor speciale de marcat prevăzute la art. 4 alin. (4) lit. a) -c)."],
+              ["(9)","Unităţile specializate abilitate pentru confecţionarea dispozitivelor speciale de marcat au obligaţia de a transmite, în vederea înregistrării, amprenta dispozitivului special de marcat Registrului naţional electronic al amprentelor dispozitivelor speciale de marcat, denumit în continuare RNEADSM, care a fost înfiinţat şi este gestionat de Uniunea Naţională a Notarilor Publici din România prin Centrul Naţional de Administrare a Registrelor Naţionale Notariale, denumit în continuare CNARNN-INFONOT."],
+              ["(10)","Modelul RNEADSM este prevăzut în anexa nr. 4 la prezentul regulament."],
+              ["(11)","Unităţile specializate abilitate pentru confecţionarea dispozitivelor speciale de marcat au obligaţia înregistrării în RNEADSM a dispozitivelor speciale de marcat, anterior transmiterii acestora către deţinător."],
+              ["(12)","Înregistrarea dispozitivelor speciale de marcat în RNEDASM, precum şi consultarea registrului de către autorităţile publice şi unităţile specializate abilitate pentru confecţionarea dispozitivelor speciale de marcat sunt gratuite."],
+              ["(13)","Confecţionarea dispozitivelor speciale de marcat în alte condiţii decât cele prevăzute în prezentul regulament este interzisă."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["(1)","În termen de 30 de zile de la data primirii dispozitivelor speciale de marcat de la unitatea specializată abilitată să le confecţioneze, utilizatorii au obligaţia să înregistreze la birourile notarilor publici amprentele acestora."],
+              ["(2)","Un exemplar original al amprentelor dispozitivelor speciale de marcat, certificat de notarul public, se păstrează la biroul notarului public, al doilea exemplar original se păstrează la utilizator, iar o copie de pe al doilea exemplar se depune la emitentul autorizaţiei de confecţionare în termen de 30 de zile."],
+              ["(3)","Dispozitivele speciale de marcat se înregistrează în contabilitatea utilizatorilor, ca bunuri de inventar, după ce amprentele lor sunt înregistrate la biroul notarului public."],
+              ["(4)","Dispozitivele speciale de marcat pot fi utilizate numai după înregistrarea lor în condiţiile alin. (1) şi ale art. 5 alin. (9) şi (11)."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["(1)","Evidenţa şi păstrarea dispozitivelor de marcat prevăzute la art. 4 alin. (4) se fac de către conducătorii utilizatorilor, până la predarea lor către cei împuterniciţi să le folosească."],
+              ["(2)","Dispozitivele speciale de marcat prevăzute la art. 4 alin. (4) lit. a) -c) se păstrează în fişete metalice dotate cu casete individuale securizate pentru fiecare persoană împuternicită; accesul la dispozitivele speciale de marcat se poate realiza concomitent de către persoana împuternicită, care deţine accesul la caseta individuală, şi de conducătorul utilizatorului, care deţine accesul la fişetul metalic."],
+              ["(3)","Dispozitivele speciale de marcat prevăzute la art. 4 alin. (4) lit. d) se păstrează în fişete metalice de către conducătorul gărzii forestiere, respectiv de către directorul care coordonează activitatea de control din cadrul Gărzii Forestiere Naţionale."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["","Documentele care se întocmesc şi se păstrează la emitenţii autorizaţiilor de confecţionare şi la utilizatorii dispozitivelor speciale de marcat sunt următoarele:"],
+              ["A.","la emitenţii autorizaţiilor de confecţionare:"],
+              ["1.","autorizaţia de confecţionare a dispozitivelor speciale de marcat, în original;"],
+              ["2.","actele de înregistrare la birourile notarilor publici a amprentelor dispozitivelor speciale de marcat prevăzute la art. 4 alin. (4), în copie;"],
+              ["3.","actele de casare, anulare, scoatere din inventar a dispozitivelor speciale de marcat şi de distrugere a amprentelor pentru dispozitivele uzate sau deteriorate, predare-preluare în custodie, restituire din custodie, în copie;"],
+              ["B.","la utilizatori:"],
+              ["1.","câte un dosar pentru fiecare dispozitiv special de marcat care conţine amprenta mărcii şi certificarea biroului notarului public de înregistrare a amprentei dispozitivelor speciale de marcat prevăzute la art. 4 alin. (4);"],
+              ["2.","evidenţa contabilă a bunurilor de inventar cu dispozitivele speciale de marcat;"],
+              ["3.","împuternicirea, delegaţiile şi rapoartele de folosire a dispozitivelor speciale de marcat;"],
+              ["4.","actele referitoare la pierderea/anularea, dezmembrarea şi/sau distrugerea, predarea-preluarea în custodie, restituirea din custodie a dispozitivelor speciale de marcat;"],
+              ["5.","actele de casare a dispozitivelor speciale de marcat uzate sau deteriorate şi aprobarea de casare şi scoatere din inventar şi orice alt document care are legătură cu dispozitivele speciale de marcat."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9",
+            "items": [
+              ["(1)","Registrul de evidenţă a dispozitivelor speciale de marcat se ţine în format electronic sau letric, după caz, de către conducătorul utilizatorului şi cuprinde inventarul tuturor dispozitivelor speciale de marcat, cu menţionarea formei amprentei dispozitivului, a indicativului şi a observaţiilor. La observaţii se înregistrează numele personalului împuternicit, numărul actului de aprobare a casării pentru dispozitivele distruse, numărul actului de declarare a pierderii şi de anulare pentru dispozitivele pierdute, documentul de dare în/restituire din custodie a dispozitivelor speciale de marcat."],
+              ["(2)","Modelul Registrului de evidenţă a dispozitivelor speciale de marcat este prevăzut în anexa nr. 5 la prezentul regulament."],
+              ["(3)","În scopul folosirii lor, utilizatorii au obligaţia de a declara dispozitivele speciale de marcat în Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri, în limitele dezvoltării acestora. CAPITOLUL IV Folosirea şi destinaţia dispozitivelor speciale de marcat"]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["(1)","Dispozitivele speciale de marcat se folosesc în fondul forestier naţional sau în vegetaţia forestieră din afara acestuia de către personalul împuternicit, în baza delegaţiei de marcare emise de conducătorul utilizatorului."],
+              ["(2)","Dispozitivele speciale de marcat cu amprentă circulară se folosesc în suprafeţele de fond forestier administrate sau pentru care se asigură serviciile silvice pe bază de contract/note de constatare, înregistrate în fişele de proprietate din Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri, precum şi pentru vegetaţia din afara fondului forestier naţional de pe raza unităţii administrativ-teritoriale pentru care ocolul silvic a fost nominalizat şi pentru care sunt încheiate contracte de servicii silvice."],
+              ["(3)","Prin excepţie de la prevederile alin. (2), dispozitivele speciale de marcat cu amprentă circulară se pot folosi la marcarea arborilor afectaţi de factori biotici şi abiotici şi pentru alte suprafeţe decât cele aflate în evidenţa utilizatorilor din aplicaţia Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri, în baza avizului conducătorului gărzii forestiere competente teritorial sau al Gărzii Forestiere Naţionale dacă depăşeşte raza de competenţă a structurii teritoriale."],
+              ["(4)","Dispozitivele speciale de marcat cu amprentă pătrată se folosesc în suprafeţele de fond forestier administrate sau pentru care se asigură serviciile silvice pe bază de contract/note de constatare, înregistrate în fişele de proprietate din Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri."],
+              ["(5)","Dispozitivele speciale de marcat cu amprentă pentagonală se folosesc în suprafeţele de fond forestier administrate sau pentru care se asigură serviciile silvice pe bază de contract/act de constatare pentru efectuarea de controale de fond/parţiale şi de controale de exploatare a parchetelor, precum şi în vegetaţia din afara fondului forestier naţional din raza de competenţă teritorială stabilită pentru ocolul silvic nominalizat la solicitarea organelor de poliţie."],
+              ["(6)","Prin excepţie de la prevederile alin. (5), dispozitivele speciale de marcat cu amprentă pentagonală se pot folosi şi pentru:"],
+              ["a)","efectuarea de controale de fond/parţiale pentru alte suprafeţe de fond forestier decât cele aflate în evidenţa utilizatorului, în baza deciziei conducătorului Gărzii Forestiere Naţionale sau a structurilor teritoriale, după caz;"],
+              ["b)","marcarea cioatelor arborilor tăiaţi ilegal în suprafeţe de fond forestier pentru care nu sunt asigurate administrarea sau serviciile silvice, dar care se vor prelua în pază în baza unei cereri înregistrate la ocolul silvic de către proprietar, succesor în drepturi sau oricare dintre coproprietari, cu sau fără acordul celorlalţi coproprietari, cu condiţia ca pe suprafaţa respectivă să nu existe alte contracte sau să nu fie asigurate serviciile silvice minimale în baza unui act de constatare."],
+              ["(7)","Dispozitivele speciale de marcat cu amprentă triunghiulară se folosesc în fondul forestier naţional sau în vegetaţia forestieră de pe terenurile din afara acestuia, din raza de competenţă teritorială a utilizatorilor."],
+              ["(8)","Prin excepţie de la prevederile alin. (7), dispozitivele speciale de marcat cu amprentă triunghiulară se pot folosi şi în alte suprafeţe decât cele prevăzute la alin. (7), pe baza unei note întocmite de direcţia care coordonează activitatea de control din cadrul Gărzii Forestiere Naţionale şi aprobate de către conducătorul acesteia. În acest caz delegaţiile de marcare se emit de către conducătorul utilizatorului în baza notei aprobate de conducătorul Gărzii Forestiere Naţionale."],
+              ["(9)","Evidenţa folosirii dispozitivelor speciale de marcat se realizează de emitentul delegaţiei de marcare în Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri sau în Registrul de evidenţă a folosirii dispozitivelor speciale de marcat, al cărui model este prevăzut în anexa nr. 6 la prezentul regulament, dacă dezvoltarea tehnologică nu permite acest lucru."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["(1)","Conducătorul utilizatorului este obligat să împuternicească o singură persoană pentru folosirea unui dispozitiv special de marcat, pe toată perioada cât aceasta este încadrată la utilizatorul respectiv, cu respectarea prevederilor prezentului regulament."],
+              ["(2)","Modelul împuternicirii pentru folosirea dispozitivului de marcat este prevăzut în anexa nr. 7 la prezentul regulament."],
+              ["(3)","În cazul în care, din diferite motive, personalul împuternicit prevăzut la alin. (1) nu mai este îndreptăţit să folosească dispozitivul special de marcat, acesta nu mai poate fi atribuit spre folosire altei persoane o perioadă de 12 luni."]
+            ]
+          },
+          {
+            "no": "12",
+            "label": "Art. 12",
+            "items": [
+              ["(1)","Dispozitivele speciale de marcat cu amprentă circulară se folosesc pentru marcarea arborilor destinaţi recoltării, cu excepţiile prevăzute de normele tehnice privind evaluarea volumului de lemn destinat comercializării, în vigoare."],
+              ["(2)","Amprenta dispozitivului special de marcat se aplică pe cioplaje, la baza trunchiului, cât mai aproape de nivelul solului, sau pe o rădăcină evidentă, pe terenurile în pantă în partea din aval, iar imprimarea mărcii se face folosind vopsea."],
+              ["(3)","Au dreptul să folosească dispozitivele speciale de marcat prevăzute la alin. (1) conducătorul utilizatorului şi personalul împuternicit de către conducătorul utilizatorului, care este încadrat pe postul de inginer silvic, subinginer silvic, tehnician silvic, şef de district şi are pregătire profesională cel puţin la nivelul stabilit conform dispoziţiilor art. 4 alin. (2) lit. a) -c) din Ordonanţa de urgenţă a Guvernului nr. 59/2000 privind Statutul personalului silvic, aprobată cu modificări şi completări prin Legea nr. 427/2001, cu modificările şi completările ulterioare, în condiţiile prevăzute de normele tehnice privind evaluarea volumului de lemn destinat comercializării, în vigoare."]
+            ]
+          },
+          {
+            "no": "13",
+            "label": "Art. 13",
+            "items": [
+              ["(1)","Dispozitivele speciale de marcat cu amprentă pătrată se folosesc pentru delimitarea suprafeţei parchetelor destinate exploatării şi a celor constituite pentru traseele de scos-apropiat, în condiţiile prevăzute de normele tehnice privind evaluarea volumului de lemn destinat comercializării, în vigoare."],
+              ["(2)","Dispozitivul special de marcat cu amprentă pătrată se aplică pe arborii de limită care nu se recoltează, pe un cioplaj făcut pe trunchi la înălţimea de 1,30 m de la sol, orientat spre suprafaţa parchetului/traseului de scos-apropiat, precum şi pe cioplaj la baza trunchiului, cât mai aproape de nivelul solului, sau pe o rădăcină evidentă, pe terenurile în pantă în partea din aval, iar imprimarea mărcii se face folosind vopsea."],
+              ["(3)","Au dreptul să folosească dispozitivele speciale de marcat prevăzute la alin. (1) conducătorul utilizatorului şi personalul împuternicit de către conducătorul utilizatorului, care este încadrat pe postul de inginer silvic, subinginer silvic, tehnician silvic, şef de district şi are pregătire profesională cel puţin la nivelul stabilit conform dispoziţiilor art. 4 alin. (2) lit. a) -c) din Ordonanţa de urgenţă a Guvernului nr. 59/2000, aprobată cu modificări şi completări prin Legea nr. 427/2001, cu modificările şi completările ulterioare, în condiţiile prevăzute de normele tehnice privind evaluarea volumului de lemn destinat comercializării, în vigoare."]
+            ]
+          },
+          {
+            "no": "14",
+            "label": "Art. 14",
+            "items": [
+              ["(1)","Dispozitivele speciale de marcat cu amprentă pentagonală se folosesc pentru marcarea cioatelor arborilor tăiaţi ilegal, a arborilor ce permit identificarea locului de unde un arbore a fost extras fără lăsarea de cioată în teren, precum şi a arborilor rupţi/distruşi/degradaţi/scoşi din rădăcini, fără drept, prin acţiunea omului."],
+              ["(2)","Dispozitivul special de marcat cu amprentă pentagonală se aplică pe un cioplaj făcut la baza şi pe secţiunea tăieturii cioatei, iar imprimarea mărcii se face folosind vopsea; pe terenurile în pantă dispozitivul special de marcat se aplică în partea din aval a cioatei. Cioatele marcate cu dispozitivul special de marcat cu amprentă pentagonală se inventariază şi se consemnează în actele de control de fond/parţial, în actul de control al exploatării şi în alte acte de evaluare a pagubelor/prejudiciilor."],
+              ["(3)","În cazul în care nu există posibilitatea de aplicare a dispozitivului special de marcat pe cioată, acesta se aplică pe cel mai apropiat arbore, la înălţimea de 1,30 m de la sol, pe un cioplaj orientat spre locul unde se găseşte arborele tăiat ilegal."],
+              ["(4)","În situaţiile care nu permit realizarea unui cioplaj la baza cioatei, dispozitivul special de marcat se aplică pe secţiunea tăieturii cioatei."],
+              ["(5)","Au dreptul să folosească dispozitivele speciale de marcat prevăzute la alin. (1) conducătorul utilizatorului şi personalul împuternicit de conducătorul utilizatorului, care este încadrat pe postul de inginer silvic, subinginer silvic, tehnician silvic şi şef de district şi are pregătire profesională cel puţin la nivelul stabilit conform dispoziţiilor art. 4 alin. (2) lit. a) -c) din Ordonanţa de urgenţă a Guvernului nr. 59/2000, aprobată cu modificări şi completări prin Legea nr. 427/2001, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "15",
+            "label": "Art. 15",
+            "items": [
+              ["(1)","Dispozitivele speciale de marcat cu amprentă triunghiulară se folosesc pentru marcarea cioatelor arborilor tăiaţi ilegal, a arborilor ce permit identificarea locului de unde un arbore a fost extras fără lăsarea de cioată în teren, precum şi a arborilor rupţi/distruşi/degradaţi/scoşi din rădăcini fără drept prin acţiunea omului."],
+              ["(2)","Dispozitivul special de marcat cu amprentă triunghiulară se aplică pe un cioplaj făcut la baza şi pe secţiunea tăieturii cioatei, iar imprimarea mărcii se face folosind vopsea; pe terenurile în pantă dispozitivul special de marcat se aplică în partea din aval a cioatei. Cioatele marcate cu dispozitivul special de marcat cu amprentă triunghiulară se inventariază şi se consemnează în actele de control de fond/parţial, în procesulverbal de control al exploatării parchetului şi în alte acte de evaluare a pagubelor/prejudiciilor."],
+              ["(3)","În cazul în care nu există posibilitatea de aplicare pe cioată a dispozitivului special cu amprentă triunghiulară de marcat, acesta se aplică pe cel mai apropiat arbore, la înălţimea de 1,30 m de la sol, pe un cioplaj orientat spre locul unde se găseşte arborele tăiat ilegal."],
+              ["(4)","În situaţiile care nu permit realizarea unui cioplaj la baza cioatei, dispozitivul special de marcat cu amprentă triunghiulară se aplică pe secţiunea tăieturii cioatei."],
+              ["(5)","Are dreptul să folosească dispozitivele speciale de marcat prevăzute la alin. (1) numai personalul silvic împuternicit din cadrul Gărzii Forestiere Naţionale şi din cadrul gărzilor forestiere teritoriale."]
+            ]
+          },
+          {
+            "no": "16",
+            "label": "Art. 16",
+            "items": [
+              ["(1)","Stabilirea culorii vopselei folosite pentru aplicarea dispozitivelor speciale de marcat prevăzute la art. 12-15 se face anual prin decizie a conducătorului gărzii forestiere competente teritorial, ce se comunică utilizatorilor acestora până la data de 30 noiembrie a anului anterior folosirii acesteia. Se pot stabili culori din spectrul roşu, verde şi albastru."],
+              ["(2)","Prin excepţie de la prevederile alin. (1), conducătorul utilizatorului poate stabili folosirea altei culori decât a celei stabilite de către conducătorul gărzii forestiere competente teritorial, în următoarele situaţii:"],
+              ["a)","pentru aplicarea amprentei dispozitivului special de marcat cu amprentă circulară la arborii prejudiciaţi în procesul de exploatare, folosind vopsea de o altă culoare decât cea utilizată la constituirea actului de punere în valoare, culoarea vopselei consemnându-se în delegaţia de marcare letrică sau în format electronic;"],
+              ["b)","pentru aplicarea dispozitivului special de marcat cu amprentă circulară la punerea în valoare a produselor accidentale suprapuse, aşa cum sunt definite de Regulamentul de valorificare a lemnului din fondul forestier proprietate publică în vigoare, folosind vopsea de o altă culoare decât cea utilizată la constituirea actului de punere în valoare peste care se suprapune, culoarea vopselei consemnându-se în delegaţia de marcare letrică sau în format electronic;"],
+              ["c)","pentru aplicarea dispozitivului special de marcat cu amprentă circulară la punerea în valoare a produselor accidentale provenite din doborâturi-rupturi în masă, pe suprafeţe mari, compacte, care necesită constituirea mai multor acte de punere în valoare, iar delimitarea parchetelor alăturate, prin semne convenţionale, este dificilă sau nu este posibilă, culoarea vopselei consemnându-se în delegaţia de marcare letrică sau în format electronic."],
+              ["(3)","Stabilirea culorii vopselei pentru dispozitivele speciale de marcat prevăzute la art. 15 se face anual prin decizie a conducătorului Gărzii Forestiere Naţionale, ce se comunică utilizatorilor dispozitivelor speciale de marcat până la data de 30 noiembrie a anului anterior folosirii acesteia."]
+            ]
+          },
+          {
+            "no": "17",
+            "label": "Art. 17",
+            "items": [
+              ["(1)","Folosirea dispozitivelor speciale de marcat prevăzute la art. 12-14 se face de către personalul împuternicit, pe baza delegaţiei de marcare emise de conducătorul utilizatorului, după cum urmează:"],
+              ["a)","pentru dispozitivele prevăzute la art. 12, în Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri, asigurându-se sincronizarea cu terminalul personalului împuternicit. Pentru situaţia prevăzută la art. 10 alin. (3) emiterea delegaţiei de marcare se face în Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri, de către şeful ocolului silvic care are înregistrată suprafaţa de fond forestier în fişa de proprietate;"],
+              ["b)","pentru dispozitivele de marcat prevăzute la art. 13 şi 14, în Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri, asigurându-se sincronizarea cu terminalul personalului împuternicit, sau ca document înseriat, pe hârtie autocopiativă, în 2 exemplare, din care exemplarul original se înmânează personalului împuternicit, iar copia rămâne la cotor. Delegaţia se înscrie în registrul de evidenţă a folosirii dispozitivelor speciale de marcat şi în registrul de corespondenţă al ocolului silvic."],
+              ["(2)","Modelele delegaţiilor de marcare pentru dispozitivele prevăzute la art. 12-14 sunt prevăzute în anexa nr. 8 la prezentul regulament."],
+              ["(3)","Delegaţiile de marcare pentru folosirea dispozitivelor speciale de marcat prevăzute la art. 12-14 se emit pentru durate de timp strict determinate, în funcţie de volumul lucrărilor silvice de executat şi de condiţiile de lucru, fără a depăşi:"],
+              ["a)","120 de zile calendaristice pentru dispozitivele speciale de marcat cu amprentă circulară;"],
+              ["b)","30 de zile calendaristice pentru dispozitivele speciale de marcat cu amprentă pentagonală;"],
+              ["c)","7 zile lucrătoare pentru dispozitivele speciale de marcat cu amprentă pătrată."],
+              ["(4)","Pentru dispozitivele speciale de marcat prevăzute la art. 12 se pot emite, în Sistemul informaţional integrat de urmărire a materialelor lemnoase/Sistemul informaţional integrat pentru păduri, mai multe delegaţii în acelaşi timp, cu respectarea duratelor prevăzute la alin. (3)."]
+            ]
+          },
+          {
+            "no": "18",
+            "label": "Art. 18",
+            "items": [
+              ["(1)","Folosirea dispozitivelor speciale de marcat prevăzute la art. 15 se face de către personalul împuternicit, în baza delegaţiei de marcare emise de către directorul care coordonează activitatea de control din cadrul Gărzii Forestiere Naţionale sau de către conducătorul gărzii forestiere competente teritorial, după caz. Delegaţia de marcare este document înseriat şi se întocmeşte în două exemplare pe hârtie autocopiativă, dintre care exemplarul original se înmânează personalului împuternicit şi se înscrie în registrul de evidenţă a folosirii dispozitivelor speciale de marcat şi în registrul de corespondenţă, iar copia rămâne la cotor."],
+              ["(2)","Modelul delegaţiei de marcare a dispozitivelor speciale de marcat cu amprentă pătrată, pentagonală, circulară sau triunghiulară este prevăzut în anexa nr. 8 la prezentul regulament."],
+              ["(3)","Delegaţiile de marcare pentru folosirea dispozitivelor speciale de marcat prevăzute la art. 15 se emit pentru o perioadă ce nu poate depăşi 365 de zile."],
+              ["(4)","În situaţia în care personalul împuternicit pentru utilizarea dispozitivului special de marcat cu amprentă triunghiulară este delegat pentru realizarea unui control în baza unei note aprobate de către conducătorul Gărzii Forestiere Naţionale, conform art. 10 alin. (8), acesta transmite, electronic şi în original, delegaţia de marcare iniţială şi raportul de activitate la utilizator, pentru a putea primi noua delegaţie de marcare."]
+            ]
+          },
+          {
+            "no": "19",
+            "label": "Art. 19",
+            "items": [
+              ["","Personalul împuternicit pentru folosirea dispozitivelor speciale de marcat prevăzute la art. 12-15 răspunde de păstrarea în siguranţă a acestora pe toată durata pentru care este delegat să le folosească."]
+            ]
+          },
+          {
+            "no": "20",
+            "label": "Art. 20",
+            "items": [
+              ["(1)","Personalul împuternicit cu folosirea dispozitivelor speciale de marcat prevăzute la art. 13 şi 14 are obligaţia să depună la utilizator delegaţia de marcare completată corespunzător, până cel mai târziu în ultima zi înscrisă în delegaţie, împreună cu raportul de activitate privind folosirea dispozitivului special de marcat."],
+              ["(2)","Personalul împuternicit cu folosirea dispozitivelor speciale de marcat prevăzute la art. 15 are obligaţia să transmită la registratura utilizatorului, lunar, până la data de 5 a lunii următoare folosirii, raportul de activitate privind folosirea dispozitivului special de marcat semnat electronic. În ziua în care expiră perioada de utilizare din delegaţia de marcare, personalul împuternicit depune la utilizator, în original, delegaţia de marcare şi raportul de activitate privind folosirea dispozitivului special de marcat pentru toată perioada menţionată în delegaţia de marcare."],
+              ["(3)","Modelul raportului de activitate privind folosirea dispozitivului special de marcat este prevăzut în anexa nr. 9 la prezentul regulament."],
+              ["(4)","La restituire, raportul de activitate privind folosirea dispozitivului special de marcat se înregistrează în registrul de corespondenţă al utilizatorului."],
+              ["(5)","La depunerea raportului, conducătorul utilizatorului are obligaţia să verifice dacă consemnările din raportul de activitate privind folosirea dispozitivului special de marcat întocmit de personalul împuternicit sunt corelate cu cele din delegaţia de marcare în privinţa locului, scopului folosirii şi intervalului de folosire."]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21",
+            "items": [
+              ["","În vederea aplicării prevederilor art. 104 alin. (1) din Legea nr. 331/2024, cu modificările şi completările ulterioare, la realizarea lucrărilor de conducere şi îngrijire a arboretelor cu vârsta până la 30 de ani, arborii destinaţi recoltării sunt însemnaţi prin grifare sau cu un punct de vopsea, iar evaluarea volumului de lemn destinat recoltării se face potrivit metodei cu suprafeţe de probă prevăzute în anexa nr. 11 la Ordinul ministrului mediului, apelor şi pădurilor nr. 1.323/2015 privind aprobarea metodelor dendrometrice pentru evaluarea volumului de lemn destinat valorificării şi valorile necesare calculului volumului de lemn destinat valorificării."]
+            ]
+          },
+          {
+            "no": "22",
+            "label": "Art. 22",
+            "items": [
+              ["(1)","Prin excepţie de la prevederile art. 10 şi pentru punerea în aplicare a prevederilor art. 104 alin. (8) din Legea nr. 331/2024, cu modificările şi completările ulterioare, ocoalele silvice care îşi definesc zone-pilot transmit spre avizare gărzii forestiere competente teritorial un memoriu tehnic care conţine următoarele elemente:"],
+              ["a)","delimitarea clară şi precisă a zonei-pilot, utilizând limite naturale descrise şi înregistrate digital printr-un fişier vectorial de tip shapefile;"],
+              ["b)","lista unităţilor amenajistice din zona-pilot, cu specificarea proprietarului;"],
+              ["c)","coordonatele geografice ale tuturor punctelor de ieşire auto posibile din zona-pilot;"],
+              ["d)","dovada monitorizării video permanente a tuturor ieşirilor auto posibile din zona-pilot, cu termenul de stocare a imaginilor video de minimum 3 luni;"],
+              ["e)","descrierea sistemului alternativ propus pentru materializarea în teren a arborilor destinaţi recoltării;"],
+              ["f)","descrierea modului de evaluare a volumului de lemn destinat recoltării prin aplicarea metodelor prevăzute la alin. (2)."],
+              ["(2)","În zonele-pilot stabilite cu respectarea prevederilor alin. (1), evaluarea volumului de lemn recoltat se face potrivit metodelor de evaluare prevăzute în anexele nr. 5, 8 şi 11 la Ordinul ministrului mediului, apelor şi pădurilor nr. 1.323/2015."]
+            ]
+          },
+          {
+            "no": "23",
+            "label": "Art. 23",
+            "items": [
+              ["(1)","Conducerea silviculturală a arboretului în jurul arborilor de viitor, conform art. 104 alin. (9) din Legea nr. 331/2024, cu modificările şi completările ulterioare, se face în arboretele din clasele I-III de producţie cu potenţial pentru dezvoltarea arborilor de calitate superioară, care au diametrul mediu între 14-30 cm la momentul intervenţiei, din zonele-pilot declarate în baza art. 104 alin. (8) Legea nr. 331/2024, cu modificările şi completările ulterioare, şi cu respectarea prevederilor art. 21."],
+              ["(2)","În vederea aplicării alin. (1), ocoalele silvice care asigură administrarea sau serviciile silvice tehnice procedează după cum urmează:"],
+              ["a)","anterior realizării lucrărilor de îngrijire şi conducere se stabilesc culoarele de acces pe suprafaţa arboretului şi se identifică arbori de viitor din specii care să asigure atingerea compoziţiei-ţel şi respectarea criteriilor de vigoare, calitate şi spaţiere a arborilor de viitor;"],
+              ["b)","executarea lucrării silviculturale se desfăşoară cu respectarea normelor tehnice în vigoare, astfel încât pe lângă arborii de viitor se păstrează arbori de ajutor, arbori pentru biodiversitate/lemn mort, insule de îmbătrânire sau elemente de biodiversitate şi se asigură menţinerea gradului de acoperire a solului în vederea conservării umidităţii acestuia;"],
+              ["c)","arborii de viitor identificaţi sunt însemnaţi, astfel încât să asigure vizibilitatea din cel puţin două direcţii diametral opuse, şi se culeg date minime cu privire la specie şi diametrul la 1,30 m de la sol;"],
+              ["d)","centralizatorul arborilor de viitor, întocmit pe baza datelor culese la lit. c), este folosit pentru a urmări unii indicatori de stare ai pădurii propuşi prin documentaţia depusă la stabilirea zoneipilot. CAPITOLUL V Dispoziţii finale"]
+            ]
+          },
+          {
+            "no": "24",
+            "label": "Art. 24",
+            "items": [
+              ["","Se interzic cu desăvârşire:"],
+              ["a)","confecţionarea dispozitivelor speciale de marcat cu încălcarea prevederilor prezentului regulament şi falsificarea sau folosirea de dispozitive false ori a altor instrumente pentru marcarea arborilor destinaţi tăierii şi a cioatelor arborilor tăiaţi ilegal decât cele reglementate în prezentul regulament;"],
+              ["b)","încredinţarea dispozitivelor speciale de marcat altor persoane şi folosirea în alte scopuri decât cele prevăzute la art. 10-15;"],
+              ["c)","folosirea dispozitivelor speciale de marcat în alte locuri decât cele înscrise în delegaţia de marcare emisă;"],
+              ["d)","folosirea dispozitivelor speciale de marcat după expirarea termenului înscris în delegaţia de marcare;"],
+              ["e)","folosirea dispozitivului special de marcat fără drept sau contrar dispoziţiilor legale specifice;"],
+              ["f)","deţinerea fără drept a dispozitivelor speciale de marcat."]
+            ]
+          },
+          {
+            "no": "25",
+            "label": "Art. 25",
+            "items": [
+              ["","Săvârşirea uneia dintre faptele prevăzute la art. 24 atrage răspunderea disciplinară, contravenţională sau, după caz, penală a persoanei vinovate, în conformitate cu prevederile legale."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26",
+            "items": [
+              ["(1)","Pierderea sau furtul dispozitivului special de marcat se anunţă în scris conducătorului utilizatorului de personalul împuternicit, în cel mult 24 de ore de la constatare. Conducătorul utilizatorului comunică pierderea sau furtul unităţii de poliţie şi Gărzii Forestiere Naţionale sau gărzii forestiere competente teritorial, după caz, în cel mult 24 de ore de la data înştiinţării."],
+              ["(2)","În cazul în care dispozitivul special de marcat nu este găsit în termen de 15 zile, utilizatorul face cunoscută pierderea sau furtul acestuia în Monitorul Oficial al României, Partea a III-a, precizând că folosirea dispozitivului special de marcat respectiv constituie infracţiune potrivit art. 148 din Legea nr. 331/2024, cu modificările şi completările ulterioare."],
+              ["(3)","La expirarea termenului prevăzut la alin. (2), la solicitarea utilizatorului, emitentul autorizaţiei de confecţionare ia decizia de anulare a dispozitivului special de marcat. Această decizie, împreună cu documentul doveditor privind publicarea pierderii sau furtului în Monitorul Oficial al României, Partea a III-a, se comunică de către utilizator biroului notarului public unde este înregistrat dispozitivul respectiv."],
+              ["(4)","După anulare, dispozitivul special de marcat se scoate din inventarul utilizatorului."]
+            ]
+          },
+          {
+            "no": "27",
+            "label": "Art. 27",
+            "items": [
+              ["(1)","Utilizatorul, prin reprezentantul său legal, este obligat să predea în custodie gărzii forestiere competente teritorial dispozitivele speciale de marcat, pe bază de proces-verbal, dacă se găseşte în una dintre următoarele situaţii:"],
+              ["a)","nu mai desfăşoară/îşi încetează activitatea pentru care a fost autorizat să deţină şi să folosească dispozitivele speciale de marcat;"],
+              ["b)","i se suspendă dreptul de utilizare a dispozitivelor speciale de marcat;"],
+              ["c)","dispozitivul special de marcat furat sau pierdut este găsit după termenul prevăzut la art. 26 alin. (2) şi după ce acesta a fost anulat conform procedurii prevăzute la art. 26 alin. (3);"],
+              ["d)","alte situaţii prevăzute de actele normative de ordin primar, secundar sau terţiar."],
+              ["(2)","Predarea în custodie a dispozitivelor speciale de marcat pentru situaţiile prevăzute la alin. (1) se face în termen de maximum 5 zile lucrătoare de la data constatării situaţiei. Nerespectarea acestei dispoziţii este considerată ca faptă de deţinere a dispozitivelor speciale de marcat cu nerespectarea reglementărilor specifice în vigoare."],
+              ["(3)","După expirarea perioadei de suspendare, dispozitivele speciale de marcat se restituie utilizatorului pe bază de proces-verbal, în termen de maximum 5 zile lucrătoare de la data expirării perioadei de suspendare."],
+              ["(4)","Prin excepţie de la prevederile alin. (1) lit. a), dispozitivele speciale de marcat înregistrate la ocoalele silvice care îşi încetează activitatea prin trecerea suprafeţelor de fond forestier care au stat la baza constituirii şi funcţionării la alte ocoale silvice, prin rearondare/fuziune/divizare, se pot prelua, la cerere, de către ocolul silvic rezultat prin rearondare/fuziune/divizare, cu acordul gărzii forestiere competente teritorial."],
+              ["(5)","Nepredarea în custodia gărzii forestiere competente teritorial a dispozitivelor speciale de marcat, în termen de maximum 5 zile lucrătoare de la data transmiterii solicitării, este considerată ca faptă de deţinere a dispozitivelor speciale de marcat cu nerespectarea reglementărilor specifice în vigoare."],
+              ["(6)","Dispozitivele speciale de marcat predate gărzilor forestiere competente teritoriale în baza prevederilor alin. (1) se casează şi se distrug de acestea după 5 ani de la preluarea lor."]
+            ]
+          },
+          {
+            "no": "28",
+            "label": "Art. 28",
+            "items": [
+              ["(1)","Conducătorul utilizatorului are obligaţia verificării la fiecare 5 ani sau ori de câte ori este nevoie a stării tehnice a dispozitivelor speciale de marcat şi consemnării acesteia într-un proces-verbal, iar, în funcţie de starea tehnică, poate decide:"],
+              ["a)","utilizarea în continuare a dispozitivului special de marcat;"],
+              ["b)","casarea dispozitivului special de marcat, dacă se constată că amprenta dispozitivului de marcat este deteriorată ori uzată."],
+              ["(2)","Casarea dispozitivelor speciale de marcat se face în situaţiile prevăzute la alin. (1) lit. b) şi la art. 27 alin. (1) lit. a)."],
+              ["(3)","Casarea dispozitivelor speciale de marcat se face de către comisia constituită prin decizia emitentului autorizaţiei de confecţionare a dispozitivelor respective. După distrugerea indicativelor/însemnelor dispozitivului special de marcat, comisia încheie un proces-verbal de casare."],
+              ["(4)","În termen de 10 zile calendaristice de la data casării dispozitivului special de marcat, consemnată în procesul-verbal, conducătorul utilizatorului care a deţinut dispozitivul special de marcat este obligat să comunice RNEADSM faptul că dispozitivul special de marcat a fost casat."],
+              ["(5)","Amprentele dispozitivelor speciale de marcat înregistrate în RNEADSM anterior intrării în vigoare a prezentului regulament rămân valabile."]
+            ]
+          },
+          {
+            "no": "29",
+            "label": "Art. 29",
+            "items": [
+              ["","Prevederile prezentului regulament se completează cu dispoziţiile legale specifice din actele normative în vigoare."]
+            ]
+          },
+          {
+            "no": "30",
+            "label": "Art. 30",
+            "items": [["", "Anexele nr. 1-9 fac parte integrantă din prezentul regulament."]]
+          }
+        ]
+      },
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – articolul la care trimite regulamentul",
+        "note": "Legea nr. 331/2024, în forma din 12 ianuarie 2025 (salvată de tine); poate fi modificat ulterior.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "104",
+            "label": "Art. 104",
+            "items": [
+              ["(1)","Arborii destinaţi tăierii se inventariază şi, în funcţie de natura tăierii, se marchează, după caz, cu dispozitive speciale de marcat, în conformitate cu regulamentul prevăzut la alin. (4). Pentru lucrările de conducere şi îngrijire a arboretelor cu vârsta până la 30 de ani nu se folosesc dispozitive speciale de marcat."],
+              ["(2)","Dispozitivele speciale de marcat se folosesc şi de către personalul cu atribuţii de control pentru marcarea cioatelor arborilor tăiaţi ilegal."],
+              ["(3)","Dispozitivelor speciale de marcat li se aplică regimul juridic al mărcilor şi sigiliilor."],
+              ["(4)","Forma şi modul de utilizare a dispozitivelor speciale de marcat, precum şi modul de marcare a arborilor sau a unor loturi de arbori se stabilesc prin regulament, aprobat prin ordin al conducătorului Autorităţii."],
+              ["(5)","Folosirea dispozitivelor speciale de marcat se face numai de către personalul împuternicit."],
+              ["(6)","Personalul împuternicit pentru folosirea dispozitivului special de marcat are obligaţia de a nu îl folosi în alte scopuri sau în alte locaţii decât cele prevăzute în delegaţia de marcare emisă sau după expirarea termenului înscris în delegaţie."],
+              ["(7)","Pentru marcarea arborilor pot fi utilizate şi alte sisteme de marcare în baza regulamentului prevăzut la alin. (4)."],
+              ["(8)","Prin regulamentul prevăzut la alin. (4) se pot stabili, pe zone-pilot, şi modalităţi de recoltare a arborilor fără folosirea dispozitivelor speciale de marcat."],
+              ["(9)","Administratorii de terenuri cu destinaţie forestieră pot alege să implementeze un sistem alternativ de marcare, care să consemneze elemente de identificare a arborilor de viitor, cu renunţarea marcării arborilor de extras. Experimentarea acestor sisteme este supusă avizării prealabile a Gărzii Forestiere competente teritorial şi este condiţionată de existenţa unei monitorizări video permanente a tuturor ieşirilor posibile din fondul forestier administrat."]
+            ]
+          }
+        ]
+      }
+    ],
+    "annexes": {
+      "title": "Anexele regulamentului (conținutul relevant pentru examen)",
+      "items": [
+        {
+          "no": "2",
+          "items": [
+            ["","CERTIFICAT DE ABILITARE (model) pentru confecționarea dispozitivelor speciale de marcat, emis de comisia prevăzută la art. 5 alin. (1)."],
+            ["","Prezentul certificat de abilitare este valabil 5 ani de la data emiterii."]
+          ]
+        },
+        {
+          "no": "6",
+          "items": [
+            ["","REGISTRUL de evidență a folosirii dispozitivelor speciale de marcat cu amprentă pătrată, pentagonală și triunghiulară."],
+            ["Scopul folosirii","Delimitare parchet pentru dispozitivele cu amprentă pătrată, control fond/parțial pentru dispozitivele cu amprentă pentagonală și triunghiulară."]
+          ]
+        },
+        {
+          "no": "7",
+          "items": [
+            ["","ÎMPUTERNICIRE pentru folosirea dispozitivului de marcat. Împuternicitul are următoarele obligații:"],
+            ["a)","să păstreze în deplină siguranță dispozitivul special de marcat, în perioadele cât îl are în folosire cu delegație de marcare;"],
+            ["b)","să nu încredințeze dispozitivul special de marcat altor persoane;"],
+            ["c)","să folosească dispozitivul special de marcat numai pentru scopul și în locul (U.P., u.a., proprietar/tarla/parcelă) înscris în delegația de marcare;"],
+            ["d)","să folosească și să aplice dispozitivul special de marcat conform prevederilor regulamentului;"],
+            ["e)","să anunțe, în scris, pierderea sau furtul dispozitivului special de marcat conducătorului utilizatorului, în termen de cel mult 24 de ore de la constatare;"],
+            ["f)","să anunțe, în scris, deteriorarea dispozitivului special de marcat conducătorului utilizatorului, imediat după producerea acesteia;"],
+            ["g)","să depună în caseta individuală din fișetul metalic de la sediul ocolului dispozitivul special de marcat la expirarea perioadei de folosire înscrisă în delegația de marcare;"],
+            ["h)","să depună raport de activitate privind folosirea dispozitivului special de marcat după fiecare perioadă de folosire, cel mai târziu în ultima zi de folosire înscrisă în delegație;"],
+            ["i)","să predea conducătorului utilizatorului dispozitivul special de marcat la încetarea activității în cadrul utilizatorului, precum și cheile de acces la caseta individuală din fișetul metalic, pe bază de proces-verbal."]
+          ]
+        },
+        {
+          "no": "9",
+          "items": [
+            ["","RAPORT DE ACTIVITATE privind folosirea dispozitivului special de marcat (pătrat, pentagonal sau triunghiular). Conține: locul și scopul folosirii, numerotarea arborilor/cioatelor, numărul total, perioada marcării, echipa, culoarea vopselei."],
+            ["Declarație","Declar pe propria răspundere că nu am încredințat dispozitivul special de marcat altor persoane, că nu l-am folosit în afara prevederilor delegației de folosire primite și că nu am aplicat marca pe arbori sau cioate care nu sunt menționate în prezentul raport."]
+          ]
+        }
+      ]
+    }
+  }
+}

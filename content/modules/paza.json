@@ -1,0 +1,1695 @@
+{
+  "id": "paza",
+  "title": "Paza fondului forestier",
+  "act": "HG nr. 1076/2009 și Regulamentul de pază",
+  "version": "Regulament în forma la zi (29.10.2026); hotărârea în forma inițială (2009)",
+  "intro": "Regulamentul spune cine păzește pădurea, cum se predă un canton, ce face fiecare om din ocol, cum se fac controalele de fond și cine plătește pagubele. Pentru un inginer silvic e partea de zi cu zi: vei face controale, vei aproba acte și vei răspunde de pază.",
+  "lesson": [
+    {
+      "title": "1. Ideea de bază: cine păzește și unde",
+      "paragraphs": [
+        {
+          "text": "Paza pădurii se organizează pe **cantoane**. Cantonul este unitatea de bază, iar mai multe cantoane pot forma un **district** la nivelul ocolului.",
+          "refs": ["Reg. art. 1"]
+        },
+        {
+          "text": "Paza se face **numai prin ocoale silvice** și **numai de personal silvic autorizat să poarte armă de serviciu**. În contractele de administrare sau de servicii silvice, paza este **serviciu obligatoriu**.",
+          "refs": ["HG art. 2–4"]
+        },
+        {
+          "text": "Pădurarul titular păzește cantonul printr-o **supraveghere permanentă**, cu măsuri speciale acolo unde apar des tăieri ilegale, pășunat neautorizat sau incendii.",
+          "refs": ["Reg. art. 2"]
+        },
+        {
+          "text": "Când păzește și controlează, personalul silvic este **asimilat celor care exercită autoritatea publică**. De aceea poate constata contravenții și fapte care pot fi infracțiuni.",
+          "refs": ["HG art. 6"]
+        },
+        {
+          "text": "Dacă cineva comite o infracțiune asupra unui pădurar aflat în serviciu, ocolul sesizează organele de urmărire penală în **24 de ore**.",
+          "refs": ["HG art. 7"]
+        }
+      ],
+      "keep": [
+        "Canton = unitatea de bază a pazei",
+        "Paza: numai prin ocoale, numai cu personal autorizat la armă",
+        "Sesizare penală pentru atacuri asupra pădurarului: 24 de ore"
+      ],
+      "quiz": [
+        {
+          "q": "Ce structură grupează mai multe cantoane silvice?",
+          "options": ["Ocolul silvic", "Districtul silvic", "Unitatea de producție", "Direcția silvică"],
+          "answer": 1,
+          "explain": "La nivelul ocolului se pot constitui districte formate din mai multe cantoane.",
+          "ref": "Reg. art. 1 alin. (2)"
+        },
+        {
+          "q": "Prin cine se asigură paza fondului forestier național?",
+          "options": [
+            "Numai prin ocoale silvice",
+            "Prin firme private de pază",
+            "Prin primării",
+            "Prin jandarmerie"
+          ],
+          "answer": 0,
+          "explain": "Paza se asigură numai prin ocoalele silvice.",
+          "ref": "HG art. 2"
+        },
+        {
+          "q": "Când păzește și controlează, personalul silvic este asimilat:",
+          "options": [
+            "Polițiștilor",
+            "Personalului care exercită autoritatea publică",
+            "Personalului contractual obișnuit",
+            "Agenților de pază privați"
+          ],
+          "answer": 1,
+          "explain": "De aceea poate constata contravenții și fapte care pot fi infracțiuni.",
+          "ref": "HG art. 6"
+        }
+      ]
+    },
+    {
+      "title": "2. Predarea-primirea cantonului",
+      "paragraphs": [
+        {
+          "text": "Cantonul se predă **pe bază de control de fond**, făcut de șeful ocolului sau de împuternicitul lui. Se încheie un **proces-verbal de predare-primire** (anexa 1).",
+          "refs": ["Reg. art. 4 alin. (1)"]
+        },
+        {
+          "text": "Cine primește cantonul primește și **condica de serviciu** (anexa 2) și **harta cantonului**.",
+          "refs": ["Reg. art. 4 alin. (2)"]
+        },
+        {
+          "text": "Dacă pădurarul care predă nu poate veni din motive întemeiate, la control participă în plus **2 pădurari de la cantoanele vecine** și **un membru major al familiei** lui, anunțat în scris din timp.",
+          "refs": ["Reg. art. 5 alin. (1)"]
+        },
+        {
+          "text": "Dacă titularul sau familia refuză să vină, refuzul se scrie în proces-verbal și predarea merge mai departe. În acest caz participă și un **reprezentant al structurii teritoriale a autorității silvice** (Garda Forestieră).",
+          "refs": ["Reg. art. 5 alin. (2)"]
+        },
+        {
+          "text": "Dacă nu există un om disponibil să preia cantonul, șeful ocolului desemnează pădurari din cantoanele vecine, pentru **maximum 60 de zile**.",
+          "refs": ["Reg. art. 5 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "Predarea se face pe control de fond + PV (anexa 1)",
+        "Titular absent: 2 pădurari vecini + un membru major al familiei",
+        "Refuz: se consemnează, nu oprește predarea, vine și Garda",
+        "Preluare provizorie de vecini: max. 60 de zile"
+      ],
+      "quiz": [
+        {
+          "q": "Ce primește pădurarul odată cu cantonul?",
+          "options": [
+            "Doar procesul-verbal",
+            "Condica de serviciu și harta cantonului",
+            "Amenajamentul complet",
+            "Registrul contravențiilor"
+          ],
+          "answer": 1,
+          "explain": "Condica (anexa 2), pe care o completează, și harta cantonului.",
+          "ref": "Reg. art. 4 alin. (2)"
+        },
+        {
+          "q": "Familia titularului refuză să vină la predare. Ce se întâmplă?",
+          "options": [
+            "Predarea se amână",
+            "Se consemnează în PV, predarea continuă și participă și un reprezentant al Gărzii",
+            "Predarea se anulează",
+            "Se cere aprobarea direcției"
+          ],
+          "answer": 1,
+          "explain": "Refuzul nu oprește predarea.",
+          "ref": "Reg. art. 5 alin. (2)"
+        },
+        {
+          "q": "Pe ce perioadă maximă preiau pădurarii vecini un canton fără titular disponibil?",
+          "options": ["30 de zile", "60 de zile", "90 de zile", "180 de zile"],
+          "answer": 1,
+          "explain": "Maximum 60 de zile.",
+          "ref": "Reg. art. 5 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Predarea cantonului, pas cu pas",
+        "steps": [
+          {
+            "title": "Motivul predării",
+            "text": "concediu, spital, suspendare, contract nou, rearondare",
+            "ref": "Reg. art. 16 alin. (2)"
+          },
+          {
+            "title": "Control de fond",
+            "text": "făcut de șeful ocolului sau de împuternicitul lui",
+            "ref": "Reg. art. 4 alin. (1)"
+          },
+          {
+            "title": "Titularul lipsește?",
+            "text": "vin în plus 2 pădurari vecini și un membru major al familiei; la refuz, vine și Garda",
+            "ref": "Reg. art. 5 alin. (1)–(2)"
+          },
+          {
+            "title": "Proces-verbal de predare-primire",
+            "text": "după modelul din anexa 1",
+            "ref": "Reg. anexa 1"
+          },
+          {
+            "title": "Noul titular primește",
+            "text": "condica de serviciu și harta cantonului",
+            "ref": "Reg. art. 4 alin. (2)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "3. Cine ce face în ocol",
+      "paragraphs": [
+        {
+          "text": "**Pădurarul** răspunde de paza cantonului. Printre altele: apără integritatea fondului, întreține bornele, raportează în scris arborii infestați sau doborâți, înregistrează cioatele arborilor tăiați ilegal în condică, încheie acte de constatare și le **depune la ocol în 5 zile**, confiscă sau reține lemnul ilegal, delimitează suprafețele de pășunat aprobate, patrulează în perioadele cu risc de incendiu și controlează circulația lemnului.",
+          "refs": ["Reg. art. 6"]
+        },
+        {
+          "text": "**Șeful de district** coordonează și controlează pădurarii și răspunde **în solidar cu pădurarul** pentru pagube. Trimite rapoartele pădurarilor la ocol în **maximum 5 zile**, raportează în scris arborii infestați, uscați sau doborâți în **maximum 48 de ore** și se asigură că actele de constatare ajung la ocol în **cel mult 5 zile**.",
+          "refs": ["Reg. art. 7"]
+        },
+        {
+          "text": "**Șeful ocolului** răspunde de organizarea pazei. Arondează cantoanele și trece atribuțiile în fișa postului, face planul de pază și de controale, organizează cu poliția instruirea pentru armă, ține **Registrul contravențiilor și infracțiunilor** (anexa 3), analizează **lunar** activitatea de pază, face controale și **aprobă actele de control** ale personalului din subordine.",
+          "refs": ["Reg. art. 8"]
+        },
+        {
+          "text": "**Conducătorul direcției silvice** organizează paza la nivelul direcției, dispune măsuri când terenuri sunt ocupate ilegal, **aprobă actele de control de fond ale șefilor de ocol**, urmărește recuperarea pagubelor și asigură **asistență juridică gratuită** personalului silvic în cauzele legate de pază.",
+          "refs": ["Reg. art. 9"]
+        }
+      ],
+      "keep": [
+        "Pădurar: acte de constatare la ocol în 5 zile",
+        "Șef district: rapoarte în 5 zile, arbori infestați în 48 de ore, răspunde în solidar",
+        "Șef ocol: Registrul contravențiilor (anexa 3), analiză lunară",
+        "Direcția silvică: aprobă controalele de fond ale șefilor de ocol, asistență juridică gratuită"
+      ],
+      "quiz": [
+        {
+          "q": "Cine organizează arondarea cantoanelor?",
+          "options": ["Pădurarul", "Șeful de district", "Șeful ocolului", "Garda Forestieră"],
+          "answer": 2,
+          "explain": "Șeful ocolului arondează cantoanele și trece atribuțiile în fișa postului.",
+          "ref": "Reg. art. 8 lit. c)"
+        },
+        {
+          "q": "În ce termen înaintează șeful de district rapoartele pădurarilor la ocol?",
+          "options": ["24 de ore", "48 de ore", "Maximum 5 zile", "30 de zile"],
+          "answer": 2,
+          "explain": "Rapoartele merg la ocol în maximum 5 zile.",
+          "ref": "Reg. art. 7 lit. f)"
+        },
+        {
+          "q": "Cine aprobă actele de control de fond ale șefilor de ocol?",
+          "options": ["Șeful ocolului vecin", "Conducătorul direcției silvice", "Șeful de district", "Primarul"],
+          "answer": 1,
+          "explain": "Conducătorul direcției silvice sau al structurii de rang superior.",
+          "ref": "Reg. art. 9 lit. e)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Cine ce face în paza pădurii",
+        "levels": [
+          {
+            "who": "Direcția silvică",
+            "does": [
+              "organizează paza în raza direcției",
+              "aprobă controalele de fond ale șefilor de ocol",
+              "asistență juridică gratuită"
+            ],
+            "ref": "Reg. art. 9"
+          },
+          {
+            "who": "Șeful ocolului",
+            "does": [
+              "arondează cantoanele",
+              "planul de pază și de controale",
+              "aprobă actele de control",
+              "Registrul contravențiilor",
+              "analiză lunară"
+            ],
+            "ref": "Reg. art. 8"
+          },
+          {
+            "who": "Șeful de district",
+            "does": [
+              "coordonează pădurarii",
+              "răspunde în solidar",
+              "rapoarte în 5 zile",
+              "arbori infestați în 48 de ore"
+            ],
+            "ref": "Reg. art. 7"
+          },
+          {
+            "who": "Pădurarul",
+            "does": [
+              "supraveghere permanentă",
+              "acte de constatare în 5 zile",
+              "cioatele în condică",
+              "confiscă lemnul ilegal"
+            ],
+            "ref": "Reg. art. 6"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Preluarea unei suprafețe prin contract",
+      "paragraphs": [
+        {
+          "text": "Când un ocol preia o pădure fără contract, cu contract încetat sau de la un ocol care și-a pierdut autorizația, preluarea se face **prin control de fond**.",
+          "refs": ["Reg. art. 10"]
+        },
+        {
+          "text": "Contractul de administrare sau de servicii se semnează **odată cu procesul-verbal** de predare-primire.",
+          "refs": ["Reg. art. 11"]
+        },
+        {
+          "text": "Controlul de fond se face în **cel mult 30 de zile** de la solicitare, de un reprezentant al **Gărzii Forestiere**, în prezența proprietarului (sau a împuternicitului), a delegatului ocolului, a pădurarului care preia și, după caz, a celui care predă.",
+          "refs": ["Reg. art. 12"]
+        },
+        {
+          "text": "Se verifică limitele și încălcările de hotar, bornele, arborii tăiați sau scoși fără drept (pe toată suprafața, cu calculul pagubelor) și delimitarea zonelor de pășunat.",
+          "refs": ["Reg. art. 13"]
+        }
+      ],
+      "keep": [
+        "Preluare prin contract: control de fond în max. 30 de zile",
+        "Îl face reprezentantul Gărzii Forestiere",
+        "Contractul se semnează odată cu PV de predare-primire"
+      ],
+      "quiz": [
+        {
+          "q": "Cine face controlul de fond la preluarea unei păduri prin contract?",
+          "options": [
+            "Șeful ocolului care predă",
+            "Un reprezentant al Gărzii Forestiere",
+            "Proprietarul",
+            "Un expert judiciar"
+          ],
+          "answer": 1,
+          "explain": "Reprezentantul structurii teritoriale a autorității silvice, adică Garda Forestieră.",
+          "ref": "Reg. art. 12"
+        },
+        {
+          "q": "Când se semnează contractul de administrare sau de servicii silvice?",
+          "options": [
+            "Înainte de control",
+            "Odată cu procesul-verbal de predare-primire",
+            "La 30 de zile după control",
+            "Nu e nevoie de semnătură"
+          ],
+          "answer": 1,
+          "explain": "Contractul se semnează odată cu PV încheiat în baza controlului de fond.",
+          "ref": "Reg. art. 11"
+        }
+      ]
+    },
+    {
+      "title": "5. Controlul de fond și controlul parțial",
+      "paragraphs": [
+        {
+          "text": "Controalele în cantoane le fac inginerii și tehnicienii de la ocoale, direcții și structuri superioare, plus personalul de specialitate al autorității silvice teritoriale.",
+          "refs": ["Reg. art. 14"]
+        },
+        {
+          "text": "**Controlul de fond** verifică: limitele și hotarele, bornele, arborii, puieții și lăstarii tăiați fără drept (parcurgând **toată suprafața**), delimitarea pășunatului, gestiunea bunurilor, sarcinile de prevenire a incendiilor și completarea condicii.",
+          "refs": ["Reg. art. 15"]
+        },
+        {
+          "text": "Fiecare canton se parcurge cu **cel puțin două controale de fond pe an**, când vremea permite găsirea prejudiciilor. Se face control de fond și la orice predare a cantonului: concediu, spital, suspendare, contracte noi, rearondări.",
+          "refs": ["Reg. art. 16"]
+        },
+        {
+          "text": "**Controlul parțial** are aceleași obiective, dar pe **o parte din canton**: la o sesizare, la semnalarea unor tăieri ilegale sau la verificarea unor lucrări.",
+          "refs": ["Reg. art. 17"]
+        },
+        {
+          "text": "Controlul se face în prezența **pădurarului titular** și a unui **asistent** delegat de șeful ocolului.",
+          "refs": ["Reg. art. 18"]
+        },
+        {
+          "text": "Cioatele arborilor tăiați ilegal se **numerotează, se marchează cu dispozitivul de marcat** și se inventariază **pe specii și diametre**. Numerotarea continuă pentru toate cioatele găsite în canton în același an.",
+          "refs": ["Reg. art. 19"]
+        }
+      ],
+      "keep": [
+        "Minimum 2 controale de fond pe an în fiecare canton",
+        "Parțial = aceleași obiective, pe o parte din canton",
+        "Prezenți: pădurarul titular + un asistent",
+        "Cioate: numerotate, marcate, inventariate pe specii și diametre; numerotare continuă pe an"
+      ],
+      "quiz": [
+        {
+          "q": "Când se fac cele două controale de fond anuale?",
+          "options": [
+            "Oricând",
+            "Când condițiile atmosferice permit identificarea prejudiciilor",
+            "Doar vara",
+            "Doar iarna"
+          ],
+          "answer": 1,
+          "explain": "Regula leagă controlul de vremea care permite găsirea prejudiciilor.",
+          "ref": "Reg. art. 16 alin. (1)"
+        },
+        {
+          "q": "Cum se numerotează cioatele găsite la control?",
+          "options": [
+            "De la 1 la fiecare control",
+            "În continuare, pentru toate cioatele găsite în canton în același an",
+            "Separat pe fiecare unitate amenajistică",
+            "Nu se numerotează"
+          ],
+          "answer": 1,
+          "explain": "Numerotarea continuă pe tot anul.",
+          "ref": "Reg. art. 19 alin. (3)"
+        },
+        {
+          "q": "Cine este asistentul la un control?",
+          "options": [
+            "Un polițist",
+            "Personal silvic delegat de șeful ocolului",
+            "Proprietarul pădurii",
+            "Un pădurar ales de cel controlat"
+          ],
+          "answer": 1,
+          "explain": "Asistentul este personal silvic delegat de șeful ocolului.",
+          "ref": "Reg. art. 18"
+        }
+      ]
+    },
+    {
+      "title": "6. Răspunderea pentru pagube și actele de control",
+      "paragraphs": [
+        {
+          "text": "Pădurarul titular **răspunde patrimonial** pentru arborii, puieții și lăstarii tăiați, distruși sau furați care **nu sunt justificați prin procese-verbale încheiate înainte de control**, sau care au fost justificați prin acte declarate ulterior neîntemeiate printr-o hotărâre judecătorească definitivă.",
+          "refs": ["Reg. art. 20"]
+        },
+        {
+          "text": "Pagubele din neîndeplinirea pazei se impută celor responsabili **în solidar cu pădurarul**. Se recuperează prin **rețineri lunare pe statul de plată**, din **garanția gestionară** sau prin alte mijloace legale. Pagubele se evaluează după regulile în vigoare **la data constatării**.",
+          "refs": ["HG art. 8–10"]
+        },
+        {
+          "text": "La început și la sfârșit, controlul se notează în condică cu o formulă fixă (dată, oră, cine a fost de față, semnătura). În fiecare zi de control, evidența cioatelor se **barează și se semnează** de controlor, de cel controlat și de asistenți.",
+          "refs": ["Reg. art. 21 alin. (1)–(2)"]
+        },
+        {
+          "text": "Angajatorul **poate aproba limitarea răspunderii patrimoniale** a personalului de pază, în condițiile legii (Ordinul 769/2006, modul separat).",
+          "refs": ["Reg. art. 21 alin. (3)"]
+        },
+        {
+          "text": "Constatările se trec într-un **act de control** (anexa 4), câte unul **pentru fiecare deținător**. Fiecare pagină se semnează de toți. Actul se depune la registratura ocolului în **cel mult 5 zile** de la încheierea controlului și se ține în **Registrul de evidență a controalelor** (anexa 5).",
+          "refs": ["Reg. art. 22"]
+        },
+        {
+          "text": "Actele se **aprobă în 5 zile** de la depunere: de șeful ocolului pentru oamenii lui; de Romsilva, direcția silvică sau structura superioară pentru personalul lor; de conducătorul structurii de control a autorității silvice pentru controalele acesteia.",
+          "refs": ["Reg. art. 23"]
+        }
+      ],
+      "keep": [
+        "Pădurarul plătește ce nu e justificat prin PV încheiate ÎNAINTE de control",
+        "Recuperare: rețineri lunare, garanția gestionară, alte mijloace",
+        "Act de control: unul pentru fiecare deținător, depus în 5 zile, aprobat în 5 zile"
+      ],
+      "quiz": [
+        {
+          "q": "Pagubele se evaluează după reglementările în vigoare:",
+          "options": ["La data producerii", "La data constatării", "La data aprobării actului", "La data plății"],
+          "answer": 1,
+          "explain": "Contează data constatării.",
+          "ref": "HG art. 8"
+        },
+        {
+          "q": "Ce se face zilnic, pe durata controlului, cu evidența cioatelor din condică?",
+          "options": [
+            "Nimic",
+            "Se barează și se semnează de controlor, de cel controlat și de asistenți",
+            "Se trimite la direcție",
+            "Se fotografiază"
+          ],
+          "answer": 1,
+          "explain": "Barare și semnare la sfârșitul fiecărei zile.",
+          "ref": "Reg. art. 21 alin. (2)"
+        },
+        {
+          "q": "Cine poate aproba limitarea răspunderii patrimoniale?",
+          "options": ["Pădurarul", "Persoana juridică angajatoare", "Instanța", "Garda Forestieră"],
+          "answer": 1,
+          "explain": "Angajatorul, în condițiile legii.",
+          "ref": "Reg. art. 21 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "De la control la aprobare",
+        "steps": [
+          {
+            "title": "Control de fond sau parțial",
+            "text": "în prezența pădurarului titular și a unui asistent",
+            "ref": "Reg. art. 18"
+          },
+          {
+            "title": "Cioatele",
+            "text": "numerotate, marcate cu dispozitivul de marcat, inventariate pe specii și diametre",
+            "ref": "Reg. art. 19"
+          },
+          {
+            "title": "Condica",
+            "text": "formula de început și de sfârșit; evidența cioatelor barată și semnată zilnic",
+            "ref": "Reg. art. 21"
+          },
+          {
+            "title": "Act de control",
+            "text": "câte unul pentru fiecare deținător, semnat pe fiecare pagină",
+            "ref": "Reg. art. 22 alin. (1)–(2)"
+          },
+          {
+            "title": "Depunere",
+            "text": "la registratura ocolului, în max. 5 zile",
+            "ref": "Reg. art. 22 alin. (3)"
+          },
+          {"title": "Aprobare", "text": "în 5 zile de la depunere", "ref": "Reg. art. 23"},
+          {
+            "title": "Evidență",
+            "text": "Registrul de evidență a controalelor (anexa 5)",
+            "ref": "Reg. art. 22 alin. (4)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "7. Instruirea lunară și armamentul",
+      "paragraphs": [
+        {
+          "text": "Ocoalele organizează **lunar** instruire despre folosirea și întreținerea armamentului, analiza activității de pază și prezentarea reglementărilor noi. Le conduce **șeful ocolului**, cu tot personalul de pază.",
+          "refs": ["Reg. art. 24 alin. (1)–(2)"]
+        },
+        {
+          "text": "Cât timp durează instruirea, șeful ocolului asigură paza cu personalul disponibil și cu ajutorul **poliției și jandarmeriei**.",
+          "refs": ["Reg. art. 24 alin. (3)"]
+        },
+        {
+          "text": "Instruirea despre armă și muniție o fac **organele de poliție**, sub coordonarea directă a șefului ocolului.",
+          "refs": ["Reg. art. 24 alin. (4)"]
+        }
+      ],
+      "keep": ["Instruire: lunar, condusă de șeful ocolului","Instruirea la armă o face poliția"],
+      "quiz": [
+        {
+          "q": "Cine conduce acțiunile lunare de instruire?",
+          "options": ["Șeful de district", "Șeful ocolului", "Poliția", "Garda Forestieră"],
+          "answer": 1,
+          "explain": "Șeful ocolului, cu tot personalul cu atribuții de pază.",
+          "ref": "Reg. art. 24 alin. (2)"
+        },
+        {
+          "q": "Cine asigură paza în timpul instruirii lunare?",
+          "options": [
+            "Nimeni",
+            "Personalul disponibil, cu sprijinul poliției și jandarmeriei",
+            "Proprietarii",
+            "Firme private"
+          ],
+          "answer": 1,
+          "explain": "Șeful ocolului asigură continuitatea pazei.",
+          "ref": "Reg. art. 24 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "8. Formularele și simbolurile din condică",
+      "paragraphs": [
+        {
+          "text": "Regulamentul are 5 anexe: **1** procesul-verbal de predare-primire a cantonului, **2** condica de serviciu, **3** Registrul contravențiilor și infracțiunilor, **4** actul de control (cu fișele de calcul a, b, c), **5** Registrul de evidență a controalelor.",
+          "refs": ["Reg. anexele 1–5"]
+        },
+        {
+          "text": "În condică, la arborii afectați, se folosesc simboluri: **TT** tăiat, găsit pe teren; **TL** tăiat, lipsă de pe teren; **ST** scos din pământ, pe teren; **SL** scos din pământ, lipsă; **C** crăci tăiate din arbori pe picior; **S** arbore secuit; **PC** pom de Crăciun.",
+          "refs": ["Reg. anexa 2"]
+        },
+        {
+          "text": "Fișa de calcul pentru pomi de Crăciun se întocmește pentru pagubele din **1 noiembrie – 31 decembrie** în arborete și **tot anul** în culturile specializate de pomi de Crăciun.",
+          "refs": ["Reg. anexa 4, fișa c)"]
+        },
+        {
+          "text": "În Registrul de evidență a controalelor, felul controlului se notează cu **P** (parțial) sau **F** (de fond).",
+          "refs": ["Reg. anexa 5"]
+        }
+      ],
+      "keep": ["Anexe: 1 PV predare, 2 condica, 3 registrul contravențiilor, 4 actul de control, 5 registrul controalelor","Simboluri: prima literă T/S (tăiat/scos), a doua T/L (pe teren/lipsă)"],
+      "quiz": [
+        {
+          "q": "Ce înseamnă simbolul SL în condică?",
+          "options": [
+            "Scos din pământ, lipsă de pe teren",
+            "Scos din pământ, găsit pe teren",
+            "Secuit lateral",
+            "Tăiat, lipsă de pe teren"
+          ],
+          "answer": 0,
+          "explain": "S = scos din pământ, L = lipsă.",
+          "ref": "Reg. anexa 2"
+        },
+        {
+          "q": "Cu ce simbol se notează un control parțial în registrul controalelor?",
+          "options": ["C", "P", "F", "CP"],
+          "answer": 1,
+          "explain": "P pentru parțial, F pentru de fond.",
+          "ref": "Reg. anexa 5"
+        },
+        {
+          "q": "Ce anexă a regulamentului este condica de serviciu?",
+          "options": ["Anexa 1", "Anexa 2", "Anexa 3", "Anexa 4"],
+          "answer": 1,
+          "explain": "1 PV predare, 2 condica, 3 registrul contravențiilor, 4 actul de control, 5 registrul controalelor.",
+          "ref": "Reg. anexa 2"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Termene",
+      "rows": [
+        {
+          "what": "Sesizarea penală pentru infracțiuni asupra pădurarului",
+          "value": "24 de ore",
+          "ref": "HG art. 7"
+        },
+        {
+          "what": "Raportarea arborilor infestați, uscați, doborâți (șef district)",
+          "value": "max. 48 de ore",
+          "ref": "Reg. art. 7 lit. k)"
+        },
+        {
+          "what": "Depunerea actelor de constatare la ocol",
+          "value": "5 zile",
+          "ref": "Reg. art. 6 lit. h), art. 7 lit. m)"
+        },
+        {
+          "what": "Înaintarea rapoartelor pădurarilor la ocol (șef district)",
+          "value": "max. 5 zile",
+          "ref": "Reg. art. 7 lit. f)"
+        },
+        {
+          "what": "Depunerea actului de control",
+          "value": "max. 5 zile de la încheiere",
+          "ref": "Reg. art. 22 alin. (3)"
+        },
+        {
+          "what": "Aprobarea actului de control",
+          "value": "5 zile de la depunere",
+          "ref": "Reg. art. 23"
+        },
+        {
+          "what": "Control de fond la preluarea prin contract",
+          "value": "max. 30 de zile de la solicitare",
+          "ref": "Reg. art. 12"
+        },
+        {
+          "what": "Preluarea cantonului de pădurari vecini",
+          "value": "max. 60 de zile",
+          "ref": "Reg. art. 5 alin. (3)"
+        },
+        {
+          "what": "Intrarea în vigoare a HG 1076/2009",
+          "value": "90 de zile de la publicare",
+          "ref": "HG art. 13"
+        }
+      ]
+    },
+    {
+      "title": "Cifre și frecvențe",
+      "rows": [
+        {"what": "Controale de fond pe canton", "value": "minimum 2 pe an", "ref": "Reg. art. 16"},
+        {
+          "what": "Pădurari vecini la predare fără titular",
+          "value": "2",
+          "ref": "Reg. art. 5 alin. (1)"
+        },
+        {"what": "Instruire și analiză a pazei", "value": "lunar", "ref": "Reg. art. 24"},
+        {
+          "what": "Analiza activității de pază de către șeful ocolului",
+          "value": "lunar",
+          "ref": "Reg. art. 8 lit. j)"
+        },
+        {
+          "what": "Pomi de Crăciun în arborete",
+          "value": "1 noiembrie – 31 decembrie",
+          "ref": "Reg. anexa 4 c)"
+        }
+      ]
+    },
+    {
+      "title": "Cine ce aprobă sau face",
+      "rows": [
+        {
+          "what": "Predarea cantonului",
+          "value": "șeful ocolului sau împuternicitul",
+          "ref": "Reg. art. 4"
+        },
+        {
+          "what": "Controlul de fond la preluare prin contract",
+          "value": "reprezentantul Gărzii Forestiere",
+          "ref": "Reg. art. 12"
+        },
+        {
+          "what": "Actele de control ale personalului ocolului",
+          "value": "șeful ocolului",
+          "ref": "Reg. art. 23 lit. c)"
+        },
+        {
+          "what": "Actele de control de fond ale șefilor de ocol",
+          "value": "conducătorul direcției silvice",
+          "ref": "Reg. art. 9 lit. e)"
+        },
+        {
+          "what": "Instruirea pentru armă și muniție",
+          "value": "poliția, coordonată de șeful ocolului",
+          "ref": "Reg. art. 24 alin. (4)"
+        },
+        {
+          "what": "Limitarea răspunderii patrimoniale",
+          "value": "persoana juridică angajatoare",
+          "ref": "Reg. art. 21 alin. (3)"
+        },
+        {
+          "what": "Asistența juridică gratuită",
+          "value": "direcția silvică",
+          "ref": "Reg. art. 9 lit. h)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "Regula lui 5: aproape toate actele merg în 5 zile (actele de constatare, rapoartele, actul de control, aprobarea lui). Excepțiile sunt mai scurte: 48 de ore pentru arborii infestați și 24 de ore pentru sesizarea penală.",
+    "30 – 60 – 90: controlul la preluare prin contract (30 de zile), preluarea provizorie de vecini (60), intrarea în vigoare a HG-ului (90).",
+    "Simbolurile din condică se citesc ca o grilă 2×2: T sau S spune ce s-a întâmplat arborelui (tăiat/scos), T sau L spune unde e acum (pe teren/lipsă)."
+  ],
+  "cards": [
+    {
+      "q": "Care este unitatea de bază pentru asigurarea pazei?",
+      "a": "Cantonul silvic.",
+      "ref": "Reg. art. 1 alin. (1)"
+    },
+    {
+      "q": "Ce este districtul silvic?",
+      "a": "O structură la nivelul ocolului formată din mai multe cantoane.",
+      "ref": "Reg. art. 1 alin. (2)"
+    },
+    {
+      "q": "Prin cine se asigură paza fondului forestier?",
+      "a": "Numai prin ocoale silvice, cu personal autorizat să poarte arma de serviciu.",
+      "ref": "HG art. 2–3"
+    },
+    {
+      "q": "Ce statut are paza în contractele de administrare sau servicii silvice?",
+      "a": "Serviciu silvic obligatoriu.",
+      "ref": "HG art. 4"
+    },
+    {
+      "q": "În cât timp se sesizează urmărirea penală pentru infracțiuni asupra pădurarului în serviciu?",
+      "a": "24 de ore.",
+      "ref": "HG art. 7"
+    },
+    {
+      "q": "Pe ce bază se predă un canton?",
+      "a": "Pe bază de control de fond, cu proces-verbal de predare-primire (anexa 1).",
+      "ref": "Reg. art. 4"
+    },
+    {
+      "q": "Ce primește pădurarul odată cu cantonul?",
+      "a": "Condica de serviciu și harta cantonului.",
+      "ref": "Reg. art. 4 alin. (2)"
+    },
+    {
+      "q": "Cine participă în plus când titularul nu poate veni la predare?",
+      "a": "2 pădurari de la cantoanele vecine și un membru major al familiei titularului.",
+      "ref": "Reg. art. 5 alin. (1)"
+    },
+    {
+      "q": "Ce se întâmplă dacă titularul refuză să participe la predare?",
+      "a": "Se consemnează în PV, predarea continuă și participă și un reprezentant al Gărzii Forestiere.",
+      "ref": "Reg. art. 5 alin. (2)"
+    },
+    {
+      "q": "Cât poate ține preluarea cantonului de către pădurari vecini?",
+      "a": "Maximum 60 de zile.",
+      "ref": "Reg. art. 5 alin. (3)"
+    },
+    {
+      "q": "În cât timp depune pădurarul actele de constatare la ocol?",
+      "a": "5 zile de la încheiere.",
+      "ref": "Reg. art. 6 lit. h)"
+    },
+    {
+      "q": "În cât timp raportează șeful de district arborii infestați sau doborâți?",
+      "a": "Maximum 48 de ore, în scris.",
+      "ref": "Reg. art. 7 lit. k)"
+    },
+    {
+      "q": "Cu cine răspunde în solidar șeful de district?",
+      "a": "Cu pădurarul, pentru pagubele din neîndeplinirea atribuțiilor.",
+      "ref": "Reg. art. 7 lit. a)"
+    },
+    {
+      "q": "Cine ține Registrul contravențiilor și infracțiunilor?",
+      "a": "Șeful ocolului răspunde de el (anexa 3).",
+      "ref": "Reg. art. 8 lit. i)"
+    },
+    {
+      "q": "Cine aprobă actele de control de fond ale șefilor de ocol?",
+      "a": "Conducătorul direcției silvice.",
+      "ref": "Reg. art. 9 lit. e)"
+    },
+    {
+      "q": "Cine asigură asistență juridică gratuită personalului de pază?",
+      "a": "Conducătorul direcției silvice sau al structurii superioare.",
+      "ref": "Reg. art. 9 lit. h)"
+    },
+    {
+      "q": "În cât timp se face controlul de fond la preluarea prin contract?",
+      "a": "Cel mult 30 de zile de la solicitare.",
+      "ref": "Reg. art. 12"
+    },
+    {
+      "q": "Cine face controlul de fond la preluarea prin contract?",
+      "a": "Un reprezentant al Gărzii Forestiere (structura teritorială a autorității silvice).",
+      "ref": "Reg. art. 12"
+    },
+    {
+      "q": "Câte controale de fond pe an se fac într-un canton?",
+      "a": "Cel puțin două, când vremea permite.",
+      "ref": "Reg. art. 16 alin. (1)"
+    },
+    {
+      "q": "Prin ce diferă controlul parțial de cel de fond?",
+      "a": "Are aceleași obiective, dar se face pe o parte din canton, la sesizare, tăieri ilegale sau verificarea lucrărilor.",
+      "ref": "Reg. art. 17"
+    },
+    {
+      "q": "Cine trebuie să fie prezent la control?",
+      "a": "Pădurarul titular și un asistent delegat de șeful ocolului.",
+      "ref": "Reg. art. 18"
+    },
+    {
+      "q": "Ce se face cu cioatele arborilor tăiați ilegal?",
+      "a": "Se numerotează, se marchează cu dispozitivul de marcat și se inventariază pe specii și diametre.",
+      "ref": "Reg. art. 19"
+    },
+    {
+      "q": "Pentru ce răspunde patrimonial pădurarul?",
+      "a": "Pentru pagubele nejustificate prin PV încheiate înainte de control.",
+      "ref": "Reg. art. 20"
+    },
+    {
+      "q": "Cum se recuperează pagubele imputate?",
+      "a": "Rețineri lunare pe statul de plată, din garanția gestionară sau alte mijloace legale.",
+      "ref": "HG art. 10"
+    },
+    {
+      "q": "Câte acte de control se întocmesc?",
+      "a": "Câte unul pentru fiecare deținător.",
+      "ref": "Reg. art. 22 alin. (1)"
+    },
+    {
+      "q": "Termen de depunere și de aprobare a actului de control?",
+      "a": "Depunere în max. 5 zile, aprobare în 5 zile de la depunere.",
+      "ref": "Reg. art. 22–23"
+    },
+    {
+      "q": "Cât de des se face instruirea cu armamentul?",
+      "a": "Lunar, condusă de șeful ocolului; instruirea la armă o face poliția.",
+      "ref": "Reg. art. 24"
+    },
+    {
+      "q": "Ce înseamnă simbolul TL în condică?",
+      "a": "Arbore tăiat care nu se mai găsește pe teren.",
+      "ref": "Reg. anexa 2"
+    },
+    {
+      "q": "Ce înseamnă simbolul ST în condică?",
+      "a": "Arbore scos din pământ care se găsește pe teren.",
+      "ref": "Reg. anexa 2"
+    },
+    {"q": "Ce înseamnă simbolul S în condică?", "a": "Arbore secuit.", "ref": "Reg. anexa 2"}
+  ],
+  "questions": [
+    {
+      "q": "Care este unitatea de bază pentru asigurarea pazei fondului forestier?",
+      "options": ["Districtul silvic", "Cantonul silvic", "Ocolul silvic", "Unitatea de producție"],
+      "answer": 1,
+      "explain": "Cantonul este unitatea de bază; districtele grupează mai multe cantoane.",
+      "ref": "Reg. art. 1"
+    },
+    {
+      "q": "Paza împotriva tăierilor ilegale se face numai de către:",
+      "options": [
+        "Orice angajat al ocolului",
+        "Personalul silvic autorizat să poarte arma de serviciu",
+        "Jandarmerie",
+        "Proprietarii pădurilor"
+      ],
+      "answer": 1,
+      "explain": "HG-ul cere personal silvic autorizat pentru portul armamentului de serviciu.",
+      "ref": "HG art. 3"
+    },
+    {
+      "q": "În ce termen sesizează ocolul urmărirea penală când un pădurar aflat în serviciu este victima unei infracțiuni?",
+      "options": ["24 de ore", "48 de ore", "5 zile", "30 de zile"],
+      "answer": 0,
+      "explain": "Ocoalele și structurile superioare sesizează în 24 de ore.",
+      "ref": "HG art. 7"
+    },
+    {
+      "q": "Pe ce bază se face predarea-primirea cantonului?",
+      "options": [
+        "Pe bază de inventar contabil",
+        "Pe bază de control de fond",
+        "Pe bază de control parțial",
+        "Pe bază de declarație a pădurarului"
+      ],
+      "answer": 1,
+      "explain": "Predarea se face pe control de fond, cu PV conform anexei 1.",
+      "ref": "Reg. art. 4 alin. (1)"
+    },
+    {
+      "q": "Dacă pădurarul care predă nu poate participa din motive întemeiate, la control participă în plus:",
+      "options": [
+        "Un polițist",
+        "2 pădurari de la cantoanele vecine și un membru major al familiei",
+        "Primarul localității",
+        "Șeful de district și un notar"
+      ],
+      "answer": 1,
+      "explain": "Participă 2 pădurari vecini și un membru major al familiei, anunțat în scris.",
+      "ref": "Reg. art. 5 alin. (1)"
+    },
+    {
+      "q": "Dacă titularul refuză să participe la predarea cantonului:",
+      "options": [
+        "Predarea se amână",
+        "Refuzul se consemnează, predarea continuă și participă și un reprezentant al Gărzii",
+        "Se anulează controlul",
+        "Se predă fără proces-verbal"
+      ],
+      "answer": 1,
+      "explain": "Refuzul nu împiedică predarea; se adaugă reprezentantul structurii teritoriale a autorității.",
+      "ref": "Reg. art. 5 alin. (2)"
+    },
+    {
+      "q": "Pentru cât timp pot prelua pădurarii vecini un canton fără titular?",
+      "options": ["30 de zile", "45 de zile", "60 de zile", "90 de zile"],
+      "answer": 2,
+      "explain": "Maximum 60 de zile.",
+      "ref": "Reg. art. 5 alin. (3)"
+    },
+    {
+      "q": "În ce termen depune pădurarul actele de constatare la sediul ocolului?",
+      "options": ["24 de ore", "48 de ore", "5 zile", "10 zile"],
+      "answer": 2,
+      "explain": "5 zile de la încheiere.",
+      "ref": "Reg. art. 6 lit. h)"
+    },
+    {
+      "q": "În ce termen raportează șeful de district arborii infestați, uscați sau doborâți?",
+      "options": ["24 de ore", "48 de ore", "5 zile", "La următorul control de fond"],
+      "answer": 1,
+      "explain": "În scris, în maximum 48 de ore.",
+      "ref": "Reg. art. 7 lit. k)"
+    },
+    {
+      "q": "Șeful de district răspunde pentru pagubele din neîndeplinirea atribuțiilor:",
+      "options": ["Singur", "În solidar cu pădurarul", "Doar dacă e titular de canton", "Nu răspunde"],
+      "answer": 1,
+      "explain": "Răspunde în solidar cu pădurarul.",
+      "ref": "Reg. art. 7 lit. a)"
+    },
+    {
+      "q": "Cine răspunde de completarea Registrului contravențiilor și infracțiunilor?",
+      "options": ["Pădurarul", "Șeful de district", "Șeful ocolului", "Garda Forestieră"],
+      "answer": 2,
+      "explain": "Șeful ocolului; modelul este în anexa 3.",
+      "ref": "Reg. art. 8 lit. i)"
+    },
+    {
+      "q": "Cât de des analizează șeful ocolului activitatea de pază?",
+      "options": ["Săptămânal", "Lunar", "Trimestrial", "Anual"],
+      "answer": 1,
+      "explain": "Lunar, inclusiv modul de soluționare a actelor de constatare.",
+      "ref": "Reg. art. 8 lit. j)"
+    },
+    {
+      "q": "Cine aprobă actele de control de fond întocmite de șefii de ocol?",
+      "options": ["Șeful ocolului vecin", "Conducătorul direcției silvice", "Garda Forestieră", "Primăria"],
+      "answer": 1,
+      "explain": "Conducătorul direcției silvice sau al structurii superioare.",
+      "ref": "Reg. art. 9 lit. e)"
+    },
+    {
+      "q": "Cine asigură asistența juridică gratuită a personalului silvic în cauzele legate de pază?",
+      "options": ["Ocolul silvic", "Conducătorul direcției silvice", "Baroul", "Sindicatul"],
+      "answer": 1,
+      "explain": "Este atribuția conducătorului direcției silvice sau a structurii superioare.",
+      "ref": "Reg. art. 9 lit. h)"
+    },
+    {
+      "q": "În cât timp se face controlul de fond la preluarea unei suprafețe prin contract?",
+      "options": ["10 zile", "30 de zile", "60 de zile", "90 de zile"],
+      "answer": 1,
+      "explain": "Cel mult 30 de zile de la solicitare.",
+      "ref": "Reg. art. 12"
+    },
+    {
+      "q": "Contractul de administrare sau de servicii silvice se semnează:",
+      "options": [
+        "Înainte de control",
+        "Odată cu procesul-verbal de predare-primire",
+        "La 30 de zile după control",
+        "După aprobarea Gărzii"
+      ],
+      "answer": 1,
+      "explain": "Se semnează odată cu PV încheiat în baza controlului de fond.",
+      "ref": "Reg. art. 11"
+    },
+    {
+      "q": "Câte controale de fond se fac anual, cel puțin, în fiecare canton?",
+      "options": ["Unul", "Două", "Trei", "Patru"],
+      "answer": 1,
+      "explain": "Cel puțin două, când condițiile atmosferice permit găsirea prejudiciilor.",
+      "ref": "Reg. art. 16 alin. (1)"
+    },
+    {
+      "q": "Care situație NU impune un control de fond pentru predarea cantonului?",
+      "options": ["Plecarea în concediu", "Internarea în spital", "Rearondarea", "O ploaie torențială"],
+      "answer": 3,
+      "explain": "Regulamentul enumeră concediul, spitalizarea, suspendarea, contractele noi și rearondările.",
+      "ref": "Reg. art. 16 alin. (2)"
+    },
+    {
+      "q": "Controlul parțial se face:",
+      "options": [
+        "Pe tot cantonul, o dată pe an",
+        "Pe o parte din canton, la sesizare, tăieri ilegale sau verificarea lucrărilor",
+        "Doar de Garda Forestieră",
+        "Doar la predarea cantonului"
+      ],
+      "answer": 1,
+      "explain": "Aceleași obiective ca la controlul de fond, dar pe o parte determinată.",
+      "ref": "Reg. art. 17"
+    },
+    {
+      "q": "Cine trebuie să fie de față la un control de fond sau parțial?",
+      "options": [
+        "Doar controlorul",
+        "Pădurarul titular și un asistent delegat de șeful ocolului",
+        "Proprietarul și un polițist",
+        "Șeful de district și primarul"
+      ],
+      "answer": 1,
+      "explain": "Pădurarul titular și un asistent, personal silvic delegat.",
+      "ref": "Reg. art. 18"
+    },
+    {
+      "q": "Cum se tratează cioatele arborilor tăiați ilegal găsite la control?",
+      "options": [
+        "Se fotografiază doar",
+        "Se numerotează, se marchează cu dispozitivul de marcat și se inventariază pe specii și diametre",
+        "Se scot din pământ",
+        "Se notează doar numărul total"
+      ],
+      "answer": 1,
+      "explain": "Numerotare continuă pe an, marcare și inventariere pe specii și diametre.",
+      "ref": "Reg. art. 19"
+    },
+    {
+      "q": "Pădurarul titular răspunde patrimonial pentru arborii tăiați ilegal:",
+      "options": [
+        "Toți, fără excepție",
+        "Nejustificați prin PV încheiate înainte de declanșarea controlului",
+        "Doar cei găsiți pe teren",
+        "Doar dacă valoarea depășește 5 m³"
+      ],
+      "answer": 1,
+      "explain": "Răspunde pentru ce nu e justificat prin PV anterioare controlului sau prin acte dovedite ulterior neîntemeiate.",
+      "ref": "Reg. art. 20"
+    },
+    {
+      "q": "Care NU este o modalitate de recuperare a pagubelor imputate personalului silvic?",
+      "options": [
+        "Reținere lunară pe statul de plată",
+        "Din garanția gestionară",
+        "Alte mijloace prevăzute de lege",
+        "Confiscarea locuinței de serviciu"
+      ],
+      "answer": 3,
+      "explain": "HG-ul prevede reținerea pe stat, garanția gestionară și alte mijloace legale.",
+      "ref": "HG art. 10"
+    },
+    {
+      "q": "Pentru cine se întocmește actul de control?",
+      "options": [
+        "Unul pentru tot ocolul",
+        "Câte unul pentru fiecare deținător",
+        "Unul pe district",
+        "Unul pe an"
+      ],
+      "answer": 1,
+      "explain": "Se încheie pentru fiecare deținător în parte (anexa 4).",
+      "ref": "Reg. art. 22 alin. (1)"
+    },
+    {
+      "q": "În ce termen se depune actul de control de fond la registratura ocolului?",
+      "options": ["24 de ore", "48 de ore", "Cel mult 5 zile", "30 de zile"],
+      "answer": 2,
+      "explain": "Cel mult 5 zile de la încheierea controlului.",
+      "ref": "Reg. art. 22 alin. (3)"
+    },
+    {
+      "q": "În ce termen se aprobă actele de control?",
+      "options": ["2 zile", "5 zile de la depunere", "15 zile", "30 de zile"],
+      "answer": 1,
+      "explain": "În 5 zile de la data depunerii.",
+      "ref": "Reg. art. 23"
+    },
+    {
+      "q": "Cine face instruirea personalului privind folosirea și întreținerea armamentului?",
+      "options": [
+        "Șeful de district",
+        "Organele de poliție, sub coordonarea șefului ocolului",
+        "Garda Forestieră",
+        "Un armurier autorizat"
+      ],
+      "answer": 1,
+      "explain": "Poliția, sub coordonarea directă a șefului ocolului.",
+      "ref": "Reg. art. 24 alin. (4)"
+    },
+    {
+      "q": "Ce înseamnă simbolul TL în condica de serviciu?",
+      "options": [
+        "Arbore tăiat găsit pe teren",
+        "Arbore tăiat care nu se mai găsește pe teren",
+        "Arbore scos din pământ, lipsă",
+        "Trunchi lovit"
+      ],
+      "answer": 1,
+      "explain": "T = tăiat, L = lipsă de pe teren.",
+      "ref": "Reg. anexa 2"
+    },
+    {
+      "q": "Fișa de calcul pentru pomi de Crăciun se întocmește în arborete pentru pagubele din perioada:",
+      "options": [
+        "1 octombrie – 31 decembrie",
+        "1 noiembrie – 31 decembrie",
+        "1 decembrie – 6 ianuarie",
+        "Tot anul"
+      ],
+      "answer": 1,
+      "explain": "1 noiembrie – 31 decembrie în arborete; tot anul în culturile specializate.",
+      "ref": "Reg. anexa 4, fișa c)"
+    },
+    {
+      "q": "Ce conține anexa nr. 3 a regulamentului?",
+      "options": [
+        "Condica de serviciu",
+        "Registrul contravențiilor și infracțiunilor",
+        "Actul de control",
+        "Procesul-verbal de predare-primire"
+      ],
+      "answer": 1,
+      "explain": "1 PV predare, 2 condica, 3 registrul contravențiilor, 4 actul de control, 5 registrul controalelor.",
+      "ref": "Reg. anexa 3"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Controlul de fond de primăvară",
+      "situation": "Ești inginer la ocol. În aprilie faci controlul de fond în cantonul 14. Găsești 12 cioate de molid tăiate ilegal. Pentru 4 dintre ele, pădurarul a încheiat procese-verbale de contravenție în februarie.",
+      "steps": [
+        {
+          "q": "Cine trebuie să fie de față la control?",
+          "a": "Pădurarul titular al cantonului și un asistent, personal silvic delegat de șeful ocolului.",
+          "ref": "Reg. art. 18"
+        },
+        {
+          "q": "Ce faci cu cele 12 cioate?",
+          "a": "Le numerotezi în continuarea numerotării din acel an, le marchezi cu dispozitivul de marcat și le inventariezi pe specii și diametre.",
+          "ref": "Reg. art. 19"
+        },
+        {
+          "q": "Pentru câte cioate răspunde patrimonial pădurarul?",
+          "a": "Pentru 8: cele nejustificate prin procese-verbale încheiate înainte de control. Cele 4 cu PV din februarie sunt justificate.",
+          "ref": "Reg. art. 20"
+        },
+        {
+          "q": "Ce scrii în condică în timpul controlului?",
+          "a": "Formula de început și de sfârșit a controlului (dată, oră, cine e de față, semnătura). La sfârșitul fiecărei zile, evidența cioatelor se barează și se semnează de tine, de pădurar și de asistenți.",
+          "ref": "Reg. art. 21 alin. (1)–(2)"
+        },
+        {
+          "q": "Ce act întocmești, până când îl depui și cine îl aprobă?",
+          "a": "Actul de control (anexa 4), câte unul pentru fiecare deținător, semnat pe fiecare pagină. Îl depui la registratura ocolului în cel mult 5 zile, iar șeful ocolului îl aprobă în 5 zile de la depunere.",
+          "ref": "Reg. art. 22–23"
+        }
+      ]
+    },
+    {
+      "title": "Pădurarul ajunge în spital",
+      "situation": "Pădurarul din cantonul 7 este internat de urgență pentru o perioadă lungă. În ocol nu există niciun pădurar liber care să preia cantonul.",
+      "steps": [
+        {
+          "q": "Ce control trebuie făcut?",
+          "a": "Un control de fond pentru predarea cantonului; internarea în spital este unul dintre motivele prevăzute.",
+          "ref": "Reg. art. 16 alin. (2)"
+        },
+        {
+          "q": "Cine participă, dacă titularul nu poate veni?",
+          "a": "Șeful ocolului sau împuternicitul, plus 2 pădurari de la cantoanele vecine și un membru major al familiei titularului, anunțat în scris din timp.",
+          "ref": "Reg. art. 5 alin. (1)"
+        },
+        {
+          "q": "Familia nu se prezintă. Ce faci?",
+          "a": "Consemnezi refuzul în procesul-verbal și continui predarea. La control participă și un reprezentant al Gărzii Forestiere.",
+          "ref": "Reg. art. 5 alin. (2)"
+        },
+        {
+          "q": "Cine preia cantonul și pentru cât timp?",
+          "a": "Unul sau mai mulți pădurari din cantoanele vecine, desemnați de șeful ocolului, pentru maximum 60 de zile.",
+          "ref": "Reg. art. 5 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "Un proprietar cere servicii silvice",
+      "situation": "Un proprietar cu 25 ha de pădure vine la ocolul tău. Până acum avea contract cu un ocol căruia i s-a retras autorizația de funcționare.",
+      "steps": [
+        {
+          "q": "Cum preia ocolul suprafața?",
+          "a": "Prin control de fond, pentru că ocolul anterior și-a pierdut autorizația.",
+          "ref": "Reg. art. 10"
+        },
+        {
+          "q": "Cine face controlul, în cât timp și cine e de față?",
+          "a": "Un reprezentant al Gărzii Forestiere, în cel mult 30 de zile de la solicitare. Sunt de față proprietarul sau împuternicitul lui, delegatul ocolului tău, pădurarul care preia și, după caz, cel care predă.",
+          "ref": "Reg. art. 12"
+        },
+        {
+          "q": "Ce se verifică la acest control?",
+          "a": "Limitele și eventualele încălcări de hotar, bornele și limitele amenajistice, arborii tăiați sau scoși fără drept (pe toată suprafața, cu calculul pagubelor) și delimitarea zonelor de pășunat.",
+          "ref": "Reg. art. 13"
+        },
+        {
+          "q": "Când semnați contractul?",
+          "a": "Odată cu procesul-verbal de predare-primire încheiat după controlul de fond.",
+          "ref": "Reg. art. 11"
+        }
+      ]
+    },
+    {
+      "title": "Pădurarul este agresat",
+      "situation": "În timpul unei patrule, un pădurar oprește un transport de lemne fără documente. Încheie proces-verbal, iar șoferul îl lovește și fuge.",
+      "steps": [
+        {
+          "q": "Ce obligație are ocolul față de agresiune?",
+          "a": "Să sesizeze în 24 de ore organele de urmărire penală competente.",
+          "ref": "HG art. 7"
+        },
+        {
+          "q": "Ce face pădurarul cu lemnul?",
+          "a": "Îl confiscă sau îl reține, după caz, în condițiile legii.",
+          "ref": "Reg. art. 6 lit. g)"
+        },
+        {
+          "q": "În cât timp ajunge procesul-verbal la ocol?",
+          "a": "În 5 zile de la încheiere.",
+          "ref": "Reg. art. 6 lit. h)"
+        },
+        {
+          "q": "Unde se înregistrează procesul-verbal la ocol?",
+          "a": "În Registrul contravențiilor și infracțiunilor (anexa 3), de a cărui completare răspunde șeful ocolului.",
+          "ref": "Reg. art. 8 lit. i), art. 25"
+        },
+        {
+          "q": "Cine îi asigură pădurarului asistență juridică?",
+          "a": "Direcția silvică (sau structura de rang superior), gratuit, în cauzele legate de pază.",
+          "ref": "Reg. art. 9 lit. h)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "HG",
+        "name": "HG nr. 1076/2009",
+        "title": "Hotărârea nr. 1076/2009 pentru aprobarea Regulamentului de pază a fondului forestier",
+        "note": "Publicată în Monitorul Oficial nr. 721 din 26 octombrie 2009. Text în forma inițială.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["","Paza fondului forestier naţional împotriva ocupărilor ilegale de terenuri din fondul forestier, a tăierilor ilegale de arbori, a furturilor, a distrugerilor şi a degradării pădurilor sau a obiectivelor de orice fel amplasate în fond forestier, a păşunatului, precum şi împotriva altor fapte păgubitoare pentru integritatea fondului forestier se organizează şi se execută potrivit Regulamentului de pază a fondului forestier, prevăzut în anexa care face parte integrantă din prezenta hotărâre."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["","Asigurarea pazei în fondul forestier naţional se face numai prin ocoalele silvice prevăzute la art. 10 alin. (2) din Legea nr. 46/2008 - Codul silvic, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["","Paza împotriva tăierilor ilegale de arbori, a furturilor, a distrugerilor, a degradărilor, a păşunatului şi a altor fapte păgubitoare pentru fondul forestier naţional se face numai de către personalul silvic autorizat pentru portul armamentului de serviciu, potrivit prevederilor legale."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["","Paza fondului forestier naţional constituie serviciu silvic obligatoriu în cuprinsul contractelor de administrare sau de servicii silvice încheiate de proprietari cu ocoalele silvice."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["","Organizarea pazei prevăzute la art. 1 se face cu respectarea principiului teritorialităţii şi principiului de asigurare a nivelului adecvat de continuitate juridică, instituţională şi operaţională în gestionarea pădurilor, potrivit prevederilor art. 5 lit. e) şi art. 16 alin. (1) din Legea nr. 46/2008, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["","În exercitarea atribuţiilor de serviciu privind paza fondului forestier şi controlul respectării regimului silvic personalul silvic este asimilat personalului care îndeplineşte funcţii ce implică exerciţiul autorităţii publice, fiind competent să constate contravenţii silvice, precum şi fapte care prin natura lor pot constitui infracţiuni silvice, încheind în acest sens actele de constatare, potrivit prevederilor legale."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["","Ocoalele silvice şi celelalte structuri ierarhic superioare au obligaţia să sesizeze, în termen de 24 de ore, organele de urmărire penală competente cu privire la faptele care pot fi încadrate ca infracţiuni comise asupra personalului silvic cu atribuţii de pază aflat în exerciţiul funcţiunii."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["","Evaluarea pagubelor produse vegetaţiei forestiere din fondul forestier naţional şi din afara acestuia se face potrivit reglementărilor în vigoare, la data constatării."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9",
+            "items": [
+              ["","Pagubele produse fondului forestier naţional, cauzate de neîndeplinirea, totală sau parţială, a atribuţiilor de serviciu privind paza fondului forestier, se impută celor responsabili, în solidar cu pădurarul titular de canton silvic, precum şi cu alte persoane cu atribuţii pe linie de pază, potrivit fişei postului."]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["","Pagubele rămase imputabile personalului silvic se recuperează prin una dintre următoarele modalităţi:"],
+              ["a)","prin reţinere pe statul de plată în tranşe lunare;"],
+              ["b)","din garanţia gestionară constituită, caz în care aceasta se reconstituie în perioada următoare în limitele şi în termenele stabilite de reglementările specifice privind gestiunea;"],
+              ["c)","alte mijloace prevăzute de lege."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["","Următoarele categorii de personal au dreptul să efectueze controlul respectării prevederilor Regulamentului de pază a fondului forestier prevăzut în anexă, potrivit competenţelor teritoriale:"],
+              ["a)","personalul silvic cu atribuţii de control din cadrul autorităţii publice centrale care răspunde de silvicultură, precum şi din cadrul structurilor teritoriale subordonate, potrivit competenţelor teritoriale, asupra deţinătorilor cu orice titlu de fond forestier;"],
+              ["b)","personalul silvic din cadrul Regiei Naţionale a Pădurilor - Romsilva şi unităţilor acesteia, asupra personalului silvic din structurile silvice de administrare subordonate;"],
+              ["c)","personalul silvic din cadrul structurilor silvice de rang superior, altele decât cele ale Regiei Naţionale a Pădurilor - Romsilva, înfiinţate potrivit reglementărilor în vigoare, asupra personalului silvic din structurile silvice de administrare subordonate;"],
+              ["d)","personalul silvic din cadrul structurilor silvice de administrare, potrivit dispoziţiilor regulamentului prevăzut în anexă."]
+            ]
+          },
+          {
+            "no": "12",
+            "label": "Art. 12",
+            "items": [
+              ["","Încălcarea prevederilor prezentei hotărâri atrage, după caz, răspunderea disciplinară, civilă, contravenţională sau penală a persoanei vinovate, potrivit reglementărilor legale în vigoare."]
+            ]
+          },
+          {
+            "no": "13",
+            "label": "Art. 13",
+            "items": [
+              ["","Prezenta hotărâre intra în vigoare la 90 de zile de la data publicării în Monitorul Oficial al României, Partea I."]
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Reg",
+        "name": "Regulamentul de pază a fondului forestier",
+        "title": "Anexă – Regulamentul de pază a fondului forestier",
+        "note": "În vigoare de la 24 ianuarie 2010. Formă aplicabilă la 29 octombrie 2026.",
+        "inText": true,
+        "chapters": [
+          {"title": "CAPITOLUL I – Organizarea pazei și obligațiile personalului silvic", "from": "1"},
+          {
+            "title": "CAPITOLUL II – Asigurarea pazei pădurilor în cadrul contractelor de administrare/servicii silvice",
+            "from": "10"
+          },
+          {"title": "CAPITOLUL III – Controlul de fond și controlul parțial", "from": "14"},
+          {"title": "CAPITOLUL IV – Dispoziții finale", "from": "24"}
+        ],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["(1)","Unitatea de bază pentru asigurarea pazei este cantonul silvic."],
+              ["(2)","La nivelul ocolului silvic se pot constitui districte silvice având în componenţă mai multe cantoane silvice."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["","Paza fondului forestier dintr-un canton se execută şi se asigură de către pădurarul titular de canton printr-o supraveghere permanentă, luând măsuri speciale în locurile în care se înregistrează frecvent tăieri ilegale de arbori, păşunat neautorizat, incendii sau alte fapte ce contravin regimului silvic."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["","Personalul silvic cu atribuţii de pază a fondului forestier are obligaţia să ia măsuri de prevenire a săvârşirii de fapte care, potrivit prevederilor legale, constituie contravenţii sau infracţiuni silvice, să identifice persoanele care le-au săvârşit şi să ia măsuri în vederea sancţionării acestora şi recuperării pagubelor, potrivit legii."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","Predarea-primirea cantonului silvic se face pe bază de control de fond, de către şeful ocolului silvic sau împuternicitul acestuia, în urma căruia se încheie procesul- verbal de predare-primire a cantonului, potrivit modelului prevăzut în anexa nr. 1."],
+              ["(2)","Odată cu primirea cantonului pădurarul primeşte condica de serviciu, al cărei model este prevăzut în anexa nr. 2, pe care o completează cu evidenţele specifice, precum şi harta cantonului."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","În situaţii deosebite, când din motive întemeiate pădurarul care predă nu poate participa la controlul de fond pentru predarea-primirea cantonului şi la întocmirea procesului-verbal, la control participă, pe lângă personalul prevăzut la art. 4, 2 pădurari de la cantoanele învecinate, precum şi un membru major al familiei pădurarului titular de canton, înştiinţat în scris, în timp util, despre acţiunea de predare-primire a cantonului silvic."],
+              ["(2)","Neparticiparea sau refuzul titularului de canton/membrului major al familiei de a participa la predarea-primirea cantonului se va consemna în procesul-verbal şi nu va determina împiedicarea acţiunii de predare-primire a cantonului respectiv. În această situaţie la controlul de fond va participa şi un reprezentant al structurii teritoriale de specialitate a autorităţii publice centrale care răspunde de silvicultură."],
+              ["(3)","În situaţia în care la data predării cantonului silvic nu există un salariat disponibil pentru preluarea cantonului, şeful ocolului silvic va desemna unul sau mai mulţi pădurari din cantoanele învecinate care să ia în primire cantonul respectiv pe o perioadă de maximum 60 de zile, cu respectarea condiţiilor minime de autorizare şi funcţionare a ocolului silvic, prevăzute de legislaţia în vigoare."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["","Pădurarul poartă răspunderea pentru modul în care îşi desfăşoară activitatea de pază a cantonului şi are în principal următoarele atribuţii:"],
+              ["a)","apără integritatea fondului forestier împotriva ocupării sau folosirii ilegale de terenuri, a tăierilor ilegale de arbori şi a sustragerii de lemn sau a altor produse ale pădurii, distrugerii construcţiilor, instalaţiilor, bornelor, culturilor, degradării arborilor, puieţilor şi lăstarilor, precum şi a oricăror fapte ilegale;"],
+              ["b)","menţine în bună stare bornele de hotar şi limitele amenajistice, semnalează în scris şefului ierarhic eventualele încălcări ale limitelor fondului forestier sau ocuparea de terenuri din acest fond fără aprobare legală;"],
+              ["c)","identifică arborii infestaţi, rupţi, doborâţi de fenomene naturale şi raportează în scris şefului ierarhic;"],
+              ["d)","participă la stabilirea prejudiciului produs în raza cantonului prin tăierea, scoaterea din rădăcini, distrugerea, degradarea sau sustragerea arborilor, puieţilor şi lăstarilor şi acţionează pentru identificarea autorilor acestor fapte;"],
+              ["e)","identifică cioatele arborilor tăiaţi ilegal şi locurile arborilor scoşi din pământ şi le înregistrează în condica de serviciu;"],
+              ["f)","încheie acte de constatare a contravenţiilor şi infracţiunilor silvice şi ţine evidenţa acestora în condica de serviciu;"],
+              ["g)","confiscă sau reţine, după caz, materialele lemnoase provenite din săvârşirea faptelor ilegale, în condiţiile prevăzute de lege;"],
+              ["h)","depune la sediul ocolului silvic, în termen de 5 zile de la data încheierii, actele de constatare a contravenţiilor şi infracţiunilor silvice;"],
+              ["i)","delimitează suprafeţele aprobate pentru păşunat sau pentru trecerea animalelor prin păduri şi urmăreşte respectarea condiţiilor stabilite prin aprobările emise potrivit legii;"],
+              ["j)","păstrează în stare de funcţionare pichetele de incendiu şi mijloacele pentru prevenirea şi stingerea incendiilor din dotarea cantonului;"],
+              ["k)","execută patrulări în vederea prevenirii incendiilor în zonele şi perioadele de risc, iar în cazul declanşării unui incendiu alarmează ocolul silvic şi celelalte instituţii abilitate pentru astfel de situaţii şi acţionează imediat pentru localizarea şi stingerea incendiului;"],
+              ["l)","urmăreşte ca accesul şi circulaţia persoanelor, autovehiculelor, motocicletelor, ATV-urilor sau mopedelor în fondul forestier să se facă în condiţii legale;"],
+              ["m)","supraveghează amenajările şi lucrările silvice de combatere a eroziunii solului din pădure şi din perimetrele de ameliorare şi construcţiile aflate în raza cantonului, în vederea menţinerii acestora în bună stare de funcţionare;"],
+              ["n)","ia măsuri de prevenire a depozitării de gunoaie, moloz, resturi menajere şi altele asemenea, pe terenurile forestiere şi în albiile cursurilor de apă din raza de competenţă, aplică prevederile legale în cazul constatării unor astfel de fapte;"],
+              ["o)","urmăreşte ca recoltarea, din păduri sau alte terenuri din fondul forestier, de fructe de pădure, ciuperci comestibile, plante medicinale, seminţe, răşină, litieră, strat fertil de sol, nisip, piatră şi altele asemenea să se facă de către persoane legal autorizate;"],
+              ["p)","controlează circulaţia materialului lemnos în fondul forestier în vederea stabilirii provenienţei şi legalităţii transportului de materiale lemnoase;"],
+              ["q)","instalează tăbliţe avertizoare şi de popularizare privind paza pădurilor, prevenirea şi stingerea incendiilor de pădure, accesul şi parcarea autovehiculelor în păduri;"],
+              ["r)","identifică şi semnalează organelor abilitate apariţia cazurilor de poluare din raza cantonului;"],
+              ["s)","completează corespunzător evidenţele specifice în condica de serviciu şi anexa la condică."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["","În situaţia în care în structura organizatorică a ocolului silvic sunt organizate districte silvice, şeful de district organizează, coordonează şi controlează permanent activitatea de pază desfăşurată de către pădurarii din subordine, având în principal următoarele atribuţii:"],
+              ["a)","organizează, coordonează şi controlează activitatea de pază desfăşurată de către pădurarii titulari de canton din raza sa de competenţă, purtând răspunderea, în solidar cu pădurarul, pentru pagubele ce se aduc fondului forestier ca urmare a neîndeplinirii atribuţiilor de serviciu;"],
+              ["b)","organizează patrulări şi controale la punctele fixe constituite pentru asigurarea pazei pădurilor şi a legalităţii provenienţei şi circulaţiei materialului lemnos;"],
+              ["c)","participă la patrulări de pază, organizate de ocolul silvic sau de alte organe abilitate, acţionând în vederea depistării faptelor şi făptuitorilor care aduc prejudicii fondului forestier;"],
+              ["d)","efectuează controale de fond şi parţiale în cantoanele din subordine sau în alte cantoane ori de câte ori se impune;"],
+              ["e)","raportează imediat şefului ocolului despre producerea de evenimente deosebite - incendii, inundaţii, doborâturi, rupturi de vânt sau zăpadă, furturi organizate, tăieri ilegale, abateri ale personalului silvic, atacuri de dăunători - şi ia măsuri de primă intervenţie pentru limitarea pagubelor;"],
+              ["f)","verifică şi înaintează în maximum 5 zile rapoartele pădurarilor către ocolul silvic;"],
+              ["g)","solicită sprijin de specialitate în organizarea pazei pădurilor, de la unităţile de poliţie şi jandarmi;"],
+              ["h)","realizează lucrări de depistare, statistică, prognoză şi, după caz, de combatere a bolilor şi dăunătorilor pădurii, în conformitate cu normele tehnice privind protecţia pădurilor împotriva bolilor şi dăunătorilor;"],
+              ["i)","ia măsuri pentru respectarea prevederilor planului de intervenţie în păduri şi pentru organizarea apărării împotriva incendiilor de pădure şi aplică normele specifice de prevenire şi stingere a incendiilor de pădure;"],
+              ["j)","semnalează în scris şefului de ocol eventualele încălcări ale limitelor fondului forestier sau ocuparea de terenuri din acest fond fără aprobare legală;"],
+              ["k)","identifică arborii infestaţi, uscaţi, rupţi, doborâţi de fenomene naturale şi raportează despre aceasta în scris în maximum 48 de ore şefului de ocol, participă la evaluarea acestor arbori şi asigură preluarea acestora în gestiunea pădurarului titular de canton;"],
+              ["l)","stabileşte prejudiciul produs prin tăierea ilegală, scoaterea din rădăcini, distrugerea, degradarea sau sustragerea arborilor, puieţilor şi lăstarilor şi identifică autorii acestor fapte, inventariază cioatele sau locurile arborilor scoşi din rădăcină şi le înregistrează în condica de serviciu a pădurarului titular de canton;"],
+              ["m)","asigură depunerea la sediul ocolului, în termen de cel mult 5 zile de la data încheierii acestora, a actelor de constatare a contravenţiilor şi infracţiunilor silvice, încheiate de acesta sau de pădurarii din subordine;"],
+              ["n)","încheie acte de constatare a contravenţiilor şi infracţiunilor silvice şi dispune confiscarea sau reţinerea materialelor lemnoase provenite din săvârşirea acestor fapte, potrivit prevederilor legale;"],
+              ["o)","are competenţa să identifice şi să inventarieze materialele lemnoase provenite din săvârşirea unor fapte ce pot fi calificate ca infracţiuni sau contravenţii silvice;"],
+              ["p)","asigură delimitarea suprafeţelor aprobate pentru păşunat sau pentru trecerea animalelor domestice prin păduri şi urmăreşte respectarea prevederilor stabilite prin aprobările emise potrivit legii;"],
+              ["q)","ia măsuri pentru prevenirea depozitării de gunoaie, moloz, resturi menajere şi altele asemenea pe terenurile forestiere şi în albiile cursurilor de apă din raza de competenţă, aplică prevederile legale în cazul constatării unor astfel de fapte;"],
+              ["r)","identifică şi semnalează organelor abilitate apariţia cazurilor de poluare din raza cantonului;"],
+              ["s)","urmăreşte completarea corespunzătoare a condicii de serviciu şi a anexei la condică de către pădurarii din subordine."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["","Şeful ocolului silvic răspunde de organizarea şi desfăşurarea activităţii de pază a fondului forestier pe care îl are în administrare sau pentru care ocolul silvic prestează servicii silvice, având următoarele atribuţii:"],
+              ["a)","ia măsuri pentru asigurarea integrităţii fondului forestier administrat de ocolul silvic şi a celui pentru care acesta asigură servicii silvice;"],
+              ["b)","ia măsuri pentru asigurarea cu continuitate a pazei fondului forestier administrat de ocolul silvic şi a celui pentru care acesta asigură servicii silvice;"],
+              ["c)","organizează arondarea cantoanelor şi stabileşte pentru titularii acestora, prin fişele posturilor, atribuţiile specifice activităţii de pază;"],
+              ["d)","ia măsuri pentru întocmirea planului acţiunilor de pază şi al controalelor de fond şi parţiale şi urmăreşte îndeplinirea acestora, potrivit prevederilor prezentului regulament;"],
+              ["e)","coordonează şi controlează activitatea personalului cu atribuţii de pază din subordine;"],
+              ["f)","organizează, în colaborare cu organele de poliţie, instruirea personalului silvic dotat, potrivit legii, cu armă de serviciu şi ia măsuri de păstrare a armamentului şi muniţiei în condiţiile legale;"],
+              ["g)","acţionează în colaborare cu structurile locale de poliţie, jandarmerie şi Garda de Mediu, în baza planurilor comune, pentru prevenirea, constatarea şi sancţionarea infracţiunilor şi contravenţiilor silvice;"],
+              ["h)","solicită sprijinul structurilor teritoriale de poliţie, jandarmerie şi pompieri, în situaţii deosebite, pentru desfăşurarea acţiunilor de prevenire şi stingere a incendiilor în fondul forestier;"],
+              ["i)","răspunde de completarea evidenţelor din Registrul contravenţiilor şi infracţiunilor, al cărui model este prevăzut în anexa nr. 3;"],
+              ["j)","analizează lunar activitatea de pază, precum şi modul de soluţionare a actelor încheiate în cazul constatării săvârşirii de contravenţii şi infracţiuni silvice, stabilind măsurile care se impun;"],
+              ["k)","execută controale de fond şi parţiale;"],
+              ["l)","răspunde de finalizarea controalelor de fond sau parţiale, inclusiv a acţiunilor de predare-primire a cantoanelor silvice;"],
+              ["m)","aprobă actele de control de fond sau parţiale, rezultatele acţiunilor de control al circulaţiei materialului lemnos, precum şi alte note de control şi stabileşte sarcinile de serviciu pentru realizarea măsurilor specificate în aceste acte;"],
+              ["n)","asigură transmiterea directă sau prin structurile ierarhic superioare, după caz, a situaţiilor statistice privind activitatea de pază solicitate de către structurile teritoriale ale autorităţii publice centrale care răspunde de silvicultură."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9",
+            "items": [
+              ["","Conducătorul direcţiei silvice sau al structurii silvice de rang superior are, în principal, următoarele atribuţii:"],
+              ["a)","organizează activitatea de pază a fondului forestier din raza de activitate a direcţiei/structurii de rang superior;"],
+              ["b)","dispune măsuri de asigurare a integrităţii fondului forestier în cazul ocupării fără aprobare legală de terenuri din acesta ori în cazul neredării în termen a terenurilor ocupate temporar;"],
+              ["c)","asigură instruirea personalului silvic cu atribuţii de pază din subordine;"],
+              ["d)","coordonează şi controlează activitatea ocoalelor silvice în domeniul pazei fondului forestier;"],
+              ["e)","aprobă actele de control de fond întocmite de şefii de ocoale silvice şi de personalul din subordine directă;"],
+              ["f)","ia măsuri pentru recuperarea pagubelor produse fondului forestier şi finalizarea acţiunilor întreprinse în acest sens;"],
+              ["g)","reprezintă structura silvică pe care o conduce în cadrul planurilor de acţiune intersectoriale, încheie protocoale de colaborare cu alte instituţii sau organizaţii implicate în activitatea de pază a pădurilor şi urmăreşte realizarea obiectivelor propuse în cadrul acestora;"],
+              ["h)","asigură asistenţa juridică gratuită pentru personalul silvic din subordine, în cauzele care au legătură cu activitatea de pază. CAPITOLUL II Asigurarea pazei pădurilor în cadrul contractelor de administrare/servicii silvice"]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["","Preluarea unei suprafeţe de fond forestier pentru care nu este încheiat contract de administrare sau de servicii silvice, pentru care contractul a încetat ori ocolului silvic care asigura administrarea sau serviciile silvice i s-a retras autorizaţia de funcţionare se face prin control de fond."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["","Contractul de administrare sau de servicii silvice se semnează odată cu procesul-verbal de predare-primire încheiat în baza controlului de fond."]
+            ]
+          },
+          {
+            "no": "12",
+            "label": "Art. 12",
+            "items": [
+              ["","Controlul de fond se face, în cel mult 30 de zile de la data solicitării, de către un reprezentant al structurii teritoriale de specialitate din subordinea autorităţii publice care răspunde de silvicultură, în prezenţa proprietarului sau a unui împuternicit al acestuia, a unui delegat al ocolului silvic care urmează să asigure administrarea sau serviciile silvice, împuternicit de către şeful de ocol, a pădurarului care preia şi, după caz, a pădurarului care predă suprafaţa de fond forestier."]
+            ]
+          },
+          {
+            "no": "13",
+            "label": "Art. 13",
+            "items": [
+              ["","Controlul de fond prevăzut la art. 10 are ca obiect:"],
+              ["a)","limitele fondului forestier pentru a stabili eventualele încălcări de hotar;"],
+              ["b)","starea bornelor de hotar şi a limitelor amenajistice;"],
+              ["c)","identificarea arborilor, puieţilor sau lăstarilor, tăiaţi, rupţi sau scoşi din rădăcini, fără drept, prin parcurgerea întregii suprafeţe, evaluarea prejudiciilor şi calculul pagubelor;"],
+              ["d)","modul de delimitare pe teren a zonelor şi traseelor autorizate pentru păşunat, adăpat şi adăpostire, după caz. CAPITOLUL III Controlul de fond şi controlul parţial"]
+            ]
+          },
+          {
+            "no": "14",
+            "label": "Art. 14",
+            "items": [
+              ["","Inginerii şi tehnicienii silvici de la ocoale silvice, direcţii silvice, structuri de rang superior, precum şi personalul silvic de specialitate din cadrul autorităţii publice centrale teritoriale care răspunde de silvicultură execută sistematic, integral sau parţial, controale în cantoane privind aplicarea măsurilor de pază, conservare şi protejare a fondului forestier."]
+            ]
+          },
+          {
+            "no": "15",
+            "label": "Art. 15",
+            "items": [
+              ["","Controlul de fond are ca obiect:"],
+              ["a)","verificarea limitelor fondului forestier pentru a stabili eventualele încălcări de hotar;"],
+              ["b)","verificarea stării bornelor de hotar şi a limitelor amenajistice;"],
+              ["c)","identificarea arborilor, puieţilor sau lăstarilor, tăiaţi, rupţi sau scoşi din rădăcini, fără drept, prin parcurgerea întregii suprafeţe, evaluarea prejudiciilor şi calculul pagubelor;"],
+              ["d)","verificarea modului în care s-a realizat delimitarea pe teren a zonelor şi traseelor autorizate pentru păşunat, adăpat şi adăpostire, după caz;"],
+              ["e)","verificarea modului de gestionare a patrimoniului încredinţat;"],
+              ["f)","verificarea modului de îndeplinire a sarcinilor privind prevenirea şi stingerea incendiilor de pădure;"],
+              ["g)","verificarea modului în care s-a completat condica de serviciu cu evidenţele specifice: autorizaţii de păşunat sau trecere, autorizaţii de exploatare a partizilor, acte de contravenţie şi infracţiune, suprafeţele regenerate pe cale naturală, mixtă sau artificială."]
+            ]
+          },
+          {
+            "no": "16",
+            "label": "Art. 16",
+            "items": [
+              ["(1)","Fiecare canton se parcurge anual cu cel puţin două controale de fond, în situaţia în care condiţiile atmosferice permit identificarea eventualelor prejudicii."],
+              ["(2)","Controale de fond se efectuează şi în situaţia în care cantonul trebuie predat unei alte persoane din diverse motive - plecarea sau întoarcerea din concediu, internarea în spital, suspendarea din funcţie, preluarea suprafeţelor de fond forestier în baza contractelor de administrare/prestări servicii silvice, rearondări."]
+            ]
+          },
+          {
+            "no": "17",
+            "label": "Art. 17",
+            "items": [
+              ["","Controlul parţial vizează aceleaşi obiective ca şi controlul de fond, dar se desfăşoară pe o parte determinată din canton în baza unei sesizări, în cazul semnalării unor tăieri ilegale sau cu ocazia verificării unor lucrări în curs de executare."]
+            ]
+          },
+          {
+            "no": "18",
+            "label": "Art. 18",
+            "items": [
+              ["","Controalele de fond sau controalele parţiale se execută în prezenţa pădurarului titular al cantonului, precum şi a unui asistent, personal silvic delegat de şeful de ocol."]
+            ]
+          },
+          {
+            "no": "19",
+            "label": "Art. 19",
+            "items": [
+              ["(1)","În timpul controlului se identifică cioatele care provin de la arborii tăiaţi ilegal."],
+              ["(2)","Cioatele prevăzute la alin. (1) se numerotează, se marchează cu dispozitivul de marcat specific şi se inventariază pe specii şi diametre."],
+              ["(3)","Numerotarea se face în continuare pentru toate cioatele găsite într-un an în canton."],
+              ["(4)","Determinarea diametrelor cioatelor provenite de la arborii tăiaţi ilegal se face conform prevederilor legale în vigoare."]
+            ]
+          },
+          {
+            "no": "20",
+            "label": "Art. 20",
+            "items": [
+              ["","Pădurarul titular de canton răspunde patrimonial, potrivit prevederilor legale, pentru arborii, puieţii şi lăstarii tăiaţi ilegal, scoşi din pământ, distruşi sau degradaţi, sustraşi ori aflaţi pe teren, nejustificaţi prin procese-verbale de constatare a contravenţiilor şi infracţiunilor încheiate anterior declanşării controlului sau justificaţi prin acte care ulterior controlului s-au dovedit, prin decizii definitive ale instanţelor judecătoreşti, a fi neîntemeiate, precum şi pentru orice alte pagube produse patrimoniului aflat în gestiune, stabilite potrivit prevederilor legale."]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21",
+            "items": [
+              ["(1)","La începerea şi terminarea controlului înregistrările din condica de serviciu se vor închide/deschide cu următoarea formulare: \" Început (terminat) controlul de fond (parţial) azi, data ..........., ora ....., în prezenţa ........................................., semnătura ......................................\""],
+              ["(2)","Pe durata controlului, la sfârşitul fiecărei zile, evidenţa cioatelor arborilor tăiaţi ilegal din condica de serviciu se barează şi se semnează de persoana care controlează, persoana controlată şi asistenţi."],
+              ["(3)","Persoana juridică angajatoare poate aproba, potrivit prevederilor legale, limitarea răspunderii patrimoniale a personalului silvic cu atribuţii de pază."]
+            ]
+          },
+          {
+            "no": "22",
+            "label": "Art. 22",
+            "items": [
+              ["(1)","Constatările în urma controlului de fond sau controlului parţial se înscriu într-un act de control, încheiat pentru fiecare deţinător în parte, al cărui model este prevăzut în anexa nr. 4."],
+              ["(2)","Fiecare pagină a actului de control se semnează de persoana care efectuează controlul, de persoana controlată şi de asistenţi."],
+              ["(3)","Actul de control de fond se depune la registratura ocolului silvic în termen de cel mult 5 zile de la data încheierii controlului."],
+              ["(4)","Evidenţa controalelor de fond şi a controalelor parţiale executate se păstrează la ocolul silvic în Registrul de evidenţă a controalelor, al cărui model este prevăzut în anexa nr. 5."]
+            ]
+          },
+          {
+            "no": "23",
+            "label": "Art. 23",
+            "items": [
+              ["","Actele controlului de fond sau ale controlului parţial se aprobă în termen de 5 zile de la data depunerii, după cum urmează:"],
+              ["a)","de către conducătorul structurii de control din cadrul autorităţii publice centrale care răspunde de silvicultură sau de către conducătorul structurilor teritoriale de specialitate subordonate;"],
+              ["b)","de conducerea Regiei Naţionale a Pădurilor - Romsilva, a direcţiei silvice şi a structurilor silvice de rang superior, după caz, pentru actele de control întocmite de personalul din subordine; după aprobare, un exemplar se transmite şefului ocolului silvic în raza căruia a fost executat controlul pentru evidenţă şi aplicarea măsurilor ce se impun, precum şi termenele şi responsabilităţile pentru realizarea acestora;"],
+              ["c)","de către şeful ocolului silvic pentru actele de control întocmite de personalul din subordine; acesta dispune şi aplicarea măsurilor ce se impun, precum şi termenele şi responsabilităţile pentru realizarea acestora. CAPITOLUL IV Dispoziţii finale"]
+            ]
+          },
+          {
+            "no": "24",
+            "label": "Art. 24",
+            "items": [
+              ["(1)","Ocoalele silvice vor organiza lunar acţiuni de instruire privind folosirea şi întreţinerea armamentului din dotare şi de analiză a activităţii pe linie de pază a pădurilor, precum şi de prezentare a reglementărilor privind paza pădurii."],
+              ["(2)","Acţiunile prevăzute la alin. (1) se fac sub conducerea şefului ocolului silvic, cu participarea întregului personal cu atribuţii privind paza pădurii."],
+              ["(3)","Pe durata acţiunilor prevăzute la alin. (1), şeful ocolului silvic asigură continuitatea pazei fondului forestier cu personalul silvic disponibil şi cu sprijinul personalului de poliţie şi jandarmerie."],
+              ["(4)","Instruirea personalului de teren privind folosirea, păstrarea şi întreţinerea armamentului şi muniţiei din dotare se face de organele de poliţie abilitate, sub coordonarea directă a şefului ocolului silvic."]
+            ]
+          },
+          {
+            "no": "25",
+            "label": "Art. 25",
+            "items": [
+              ["","Evidenţa proceselor-verbale de constatare a contravenţiilor şi infracţiunilor se înscrie în \"Registrul contravenţiilor şi infracţiunilor\", al cărui model este prevăzut în anexa nr. 3."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26",
+            "items": [["", "Anexele nr. 1-5 fac parte integrantă din prezentul regulament."]]
+          }
+        ]
+      }
+    ],
+    "annexes": {
+      "title": "Anexele regulamentului (conținutul relevant pentru examen)",
+      "items": [
+        {
+          "no": "1",
+          "items": [
+            ["","PROCES-VERBAL de predare-primire integrală/parțială a cantonului sau a suprafeței preluate pe bază de contract."],
+            ["Rezumat","Cuprinde: suprafața fondului forestier pe categorii de folosință (P.D. – acoperite cu pădure, P.I. – afectate împăduririi, P.N. – neproductive, P.T. – ocupații și litigii), pepiniere, culturi specializate, rezervații de semințe, păstrăvării, regenerări naturale/artificiale/mixte; alte bunuri în gestiune (materiale lemnoase, borne, unelte PSI, inventar), construcții."],
+            ["NOTĂ","Se întocmește de către comisia stabilită conform prevederilor Regulamentului de pază a fondului forestier, cu date ce se preiau din anexa la condica de serviciu, din evidențele tehnice și contabile ale ocolului silvic."]
+          ]
+        },
+        {
+          "no": "2",
+          "items": [
+            ["","CONDICA DE SERVICIU. La evidența arborilor afectați/prejudiciați/tăiați ilegal se vor folosi următoarele simboluri:"],
+            ["TT","arbore tăiat care se găsește pe teren;"],
+            ["TL","arbore tăiat care nu se mai găsește pe teren;"],
+            ["ST","arbore scos din pământ care se găsește pe teren;"],
+            ["SL","arbore scos din pământ care nu se mai găsește pe teren;"],
+            ["C","crăci tăiate din arbori pe picior;"],
+            ["S","arbore secuit;"],
+            ["PC","pom de Crăciun."]
+          ]
+        },
+        {
+          "no": "3",
+          "items": [
+            ["","REGISTRUL contravențiilor și infracțiunilor."],
+            ["NOTĂ","Se întocmește la ocolul silvic de către responsabilul cu probleme de pază a pădurilor cu date ce se preiau din Procesul-verbal de constatare a infracțiunii și Procesul-verbal de constatare a contravenției silvice ori de câte ori este necesar. Se completează într-un exemplar."]
+          ]
+        },
+        {
+          "no": "4",
+          "items": [
+            ["","ACT DE CONTROL parțial/de fond, cu fișele de calcul: a) volumul și valoarea arborilor afectați/prejudiciați/tăiați ilegal și nejustificați; b) pagubele prin prejudicierea puieților sau lăstarilor; c) pagubele prin prejudicierea pomilor de Crăciun."],
+            ["fișa c)","Se întocmește pentru pagubele produse în perioada 1 noiembrie – 31 decembrie în arborete și în tot cursul anului în culturile specializate pentru producerea pomilor de Crăciun."]
+          ]
+        },
+        {
+          "no": "5",
+          "items": [
+            ["","REGISTRU DE EVIDENȚĂ a controalelor. La felul controlului se înscriu simbolurile:"],
+            ["P","control parțial;"],
+            ["F","control de fond."],
+            ["NOTĂ","Se completează la ocolul silvic de către responsabilul cu probleme de pază a pădurilor cu date ce se preiau din Actul de control, ori de câte ori se înregistrează actele de control."]
+          ]
+        }
+      ]
+    }
+  }
+}

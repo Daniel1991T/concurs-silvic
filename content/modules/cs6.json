@@ -1,0 +1,871 @@
+{
+  "id": "cs6",
+  "title": "Codul silvic VI – Dezvoltarea FFN și scheme de sprijin",
+  "act": "Legea 331/2024, Titlurile IV–V (art. 117–130)",
+  "version": "Codul silvic consolidat la 29 octombrie 2026",
+  "intro": "Partea despre bani și extinderea pădurii: Programul național de împădurire, perdelele forestiere, fondul de conservare și regenerare (cu procentele lui), ce plătește statul (paza pentru sub 30 ha, compensațiile) și ajutoarele de stat după calamități.",
+  "lesson": [
+    {
+      "title": "1. Împădurirea și perdelele forestiere",
+      "paragraphs": [
+        {
+          "text": "Extinderea pădurii e **obligație a statului și prioritate națională**, prin **Programul național de împădurire**, aprobat prin **HG**. Ținta: împădurirea a cel puțin **60.000 ha** de terenuri din afara FFN **până în 2030**.",
+          "refs": ["Cod art. 117 alin. (1)–(3)"]
+        },
+        {
+          "text": "**Romsilva** poate cumpăra terenuri în numele statului ca să crească pădurea publică. Finanțarea vine din fondul de ameliorare, fondul de conservare și regenerare, fonduri europene, bugetul de stat și fondurile Romsilva.",
+          "refs": ["Cod art. 117 alin. (4)–(5)"]
+        },
+        {
+          "text": "**Sistemul național al perdelelor forestiere de protecție** e **obiectiv de utilitate publică**; perdelele se fac pe baza studiilor tehnico-economice, **fără alte avize**.",
+          "refs": ["Cod art. 118"]
+        },
+        {
+          "text": "Pe terenurile agricole se poate planta cu orice specii forestiere adaptate care ating **minimum 5 m** la maturitate, inclusiv arbuști forestieri.",
+          "refs": ["Cod art. 119"]
+        },
+        {
+          "text": "Împădurirea **terenurilor agricole degradate** e de **utilitate publică și interes național**. Cele private, după împădurire, devin **terenuri agrosilvice**; proprietarul poate cere includerea în FFN.",
+          "refs": ["Cod art. 120"]
+        }
+      ],
+      "keep": [
+        "Programul național de împădurire: HG; min. 60.000 ha până în 2030",
+        "Romsilva poate cumpăra terenuri pentru stat",
+        "Perdelele: utilitate publică, fără alte avize",
+        "Plantații pe teren agricol: specii de min. 5 m (și arbuști)",
+        "Degradate private împădurite → agrosilvic (opțional FFN)"
+      ],
+      "quiz": [
+        {
+          "q": "Cine poate cumpăra terenuri în numele statului pentru extinderea pădurii publice?",
+          "options": ["Garda", "Romsilva", "Ocoalele de regim", "Primăriile"],
+          "answer": 1,
+          "explain": "Romsilva.",
+          "ref": "Cod art. 117 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "2. Finanțarea serviciilor ecosistemice",
+      "paragraphs": [
+        {
+          "text": "Serviciile **peste nivelul minimal** se susțin prin trei sisteme: **plăți compensatorii** (pentru restricții impuse obligatoriu), **subvenții** (pentru obiective voluntare suplimentare sau pentru micile proprietăți) și **plăți reglementate** prin **Fondul pentru mediu**, pentru funcțiile de protecție din amenajamente.",
+          "refs": ["Cod art. 121 alin. (1)–(4)"]
+        },
+        {
+          "text": "Romsilva **trebuie să cumpere** pădurile private **virgine și cvasivirgine**, zonele strict protejate din parcuri și pădurile urbane și periurbane, când proprietarii vor să le vândă.",
+          "refs": ["Cod art. 121 alin. (5)"]
+        },
+        {
+          "text": "Nivelul minim de reglementare din amenajamente e cel al **grupei a II-a funcționale**; ce depășește acest nivel se compensează. Metodologia schemelor se aprobă prin **HG**, iar banii se dau de la aprobarea schemei de ajutor de stat de către **Comisia Europeană**.",
+          "refs": ["Cod art. 122","Cod art. 123 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Plăți compensatorii (restricții obligatorii) / subvenții (voluntar, mici proprietăți) / Fondul pentru mediu",
+        "Romsilva cumpără obligatoriu pădurile virgine, strict protejate, urbane scoase la vânzare",
+        "Nivelul minim: grupa a II-a funcțională"
+      ],
+      "quiz": [
+        {
+          "q": "Plățile reglementate pentru funcțiile de protecție se fac prin:",
+          "options": ["Fondul pentru mediu", "Fondul de accesibilizare", "Bugetul local", "Romsilva"],
+          "answer": 0,
+          "explain": "Prin alimentarea Fondului pentru mediu.",
+          "ref": "Cod art. 121 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "3. Fondul de conservare și regenerare",
+      "paragraphs": [
+        {
+          "text": "Toți proprietarii și administratorii au obligația să constituie **fondul de conservare și regenerare a pădurilor**: **purtător de dobândă, neimpozabil, deductibil fiscal**, cu regim de rezervă fiscală, în contul **administratorului sau prestatorului de servicii**. Evidența se ține pe proprietar.",
+          "refs": ["Cod art. 124 alin. (1)","Cod art. 124 alin. (5)"]
+        },
+        {
+          "text": "Surse principale: **10–25%** din valoarea lemnului din **principale și accidentale I**, la prețul mediu pe picior. La stat se calculează din lemnul **vândut și încasat**, procentul fiind stabilit anual de Romsilva (INCDS, RAAPPS). La ceilalți, din lemnul **autorizat la exploatare**, procentul îl stabilește anual proprietarul, pe fundamentarea ocolului.",
+          "refs": ["Cod art. 124 alin. (2)"]
+        },
+        {
+          "text": "Alte surse: **30% din chiria** ocupărilor temporare pe terenurile statului; despăgubirile pentru pagube (la privați **100%**); valoarea terenului scos fără compensare; pierderea de creștere; costurile de instalare a vegetației; sumele din pădurile cu proprietar neidentificat.",
+          "refs": ["Cod art. 124 alin. (2)"]
+        },
+        {
+          "text": "Banii se folosesc pentru: regenerări și împăduriri, îngrijirea regenerărilor și culturilor tinere, degajări, curățiri, elagaj, refacerea pădurilor după calamități, protecția pădurilor, împrejmuiri, puieți, pepiniere noi, irigații, utilaje de regenerare, cumpărare de terenuri.",
+          "refs": ["Cod art. 124 alin. (3)"]
+        },
+        {
+          "text": "Ce rămâne la final de an se **reportează** cu aceeași destinație. La privați și UAT, după acoperirea cheltuielilor de regenerare și îngrijire, restul se **restituie proprietarului, la cerere**.",
+          "refs": ["Cod art. 124 alin. (6)–(7)"]
+        }
+      ],
+      "keep": [
+        "Fond purtător de dobândă, neimpozabil, deductibil, în contul administratorului/prestatorului",
+        "10–25% din valoarea principalelor și accidentalelor I",
+        "Stat: din lemnul vândut și încasat; alții: din lemnul autorizat",
+        "30% din chiria ocupărilor; 100% din despăgubiri la privați",
+        "Report anual; la privați/UAT restul se restituie la cerere"
+      ],
+      "quiz": [
+        {
+          "q": "Evidența fondului de conservare se ține:",
+          "options": ["Pe ocol, global", "Pe proprietar/deținător", "La Gardă", "La minister"],
+          "answer": 1,
+          "explain": "Pe proprietar.",
+          "ref": "Cod art. 124 alin. (5)"
+        },
+        {
+          "q": "Banii rămași în fondul unui proprietar privat, după cheltuielile de regenerare:",
+          "options": ["Se pierd", "Se restituie la cerere proprietarului", "Merg la stat", "Merg la Gardă"],
+          "answer": 1,
+          "explain": "Se restituie la cerere.",
+          "ref": "Cod art. 124 alin. (7)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Fondul de conservare și regenerare",
+        "items": [
+          {
+            "title": "Ce e",
+            "text": "cont cu dobândă, neimpozabil, deductibil, la administrator/prestator, evidență pe proprietar",
+            "ref": "Cod art. 124 alin. (1)"
+          },
+          {
+            "title": "De unde",
+            "text": "10–25% din principale + accidentale I; 30% din chirii; despăgubiri",
+            "ref": "Cod art. 124 alin. (2)"
+          },
+          {
+            "title": "Pentru ce",
+            "text": "regenerări, îngrijiri tinere, refaceri, protecție, puieți, pepiniere",
+            "ref": "Cod art. 124 alin. (3)"
+          },
+          {
+            "title": "La final de an",
+            "text": "report; la privați/UAT, restul se restituie la cerere",
+            "ref": "Cod art. 124 alin. (6)–(7)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Ce plătește statul",
+      "paragraphs": [
+        {
+          "text": "Prin bugetul Autorității, statul plătește **integral paza și serviciile minimale** pentru proprietățile de **max. 30 ha** (inclusiv cele din Registrul agricol), către **ocolul nominalizat**, pe baza devizului: suprafața × costul mediu/ha după relief (anexa 2).",
+          "refs": ["Cod art. 125 alin. (1)"]
+        },
+        {
+          "text": "Tot statul plătește: **compensații** pentru produsele nerecoltate din cauza funcțiilor de protecție; diferența până la finanțarea integrală a regenerărilor; **combaterea bolilor și dăunătorilor** la proprietățile private de max. **30 ha**; refacerea pădurilor și drumurilor după calamități sau incendii cu autor necunoscut; sprijin pentru asociațiile de proprietari; materiale de educație forestieră.",
+          "refs": ["Cod art. 125 alin. (1)"]
+        },
+        {
+          "text": "**Limitarea dreptului de proprietate** peste nivelul grupei a II-a se face **numai cu compensații**, cu excepția limitărilor voluntare ale proprietarului.",
+          "refs": ["Cod art. 125 alin. (2)"]
+        },
+        {
+          "text": "La pădurile statului, bugetul dă bani pentru **drumuri forestiere** și **corectarea torenților**.",
+          "refs": ["Cod art. 125 alin. (3)"]
+        },
+        {
+          "text": "Banii pentru pază, regenerări, dăunători și refaceri ajung la **ocol**; compensațiile, sprijinul asociațiilor și materialele educative ajung la **proprietari**.",
+          "refs": ["Cod art. 127"]
+        }
+      ],
+      "keep": [
+        "Paza pentru max. 30 ha: integral de la buget, plătită ocolului nominalizat",
+        "Compensații pentru restricțiile de protecție",
+        "Dăunători la privați de max. 30 ha: plătește statul",
+        "Limitarea proprietății peste grupa a II-a: doar cu compensații",
+        "Bani la ocol (pază, regenerări) vs. la proprietar (compensații)"
+      ],
+      "quiz": [
+        {
+          "q": "Banii pentru paza de max. 30 ha se plătesc către:",
+          "options": ["Proprietar", "Ocolul nominalizat", "Gardă", "Primărie"],
+          "answer": 1,
+          "explain": "Ocolului nominalizat, pe deviz.",
+          "ref": "Cod art. 125 alin. (1)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Unde ajung banii de la stat",
+        "levels": [
+          {
+            "who": "La ocol",
+            "does": [
+              "paza și serviciile minimale (max. 30 ha)",
+              "diferența pentru regenerări",
+              "dăunători (privați max. 30 ha)",
+              "refaceri după calamități"
+            ],
+            "ref": "Cod art. 127"
+          },
+          {
+            "who": "La proprietar",
+            "does": [
+              "compensații pentru restricții",
+              "sprijin pentru asociații",
+              "materiale de educație forestieră"
+            ],
+            "ref": "Cod art. 127"
+          }
+        ]
+      }
+    },
+    {
+      "title": "5. Ajutoarele de stat după calamități",
+      "paragraphs": [
+        {
+          "text": "Pentru proprietarii privați și UAT, ajutoarele de stat se gestionează de **Administrația Fondului pentru Mediu** și de **Autoritate**.",
+          "refs": ["Cod art. 126 alin. (1)–(4)"]
+        },
+        {
+          "text": "Se acordă pentru: **instalarea vegetației și întreținerea până la starea de masiv** pe suprafețe compacte de **minimum 0,5 ha** afectate de factori biotici sau abiotici (deviz aprobat de **Gardă**); **pierderea de creștere**, anual, **10 ani**, începând cu **1 ianuarie a anului următor** afectării; costurile recoltării accidentalelor.",
+          "refs": ["Cod art. 126 alin. (5)"]
+        },
+        {
+          "text": "La pădurile **statului**, refacerea după doborâturi masive, uscări în masă sau incendii (min. 0,5 ha) se plătește din **fondul de rezervă al Guvernului**.",
+          "refs": ["Cod art. 126 alin. (6)"]
+        },
+        {
+          "text": "Ocoalele și administratorii pot redirecționa **până la 10% din impozitul pe profit** pentru unitățile de **educație forestieră**.",
+          "refs": ["Cod art. 126 alin. (7)"]
+        }
+      ],
+      "keep": [
+        "Ajutoare: prin AFM și Autoritate",
+        "Instalare vegetație pe min. 0,5 ha afectate (deviz aprobat de Gardă)",
+        "Pierdere de creștere: anual, 10 ani, de la 1 ianuarie anul următor",
+        "La stat: fondul de rezervă al Guvernului",
+        "Până la 10% din impozitul pe profit pentru educație forestieră"
+      ],
+      "quiz": [
+        {
+          "q": "Devizul de reinstalare a vegetației după calamitate la privați îl aprobă:",
+          "options": ["Ocolul", "Garda Forestieră", "AFM", "Primăria"],
+          "answer": 1,
+          "explain": "Garda competentă.",
+          "ref": "Cod art. 126 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "6. Alte finanțări",
+      "paragraphs": [
+        {
+          "text": "IFN și celelalte instrumente de monitorizare se finanțează anual **de la bugetul de stat**, prin Autoritate.",
+          "refs": ["Cod art. 128"]
+        },
+        {
+          "text": "Educația forestieră, informarea publică și cercetarea aplicativă se finanțează din **fondul de ameliorare a fondului funciar cu destinație silvică**.",
+          "refs": ["Cod art. 129"]
+        },
+        {
+          "text": "Firmele care au concesionat terenuri ale statului (cu altă destinație) și fac perdele forestiere pe ele sunt **scutite de redevență** pentru suprafața perdelelor.",
+          "refs": ["Cod art. 130"]
+        }
+      ],
+      "keep": [
+        "Monitorizarea (IFN etc.): bugetul de stat",
+        "Educație și cercetare aplicativă: fondul de ameliorare",
+        "Perdele pe terenuri concesionate: scutire de redevență"
+      ],
+      "quiz": [
+        {
+          "q": "O firmă care face perdele pe un teren concesionat de la stat:",
+          "options": [
+            "Plătește dublu",
+            "E scutită de redevență pentru suprafața perdelelor",
+            "Pierde concesiunea",
+            "Plătește taxă de scoatere"
+          ],
+          "answer": 1,
+          "explain": "Scutire de redevență.",
+          "ref": "Cod art. 130"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Cifre",
+      "rows": [
+        {
+          "what": "Ținta Programului național de împădurire",
+          "value": "min. 60.000 ha până în 2030",
+          "ref": "Cod art. 117 alin. (3)"
+        },
+        {
+          "what": "Înălțimea speciilor pe teren agricol",
+          "value": "min. 5 m la maturitate",
+          "ref": "Cod art. 119"
+        },
+        {
+          "what": "Cota fondului de conservare din lemn",
+          "value": "10–25% (principale + accidentale I)",
+          "ref": "Cod art. 124 alin. (2)"
+        },
+        {
+          "what": "Din chiria ocupărilor temporare (stat)",
+          "value": "30% în fondul de conservare",
+          "ref": "Cod art. 124 alin. (2)"
+        },
+        {
+          "what": "Din despăgubirile la pădurile private",
+          "value": "100% în fondul de conservare",
+          "ref": "Cod art. 124 alin. (2)"
+        },
+        {
+          "what": "Paza plătită integral de stat",
+          "value": "proprietăți de max. 30 ha",
+          "ref": "Cod art. 125 alin. (1)"
+        },
+        {
+          "what": "Dăunători plătiți de stat",
+          "value": "privați cu max. 30 ha",
+          "ref": "Cod art. 125 alin. (1)"
+        },
+        {
+          "what": "Suprafața minimă pentru ajutor după calamități",
+          "value": "0,5 ha compacte",
+          "ref": "Cod art. 126 alin. (5)"
+        },
+        {
+          "what": "Pierderea de creștere compensată",
+          "value": "anual, 10 ani",
+          "ref": "Cod art. 126 alin. (5)"
+        },
+        {
+          "what": "Redirecționare din impozitul pe profit",
+          "value": "până la 10%, educație forestieră",
+          "ref": "Cod art. 126 alin. (7)"
+        }
+      ]
+    },
+    {
+      "title": "Cine ce face",
+      "rows": [
+        {
+          "what": "Aprobă Programul național de împădurire",
+          "value": "Guvernul, prin HG",
+          "ref": "Cod art. 117 alin. (2)"
+        },
+        {
+          "what": "Stabilește anual procentul fondului (stat)",
+          "value": "Romsilva (INCDS, RAAPPS)",
+          "ref": "Cod art. 124 alin. (2)"
+        },
+        {
+          "what": "Stabilește procentul fondului (privați)",
+          "value": "proprietarul, pe fundamentarea ocolului",
+          "ref": "Cod art. 124 alin. (2)"
+        },
+        {
+          "what": "Ține fondul de conservare",
+          "value": "administratorul sau prestatorul, pe proprietar",
+          "ref": "Cod art. 124 alin. (1)"
+        },
+        {
+          "what": "Aprobă devizul de reîmpădurire după calamități",
+          "value": "Garda Forestieră",
+          "ref": "Cod art. 126 alin. (5)"
+        },
+        {
+          "what": "Gestionează ajutoarele de stat",
+          "value": "AFM și Autoritatea",
+          "ref": "Cod art. 126 alin. (3)"
+        },
+        {
+          "what": "Plătește refacerea pădurii statului după calamități",
+          "value": "fondul de rezervă al Guvernului",
+          "ref": "Cod art. 126 alin. (6)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "„60 de mii până în 2030” e ținta de împădurire.",
+    "Fondul de conservare e „10–25”, fondul de accesibilizare (CS V) e „10–20”. Ambele din principale și accidentale I.",
+    "La stat contează lemnul vândut și încasat, la privați lemnul autorizat.",
+    "Pragul de 30 ha apare iar: sub el, statul plătește și paza, și combaterea dăunătorilor."
+  ],
+  "cards": [
+    {
+      "q": "Cum se aprobă Programul național de împădurire?",
+      "a": "Prin HG, la propunerea Autorității.",
+      "ref": "Cod art. 117 alin. (2)"
+    },
+    {
+      "q": "Ce suprafață trebuie împădurită până în 2030?",
+      "a": "Cel puțin 60.000 ha de terenuri din afara FFN.",
+      "ref": "Cod art. 117 alin. (3)"
+    },
+    {
+      "q": "Ce statut are Sistemul național al perdelelor forestiere?",
+      "a": "Obiectiv de utilitate publică.",
+      "ref": "Cod art. 118 alin. (2)"
+    },
+    {
+      "q": "Ce specii se pot planta pe teren agricol?",
+      "a": "Orice specii forestiere adaptate care ating min. 5 m la maturitate, inclusiv arbuști forestieri.",
+      "ref": "Cod art. 119"
+    },
+    {
+      "q": "Ce devine un teren agricol degradat privat după împădurire?",
+      "a": "Teren agricol cu folosință agrosilvică (sau FFN, dacă proprietarul optează).",
+      "ref": "Cod art. 120 alin. (2)"
+    },
+    {
+      "q": "Ce sunt plățile compensatorii?",
+      "a": "Bani pentru dezavantajele din restricțiile impuse obligatoriu, peste serviciile minimale.",
+      "ref": "Cod art. 121 alin. (2)"
+    },
+    {
+      "q": "Ce păduri private trebuie să cumpere Romsilva când se vând?",
+      "a": "Virgine și cvasivirgine, zone strict protejate din parcuri, păduri urbane și periurbane.",
+      "ref": "Cod art. 121 alin. (5)"
+    },
+    {
+      "q": "Ce caracteristici fiscale are fondul de conservare și regenerare?",
+      "a": "Purtător de dobândă, neimpozabil, deductibil fiscal, regim de rezervă fiscală.",
+      "ref": "Cod art. 124 alin. (1)"
+    },
+    {
+      "q": "În contul cui stă fondul de conservare?",
+      "a": "Al administratorului sau al prestatorului de servicii silvice.",
+      "ref": "Cod art. 124 alin. (1)"
+    },
+    {
+      "q": "Ce procent din valoarea lemnului merge în fondul de conservare?",
+      "a": "10–25% din principale și accidentale I, la prețul mediu pe picior.",
+      "ref": "Cod art. 124 alin. (2)"
+    },
+    {
+      "q": "Cine stabilește procentul fondului la o pădure privată?",
+      "a": "Proprietarul, anual, pe fundamentarea ocolului.",
+      "ref": "Cod art. 124 alin. (2)"
+    },
+    {
+      "q": "Ce parte din despăgubirile pentru pagube la pădurile private merge în fond?",
+      "a": "100%.",
+      "ref": "Cod art. 124 alin. (2)"
+    },
+    {
+      "q": "Ce se întâmplă cu banii rămași în fond la final de an?",
+      "a": "Se reportează cu aceeași destinație; la privați/UAT, restul se poate restitui la cerere.",
+      "ref": "Cod art. 124 alin. (6)–(7)"
+    },
+    {
+      "q": "Cine plătește paza pentru o pădure privată de 12 ha?",
+      "a": "Statul, integral, către ocolul nominalizat.",
+      "ref": "Cod art. 125 alin. (1)"
+    },
+    {
+      "q": "Cum se calculează devizul pentru paza plătită de stat?",
+      "a": "Suprafața × costul mediu/ha pe forme de relief (anexa 2).",
+      "ref": "Cod art. 125 alin. (1)"
+    },
+    {
+      "q": "Se poate limita dreptul de proprietate peste grupa a II-a fără compensații?",
+      "a": "Nu, decât dacă proprietarul o cere el însuși.",
+      "ref": "Cod art. 125 alin. (2)"
+    },
+    {
+      "q": "Cine gestionează ajutoarele de stat în silvicultură?",
+      "a": "Administrația Fondului pentru Mediu și Autoritatea.",
+      "ref": "Cod art. 126 alin. (3)"
+    },
+    {
+      "q": "Cât timp se plătește pierderea de creștere după o calamitate?",
+      "a": "Anual, 10 ani, de la 1 ianuarie a anului următor.",
+      "ref": "Cod art. 126 alin. (5)"
+    },
+    {
+      "q": "De unde se plătește refacerea pădurii statului după o doborâtură masivă?",
+      "a": "Din fondul de rezervă al Guvernului.",
+      "ref": "Cod art. 126 alin. (6)"
+    },
+    {
+      "q": "Cât din impozitul pe profit pot redirecționa ocoalele pentru educație forestieră?",
+      "a": "Până la 10%.",
+      "ref": "Cod art. 126 alin. (7)"
+    },
+    {
+      "q": "Din ce fond se finanțează educația forestieră și cercetarea aplicativă?",
+      "a": "Din fondul de ameliorare a fondului funciar cu destinație silvică.",
+      "ref": "Cod art. 129"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Programul național de împădurire urmărește până în 2030 împădurirea a cel puțin:",
+      "options": ["10.000 ha", "30.000 ha", "60.000 ha", "100.000 ha"],
+      "answer": 2,
+      "explain": "60.000 ha din afara FFN.",
+      "ref": "Cod art. 117 alin. (3)"
+    },
+    {
+      "q": "Înființarea perdelelor forestiere, pe baza studiilor tehnico-economice:",
+      "options": [
+        "Cere aviz de mediu și urbanism",
+        "Nu cere alte avize",
+        "Cere HG",
+        "E interzisă pe teren agricol"
+      ],
+      "answer": 1,
+      "explain": "Fără alte avize.",
+      "ref": "Cod art. 118 alin. (3)"
+    },
+    {
+      "q": "Împădurirea terenurilor agricole degradate este:",
+      "options": [
+        "Facultativă, fără statut",
+        "De utilitate publică și interes național",
+        "Interzisă",
+        "Doar pentru stat"
+      ],
+      "answer": 1,
+      "explain": "Utilitate publică și interes național.",
+      "ref": "Cod art. 120 alin. (1)"
+    },
+    {
+      "q": "Subvențiile pentru proprietari sunt destinate:",
+      "options": [
+        "Restricțiilor obligatorii",
+        "Obiectivelor voluntare suplimentare sau micilor proprietăți",
+        "Plății pazei",
+        "Cumpărării de utilaje"
+      ],
+      "answer": 1,
+      "explain": "Stimulează obiective suplimentare.",
+      "ref": "Cod art. 121 alin. (3)"
+    },
+    {
+      "q": "Fondul de conservare și regenerare este:",
+      "options": ["Impozabil", "Neimpozabil, deductibil fiscal", "Venit al Gărzii", "Fond al statului"],
+      "answer": 1,
+      "explain": "Neimpozabil, deductibil, cu dobândă.",
+      "ref": "Cod art. 124 alin. (1)"
+    },
+    {
+      "q": "La pădurile statului, cota fondului se calculează din valoarea lemnului:",
+      "options": ["Autorizat", "Vândut și încasat", "Estimat în amenajament", "Exploatat ilegal"],
+      "answer": 1,
+      "explain": "La stat: vândut și încasat; la ceilalți: autorizat.",
+      "ref": "Cod art. 124 alin. (2)"
+    },
+    {
+      "q": "Cota pentru fondul de conservare este de:",
+      "options": ["5–10%", "10–20%", "10–25%", "25–50%"],
+      "answer": 2,
+      "explain": "10–25%.",
+      "ref": "Cod art. 124 alin. (2)"
+    },
+    {
+      "q": "Din chiria ocupărilor temporare pe terenurile statului, în fondul de conservare merge:",
+      "options": ["20%", "30%", "50%", "100%"],
+      "answer": 1,
+      "explain": "30%.",
+      "ref": "Cod art. 124 alin. (2)"
+    },
+    {
+      "q": "Fondul de conservare NU se folosește pentru:",
+      "options": ["Regenerări", "Curățiri", "Salariile Gărzii", "Împrejmuirea regenerărilor"],
+      "answer": 2,
+      "explain": "Salariile Gărzii nu sunt destinație.",
+      "ref": "Cod art. 124 alin. (3)"
+    },
+    {
+      "q": "Statul plătește integral paza pentru proprietățile de max.:",
+      "options": ["10 ha", "30 ha", "100 ha", "Oricât"],
+      "answer": 1,
+      "explain": "30 ha.",
+      "ref": "Cod art. 125 alin. (1)"
+    },
+    {
+      "q": "Combaterea dăunătorilor e plătită de stat pentru:",
+      "options": ["Toți proprietarii", "Privații cu max. 30 ha", "UAT", "Romsilva"],
+      "answer": 1,
+      "explain": "Proprietăți private de max. 30 ha.",
+      "ref": "Cod art. 125 alin. (1)"
+    },
+    {
+      "q": "Ajutorul pentru reinstalarea vegetației după calamitate se dă pentru suprafețe compacte de minimum:",
+      "options": ["0,1 ha", "0,5 ha", "1 ha", "5 ha"],
+      "answer": 1,
+      "explain": "0,5 ha.",
+      "ref": "Cod art. 126 alin. (5)"
+    },
+    {
+      "q": "Pierderea de creștere după o calamitate se compensează:",
+      "options": ["O singură dată", "Anual, 10 ani", "Anual, 5 ani", "Nu se compensează"],
+      "answer": 1,
+      "explain": "10 ani, de la 1 ianuarie anul următor.",
+      "ref": "Cod art. 126 alin. (5)"
+    },
+    {
+      "q": "Compensațiile pentru restricțiile de protecție se pun la dispoziția:",
+      "options": ["Ocolului", "Proprietarilor", "Gărzii", "Primăriei"],
+      "answer": 1,
+      "explain": "Proprietarilor.",
+      "ref": "Cod art. 127"
+    },
+    {
+      "q": "IFN se finanțează din:",
+      "options": [
+        "Fondul de conservare",
+        "Bugetul de stat, prin Autoritate",
+        "Taxe de la proprietari",
+        "Fonduri private"
+      ],
+      "answer": 1,
+      "explain": "Anual, de la bugetul de stat.",
+      "ref": "Cod art. 128"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Fondul de conservare al unui proprietar",
+      "situation": "Un proprietar privat cu 150 ha are autorizată anul acesta o partidă de produse principale, în valoare de 200.000 lei la prețul mediu.",
+      "steps": [
+        {
+          "q": "Cât trebuie pus în fondul de conservare?",
+          "a": "Între 10% și 25%, adică 20.000–50.000 lei; procentul îl stabilește proprietarul anual, pe fundamentarea ocolului.",
+          "ref": "Cod art. 124 alin. (2)"
+        },
+        {
+          "q": "În contul cui stau banii?",
+          "a": "Al ocolului care îi administrează pădurea sau îi prestează serviciile, cu evidență pe proprietar.",
+          "ref": "Cod art. 124 alin. (1)"
+        },
+        {
+          "q": "Pe ce se pot cheltui?",
+          "a": "Regenerarea suprafeței tăiate, îngrijirea regenerărilor, degajări, curățiri, împrejmuiri, puieți etc.",
+          "ref": "Cod art. 124 alin. (3)"
+        },
+        {
+          "q": "Dacă rămân bani?",
+          "a": "Se reportează; după acoperirea cheltuielilor de regenerare și îngrijire, restul se poate restitui proprietarului, la cerere.",
+          "ref": "Cod art. 124 alin. (6)–(7)"
+        }
+      ]
+    },
+    {
+      "title": "Uscarea în masă la un proprietar mic",
+      "situation": "Un proprietar privat are 2 ha de molid uscat complet de ipidi, compact.",
+      "steps": [
+        {
+          "q": "Poate primi ajutor de stat pentru reîmpădurire?",
+          "a": "Da: suprafața compactă afectată depășește 0,5 ha; ajutorul acoperă instalarea și întreținerea până la starea de masiv, pe deviz aprobat de Gardă.",
+          "ref": "Cod art. 126 alin. (5)"
+        },
+        {
+          "q": "Și pentru pierderea de creștere?",
+          "a": "Da, anual, timp de 10 ani, începând cu 1 ianuarie a anului următor.",
+          "ref": "Cod art. 126 alin. (5)"
+        },
+        {
+          "q": "Cine plătește combaterea dăunătorilor la el?",
+          "a": "Statul, dacă proprietatea are max. 30 ha.",
+          "ref": "Cod art. 125 alin. (1)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlurile IV–V (art. 117–130)",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {
+            "title": "Titlul IV – Dezvoltarea FFN şi a vegetaţiei forestiere din afara FFN",
+            "from": "117"
+          },
+          {
+            "title": "Titlul V – Scheme de sprijin · Capitolul I – Sprijinirea furnizării serviciilor ecosistemice",
+            "from": "121"
+          },
+          {"title": "Capitolul II – Fonduri speciale", "from": "124"},
+          {"title": "Capitolul III – Alocări de la bugetul de stat", "from": "125"}
+        ],
+        "articles": [
+          {
+            "no": "117",
+            "label": "Art. 117 – Programul naţional de împădurire",
+            "items": [
+              ["(1)","Dezvoltarea FFN şi extinderea suprafeţelor de pădure constituie o obligaţie a statului şi o prioritate naţională, în vederea asigurării echilibrului ecologic la nivel local, naţional şi global, şi se realizează prin Programul naţional de împădurire."],
+              ["(2)","Programul naţional de împădurire prevăzut la alin. (1) se aprobă prin hotărâre a Guvernului, la propunerea Autorităţii."],
+              ["(3)","Realizarea Programului naţional de împădurire prevăzut la alin. (1) se face prin lucrări de împădurire a terenurilor din afara FFN în vederea îmbunătăţirii condiţiilor de mediu şi a optimizării peisajului, a asigurării şi creşterii recoltelor agricole, a prevenirii şi combaterii eroziunii solului, a protejării căilor de comunicaţie, a digurilor şi a malurilor, a localităţilor şi a obiectivelor economice, sociale şi strategice, urmărindu-se împădurirea unor terenuri cu altă destinaţie decât cea silvică, în suprafaţă de cel puţin 60.000 de hectare până în 2030."],
+              ["(4)","Romsilva, în numele statului român, poate să achiziţioneze terenuri astfel încât suprafaţa fondului forestier proprietate publică a statului să crească."],
+              ["(5)","Finanţarea acţiunilor prevăzute la alin. (3) şi (4) se asigură din: fondul de ameliorare a fondului funciar cu destinaţie silvică, fondul de conservare şi regenerare a pădurilor, fonduri europene, fonduri de la bugetul de stat, precum şi fonduri proprii ale Romsilva."]
+            ]
+          },
+          {
+            "no": "118",
+            "label": "Art. 118 – Perdelele forestiere de protecţie",
+            "items": [
+              ["(1)","Autoritatea asigură realizarea cu continuitate a Sistemului naţional al perdelelor forestiere de protecţie, în care se includ perdelele forestiere de protecţie existente, precum şi cele care se înfiinţează cu fonduri publice sau fonduri private, după caz."],
+              ["(2)","Realizarea Sistemului naţional al perdelelor forestiere de protecţie constituie obiectiv de utilitate publică."],
+              ["(3)","Execuţia lucrărilor de înfiinţare a perdelelor forestiere de protecţie se face în baza studiilor tehnico-economice prevăzute la art. 7 alin. (3) din Legea nr. 289/2002, republicată, cu modificările şi completările ulterioare, şi cu respectarea cerinţelor prevăzute la art. 7 alin. (4) şi (6) - (8) din aceeaşi lege, fără a fi necesară obţinerea altor avize/aprobări/autorizaţii/acorduri."]
+            ]
+          },
+          {
+            "no": "119",
+            "label": "Art. 119 – Împădurirea terenurilor cu destinaţie agricolă",
+            "items": [
+              ["","Înfiinţarea de plantaţii cu specii forestiere şi de perdele forestiere de protecţie pe terenurile cu destinaţie agricolă se poate face cu orice specii lemnoase forestiere adaptate condiţiilor locale, dar care ating minimum 5 metri la maturitate, inclusiv arbuştii forestieri."]
+            ]
+          },
+          {
+            "no": "120",
+            "label": "Art. 120 – Împădurirea terenurilor degradate",
+            "items": [
+              ["(1)","Împădurirea terenurilor agricole degradate este de utilitate publică şi de interes naţional."],
+              ["(2)","Terenurile agricole degradate proprietate privată care vor fi ameliorate prin împădurire vor constitui terenuri agricole cu folosinţă agrosilvică. Proprietarul terenurilor degradate private poate opta pentru includerea lor în FFN, caz în care se schimbă categoria de folosinţă a terenului."]
+            ]
+          },
+          {
+            "no": "121",
+            "label": "Art. 121 – Sisteme de finanţare pentru servicii ecosistemice",
+            "items": [
+              ["(1)","Crearea condiţiilor de furnizare a serviciilor ecosistemice peste nivelul serviciilor ecosistemice minimale, astfel cum sunt ele definite la art. 24, este susţinută prin sisteme de finanţare."],
+              ["(2)","Sistemul de plăţi compensatorii este destinat proprietarilor de păduri pentru compensarea dezavantajelor suplimentare celor determinate de asigurarea serviciilor ecosistemice minimale, create ca urmare a impunerii obligatorii a unor restricţii, provenite din asumarea de către autorităţile publice a implementării unui regim de conservare a biodiversităţii/furnizare servicii ecosistemice."],
+              ["(3)","Sistemul de subvenţionare este un sistem de finanţare pentru stimularea proprietarilor de păduri în vederea atingerii unor obiective suplimentare asigurării serviciilor ecosistemice minimale sau pentru stimularea atingerii serviciilor minime în situaţia micilor proprietăţi."],
+              ["(4)","Sistemul de plăţi reglementat al serviciilor ecosistemice se realizează prin alimentarea Fondului de mediu. Fondurile respective se utilizează, cu destinaţie specială, pentru plata funcţiilor de protecţie identificate prin amenajamentele silvice conform prevederilor art. 122."],
+              ["(5)","Autoritatea, prin Romsilva, are obligaţia de a cumpăra terenuri din FFN proprietate privată pe care sunt amplasate păduri virgine şi cvasivirgine, zone strict protejate din parcurile naţionale şi naturale, păduri urbane şi periurbane, de la proprietarii de terenuri care îşi manifestă intenţia de înstrăinare, în condiţiile art. 53 alin. (6). Cumpărarea terenurilor se face în condiţiile hotărârii Guvernului prevăzute la art. 55"]
+            ]
+          },
+          {
+            "no": "122",
+            "label": "Art. 122 – Reglementarea producţiei silvice în scopul finanţării serviciilor ecosistemice",
+            "items": [
+              ["","Pentru suprafeţele incluse în amenajamente silvice, nivelul minimal de reglementare a producţiei silvice se stabileşte corespunzător cerinţelor grupei a II-a funcţionale, în acord cu prevederile normelor tehnice pentru amenajarea pădurilor."]
+            ]
+          },
+          {
+            "no": "123",
+            "label": "Art. 123 – Sprijin pentru proprietarii de păduri",
+            "items": [
+              ["(1)","Statul sprijină gestionarea pădurilor prin stimulente şi compensaţii financiare pentru proprietarii de terenuri din FFN, cu respectarea regulilor de ajutor de stat."],
+              ["(2)","Metodologia privind schemele de finanţare şi modul de implementare şi control se aprobă prin hotărâre a Guvernului, la propunerea Autorităţii, în termen de 90 de zile de la intrarea în vigoare a prezentei legi. Compensaţiile şi stimulentele stabilite prin hotărâre a Guvernului se acordă de la data aprobării de către Comisia Europeană a schemelor de ajutor de stat."]
+            ]
+          },
+          {
+            "no": "124",
+            "label": "Art. 124 – Fondul de conservare şi regenerare a pădurilor",
+            "items": [
+              ["(1)","Administratorii terenurilor din FFN proprietate a statului şi ceilalţi proprietari de terenuri din FFN au obligaţia să înfiinţeze fondul de conservare şi regenerare a pădurilor purtător de dobândă, neimpozabil, deductibil fiscal şi având regimul rezervelor fiscale. Fondul se află la dispoziţia şi în contul administratorului sau al prestatorului de servicii silvice."],
+              ["(2)","Fondul de conservare şi regenerare a pădurilor prevăzut la alin. (1) se constituie din următoarele surse:"],
+              ["a)","contravaloarea terenului scos definitiv din FFN proprietate publică a statului, în cazul în care nu se oferă teren în compensare;"],
+              ["b)","contravaloarea pierderii de creştere determinate de exploatarea lemnului înainte de vârsta exploatabilităţii de pe terenurile scoase definitiv sau ocupate temporar din FFN proprietate publică a statului;"],
+              ["c)","30% din cuantumul chiriei, pentru ocuparea temporară a terenurilor din FFN proprietate publică a statului;"],
+              ["d)","contravaloarea despăgubirilor pentru pagubele produse FFN proprietate publică;"],
+              ["e)","100% din cuantumul despăgubirilor pentru pagubele produse FFN proprietate privată;"],
+              ["f)","10-25% din valoarea lemnului vândut şi încasat, provenit din produse principale şi accidentale I, calculată la nivelul preţului mediu al unui metru cub de lemn, pentru terenurile proprietate publică a statului; nivelul procentului se stabileşte anual de Romsilva, respectiv de INCDS şi de RAAPPS, prin ocolul silvic propriu;"],
+              ["g)","10-25% din valoarea lemnului autorizat spre exploatare, provenit din produse principale şi accidentale I, calculată la nivelul preţului mediu al unui metru cub de lemn, pentru celelalte forme de proprietate; nivelul procentului se stabileşte anual de proprietar în baza fundamentării realizate de ocolul silvic;"],
+              ["h)","sumele reprezentând cheltuielile de instalare/reinstalare a vegetaţiei forestiere pentru terenurile care fac obiectul compensării/ocupării temporare, precum şi cheltuielile necesare până la realizarea stării de masiv pentru terenurile din FFN;"],
+              ["i)","sumele reprezentând contravaloarea efectelor determinate de funcţiile de protecţie, ecologice şi sociale ale pădurilor;"],
+              ["j)","sumele rezultate în situaţia descrisă la art. 22 alin. (3);"],
+              ["k)","alocaţii de la bugetul de stat."],
+              ["(3)","Fondul de conservare şi regenerare a pădurilor prevăzut la alin. (1) se foloseşte pentru:"],
+              ["a)","regenerarea suprafeţelor parcurse cu tăieri;"],
+              ["b)","împădurirea terenurilor goale înregistrate în amenajamentul silvic sau a celor preluate în scopul împăduririi;"],
+              ["c)","reinstalarea pădurii pe terenurile ocupate temporar din FFN;"],
+              ["d)","efectuarea lucrărilor de ajutorare şi de îngrijire a regenerărilor naturale şi artificiale şi de îngrijire a culturilor tinere existente;"],
+              ["e)","efectuarea lucrărilor în resursele genetice forestiere înscrise în Catalogul naţional al materialelor de bază;"],
+              ["f)","acoperirea cheltuielilor ocazionate de refacerea pădurilor afectate de calamităţi;"],
+              ["g)","efectuarea lucrărilor de degajări, curăţiri şi elagaj artificial;"],
+              ["h)","cumpărarea de terenuri cu destinaţie agricolă sau forestieră;"],
+              ["i)","gospodărirea pădurilor cu funcţii speciale de protecţie, în condiţiile în care nu este reglementat procesul de producţie lemnoasă;"],
+              ["j)","efectuarea studiilor şi lucrărilor de protecţie a pădurilor;"],
+              ["k)","împrejmuirea terenurilor pe care sunt instalate regenerări naturale şi a plantaţiilor;"],
+              ["l)","decontarea costurilor puieţilor produşi în pepinierele proprii sau achiziţionaţi, utilizaţi la împădurire sau reîmpădurire pe terenurile din FFN pentru care sunt încheiate contracte de servicii silvice tehnice;"],
+              ["m)","plata serviciilor de administrare/pază din disponibilul rămas la finele anului;"],
+              ["n)","înfiinţarea de pepiniere noi;"],
+              ["o)","asigurarea irigării plantaţiilor şi pepinierelor;"],
+              ["p)","achiziţionarea de echipamente şi utilaje necesare pentru regenerarea artificială a pădurilor."],
+              ["(4)","Alimentarea fondului de conservare şi regenerare a pădurilor se face la data la care obligaţiile de plată decurgând din sursele de finanţare prevăzute la alin. (2) devin exigibile."],
+              ["(5)","Evidenţa fondului de conservare şi regenerare a pădurilor se ţine pe proprietar/deţinător."],
+              ["(6)","Sumele rămase disponibile din acest fond la sfârşitul anului calendaristic se reportează în anul următor, cu aceeaşi destinaţie, cu excepţia celor prevăzute la alin. (2) lit. k)."],
+              ["(7)","În cazul terenurilor din FFN proprietate privată şi proprietate publică a unităţilor administrativ-teritoriale, după acoperirea cheltuielilor anului curent din fondul de conservare şi regenerare a pădurilor constituit în anul anterior pentru destinaţiile prevăzute la alin. (3) lit. a) -d) şi n) sumele rămase disponibile se restituie, la cerere, proprietarului."],
+              ["(8)","Lucrările prevăzute a fi finanţate din fondul de conservare şi regenerare a pădurilor pot fi realizate şi cu resurse proprii."]
+            ]
+          },
+          {
+            "no": "125",
+            "label": "Art. 125 – Tipuri de alocări de la bugetul statului",
+            "items": [
+              ["(1)","În scopul gestionării durabile a terenurilor din FFN proprietate privată prevăzute la art. 7 alin. (1) lit. e) şi a celor proprietate publică şi privată a unităţilor administrativ-teritoriale prevăzute la art. 7 alin. (1) lit. c) şi d), statul alocă prin bugetul Autorităţii sume pentru:"],
+              ["a)","asigurarea integrală de la bugetul de stat a contravalorii pazei şi serviciilor minimale pentru terenurile din FFN de maximum 30 hectare, aflate în proprietatea sau în deţinerea persoanelor fizice sau juridice, inclusiv cele deţinute de persoanele înscrise în Registrul agricol naţional, indiferent dacă acestea sunt sau nu cuprinse într-o asociaţie, care au încheiate contracte de servicii silvice minimale/acte de constatare cu ocoale silvice nominalizate; plata se face către ocolul silvic nominalizat, în baza devizului întocmit de acesta, pentru suprafeţele pentru care are încheiate contracte de servicii silvice minimale/acte de constatare;"],
+              ["b)","devizul prevăzut la lit. a) se calculează ca produs între suprafaţa prevăzută în contractele de servicii silvice minimale/actele de constatare şi costurile medii/hectar, pe suprafeţele aferente formelor de relief, potrivit anexei nr. 2;"],
+              ["c)","acordarea unor compensaţii reprezentând contravaloarea produselor pe care proprietarii nu le recoltează, din cauza funcţiilor de protecţie stabilite prin amenajamente silvice care determină restricţii în recoltarea lemnului;"],
+              ["d)","asigurarea diferenţei dintre sumele necesare pentru finanţarea integrală a lucrărilor prevăzute la art. 124 alin. (3) lit. a) -d) şi sumele calculate la nivelul maxim în fondul de conservare şi regenerare a pădurilor;"],
+              ["e)","contravaloarea lucrărilor de combatere a bolilor şi dăunătorilor prevăzute la art. 80, numai pentru fondul forestier proprietate privată a persoanelor fizice şi juridice, dacă suprafaţa proprietăţii forestiere este mai mică sau egală cu 30 hectare, indiferent dacă aceasta este sau nu cuprinsă într-o asociaţie;"],
+              ["f)","refacerea pădurilor, dacă sumele constituite la nivelul maxim din fondul de conservare şi regenerare a pădurilor sunt insuficiente, şi a căilor forestiere de transport afectate de calamităţi naturale sau de incendii, cu autor necunoscut;"],
+              ["g)","sprijinirea înfiinţării şi dezvoltării asociaţiilor de proprietari de păduri;"],
+              ["h)","punerea la dispoziţia proprietarilor de păduri a materialelor de educaţie forestieră privind ocrotirea şi conservarea pădurilor."],
+              ["(2)","Limitarea dreptului de proprietate asupra terenurilor din FFN peste nivelul de reglementare definit la art. 122 se stabileşte numai cu acordarea de compensaţii, cu excepţia situaţiilor în care dreptul de proprietate este limitat la iniţiativa şi prin voinţa expresă a proprietarului."],
+              ["(3)","Pentru gestionarea durabilă a fondului forestier proprietate publică a statului se alocă administratorului acestuia, prin bugetul Autorităţii, sume pentru construirea/reabilitarea/refacerea căilor forestiere de transport şi construirii/întreţinerii/refacerii/reparaţiilor lucrărilor pentru corectarea torenţilor."],
+              ["(4)","Normele metodologice de acordare, utilizare şi control al sumelor prevăzute la alin. (1) lit. c) se aprobă prin hotărâre a Guvernului la propunerea Autorităţii."],
+              ["(5)","Condiţiile de acordare a sumelor prevăzute la alin. (1) lit. d) -g) se aprobă prin hotărâre a Guvernului."],
+              ["(6)","Orice măsură de sprijin/facilitate prevăzută de prezentul articol, care constituie ajutor de stat, se acordă cu respectarea prevederilor europene şi naţionale din domeniul ajutorului de stat."]
+            ]
+          },
+          {
+            "no": "126",
+            "label": "Art. 126 – Alte ajutoare de stat în silvicultură",
+            "items": [
+              ["(1)","În scopul gestionării durabile a terenurilor din FFN proprietate privată şi a celor proprietate publică a unităţilor administrativ-teritoriale, statul acordă ajutoare de stat în silvicultură, în conformitate cu regulamentele UE şi reglementările naţionale, cu respectarea prevederilor europene şi naţionale din domeniul ajutorului de stat."],
+              ["(2)","Autoritatea asigură elaborarea reglementărilor sectoriale şi gestionarea fondurilor financiare necesare acordării ajutoarelor de stat prevăzute la alin. (1), prin bugetul propriu, respectiv prin bugetul autorităţii publice care gestionează Fondul pentru mediu, constituit conform prevederilor Ordonanţei de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu, aprobată cu modificări şi completări prin Legea nr. 105/2006, cu modificările şi completările ulterioare."],
+              ["(3)","Instituţiile responsabile pentru implementarea ajutoarelor de stat prevăzute la alin. (1) sunt Administraţia Fondului pentru Mediu, respectiv Autoritatea."],
+              ["(4)","Beneficiarii ajutoarelor de stat prevăzute la alin. (1) sunt proprietarii terenurilor din FFN proprietate privată şi proprietate publică a unităţilor administrativ-teritoriale."],
+              ["(5)","Ajutorul de stat prevăzut la alin. (1) se acordă pentru:"],
+              ["a)","costurile reprezentând contravaloarea cheltuielilor de instalare a vegetaţiei forestiere şi de întreţinere a acesteia până la închiderea stării de masiv pe suprafeţele compacte de fond forestier, de minimum 0,5 hectare, afectate de factori biotici şi/sau abiotici; costurile se aprobă pe bază de deviz de către Garda Forestieră competentă teritorial;"],
+              ["b)","contravaloarea pierderii de creştere, care se acordă anual, pe o perioadă de 10 ani, pentru suprafeţele prevăzute la lit. a); compensaţia se acordă începând cu data de 1 ianuarie a anului următor celui în care s-a produs afectarea;"],
+              ["c)","contravaloarea costurilor generate de recoltarea produselor accidentale."],
+              ["(6)","Pentru terenurile din FFN proprietate a statului, costurile reprezentând contravaloarea cheltuielilor de instalare a vegetaţiei forestiere şi de întreţinere a acesteia până la închiderea stării de masiv pe suprafeţele compacte de fond forestier, de minimum 0,5 hectare, afectate de factori biotici şi/sau abiotici, respectiv doborâturi şi rupturi masive de vânt şi zăpadă, uscări în masă, incendii, se suportă din fondul de rezervă al Guvernului."],
+              ["(7)","Ocoalele silvice şi administratorii fondului forestier pot dispune asupra destinaţiei unei sume reprezentând până la 10% din impozitul pe profit/impozitul pe veniturile microîntreprinderilor şi pot redirecţiona pentru susţinerea unităţilor care se ocupă de educaţie forestieră."]
+            ]
+          },
+          {
+            "no": "127",
+            "label": "Art. 127 – Beneficiarii finanţărilor",
+            "items": [
+              ["","Sumele prevăzute la art. 125 alin. (1) lit. a) şi d) -f) se pun la dispoziţia ocolului silvic care asigură administrarea/serviciile silvice, după caz, iar cele prevăzute art. 125 alin. (1) lit. c), g) şi h) şi alin. (3) se pun la dispoziţia proprietarilor."]
+            ]
+          },
+          {
+            "no": "128",
+            "label": "Art. 128 – Finanţarea instrumentelor de monitorizare",
+            "items": [
+              ["","Instrumentele de monitorizare prevăzute la art. 18 şi 19 sunt finanţate anual de la bugetul de stat, prin bugetul Autorităţii."]
+            ]
+          },
+          {
+            "no": "129",
+            "label": "Art. 129 – Finanţarea educaţiei forestiere, proiectelor de informare publică şi cercetării aplicative",
+            "items": [
+              ["","Finanţarea programelor şi proiectelor de informare publică, de educaţie şi a cercetării ştiinţifice aplicative în sectorul forestier se realizează prin Fondul de ameliorare a fondului funciar, cu destinaţie silvică, cu respectarea prevederilor europene şi naţionale din domeniul ajutorului de stat."]
+            ]
+          },
+          {
+            "no": "130",
+            "label": "Art. 130 – Compensări pentru perdele forestiere",
+            "items": [
+              ["","Persoanele juridice care au concesionate terenuri proprietate publică a statului cu altă destinaţie decât cea forestieră pe care se realizează perdele forestiere de protecţie sunt scutite de la plata redevenţei aferente suprafeţei ocupate de perdelele forestiere, cu respectarea prevederilor europene şi naţionale din domeniul ajutorului de stat."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2246 @@
+{
+  "id": "cs1",
+  "title": "Codul silvic I – Dispoziții generale și guvernanța",
+  "act": "Legea 331/2024, Titlul I–II (art. 1–21) și anexa 1",
+  "version": "Codul silvic consolidat la 29 octombrie 2026 (ultima modificare: Legea 168/2026)",
+  "intro": "Prima parte a Codului silvic spune ce e fondul forestier național, ce înseamnă pădure, cine deține pădurile și cine le administrează și controlează: Autoritatea, Garda Forestieră, ocoalele de stat și de regim. Tot aici sunt instrumentele de monitorizare (IFN, raportul anual, sistemul informațional, Registrul forestier). La final ai termenii din anexa 1 care se întreabă cel mai des.",
+  "lesson": [
+    {
+      "title": "1. Fondul forestier național",
+      "paragraphs": [
+        {
+          "text": "Terenurile cu destinație forestieră formează **fondul forestier național (FFN)**. Sunt cele cuprinse în amenajamentele în vigoare la **1 ianuarie 1990**, cu modificările ulterioare de suprafață (intrări-ieșiri, acte administrative).",
+          "refs": ["Cod art. 1 alin. (1)–(2)"]
+        },
+        {
+          "text": "Categoriile de folosință sunt 9: terenuri cu păduri; în curs de regenerare; destinate împăduririi; pentru nevoi de cultură (pepiniere, solare, plantaje); pentru producție silvică (răchită, pomi de Crăciun); pentru administrația silvică (hrana vânatului, furaje); construcții și curți (sedii, cabane, fazanerii, păstrăvării, drumuri forestiere); linii parcelare, culoare de linii electrice, terenuri ocupate temporar, concesionate sau în litigiu; iazuri, albii minore ale pâraielor și terenuri neproductive.",
+          "refs": ["Cod art. 1 alin. (3)"]
+        },
+        {
+          "text": "FFN include și terenurile cu alte destinații care erau în amenajamente la 1 ianuarie 1990 și n-au fost scoase legal. Terenurile din FFN sunt **bun de interes național**.",
+          "refs": ["Cod art. 1 alin. (4)–(5)"]
+        }
+      ],
+      "keep": [
+        "FFN = terenurile din amenajamentele în vigoare la 1.01.1990 (+ intrări-ieșiri)",
+        "9 categorii de folosință, de la păduri la terenuri neproductive",
+        "FFN = bun de interes național"
+      ],
+      "quiz": [
+        {
+          "q": "Terenurile cu pepiniere și plantaje fac parte din FFN?",
+          "options": [
+            "Nu",
+            "Da, ca terenuri pentru nevoi de cultură",
+            "Doar dacă sunt ale statului",
+            "Doar peste 0,5 ha"
+          ],
+          "answer": 1,
+          "explain": "Categoria d): nevoi de cultură.",
+          "ref": "Cod art. 1 alin. (3)"
+        },
+        {
+          "q": "Liniile parcelare și culoarele pentru linii electrice sunt:",
+          "options": ["În afara FFN", "Categorie de folosință din FFN", "Terenuri agricole", "Intravilan"],
+          "answer": 1,
+          "explain": "Categoria h).",
+          "ref": "Cod art. 1 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "2. Ce e pădure și ce nu",
+      "paragraphs": [
+        {
+          "text": "**Pădure** = teren din FFN de cel puțin **0,5 ha**, acoperit cu arbori care ating cel puțin **5 m înălțime** la maturitate. Sunt asimilate pădurilor și perdelele forestiere din FFN mai mici de 0,5 ha și jnepenișurile din FFN, chiar dacă nu ating 5 m.",
+          "refs": ["Cod art. 2 alin. (1)–(2)"]
+        },
+        {
+          "text": "Este **interzisă includerea pădurilor în intravilan**.",
+          "refs": ["Cod art. 2 alin. (3)"]
+        },
+        {
+          "text": "**Terenurile cu folosință agrosilvică** sunt terenuri agricole: pășuni împădurite și alte terenuri cu arbori de minimum 5 m, consistență de cel puțin **0,1**, pe minimum **0,5 ha**; perdele forestiere și jnepenișuri din afara FFN; plantații făcute prin programe care nu prevăd includerea în FFN. **Pajiștile permanente de înaltă valoare naturală nu se împăduresc.**",
+          "refs": ["Cod art. 3 alin. (1)","Cod art. 3 alin. (4)"]
+        },
+        {
+          "text": "**Vegetația forestieră din afara FFN** cuprinde, printre altele, terenurile agrosilvice, arborii din zonele hidrotehnice și de-a lungul apelor, spațiile verzi din intravilan, arboretumurile, aliniamentele de pe marginea drumurilor și minipădurile urbane. Pentru ea și pentru arborii izolați, Codul se aplică **doar la evaluarea lemnului și la circulația materialelor lemnoase**.",
+          "refs": ["Cod art. 4 alin. (1)–(2)"]
+        }
+      ],
+      "keep": [
+        "Pădure: ≥ 0,5 ha și arbori de ≥ 5 m la maturitate",
+        "Asimilate: perdele din FFN sub 0,5 ha, jnepenișuri",
+        "Interzis: pădure în intravilan",
+        "Agrosilvic: consistență ≥ 0,1 pe ≥ 0,5 ha, teren agricol",
+        "Vegetația din afara FFN: doar evaluarea și circulația lemnului"
+      ],
+      "quiz": [
+        {
+          "q": "Înălțimea minimă la maturitate pentru ca un teren să fie pădure:",
+          "options": ["2 m", "5 m", "7 m", "10 m"],
+          "answer": 1,
+          "explain": "5 m.",
+          "ref": "Cod art. 2 alin. (1)"
+        },
+        {
+          "q": "Minipădurile urbane sunt:",
+          "options": [
+            "Păduri din FFN",
+            "Vegetație forestieră din afara FFN",
+            "Terenuri agrosilvice",
+            "Păduri-parc"
+          ],
+          "answer": 1,
+          "explain": "Vegetație din afara FFN.",
+          "ref": "Cod art. 4 alin. (1)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Pădure, agrosilvic sau în afara FFN?",
+        "items": [
+          {
+            "title": "Pădure (FFN)",
+            "text": "≥ 0,5 ha, arbori ≥ 5 m; plus perdele din FFN și jnepenișuri",
+            "ref": "Cod art. 2"
+          },
+          {
+            "title": "Agrosilvic (teren agricol)",
+            "text": "pășuni împădurite, consistență ≥ 0,1 pe ≥ 0,5 ha",
+            "ref": "Cod art. 3"
+          },
+          {
+            "title": "Vegetație din afara FFN",
+            "text": "aliniamente, spații verzi, minipăduri: doar evaluare și circulație",
+            "ref": "Cod art. 4"
+          }
+        ]
+      }
+    },
+    {
+      "title": "3. Principii și forme de proprietate",
+      "paragraphs": [
+        {
+          "text": "Printre principiile gestionării durabile: **integritatea FFN și permanența pădurii**, continuitatea gestionării, gestionarea pe **criteriul teritorialității**, promovarea tipurilor naturale de pădure, creșterea suprafeței pădurilor și **utilizarea în cascadă** a lemnului (întâi în produse cu valoare adăugată mare).",
+          "refs": ["Cod art. 6"]
+        },
+        {
+          "text": "Terenurile din FFN pot fi proprietate **publică sau privată a statului**, **publică sau privată a UAT** și **privată a persoanelor fizice și juridice**. Pădurile UAT primite prin reconstituire sunt **proprietate publică** a UAT.",
+          "refs": ["Cod art. 7 alin. (1)–(2)"]
+        },
+        {
+          "text": "E interzisă trecerea FFN din proprietatea publică a statului în cea privată (excepție: reconstituirea) și trecerea din domeniul public în cel privat al UAT prin hotărâre de consiliu.",
+          "refs": ["Cod art. 7 alin. (3)–(4)"]
+        },
+        {
+          "text": "Formele asociative de dinainte de 1948 (obști, composesorate) sunt persoane juridice, parte din tezaurul istoric; proprietatea lor e **indivizibilă și inalienabilă**. Schimbările în conducerea lor se comunică în scris ocolului în **15 zile**.",
+          "refs": ["Cod art. 8 alin. (1)–(3)"]
+        },
+        {
+          "text": "Proprietarii se pot asocia în asociații sau cooperative, între altele ca să **constituie ocoale silvice de regim**.",
+          "refs": ["Cod art. 9"]
+        }
+      ],
+      "keep": [
+        "Principii: integritate și permanență, teritorialitate, utilizare în cascadă",
+        "5 forme de proprietate",
+        "Pădurile UAT din reconstituire = proprietate publică",
+        "Interzis: public → privat (stat și UAT)",
+        "Obști/composesorate: indivizibile, inalienabile; schimbări anunțate în 15 zile"
+      ],
+      "quiz": [
+        {
+          "q": "Utilizarea „în cascadă” a lemnului înseamnă:",
+          "options": [
+            "Întâi lemn de foc",
+            "Prioritate pentru produse cu valoare adăugată mare",
+            "Export prioritar",
+            "Tăieri succesive"
+          ],
+          "answer": 1,
+          "explain": "Prioritizarea utilizării industriale în produse cu valoare adăugată mare.",
+          "ref": "Cod art. 6"
+        },
+        {
+          "q": "Asociațiile de proprietari pot avea ca scop:",
+          "options": [
+            "Constituirea de ocoale de regim",
+            "Emiterea autorizațiilor de exploatare",
+            "Controlul Gărzii",
+            "Aprobarea amenajamentelor"
+          ],
+          "answer": 0,
+          "explain": "Între altele, constituirea de ocoale de regim.",
+          "ref": "Cod art. 9 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "4. Autoritatea, Garda și ocoalele",
+      "paragraphs": [
+        {
+          "text": "**Autoritatea** publică centrală pentru silvicultură are rol de implementare, reglementare, coordonare și control.",
+          "refs": ["Cod art. 10"]
+        },
+        {
+          "text": "**Garda Forestieră Națională** e instituție publică în subordinea Autorității, cu atribuția principală de **control** în silvicultură și vânătoare; are structuri teritoriale cu personalitate juridică (Gărzile Forestiere). Personalul lor e **învestit cu exercițiul autorității publice**. Pentru **cel mult 7.000 ha** de fond forestier trebuie încadrat **un inginer silvic**.",
+          "refs": ["Cod art. 11"]
+        },
+        {
+          "text": "Administrarea sau serviciile silvice se fac prin **ocoale silvice autorizate**, de două tipuri: **de stat** (Romsilva, RAAPPS, INCDS prin stațiuni, instituții de învățământ silvic prin baze didactice) și **de regim** (înființate de UAT, proprietari privați sau asociațiile lor).",
+          "refs": ["Cod art. 12 alin. (1)"]
+        },
+        {
+          "text": "Ocoalele sunt **de interes public** și se autorizează prin înscriere în **Registrul național al administratorilor de păduri și al ocoalelor silvice**, ținut de Autoritate.",
+          "refs": ["Cod art. 12 alin. (2)–(3)"]
+        },
+        {
+          "text": "Suprafața minimă pentru un ocol: **3.000 ha la câmpie**, **5.000 ha la deal**, **7.000 ha la munte**. Stațiunile și bazele experimentale sunt exceptate.",
+          "refs": ["Anexa 1 · Ocol silvic","Cod art. 12 alin. (4)"]
+        }
+      ],
+      "keep": [
+        "Garda: control în silvicultură și vânătoare; 1 inginer la max. 7.000 ha",
+        "Ocoale de stat (Romsilva, RAAPPS, INCDS, învățământ) și de regim",
+        "Autorizare: Registrul național al administratorilor și ocoalelor",
+        "Suprafață minimă: 3.000 / 5.000 / 7.000 ha (câmpie / deal / munte)"
+      ],
+      "quiz": [
+        {
+          "q": "Personalul Gărzilor Forestiere, în exercitarea atribuțiilor:",
+          "options": [
+            "Are statut de pădurar",
+            "E învestit cu exercițiul autorității publice",
+            "E angajat Romsilva",
+            "Nu poate constata contravenții"
+          ],
+          "answer": 1,
+          "explain": "E învestit cu exercițiul autorității publice de stat.",
+          "ref": "Cod art. 11 alin. (3)"
+        },
+        {
+          "q": "Ocoalele silvice sunt:",
+          "options": ["De interes privat", "De interes public", "Autorități publice", "Instituții ale Gărzii"],
+          "answer": 1,
+          "explain": "De interes public.",
+          "ref": "Cod art. 12 alin. (2)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Cine e cine",
+        "levels": [
+          {
+            "who": "Autoritatea",
+            "does": ["implementare, reglementare, coordonare, control","ține Registrul ocoalelor și RFN"],
+            "ref": "Cod art. 10"
+          },
+          {
+            "who": "Garda Forestieră Națională + Gărzile teritoriale",
+            "does": ["control în silvicultură și vânătoare","1 inginer la max. 7.000 ha"],
+            "ref": "Cod art. 11"
+          },
+          {
+            "who": "Ocoalele silvice (de stat și de regim)",
+            "does": ["administrare sau servicii silvice","min. 3.000 / 5.000 / 7.000 ha"],
+            "ref": "Cod art. 12"
+          }
+        ]
+      }
+    },
+    {
+      "title": "5. Conducerea ocoalelor și pădurarii",
+      "paragraphs": [
+        {
+          "text": "Șeful ocolului de stat e selectat prin concurs de directorul general (Romsilva, RAAPPS, INCDS etc.), cu **contract de mandat de 5 ani**, prelungibil **o singură dată**. Directorii structurilor Romsilva au același regim. La ocoalele de regim mandatul de 5 ani se poate prelungi **succesiv**.",
+          "refs": ["Cod art. 13 alin. (1)–(3)"]
+        },
+        {
+          "text": "Indicatorii de performanță se evaluează anual de mandant; neîndeplinirea a **cel puțin două treimi** din ei duce la încetarea mandatului (la stat și Romsilva).",
+          "refs": ["Cod art. 13 alin. (3^1)","Cod art. 13 alin. (4)"]
+        },
+        {
+          "text": "Pădurarii angajați după intrarea în vigoare a Codului trebuie să aibă **studii liceale sau postliceale de specialitate**.",
+          "refs": ["Cod art. 13 alin. (5)"]
+        },
+        {
+          "text": "Ocoalele de regim își aprobă bugetul până la **31 martie**; dacă nu, li se **suspendă accesul în sistemul informațional integrat** până se conformează.",
+          "refs": ["Cod art. 13 alin. (6)–(7)"]
+        },
+        {
+          "text": "Condiții pentru șef de ocol sau director Romsilva: studii superioare silvice (licență) și vechimea cerută de Statutul personalului silvic; fără condamnare pentru infracțiuni de serviciu sau silvice; fără conflict de interese; fără destituire sau concediere disciplinară în **ultimii 3 ani**. Concursul are **probă scrisă** și **interviu** înregistrat audio-video.",
+          "refs": ["Cod art. 13^1 alin. (1)","Cod art. 13^1 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "Șef ocol: concurs, mandat 5 ani (stat: o prelungire; regim: succesiv)",
+        "2/3 indicatori neîndepliniți → încetare mandat",
+        "Pădurar: studii liceale/postliceale de specialitate",
+        "Buget ocol de regim: până la 31 martie",
+        "Șef ocol: fără sancțiune disciplinară gravă în ultimii 3 ani; probă scrisă + interviu"
+      ],
+      "quiz": [
+        {
+          "q": "Cine numește directorii structurilor Romsilva?",
+          "options": ["Ministrul", "Directorul general al Romsilva, prin concurs", "Garda", "Consiliul local"],
+          "answer": 1,
+          "explain": "Directorul general, prin concurs, mandat de 5 ani.",
+          "ref": "Cod art. 13 alin. (3)"
+        },
+        {
+          "q": "Interviul la concursul de șef de ocol este:",
+          "options": ["Secret", "Înregistrat audio-video și publicat", "Opțional", "Ținut doar la minister"],
+          "answer": 1,
+          "explain": "Se postează pe pagina web după selecție.",
+          "ref": "Cod art. 13^1 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Drumul spre funcția de șef de ocol",
+        "steps": [
+          {
+            "title": "Condiții",
+            "text": "licență în silvicultură, vechime (OUG 59/2000), fără condamnări, conflicte sau sancțiuni în 3 ani",
+            "ref": "Cod art. 13^1 alin. (1)"
+          },
+          {"title": "Proba scrisă", "text": "", "ref": "Cod art. 13^1 alin. (3)"},
+          {
+            "title": "Interviu",
+            "text": "management, plan managerial; înregistrat audio-video",
+            "ref": "Cod art. 13^1 alin. (3)"
+          },
+          {
+            "title": "Contract de mandat",
+            "text": "5 ani, indicatori evaluați anual",
+            "ref": "Cod art. 13 alin. (1)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "6. Strategie, CNS, educație, cercetare",
+      "paragraphs": [
+        {
+          "text": "**Strategia națională pentru păduri** o elaborează Autoritatea și se aprobă prin **hotărâre de Guvern**, cu avizul consultativ al **Consiliului Național pentru Silvicultură**.",
+          "refs": ["Cod art. 14 alin. (1)–(2)"]
+        },
+        {
+          "text": "**CNS** e organizație profesională fără personalitate juridică; face recomandări către Autoritate și analizează etica profesiei (nu și la funcționarii publici). Organizează dezbateri pe strategie **cel puțin o dată pe an**.",
+          "refs": ["Cod art. 15","Cod art. 14 alin. (4)"]
+        },
+        {
+          "text": "Autoritatea trebuie să formeze **conștiința forestieră** și un minimum de cunoștințe pentru proprietari. Bazele experimentale didactice se folosesc gratuit, doar în scop didactic.",
+          "refs": ["Cod art. 16"]
+        },
+        {
+          "text": "Suprafețele experimentale se instalează cu **înștiințarea administratorului** (la pădurile statului) sau cu **acordul proprietarului** (în rest).",
+          "refs": ["Cod art. 17 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "Strategia: HG, cu avizul consultativ al CNS",
+        "CNS: fără personalitate juridică; dezbateri cel puțin anual",
+        "Suprafețe experimentale: înștiințare (stat) / acord (alți proprietari)"
+      ],
+      "quiz": [
+        {
+          "q": "CNS organizează dezbateri pe Strategie:",
+          "options": ["La 5 ani", "Cel puțin o dată pe an", "Lunar", "Doar la cerere"],
+          "answer": 1,
+          "explain": "Cel puțin o dată pe an.",
+          "ref": "Cod art. 14 alin. (4)"
+        },
+        {
+          "q": "Pe un teren privat, suprafețele experimentale se instalează cu:",
+          "options": ["Înștiințarea Gărzii", "Acordul proprietarului", "Aviz de la primărie", "Fără formalități"],
+          "answer": 1,
+          "explain": "Acordul proprietarului (la stat: înștiințarea administratorului).",
+          "ref": "Cod art. 17 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "7. Monitorizarea sectorului silvic",
+      "paragraphs": [
+        {
+          "text": "Autoritatea publică anual, până la **30 septembrie a anului următor**, **raportul privind starea pădurilor**.",
+          "refs": ["Cod art. 18 alin. (2)"]
+        },
+        {
+          "text": "**Inventarul forestier național (IFN)** se actualizează **la fiecare 5 ani**; rezultatele sunt de interes public. După ciclul III, IFN devine agenție în subordinea Secretariatului General al Guvernului.",
+          "refs": ["Cod art. 19"]
+        },
+        {
+          "text": "Normele privind proveniența, circulația și comercializarea lemnului (sistemul informațional integrat pentru păduri, adică SUMAL) se aprobă prin **hotărâre de Guvern**. Sistemul înregistrează proveniența la prima introducere pe piață, trasabilitatea și circulația, și servește controlului bazat pe risc. Lemnul pentru furnir se transportă cu **marcare chimică și digitală**.",
+          "refs": ["Cod art. 20"]
+        },
+        {
+          "text": "**Registrul forestier național (RFN)** ține evidența proprietăților din FFN și face parte din sistemul informațional. Proprietarul care vrea compensații de silvomediu sau contractează servicii minimale trebuie să se înscrie; **înscrierea e gratuită**.",
+          "refs": ["Cod art. 21"]
+        }
+      ],
+      "keep": [
+        "Raportul stării pădurilor: până la 30 septembrie, anul următor",
+        "IFN: la fiecare 5 ani",
+        "SUMAL: norme prin HG; furnir cu marcare chimică și digitală",
+        "RFN: evidența proprietăților, înscriere gratuită"
+      ],
+      "quiz": [
+        {
+          "q": "RFN face parte din:",
+          "options": ["Cartea funciară", "Sistemul informațional integrat pentru păduri", "IFN", "Amenajament"],
+          "answer": 1,
+          "explain": "E o componentă a sistemului informațional integrat.",
+          "ref": "Cod art. 21 alin. (2)"
+        },
+        {
+          "q": "După ciclul III, departamentul IFN devine:",
+          "options": [
+            "Direcție în Romsilva",
+            "Agenție în subordinea Secretariatului General al Guvernului",
+            "Parte din Gardă",
+            "ONG"
+          ],
+          "answer": 1,
+          "explain": "Agenție cu personalitate juridică la SGG.",
+          "ref": "Cod art. 19 alin. (4)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Instrumente de monitorizare",
+        "items": [
+          {
+            "title": "Raportul stării pădurilor",
+            "text": "anual, până la 30 septembrie",
+            "ref": "Cod art. 18"
+          },
+          {"title": "IFN", "text": "actualizat la 5 ani", "ref": "Cod art. 19"},
+          {
+            "title": "Sistemul informațional integrat (SUMAL)",
+            "text": "proveniență, trasabilitate, circulație",
+            "ref": "Cod art. 20"
+          },
+          {"title": "RFN", "text": "evidența proprietăților, gratuit", "ref": "Cod art. 21"}
+        ]
+      }
+    },
+    {
+      "title": "8. Termeni de reținut din anexa 1",
+      "paragraphs": [
+        {
+          "text": "**Act de constatare**: încheiat de ocolul nominalizat cu Garda, pentru paza și serviciile minimale pe suprafețe de FFN de **maximum 30 ha** fără administrare (proprietar neidentificat sau succesiune nedezbătută) și pe cele de peste 30 ha fără administrare.",
+          "refs": ["Anexa 1 · Act de constatare"]
+        },
+        {
+          "text": "**Produse accidentale I**: din arborete afectate cel mai grav pe minimum 0,5 ha sau din arborete **mai vechi de 1/2 din vârsta exploatabilității tehnice** afectate parțial; se asimilează cu principalele. **Accidentale II**: arborete până la 1/2 din vârsta exploatabilității, asimilate cu secundarele. Atenție: Normativul 4 din 2000 folosea pragul de 60 de ani.",
+          "refs": ["Anexa 1 · Produse accidentale I","Anexa 1 · Produse accidentale II"]
+        },
+        {
+          "text": "**Proces-verbal de inventariere**: dovada provenienței pentru **până la 20 m³** pe picior, unde nu e obligatoriu amenajamentul, și din vegetația din afara FFN. **Tăiere fără drept**: fără autorizație de exploatare sau a arborilor nedestinați extragerii.",
+          "refs": ["Anexa 1 · Proces-verbal de inventariere","Anexa 1 · Tăiere fără drept"]
+        },
+        {
+          "text": "Praguri: **insula de îmbătrânire** are minimum **0,1 ha**; **terenul neproductiv**, cel puțin **0,1 ha**; **județ deficitar în păduri** = sub **30%** fond forestier; **minipădure urbană** = minimum **100 m²** și lățime de cel puțin **2 m**; **pădurea-parc** are minimum **3 ha**, cu amenajări pe maximum **10%**; **vegetație forestieră** = peste 0,5 ha și lățime peste **20 m**.",
+          "refs": [
+            "Anexa 1 · Insulă de îmbătrânire",
+            "Anexa 1 · Judeţ deficitar în păduri",
+            "Anexa 1 · Amenajările pădurilor-parc"
+          ]
+        },
+        {
+          "text": "**Posibilitatea** e volumul de produse principale de recoltat pe durata amenajamentului; **posibilitatea anuală** = posibilitatea împărțită la anii de valabilitate. **Prejudiciul forestier** = paguba + valoarea funcțiilor nerealizate ale pădurii (doar în FFN).",
+          "refs": ["Anexa 1 · Posibilitate anuală","Anexa 1 · Prejudiciul forestier"]
+        },
+        {
+          "text": "**Pădure virgină**: formată numai sub acțiunea factorilor naturali; **cvasivirgină**: virgină cu modificări antropice nesemnificative. **Volumul pe picior** include trunchiul, coaja și crăcile, dar la rășinoase crăcile nu intră.",
+          "refs": ["Anexa 1 · Pădure virgină","Anexa 1 · Volum de lemn pe picior"]
+        }
+      ],
+      "keep": [
+        "Act de constatare: suprafețe de max. 30 ha fără administrare",
+        "Accidentale I/II: prag 1/2 din vârsta exploatabilității tehnice",
+        "PV de inventariere: până la 20 m³",
+        "Insulă de îmbătrânire și teren neproductiv: 0,1 ha",
+        "Județ deficitar: sub 30%; pădure-parc ≥ 3 ha, amenajări ≤ 10%",
+        "Volum pe picior la rășinoase: fără crăci"
+      ],
+      "quiz": [
+        {
+          "q": "Volumul de lemn pe picior la rășinoase include:",
+          "options": [
+            "Trunchi, coajă și crăci",
+            "Trunchi și coajă, fără crăci",
+            "Doar lemnul de lucru",
+            "Și cioata"
+          ],
+          "answer": 1,
+          "explain": "La rășinoase crăcile nu se includ.",
+          "ref": "Anexa 1 · Volum de lemn pe picior"
+        },
+        {
+          "q": "Insula de îmbătrânire are minimum:",
+          "options": ["0,05 ha", "0,1 ha", "0,5 ha", "1 ha"],
+          "answer": 1,
+          "explain": "0,1 ha.",
+          "ref": "Anexa 1 · Insulă de îmbătrânire"
+        },
+        {
+          "q": "Lățimea minimă a vegetației forestiere, ca definiție:",
+          "options": ["peste 5 m", "peste 10 m", "peste 20 m", "peste 50 m"],
+          "answer": 2,
+          "explain": "Peste 20 m și peste 0,5 ha.",
+          "ref": "Anexa 1 · Vegetaţie forestieră"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Cifre",
+      "rows": [
+        {"what": "Data de referință a FFN", "value": "1 ianuarie 1990", "ref": "Cod art. 1 alin. (2)"},
+        {"what": "Pădure", "value": "≥ 0,5 ha, arbori ≥ 5 m", "ref": "Cod art. 2 alin. (1)"},
+        {
+          "what": "Teren agrosilvic",
+          "value": "consistență ≥ 0,1 pe ≥ 0,5 ha",
+          "ref": "Cod art. 3 alin. (1)"
+        },
+        {
+          "what": "Comunicarea schimbărilor la obști/composesorate",
+          "value": "15 zile, în scris, la ocol",
+          "ref": "Cod art. 8 alin. (3)"
+        },
+        {
+          "what": "Un inginer silvic în Gardă",
+          "value": "la max. 7.000 ha",
+          "ref": "Cod art. 11 alin. (4)"
+        },
+        {
+          "what": "Suprafața minimă a unui ocol",
+          "value": "3.000 / 5.000 / 7.000 ha",
+          "ref": "Anexa 1 · Ocol silvic"
+        },
+        {"what": "Mandatul șefului de ocol", "value": "5 ani", "ref": "Cod art. 13 alin. (1)"},
+        {"what": "Buget ocol de regim", "value": "până la 31 martie", "ref": "Cod art. 13 alin. (6)"},
+        {
+          "what": "Raportul stării pădurilor",
+          "value": "până la 30 septembrie, anul următor",
+          "ref": "Cod art. 18 alin. (2)"
+        },
+        {"what": "Actualizarea IFN", "value": "la 5 ani", "ref": "Cod art. 19 alin. (1)"}
+      ]
+    },
+    {
+      "title": "Cine ce face",
+      "rows": [
+        {
+          "what": "Implementează, reglementează, coordonează, controlează",
+          "value": "Autoritatea",
+          "ref": "Cod art. 10"
+        },
+        {
+          "what": "Controlează aplicarea legii silvice și cinegetice",
+          "value": "Garda Forestieră Națională",
+          "ref": "Cod art. 11 alin. (1)"
+        },
+        {"what": "Ține Registrul ocoalelor", "value": "Autoritatea", "ref": "Cod art. 12 alin. (3)"},
+        {
+          "what": "Numește șeful ocolului de stat",
+          "value": "directorul general (Romsilva etc.), prin concurs",
+          "ref": "Cod art. 13 alin. (1)"
+        },
+        {
+          "what": "Aprobă Strategia națională pentru păduri",
+          "value": "Guvernul, prin HG (aviz CNS)",
+          "ref": "Cod art. 14 alin. (2)"
+        },
+        {"what": "Aprobă normele SUMAL", "value": "Guvernul, prin HG", "ref": "Cod art. 20 alin. (1)"},
+        {"what": "Administrează RFN", "value": "Autoritatea", "ref": "Cod art. 21 alin. (1)"}
+      ]
+    },
+    {
+      "title": "Praguri din anexa 1",
+      "rows": [
+        {
+          "what": "Act de constatare",
+          "value": "max. 30 ha fără administrare",
+          "ref": "Anexa 1 · Act de constatare"
+        },
+        {
+          "what": "Proces-verbal de inventariere",
+          "value": "până la 20 m³",
+          "ref": "Anexa 1 · Proces-verbal de inventariere"
+        },
+        {
+          "what": "Insulă de îmbătrânire",
+          "value": "min. 0,1 ha",
+          "ref": "Anexa 1 · Insulă de îmbătrânire"
+        },
+        {"what": "Teren neproductiv", "value": "min. 0,1 ha", "ref": "Anexa 1 · Teren neproductiv"},
+        {
+          "what": "Județ deficitar",
+          "value": "sub 30% fond forestier",
+          "ref": "Anexa 1 · Judeţ deficitar în păduri"
+        },
+        {
+          "what": "Minipădure urbană",
+          "value": "min. 100 m², lățime ≥ 2 m",
+          "ref": "Anexa 1 · Minipăduri urbane"
+        },
+        {
+          "what": "Pădure-parc",
+          "value": "min. 3 ha; amenajări ≤ 10%",
+          "ref": "Anexa 1 · Amenajările pădurilor-parc"
+        },
+        {
+          "what": "Vegetație forestieră",
+          "value": "> 0,5 ha, lățime > 20 m",
+          "ref": "Anexa 1 · Vegetaţie forestieră"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "Ocoalele cresc cu relieful: câmpie 3, deal 5, munte 7 (mii de hectare). Iar 7.000 ha e și suprafața pentru un inginer în Gardă.",
+    "Pădure = „jumătate de hectar, cinci metri”.",
+    "Prag de 0,1 de trei ori: consistența la agrosilvic, insula de îmbătrânire (0,1 ha), terenul neproductiv (0,1 ha).",
+    "Calendarul: 31 martie bugetul ocolului de regim, 30 septembrie raportul stării pădurilor, la 5 ani IFN."
+  ],
+  "cards": [
+    {
+      "q": "Ce terenuri formează FFN?",
+      "a": "Terenurile cu destinație forestieră din amenajamentele în vigoare la 1 ianuarie 1990, cu modificările legale de suprafață.",
+      "ref": "Cod art. 1 alin. (2)"
+    },
+    {
+      "q": "Ce statut au terenurile din FFN?",
+      "a": "Bun de interes național.",
+      "ref": "Cod art. 1 alin. (5)"
+    },
+    {
+      "q": "Definiția pădurii în Codul silvic?",
+      "a": "Teren din FFN de cel puțin 0,5 ha, cu arbori de minimum 5 m înălțime la maturitate.",
+      "ref": "Cod art. 2 alin. (1)"
+    },
+    {
+      "q": "Ce e asimilat pădurilor deși nu respectă criteriile?",
+      "a": "Perdelele forestiere din FFN sub 0,5 ha și jnepenișurile din FFN.",
+      "ref": "Cod art. 2 alin. (2)"
+    },
+    {
+      "q": "Se poate include o pădure în intravilan?",
+      "a": "Nu, e interzis.",
+      "ref": "Cod art. 2 alin. (3)"
+    },
+    {
+      "q": "Ce consistență minimă are un teren agrosilvic cu arbori?",
+      "a": "0,1, pe minimum 0,5 ha.",
+      "ref": "Cod art. 3 alin. (1)"
+    },
+    {
+      "q": "Ce terenuri nu pot fi împădurite potrivit art. 3?",
+      "a": "Pajiștile permanente de înaltă valoare naturală.",
+      "ref": "Cod art. 3 alin. (4)"
+    },
+    {
+      "q": "Ce prevederi ale Codului se aplică vegetației din afara FFN?",
+      "a": "Doar cele privind evaluarea lemnului și circulația materialelor lemnoase.",
+      "ref": "Cod art. 4 alin. (2)"
+    },
+    {
+      "q": "Ce statut au pădurile UAT obținute prin reconstituire?",
+      "a": "Proprietate publică a UAT.",
+      "ref": "Cod art. 7 alin. (2)"
+    },
+    {
+      "q": "În cât timp comunică o obște ocolului schimbarea conducerii?",
+      "a": "15 zile, în scris.",
+      "ref": "Cod art. 8 alin. (3)"
+    },
+    {
+      "q": "Care e atribuția principală a Gărzii Forestiere Naționale?",
+      "a": "Controlul aplicării legislației silvice și cinegetice.",
+      "ref": "Cod art. 11 alin. (1)"
+    },
+    {
+      "q": "Câte hectare revin cel mult unui inginer silvic în Gardă?",
+      "a": "7.000 ha.",
+      "ref": "Cod art. 11 alin. (4)"
+    },
+    {
+      "q": "Care sunt cele două tipuri de ocoale silvice?",
+      "a": "De stat (Romsilva, RAAPPS, INCDS, învățământ) și de regim.",
+      "ref": "Cod art. 12 alin. (1)"
+    },
+    {
+      "q": "Cum se autorizează un ocol silvic?",
+      "a": "Prin înscrierea în Registrul național al administratorilor de păduri și al ocoalelor silvice.",
+      "ref": "Cod art. 12 alin. (3)"
+    },
+    {
+      "q": "Suprafața minimă a unui ocol la munte?",
+      "a": "7.000 ha (deal 5.000, câmpie 3.000).",
+      "ref": "Anexa 1 · Ocol silvic"
+    },
+    {
+      "q": "Pe ce durată are mandat șeful unui ocol de stat?",
+      "a": "5 ani, prelungibil o singură dată, după concurs.",
+      "ref": "Cod art. 13 alin. (1)"
+    },
+    {
+      "q": "Ce studii trebuie să aibă un pădurar nou angajat?",
+      "a": "Liceale sau postliceale de specialitate.",
+      "ref": "Cod art. 13 alin. (5)"
+    },
+    {
+      "q": "Ce pățește ocolul de regim care nu-și aprobă bugetul până la 31 martie?",
+      "a": "I se suspendă accesul în sistemul informațional integrat până la conformare.",
+      "ref": "Cod art. 13 alin. (7)"
+    },
+    {
+      "q": "Din ce probe e alcătuit concursul de șef de ocol?",
+      "a": "Proba scrisă și interviul (înregistrat audio-video).",
+      "ref": "Cod art. 13^1 alin. (3)"
+    },
+    {
+      "q": "Cine aprobă Strategia națională pentru păduri?",
+      "a": "Guvernul, prin HG, cu avizul consultativ al CNS.",
+      "ref": "Cod art. 14 alin. (2)"
+    },
+    {
+      "q": "Ce e CNS?",
+      "a": "Consiliul Național pentru Silvicultură, organizație profesională fără personalitate juridică.",
+      "ref": "Cod art. 15 alin. (1)"
+    },
+    {
+      "q": "Până când se publică raportul privind starea pădurilor?",
+      "a": "Până la 30 septembrie a anului următor.",
+      "ref": "Cod art. 18 alin. (2)"
+    },
+    {
+      "q": "La câți ani se actualizează IFN?",
+      "a": "La fiecare 5 ani.",
+      "ref": "Cod art. 19 alin. (1)"
+    },
+    {
+      "q": "Cum se transportă lemnul pentru furnir?",
+      "a": "Cu marcare chimică și digitală, pe lângă regulile SUMAL.",
+      "ref": "Cod art. 20 alin. (4)"
+    },
+    {
+      "q": "Costă înscrierea în RFN?",
+      "a": "Nu, e gratuită pentru proprietari.",
+      "ref": "Cod art. 21 alin. (4)"
+    },
+    {
+      "q": "Pentru ce suprafețe se încheie actul de constatare?",
+      "a": "FFN de max. 30 ha fără administrare (proprietar neidentificat etc.) și peste 30 ha fără administrare.",
+      "ref": "Anexa 1 · Act de constatare"
+    },
+    {
+      "q": "Ce prag de vârstă separă accidentalele I de II?",
+      "a": "1/2 din vârsta exploatabilității tehnice.",
+      "ref": "Anexa 1 · Produse accidentale I"
+    },
+    {
+      "q": "Până la ce volum se folosește procesul-verbal de inventariere?",
+      "a": "20 m³ pe picior.",
+      "ref": "Anexa 1 · Proces-verbal de inventariere"
+    },
+    {
+      "q": "Ce suprafață minimă are o insulă de îmbătrânire?",
+      "a": "0,1 ha.",
+      "ref": "Anexa 1 · Insulă de îmbătrânire"
+    },
+    {
+      "q": "Când e un județ deficitar în păduri?",
+      "a": "Când fondul forestier e sub 30% din suprafață.",
+      "ref": "Anexa 1 · Judeţ deficitar în păduri"
+    },
+    {
+      "q": "Ce e prejudiciul forestier?",
+      "a": "Paguba plus valoarea funcțiilor nerealizate ale pădurii; se calculează doar în FFN.",
+      "ref": "Anexa 1 · Prejudiciul forestier"
+    },
+    {
+      "q": "Se includ crăcile în volumul pe picior la rășinoase?",
+      "a": "Nu.",
+      "ref": "Anexa 1 · Volum de lemn pe picior"
+    }
+  ],
+  "questions": [
+    {
+      "q": "FFN cuprinde terenurile din amenajamentele în vigoare la:",
+      "options": ["1 ianuarie 1948", "1 ianuarie 1990", "1 ianuarie 2000", "12 ianuarie 2025"],
+      "answer": 1,
+      "explain": "1 ianuarie 1990, cu modificările legale ulterioare.",
+      "ref": "Cod art. 1 alin. (2)"
+    },
+    {
+      "q": "Suprafața minimă a unei păduri, după Codul silvic:",
+      "options": ["0,1 ha", "0,25 ha", "0,5 ha", "1 ha"],
+      "answer": 2,
+      "explain": "0,5 ha, cu arbori de minimum 5 m.",
+      "ref": "Cod art. 2 alin. (1)"
+    },
+    {
+      "q": "Jnepenișurile din FFN care nu ating 5 m:",
+      "options": [
+        "Nu sunt păduri",
+        "Sunt asimilate pădurilor",
+        "Sunt terenuri agrosilvice",
+        "Sunt terenuri neproductive"
+      ],
+      "answer": 1,
+      "explain": "Sunt asimilate pădurilor.",
+      "ref": "Cod art. 2 alin. (2)"
+    },
+    {
+      "q": "Pășunile împădurite cu consistență ≥ 0,1 pe minimum 0,5 ha sunt:",
+      "options": [
+        "Păduri din FFN",
+        "Terenuri cu folosință agrosilvică",
+        "Terenuri neproductive",
+        "Perdele de protecție din FFN"
+      ],
+      "answer": 1,
+      "explain": "Sunt terenuri agricole cu folosință agrosilvică.",
+      "ref": "Cod art. 3 alin. (1)"
+    },
+    {
+      "q": "Pentru arborii din spațiile verzi din intravilan, Codul silvic se aplică:",
+      "options": ["Integral", "Deloc", "Doar pentru evaluarea și circulația lemnului", "Doar pentru pază"],
+      "answer": 2,
+      "explain": "Doar evaluarea lemnului și circulația materialelor lemnoase.",
+      "ref": "Cod art. 4 alin. (2)"
+    },
+    {
+      "q": "Care NU e o formă de proprietate a FFN?",
+      "options": [
+        "Publică a statului",
+        "Privată a UAT",
+        "Proprietate comună a ocolului",
+        "Privată a persoanelor fizice"
+      ],
+      "answer": 2,
+      "explain": "Ocolul nu e formă de proprietate.",
+      "ref": "Cod art. 7 alin. (1)"
+    },
+    {
+      "q": "Trecerea pădurilor din domeniul public al UAT în cel privat prin hotărâre de consiliu local este:",
+      "options": ["Permisă", "Interzisă", "Permisă cu aviz de la Gardă", "Permisă sub 30 ha"],
+      "answer": 1,
+      "explain": "Interzisă.",
+      "ref": "Cod art. 7 alin. (4)"
+    },
+    {
+      "q": "Proprietatea obștilor și composesoratelor de dinainte de 1948 este:",
+      "options": [
+        "Divizibilă",
+        "Indivizibilă și inalienabilă",
+        "Proprietate a statului",
+        "Proprietate privată a UAT"
+      ],
+      "answer": 1,
+      "explain": "Garantată, indivizibilă și inalienabilă.",
+      "ref": "Cod art. 8 alin. (2)"
+    },
+    {
+      "q": "Pentru câte hectare de fond forestier trebuie încadrat cel puțin un inginer silvic în Gardă?",
+      "options": ["3.000", "5.000", "7.000", "10.000"],
+      "answer": 2,
+      "explain": "Cel mult 7.000 ha pe inginer.",
+      "ref": "Cod art. 11 alin. (4)"
+    },
+    {
+      "q": "Ocoalele RAAPPS sunt ocoale:",
+      "options": ["De regim", "De stat", "Private", "Asociative"],
+      "answer": 1,
+      "explain": "De stat, alături de Romsilva, INCDS și învățământ.",
+      "ref": "Cod art. 12 alin. (1)"
+    },
+    {
+      "q": "Suprafața minimă a unui ocol silvic în regiunea de deal:",
+      "options": ["3.000 ha", "5.000 ha", "7.000 ha", "10.000 ha"],
+      "answer": 1,
+      "explain": "Câmpie 3.000, deal 5.000, munte 7.000.",
+      "ref": "Anexa 1 · Ocol silvic"
+    },
+    {
+      "q": "Mandatul șefului unui ocol de regim (care nu e regie locală) se poate prelungi:",
+      "options": ["Niciodată", "O singură dată", "Succesiv, cu aceeași perioadă, după selecție", "Automat"],
+      "answer": 2,
+      "explain": "La regim, prelungiri succesive după selecție.",
+      "ref": "Cod art. 13 alin. (2)"
+    },
+    {
+      "q": "Contractul de mandat al șefului de ocol de stat încetează dacă nu sunt îndepliniți:",
+      "options": [
+        "Jumătate din indicatori",
+        "Cel puțin două treimi din indicatori",
+        "Toți indicatorii",
+        "Un singur indicator"
+      ],
+      "answer": 1,
+      "explain": "Cel puțin 2/3 neîndepliniți.",
+      "ref": "Cod art. 13 alin. (4)"
+    },
+    {
+      "q": "Până când aprobă ocolul de regim bugetul de venituri și cheltuieli?",
+      "options": ["31 ianuarie", "31 martie", "30 iunie", "31 decembrie"],
+      "answer": 1,
+      "explain": "31 martie, altfel i se suspendă accesul în sistemul informațional.",
+      "ref": "Cod art. 13 alin. (6)"
+    },
+    {
+      "q": "Nu poate candida la funcția de șef de ocol cine a fost concediat disciplinar în ultimii:",
+      "options": ["1 an", "2 ani", "3 ani", "5 ani"],
+      "answer": 2,
+      "explain": "3 ani.",
+      "ref": "Cod art. 13^1 alin. (1)"
+    },
+    {
+      "q": "Strategia națională pentru păduri se aprobă prin:",
+      "options": ["Ordin al ministrului", "Hotărâre a Guvernului", "Lege", "Decizie a Gărzii"],
+      "answer": 1,
+      "explain": "HG, cu avizul consultativ al CNS.",
+      "ref": "Cod art. 14 alin. (2)"
+    },
+    {
+      "q": "Raportul privind starea pădurilor se publică până la:",
+      "options": [
+        "31 martie, anul următor",
+        "30 iunie",
+        "30 septembrie, anul următor",
+        "31 decembrie, anul curent"
+      ],
+      "answer": 2,
+      "explain": "30 septembrie a anului următor.",
+      "ref": "Cod art. 18 alin. (2)"
+    },
+    {
+      "q": "IFN se actualizează la fiecare:",
+      "options": ["2 ani", "5 ani", "10 ani", "20 de ani"],
+      "answer": 1,
+      "explain": "5 ani.",
+      "ref": "Cod art. 19 alin. (1)"
+    },
+    {
+      "q": "Normele privind proveniența și circulația lemnului (SUMAL) se aprobă prin:",
+      "options": ["Ordin al Gărzii", "Hotărâre a Guvernului", "Lege organică", "Decizie Romsilva"],
+      "answer": 1,
+      "explain": "HG, la propunerea Autorității.",
+      "ref": "Cod art. 20 alin. (1)"
+    },
+    {
+      "q": "Înscrierea proprietății în RFN este:",
+      "options": ["Contra cost", "Gratuită", "Doar pentru stat", "Facultativă pentru compensații"],
+      "answer": 1,
+      "explain": "Gratuită; obligatorie pentru compensații sau servicii minimale.",
+      "ref": "Cod art. 21 alin. (4)"
+    },
+    {
+      "q": "Accidentalele dintr-un arboret de fag mai vechi de jumătate din vârsta exploatabilității tehnice, afectat parțial, sunt:",
+      "options": ["Accidentale II", "Accidentale I", "Secundare", "De igienă"],
+      "answer": 1,
+      "explain": "Peste 1/2 din vârsta exploatabilității: accidentale I.",
+      "ref": "Anexa 1 · Produse accidentale I"
+    },
+    {
+      "q": "Proces-verbal de inventariere se poate folosi pentru cel mult:",
+      "options": ["5 m³", "10 m³", "20 m³", "50 m³"],
+      "answer": 2,
+      "explain": "20 m³ pe picior.",
+      "ref": "Anexa 1 · Proces-verbal de inventariere"
+    },
+    {
+      "q": "Un județ este deficitar în păduri sub:",
+      "options": ["10%", "20%", "30%", "40%"],
+      "answer": 2,
+      "explain": "Sub 30% fond forestier.",
+      "ref": "Anexa 1 · Judeţ deficitar în păduri"
+    },
+    {
+      "q": "Suprafața ocupată cu amenajări într-o pădure-parc este de maximum:",
+      "options": ["5%", "10%", "15%", "20%"],
+      "answer": 1,
+      "explain": "10%, iar pădurea-parc are minimum 3 ha.",
+      "ref": "Anexa 1 · Amenajările pădurilor-parc"
+    },
+    {
+      "q": "Tăierea arborilor fără autorizație de exploatare este:",
+      "options": ["Tăiere cu drept", "Tăiere fără drept", "Produs extraordinar", "Precomptare"],
+      "answer": 1,
+      "explain": "Tăiere fără drept.",
+      "ref": "Anexa 1 · Tăiere fără drept"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Pășunea cu arbori a satului",
+      "situation": "Primarul te întreabă dacă pășunea împădurită a comunei, 12 ha cu fag și carpen de 15–20 m, cu consistență 0,3, e pădure și dacă poate tăia arbori din ea fără ocol.",
+      "steps": [
+        {
+          "q": "Ce statut are terenul?",
+          "a": "E teren agricol cu folosință agrosilvică: arbori de peste 5 m, consistență peste 0,1, pe peste 0,5 ha. Nu e pădure din FFN dacă nu era în amenajamente la 1 ianuarie 1990.",
+          "ref": "Cod art. 3 alin. (1)"
+        },
+        {
+          "q": "Ce prevederi ale Codului se aplică totuși?",
+          "a": "Cele privind evaluarea lemnului destinat valorificării și circulația materialelor lemnoase (proveniența, transportul).",
+          "ref": "Cod art. 4 alin. (2)"
+        },
+        {
+          "q": "Cum se gestionează vegetația de acolo?",
+          "a": "După normele aprobate prin ordin comun al autorității pentru silvicultură și al celei pentru agricultură.",
+          "ref": "Cod art. 3 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "Proprietarii vor ocol propriu",
+      "situation": "Un grup de proprietari privați de la deal, cu 3.800 ha de pădure în total, vrea să-și facă ocol de regim.",
+      "steps": [
+        {
+          "q": "Pot constitui ocolul?",
+          "a": "Nu doar cu atât: la deal suprafața minimă e 5.000 ha. Pot să se asocieze cu alți proprietari sau UAT până ating pragul.",
+          "ref": "Anexa 1 · Ocol silvic"
+        },
+        {
+          "q": "Ce formă juridică pot folosi?",
+          "a": "Asociație de proprietari de păduri cu personalitate juridică sau cooperativă.",
+          "ref": "Cod art. 9 alin. (1)"
+        },
+        {
+          "q": "Cum devine ocolul legal?",
+          "a": "Prin autorizare, adică înscriere în Registrul național al administratorilor de păduri și al ocoalelor silvice, la Autoritate.",
+          "ref": "Cod art. 12 alin. (3)"
+        },
+        {
+          "q": "Cine îi numește șeful?",
+          "a": "Organul de conducere al asociației, prin concurs, cu mandat de 5 ani prelungibil succesiv.",
+          "ref": "Cod art. 13 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "Pădurea fără stăpân",
+      "situation": "În cantonul vecin sunt 18 ha de pădure particulară al cărei proprietar a murit, iar succesiunea n-a fost dezbătută. Nimeni n-a contractat pază.",
+      "steps": [
+        {
+          "q": "Ce act se încheie ca pădurea să aibă pază?",
+          "a": "Actul de constatare, între reprezentantul ocolului nominalizat și reprezentantul Gărzii, pentru suprafețe de max. 30 ha fără administrare sau servicii minimale.",
+          "ref": "Anexa 1 · Act de constatare"
+        },
+        {
+          "q": "Ce trebuie să facă moștenitorii dacă vor compensații?",
+          "a": "Să-și înscrie proprietatea în Registrul forestier național; înscrierea e gratuită.",
+          "ref": "Cod art. 21 alin. (4)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlul I și Titlul II (art. 1–21)",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {
+            "title": "Titlul I – Dispoziţii generale · Capitolul I – Obiectul de reglementare şi domeniul de aplicare",
+            "from": "1"
+          },
+          {"title": "Capitolul II – Formele de proprietate", "from": "7"},
+          {
+            "title": "Titlul II – Guvernanţa sectorului silvic · Capitolul I – Cadrul instituţional · Secţiunea 1 – Autoritatea publică",
+            "from": "10"
+          },
+          {"title": "Secţiunea a 2-a – Structuri de administrare a terenurilor din FFN", "from": "12"},
+          {"title": "Secţiunea a 3-a – Planificare strategică", "from": "14"},
+          {"title": "Capitolul II – Educaţie şi cercetare", "from": "16"},
+          {"title": "Capitolul III – Monitorizarea unitară a sectorului silvic", "from": "18"}
+        ],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1 – Fondul forestier naţional",
+            "items": [
+              ["(1)","Terenurile cu destinaţie forestieră constituie fondul forestier naţional al României, denumit în continuare FFN, şi se supun prevederilor prezentei legi."],
+              ["(2)","Terenurile cu destinaţie forestieră sunt cele cuprinse în amenajamente silvice în vigoare la data de 1 ianuarie 1990, inclusiv cu modificările de suprafaţă, conform operaţiunilor de intrări-ieşiri efectuate şi/sau actelor administrative emise în condiţiile legii."],
+              ["(3)","Terenurile cu destinaţie forestieră au următoarele categorii de folosinţă:"],
+              ["a)","terenuri cu păduri;"],
+              ["b)","terenuri în curs de regenerare;"],
+              ["c)","terenuri destinate împăduririi: terenuri degradate şi terenuri neîmpădurite, stabilite a fi împădurite;"],
+              ["d)","terenuri care servesc nevoilor de cultură: pepiniere, solare, plantaje şi culturi de plante-mamă;"],
+              ["e)","terenuri care servesc nevoilor de producţie silvică: culturi de răchită, pomi de Crăciun, arbori şi arbuşti ornamentali şi fructiferi;"],
+              ["f)","terenuri cu folosinţe specifice administraţiei silvice: terenuri destinate asigurării hranei vânatului şi producerii de furaje;"],
+              ["g)","terenuri ocupate de construcţii şi curţile aferente acestora: sedii administrative, cabane, fazanerii, păstrăvării, crescătorii de animale de interes vânătoresc, drumuri şi căi ferate forestiere de transport, spaţii industriale, alte dotări tehnice specifice sectorului forestier;"],
+              ["h)","linii parcelare, culoare pentru linii electrice, terenuri ocupate temporar, terenuri concesionate din fondul forestier proprietate publică a statului, terenuri afectate de sarcini şi/sau litigii, precum şi terenuri forestiere din cadrul culoarului de frontieră şi fâşiei de protecţie a frontierei de stat şi cele destinate realizării unor obiective din cadrul Sistemului integrat de securizare a frontierei de stat;"],
+              ["i)","terenuri pe care sunt amplasate iazuri, terenuri care constituie albiile minore ale pâraielor care nu se încadrează în prevederile art. 3 alin. (1) din Legea apelor nr. 107/1996, cu modificările şi completările ulterioare, precum şi terenuri neproductive, incluse în amenajamentele silvice."],
+              ["(4)","FFN include şi terenurile cu alte destinaţii care erau incluse în amenajamentele silvice în vigoare la data de 1 ianuarie 1990 şi care nu au fost scoase din FFN."],
+              ["(5)","Terenurile din FFN constituie bun de interes naţional."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2 – Definiţia pădurii",
+            "items": [
+              ["(1)","Sunt considerate păduri, în sensul prezentei legi, terenurile din FFN cu o suprafaţă de cel puţin 0,5 hectare, acoperite cu arbori care ating o înălţime minimă de 5 metri la maturitate în condiţii normale de vegetaţie."],
+              ["(2)","Sunt asimilate pădurilor:"],
+              ["a)","terenurile încadrate până la data intrării în vigoare a prezentei legi în FFN ca păduri ori ca perdele forestiere de protecţie, chiar dacă nu îndeplinesc criteriul de suprafaţă definit la alin. (1);"],
+              ["b)","terenurile încadrate în FFN până la data intrării în vigoare a prezentei legi pe care sunt instalate jnepenişurile, chiar dacă nu îndeplinesc criteriul de înălţime minimă definit la alin. (1)."],
+              ["(3)","Este interzisă includerea în intravilan a pădurilor."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3 – Terenuri cu folosinţă agrosilvică",
+            "items": [
+              ["(1)","Următoarele categorii de terenuri cu destinaţie agricolă sunt terenuri cu folosinţă agrosilvică:"],
+              ["a)","terenurile acoperite cu arbori, inclusiv păşunile împădurite, care ating o înălţime minimă de 5 metri la maturitate în condiţii normale de vegetaţie, cu o consistenţă mai mare sau egală cu 0,1, pe o suprafaţă de minimum 0,5 hectare;"],
+              ["b)","terenurile pe care sunt instalate perdelele forestiere de protecţie din arbori care ating o înălţime minimă de 5 metri la maturitate în condiţii normale de vegetaţie, neincluse în FFN;"],
+              ["c)","terenurile pe care sunt instalate jnepenişuri, neincluse în FFN;"],
+              ["d)","terenurile pe care se înfiinţează plantaţii forestiere prin diferite programe naţionale şi locale, dacă aceste programe nu prevăd includerea în FFN."],
+              ["(2)","Prin derogare de la art. 4 alin. (1) din Legea nr. 289/2002 privind perdelele forestiere de protecţie, republicată, cu modificările şi completările ulterioare, proprietarii terenurilor agricole care înfiinţează voluntar perdele forestiere de protecţie pot opta pentru încadrarea perdelelor astfel înfiinţate ca terenuri cu destinaţie agricolă şi folosinţă agrosilvică, fără includerea în Sistemul naţional al perdelelor forestiere de protecţie şi fără încadrarea în categoria de folosinţă pădure."],
+              ["(3)","Gestionarea vegetaţiei forestiere de pe terenurile cu folosinţă agrosilvică se face în conformitate cu normele aprobate prin ordin comun al autorităţii publice centrale care răspunde de silvicultură şi autorităţii publice centrale pentru agricultură."],
+              ["(4)","Pajiştile permanente de înaltă valoare naturală nu pot face obiectul împăduririi."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4 – Terenuri cu vegetaţie forestieră din afara FFN",
+            "items": [
+              ["(1)","Următoarele terenuri, care nu fac parte din FFN conform dispoziţiilor art. 1 şi care sunt acoperite cu arbori din specii forestiere, reprezintă terenuri cu vegetaţie forestieră din afara FFN:"],
+              ["a)","terenurile cu folosinţă agrosilvică, astfel cum sunt definite la art. 3;"],
+              ["b)","terenurile cu arbori din zonele de protecţie a lucrărilor hidrotehnice şi de îmbunătăţiri funciare;"],
+              ["c)","terenurile cu arbori situate de-a lungul cursurilor de apă şi al canalelor;"],
+              ["d)","terenurile pe care sunt amenajate spaţiile verzi din intravilan, altele decât cele care au caracteristicile prevăzute la art. 2 alin. (1);"],
+              ["e)","terenurile pe care sunt instalate arboretumurile, altele decât cele cuprinse în păduri;"],
+              ["f)","terenurile situate de-a lungul căilor de transport şi comunicaţie pe care sunt instalate aliniamente de arbori;"],
+              ["g)","minipădurile urbane."],
+              ["(2)","Vegetaţia de pe terenurile enumerate la alin. (1), precum şi arborii izolaţi din speciile forestiere, situaţi pe terenuri cu alte destinaţii decât cea forestieră şi care nu se încadrează la alin. (1), nu se supun prevederilor prezentei legi, cu excepţia dispoziţiilor privind evaluarea lemnului destinat valorificării şi a celor privind circulaţia materialului lemnos."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5 – Definiţii",
+            "items": [
+              ["","În înţelesul prezentei legi, termenii şi expresiile utilizate au semnificaţiile prevăzute în anexa nr. 1 - Termeni şi expresii."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6 – Principii de gestionare durabilă a pădurilor",
+            "items": [
+              ["","Gestionarea durabilă a pădurilor se bazează pe următoarele principii:"],
+              ["a)","asigurarea integrităţii FFN şi a permanenţei pădurii;"],
+              ["b)","asigurarea continuităţii în gestionarea pădurilor;"],
+              ["c)","asigurarea eficacităţii funcţionale a pădurii şi a furnizării cu continuitate a serviciilor ecosistemice;"],
+              ["d)","creşterea rolului pădurilor şi silviculturii în dezvoltarea durabilă a societăţii;"],
+              ["e)","sprijinirea proprietarilor de terenuri din FFN şi stimularea asocierii acestora;"],
+              ["f)","gestionarea terenurilor din FFN pe criteriul teritorialităţii;"],
+              ["g)","consolidarea rezilienţei pădurilor şi creşterea contribuţiei acestora la limitarea efectelor schimbărilor climatice;"],
+              ["h)","asigurarea nivelului adecvat de continuitate juridică, instituţională şi operaţională în gestionarea pădurilor;"],
+              ["i)","promovarea tipurilor naturale de pădure şi asigurarea diversităţii biologice a pădurii;"],
+              ["j)","promovarea şi protecţia rolului sanogen, educativ, turistic şi recreativ al pădurii, inclusiv prin includerea de păduri în centurile verzi din jurul oraşelor;"],
+              ["k)","majorarea suprafeţei terenurilor ocupate cu păduri."],
+              ["l)","utilizarea în cascadă a materialului lemnos, cu prioritizarea utilizării industriale în produse cu valoare adăugată mare."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7 – Forme de proprietate",
+            "items": [
+              ["(1)","După forma de proprietate, terenurile din FFN pot fi:"],
+              ["a)","proprietate publică a statului;"],
+              ["b)","proprietate privată a statului;"],
+              ["c)","proprietate publică a unităţilor administrativ-teritoriale;"],
+              ["d)","proprietate privată a unităţilor administrativ-teritoriale;"],
+              ["e)","proprietate privată a persoanelor fizice şi juridice."],
+              ["(2)","Terenurile din FFN al unităţilor administrativ-teritoriale, provenite din reconstituirea dreptului de proprietate, sunt proprietate publică a unităţilor administrativ-teritoriale."],
+              ["(3)","Este interzisă trecerea terenurilor din FFN din proprietatea publică a statului în proprietatea privată a acestuia, cu excepţia terenurilor care fac obiectul reconstituirii dreptului de proprietate."],
+              ["(4)","Este interzisă trecerea terenurilor din FFN din domeniul public al unităţilor administrativ-teritoriale în domeniul privat al acestora prin hotărâre a consiliului local, a consiliului judeţean, respectiv a Consiliului General al Municipiului Bucureşti."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8 – Forme asociative speciale de proprietate asupra fondului forestier",
+            "items": [
+              ["(1)","Formele asociative de proprietate asupra terenurilor prevăzute la art. 26 alin. (1) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole şi celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 şi ale Legii nr. 167/1997, cu modificările şi completările ulterioare, existente anterior anului 1948, sunt persoane juridice şi fac parte din tezaurul istoric al României."],
+              ["(2)","Proprietatea formelor asociative prevăzute la alin. (1) este garantată, indivizibilă şi inalienabilă, fiind aplicabile în mod corespunzător dispoziţiile art. 27 din Legea nr. 1/2000, cu modificările şi completările ulterioare."],
+              ["(3)","Orice modificare la nivelul organelor cu putere de reprezentare se va aduce la cunoştinţa reprezentantului ocolului silvic, în scris, în termen de 15 zile de la data intervenirii modificării."],
+              ["(4)","În formele asociative de proprietate la care statul deţine în indiviziune terenuri cu vegetaţie forestieră, statul este reprezentat de către autoritatea publică centrală pentru silvicultură."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9 – Asocierea proprietarilor",
+            "items": [
+              ["(1)","În vederea gestionării durabile a terenurilor din FFN, proprietarii acestora se pot asocia prin constituirea de asociaţii de proprietari de păduri cu personalitate juridică, potrivit Ordonanţei Guvernului nr. 26/2000 cu privire la asociaţii şi fundaţii, aprobată cu modificări şi completări prin Legea nr. 246/2005, cu modificările şi completările ulterioare, şi cooperative."],
+              ["(2)","Prin înfiinţarea formelor asociative prevăzute la alin. (1) se urmăresc:"],
+              ["a)","consolidarea proprietăţii;"],
+              ["b)","sporirea eficienţei economice a comercializării produselor şi serviciilor pădurii;"],
+              ["c)","constituirea de ocoale silvice de regim;"],
+              ["d)","creşterea capacităţii de absorbţie a fondurilor, indiferent de sursa acestora;"],
+              ["e)","reprezentarea drepturilor proprietarilor în raport cu autorităţile;"],
+              ["f)","reprezentarea proprietarilor în raport cu autorităţile şi cu asociaţiile similare, create la nivel european şi internaţional."]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10 – Autoritatea publică centrală pentru silvicultură",
+            "items": [
+              ["","Autoritatea publică centrală pentru silvicultură, denumită în continuare Autoritatea, se organizează şi funcţionează ca organ de specialitate al administraţiei publice centrale şi reprezintă autoritatea de stat în domeniul silviculturii cu rol de implementare, reglementare, coordonare şi control."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11 – Garda Forestieră Naţională",
+            "items": [
+              ["(1)","Garda Forestieră Naţională este instituţie publică cu personalitate juridică, înfiinţată ca organ de specialitate al Autorităţii, aflată în subordinea acesteia, având ca atribuţie principală exercitarea controlului aplicării legislaţiei din domeniul silviculturii şi din domeniul cinegetic."],
+              ["(2)","În cadrul Gărzii Forestiere Naţionale funcţionează structuri teritoriale ale Gărzii Forestiere Naţionale, cu personalitate juridică, denumite în continuare Gărzi Forestiere."],
+              ["(3)","În exercitarea atribuţiilor de serviciu, personalul silvic aferent instituţiilor prevăzute la alin. (2) este învestit cu exerciţiul autorităţii publice de stat."],
+              ["(4)","Pentru o suprafaţă de cel mult 7.000 hectare fond forestier, în cadrul structurilor teritoriale ale Gărzii Forestiere Naţionale trebuie încadrat un inginer silvic."]
+            ]
+          },
+          {
+            "no": "12",
+            "label": "Art. 12 – Ocoalele silvice",
+            "items": [
+              ["(1)","Administrarea sau, după caz, prestarea serviciilor silvice pentru terenurile din FFN se realizează prin ocoale silvice autorizate, denumite în continuare ocoale silvice, care sunt de două tipuri:"],
+              ["a)","ocoale silvice de stat, înfiinţate de: (i) Regia Naţională a Pădurilor - Romsilva, denumită în continuare Romsilva; (ii) Regia Autonomă \"Administraţia Patrimoniului Protocolului de Stat\", denumită în continuare RAAPPS; (iii) Institutul Naţional de Cercetare-Dezvoltare în Silvicultură \"Marin Drăcea\", denumit în continuare INCDS, prin staţiuni şi baze experimentale asimilate ocoalelor silvice de stat; (iv) instituţii de învăţământ de stat cu profil silvic, prin baze experimentale şi didactice, asimilate ocoalelor silvice de stat;"],
+              ["b)","ocoale silvice de regim, care sunt înfiinţate, în condiţiile prezentei legi, de proprietarii de terenuri din FFN prevăzuţi la art. 7 alin. (1) lit. c) -e) ori de asociaţii de proprietari constituite de către acestea."],
+              ["(2)","Ocoalele silvice prevăzute la alin. (1) sunt de interes public şi pot administra sau pot asigura servicii silvice, după caz, şi pentru alte terenuri din FFN."],
+              ["(3)","Ocoalele silvice prevăzute la alin. (1) se autorizează prin înscrierea în Registrul naţional al administratorilor de păduri şi al ocoalelor silvice, gestionat de către Autoritate."],
+              ["(4)","Staţiunile şi bazele experimentale prevăzute la alin. (1) lit. a) pct. (iii) şi bazele experimentale şi didactice prevăzute la alin. (1) lit. a) pct. (iv) se autorizează prin excepţie de la condiţiile minime de suprafaţă privind constituirea unui ocol silvic prevăzute în anexa nr. 1."]
+            ]
+          },
+          {
+            "no": "13",
+            "label": "Art. 13 – Conducerea, organizarea şi funcţionarea structurilor silvice",
+            "items": [
+              ["(1)","Conducerea ocoalelor silvice de stat, structuri fără personalitate juridică, este asigurată de către şeful de ocol, selectat şi numit prin concurs de către directorul general al Romsilva sau, după caz, de directorul general al RAAPPS, respectiv al INCDS sau al instituţiilor de învăţământ cu profil silvic, cu contract de mandat pe o perioadă de 5 ani, cu posibilitatea prelungirii o singură dată cu aceeaşi perioadă, condiţionat de promovarea procedurii de selecţie."],
+              ["(2)","Conducerea şi reprezentarea legală a ocoalelor silvice de regim, altele decât cele care funcţionează ca regii autonome de interes local, sunt asigurate de către şeful de ocol, selectat şi numit prin concurs de către organul de conducere al proprietarului/asociaţiei de proprietari care a constituit ocolul silvic, după caz, cu contract de mandat pe o perioadă de 5 ani, cu posibilitatea prelungirii succesive cu aceeaşi perioadă, condiţionat de promovarea procedurii de selecţie."],
+              ["(3)","Directorii din cadrul fiecărei structuri a Romsilva sunt selectaţi şi numiţi prin concurs de către directorul general al Romsilva, cu contract de mandat pe o perioadă de 5 ani, cu posibilitatea prelungirii o singură dată cu aceeaşi perioadă, condiţionat de promovarea procedurii de selecţie."],
+              ["(3^1)","Indicatorii de performanţă financiari, nefinanciari şi specifici din contractul de mandat prevăzut la alin. (1) - (3) sunt stabiliţi de către mandant. În cazul structurilor prevăzute la alin. (1) şi (3) sunt selectaţi cel puţin două treimi dintre indicatorii care se aprobă prin hotărârea Guvernului prevăzută la art. 32 alin. (2)."],
+              ["(4)","Evaluarea îndeplinirii indicatorilor prevăzuţi la alin."],
+              ["(3^1)","se face de către mandant, anual. În cazul structurilor prevăzute la alin. (1) şi (3), neîndeplinirea a cel puţin două treimi dintre indicatori atrage încetarea contractului de mandat de către mandant, iar în cazul ocoalelor silvice de regim prevăzute la alin. (2), contractul de mandat încetează în condiţiile stabilite în cadrul acestuia."],
+              ["(5)","Persoanele încadrate pe post de pădurar după intrarea în vigoare a prezentei legi trebuie să fie absolvenţi ai unei unităţi de învăţământ acreditate conform dispoziţiilor Legii învăţământului preuniversitar nr. 198/2023, cu modificările şi completările ulterioare, cu absolvirea studiilor liceale sau postliceale de specialitate."],
+              ["(6)","Ocoalele silvice de regim întocmesc bugetul anual de venituri şi cheltuieli care se aprobă de organele deliberative ale proprietarului/asociaţiei de proprietari care a constituit ocolul silvic, după caz, până la data de 31 martie a anului în curs."],
+              ["(7)","Ocolului silvic care nu îndeplineşte condiţia prevăzută la alin. (6) până la data de 31 martie a anului în curs, după notificarea prealabilă transmisă de Autoritate, i se suspendă dreptul de acces în sistemul informaţional integrat pentru păduri până la data conformării."]
+            ]
+          },
+          {
+            "no": "13^1",
+            "label": "Art. 13¹ – Selecţia şi numirea conducerii structurilor silvice",
+            "items": [
+              ["(1)","Poate participa la procedura de selecţie şi numire prin concurs pentru ocuparea funcţiilor de director din cadrul fiecărei structuri a Romsilva şi de şef al ocolului silvic de stat şi de regim persoana care îndeplineşte cumulativ următoarele condiţii:"],
+              ["a)","are studii superioare în specialitatea silvicultură finalizate cel puţin cu diplomă de licenţă şi îndeplineşte condiţiile de vechime minimă în domeniul silvicultură prevăzute la art. 17 din Ordonanţa de urgenţă a Guvernului nr. 59/2000 privind Statutul personalului silvic, aprobată cu modificări şi completări prin Legea nr. 427/2001, cu modificările şi completările ulterioare, specifice fiecărei funcţii de conducere;"],
+              ["b)","nu a fost condamnată definitiv pentru săvârşirea unei infracţiuni de serviciu, în legătură cu serviciul, sau pentru infracţiunile prevăzute de prezenta lege;"],
+              ["c)","nu se află într-o situaţie de conflict de interese sau în stare de incompatibilitate, astfel cum sunt definite la art. 138;"],
+              ["d)","nu a fost destituită dintr-o funcţie publică, nu i-a încetat contractul individual de muncă sau nu i-a fost revocat contractul de mandat, pentru motive disciplinare, după caz, în ultimii 3 ani."],
+              ["(2)","Pentru ocoalele silvice de regim care funcţionează ca regii autonome de interes local se aplică condiţiile prevăzute de Ordonanţa de urgenţă a Guvernului nr. 109/2011, aprobată cu modificări şi completări prin Legea nr. 111/2016, cu modificările şi completările ulterioare, precum şi cele prevăzute la alin. (1)."],
+              ["(3)","Procedura de selecţie şi numire prin concurs a directorilor din cadrul fiecărei structuri a Romsilva şi a şefilor ocoalelor silvice de stat şi de regim se bazează pe un proces care cuprinde următoarele etape:"],
+              ["a)","proba scrisă;"],
+              ["b)","interviul, în cadrul căruia se evaluează abilităţile de management şi aptitudinile personale ale candidatului corespunzătoare responsabilităţii atribuite, precum şi calitatea planului managerial, înregistrat audio şi video, care se postează pe pagina web ulterior selecţiei, cu respectarea prevederilor Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor), precum şi a legislaţiei naţionale aplicabile domeniului protecţiei datelor."],
+              ["(4)","Metodologia privind organizarea şi desfăşurarea procedurii de selecţie şi numire prin concurs pentru ocuparea funcţiilor de director din cadrul fiecărei structuri a Romsilva şi a şefilor ocoalelor silvice de stat şi de regim se aprobă prin ordin al conducătorului Autorităţii, la propunerea consiliului de administraţie, sau al forului de conducere al ocoalelor silvice de regim, după caz."],
+              ["(5)","Prin excepţie de la alin. (3) şi (4), pentru ocuparea posturilor de director general şi director financiar al Romsilva şi de şefi ai ocoalelor silvice de regim care funcţionează ca regii autonome de interes local, se aplică prevederile Ordonanţei de urgenţă a Guvernului nr. 109/2011, aprobată cu modificări şi completări prin Legea nr. 111/2016, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "14",
+            "label": "Art. 14 – Strategia naţională pentru păduri",
+            "items": [
+              ["(1)","Strategia naţională pentru păduri stabileşte şi defineşte politica forestieră naţională şi asigură corelarea acesteia cu politicile, strategiile şi alte documente cu caracter programatic ale statului român."],
+              ["(2)","Strategia naţională pentru păduri este elaborată de Autoritate şi se aprobă prin hotărâre a Guvernului, cu avizul consultativ al Consiliului Naţional pentru Silvicultură."],
+              ["(3)","Planul de acţiune pentru implementarea Strategiei naţionale pentru păduri se modifică şi se completează în funcţie de schimbarea condiţiilor de management şi de informaţiile privind starea pădurilor reieşite din instrumentele de monitorizare a sectorului silvic."],
+              ["(4)","Cel puţin o dată pe an, Consiliul Naţional pentru Silvicultură organizează dezbateri cu factorii interesaţi din sectorul forestier pentru a asigura analiza modului de implementare a Strategiei naţionale pentru păduri."]
+            ]
+          },
+          {
+            "no": "15",
+            "label": "Art. 15 – Consiliul Naţional pentru Silvicultură",
+            "items": [
+              ["(1)","Se înfiinţează Consiliul Naţional pentru Silvicultură, denumit în continuare CNS, ca organizaţie profesională, fără personalitate juridică. Înfiinţarea şi regulamentul de organizare şi funcţionare se aprobă prin hotărâre a Guvernului, la propunerea Autorităţii, în termen de 120 de zile de la data intrării în vigoare a prezentei legi."],
+              ["(2)","CNS elaborează recomandări, propuneri şi opinii consultative către Autoritate cu privire la politicile, strategiile şi alte documente cu caracter programatic, la actele normative relevante pentru domeniul forestier, internaţionale, naţionale şi ale Uniunii Europene, inclusiv pentru a asigura corelarea acestora, fără însă a aduce atingere prerogativelor conferite de lege autorităţilor, instituţiilor şi altor persoane juridice cu responsabilităţi privind pădurile şi/sau domeniul forestier."],
+              ["(3)","CNS analizează modul de exercitare a profesiei în condiţii de etică şi respectarea standardelor profesionale de către personalul silvic, cu excepţia personalului silvic care are statutul de funcţionar public."]
+            ]
+          },
+          {
+            "no": "16",
+            "label": "Art. 16 – Educaţie",
+            "items": [
+              ["(1)","Autoritatea are obligaţia realizării acţiunilor specifice, prin căi şi mijloace adecvate, pentru următoarele scopuri:"],
+              ["a)","formarea conştiinţei forestiere;"],
+              ["b)","crearea unui minimum de cunoştinţe profesionale proprietarilor de păduri."],
+              ["(2)","Autoritatea încheie parteneriate în educaţie cu furnizori de servicii din educaţie şi cercetare-dezvoltare pentru implementarea unor programe de stimulare a perfecţionării profesionale continue pentru personalul silvic şi proprietari, cu respectarea prevederilor europene şi naţionale din domeniul ajutorului de stat."],
+              ["(3)","Beneficiarii de forţă de muncă specializată în ocupaţii specifice sectorului forestier pot sprijini formarea profesională în domeniul forestier, la orice nivel, prin burse sau stagii de formare ori de practică, inclusiv prin învăţământ dual."],
+              ["(4)","Bazele experimentale didactice sunt utilizate gratuit numai în scop didactic, exclusiv pentru desfăşurarea activităţii liceelor tehnologice cu profil preponderent silvic/forestier."]
+            ]
+          },
+          {
+            "no": "17",
+            "label": "Art. 17 – Cercetarea-dezvoltarea şi inovarea în silvicultură",
+            "items": [
+              ["(1)","Autoritatea sprijină activitatea de cercetare ştiinţifică şi dezvoltare tehnologică din domeniu şi urmăreşte implementarea rezultatelor obţinute în scopul fundamentării normelor tehnice şi ghidurilor de bune practici pentru silvicultură, elaborării politicilor publice în sectorul forestier şi dezvoltării sistemului de gestionare a pădurilor."],
+              ["(2)","Cercetarea ştiinţifică şi dezvoltarea tehnologică din domeniul silviculturii se realizează prin unităţile şi instituţiile de drept public şi de drept privat cu personalitate juridică ce au ca obiect de activitate cercetarea şi care constituie Sistemul naţional de cercetare-dezvoltare."],
+              ["(3)","Planul sectorial de cercetare-dezvoltare al Autorităţii, denumit în continuare Planul sectorial, prin care se realizează politica de cercetare a Autorităţii, menit să asigure dezvoltarea domeniului, ca instrument de implementare a Strategiei naţionale de cercetare, inovare şi specializare inteligentă în vigoare, alături de alte instrumente de finanţare a programelor de cercetare-dezvoltare specifice domeniului silvic, inclusiv pentru îndeplinirea obligaţiilor asumate de Autoritate la nivel naţional, european şi internaţional, se aprobă prin ordin al conducătorului Autorităţii, în termen de 120 de zile de la data intrării în vigoare a prezentei legi."],
+              ["(4)","Staţiunile de cercetare-dezvoltare şi bazele experimentale din structura instituţiilor de cercetare-dezvoltare şi inovare sunt utilizate de către administratori preponderent pentru implementarea unor proiecte de cercetare-dezvoltare şi inovare şi pentru obţinerea unor rezultate ştiinţifice cu caracter experimental în vederea generalizării acestora la nivel regional şi/sau naţional."],
+              ["(5)","Instalarea suprafeţelor experimentale din FFN se poate face numai cu înştiinţarea administratorului pentru terenurile din FFN proprietate publică a statului sau cu acordul proprietarului, pentru celelalte cazuri."],
+              ["(6)","Finanţarea din fonduri publice a entităţilor de cercetare-dezvoltare şi inovare se face cu respectarea prevederilor europene şi naţionale din domeniul ajutorului de stat."]
+            ]
+          },
+          {
+            "no": "18",
+            "label": "Art. 18 – Instrumente de monitorizare a sectorului silvic. Raportarea rezultatelor monitorizării",
+            "items": [
+              ["(1)","Autoritatea stabileşte proceduri de colectare, validare, corelare, armonizare şi raportare a informaţiilor din sectorul forestier, prin instrumente specifice, şi desemnează structura care coordonează implementarea acestora prin ordin al conducătorului Autorităţii, în termen de 120 de zile de la data intrării în vigoare a prezentei legi, care se publică în Monitorul Oficial al României."],
+              ["(2)","Autoritatea publică anual, până la data de 30 septembrie a anului următor, pe pagina de internet proprie, raportul privind starea pădurilor, care conţine informaţii furnizate pe baza procedurilor stabilite în temeiul alin. (1)."]
+            ]
+          },
+          {
+            "no": "19",
+            "label": "Art. 19 – Inventarul forestier naţional",
+            "items": [
+              ["(1)","Autoritatea asigură finanţarea continuă şi actualizează la fiecare 5 ani Inventarul forestier naţional, denumit în continuare IFN, în scopul evaluării resurselor forestiere şi cunoaşterii dinamicii acestora pe teritoriul României."],
+              ["(2)","Metodologia de colectare, prelucrare şi raportare a informaţiilor din IFN se aprobă prin ordin al conducătorului Autorităţii în termen de maximum 18 luni de la data intrării în vigoare a prezentei legi. Metodologia se auditează periodic de către experţi în Inventarul forestier naţional."],
+              ["(3)","Rezultatele sintetice ale ciclurilor de inventar prezentate în rapoartele periodice avizate de Autoritate sunt informaţii de interes public, se aduc la cunoştinţa publicului cel puţin prin publicare pe pagina de internet proprie a Autorităţii şi se citează, cu menţionarea obligatorie a sursei, de către utilizator."],
+              ["(4)","Prin hotărâre a Guvernului, după încheierea ciclului III, departamentul IFN se organizează ca agenţie cu personalitate juridică în subordinea Secretariatului General al Guvernului."]
+            ]
+          },
+          {
+            "no": "20",
+            "label": "Art. 20 – Sistemul informaţional integrat pentru păduri",
+            "items": [
+              ["(1)","Normele metodologice referitoare la provenienţa lemnului, trasabilitatea, circulaţia şi comercializarea materialelor lemnoase, regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund, precum şi provenienţa şi circulaţia materialelor lemnoase destinate consumului propriu al proprietarului se aprobă prin hotărâre a Guvernului, la propunerea Autorităţii, în termen de 6 luni de la data intrării în vigoare a prezentei legi."],
+              ["(2)","Normele prevăzute la alin. (1) reglementează inclusiv realizarea, dezvoltarea şi funcţionarea unui sistem informaţional integrat pentru păduri, care îndeplineşte următoarele funcţii:"],
+              ["a)","colectarea şi prelucrarea de date şi informaţii care privesc gestionarea sustenabilă a pădurilor;"],
+              ["b)","înregistrarea şi evidenţa informaţiilor privind provenienţa lemnului, la prima introducere pe piaţă, şi trasabilitatea, circulaţia şi comercializarea materialelor lemnoase;"],
+              ["c)","furnizarea de informaţii pentru dezvoltarea sistemului de evidenţă proprie al fiecărui operator economic, la prima introducere pe piaţă a lemnului, şi de urmărire a trasabilităţii materialelor lemnoase;"],
+              ["d)","furnizarea de informaţii pentru evaluarea de risc proprie autorităţilor competente şi orientarea controlului pe bază de evaluări de risc;"],
+              ["e)","furnizarea de informaţii de interes public privind provenienţa lemnului, trasabilitatea, circulaţia şi comercializarea materialelor lemnoase;"],
+              ["f)","de control."],
+              ["(3)","Normele prevăzute la alin. (1) includ prevederi cu privire la situaţiile şi la procedura de suspendare/retragere a dreptului de acces în sistemul informaţional integrat pentru păduri."],
+              ["(4)","Materialele lemnoase din sortimentul furnir se transportă în condiţiile alin. (1), pe acestea aplicându-se concomitent elemente de marcare chimică şi digitală, în condiţiile stabilite prin ordin al conducătorului Autorităţii în termen de 90 de zile de la intrarea în vigoare a prezentei legi."]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21 – Registrul forestier naţional",
+            "items": [
+              ["(1)","Autoritatea administrează Registrul forestier naţional, denumit în continuare RFN, pentru evidenţa proprietăţilor din FFN, pentru facilitarea prin modalităţi informatice a avizărilor şi raportărilor între diferite entităţi publice, monitorizează implementarea serviciilor silvice şi acordă asistenţă şi informaţii proprietarilor beneficiari de plăţi ori utilizatori de servicii silvice."],
+              ["(2)","RFN este o componentă a sistemului informaţional integrat pentru păduri."],
+              ["(3)","RFN asigură informaţii necesare pentru implementarea integrată a măsurilor şi politicilor Autorităţii cu privire la FFN, inclusiv a evidenţei administrării sau asigurării serviciilor silvice şi monitorizării instrumentelor financiare de sprijin al proprietarilor."],
+              ["(4)","De la data operaţionalizării sistemului informaţional integrat pentru păduri, proprietarul care doreşte să obţină compensaţii pentru serviciile de silvomediu sau contractează serviciile minimale obligatorii este obligat să solicite înscrierea proprietăţii în RFN. Înscrierea în RFN este gratuită pentru proprietarii de fond forestier."]
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Def",
+        "name": "Codul silvic – anexa nr. 1, Termeni și expresii",
+        "title": "Anexa nr. 1 – Termeni și expresii",
+        "note": "Definițiile din Codul silvic, în ordinea din lege.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "Act de constatare",
+            "label": "Anexa 1 – Act de constatare",
+            "items": [
+              ["","Actul încheiat între reprezentantul ocolului silvic nominalizat şi reprezentantul Gărzii Forestiere competente teritorial, în vederea asigurării pazei şi a serviciilor silvice minimale de către ocolul silvic nominalizat pentru suprafeţe de FFN de maximum 30 hectare pentru care nu există administrare sau pentru care nu sunt asigurate servicii silvice minimale, al căror proprietar nu se poate identifica ori a cărui succesiune nu a fost dezbătută, precum şi pentru suprafeţele din FFN de peste 30 hectare pentru care nu este asigurată administrarea sau serviciile silvice"]
+            ]
+          },
+          {
+            "no": "Administrarea pădurilor",
+            "label": "Anexa 1 – Administrarea pădurilor",
+            "items": [
+              ["","Ansamblu de activităţi cu caracter tehnic, economic şi juridic menite să asigure gestionarea durabilă a terenurilor din FFN, cu respectarea regimului silvic"]
+            ]
+          },
+          {
+            "no": "Administraţie silvică",
+            "label": "Anexa 1 – Administraţie silvică",
+            "items": [
+              ["","Ansamblu de entităţi prin care se realizează gestionarea fondului forestier în condiţiile prezentei legi"]
+            ]
+          },
+          {
+            "no": "Amenajament silvic",
+            "label": "Anexa 1 – Amenajament silvic",
+            "items": [
+              ["","Produs al activităţii de amenajare cu conţinut tehnico-organizatoric, fundamentat ecologic, prin care se stabilesc, pentru o perioadă de timp, lucrările necesare a fi executate într-o unitate de producţie, în scopul aducerii şi, ulterior, al menţinerii caracteristicilor structurale ale arboretelor şi ale pădurii în ansamblu la valorile aferente modelului structural optim definit în concordanţă cu obiectivele de natură ecologică, socială şi economică urmărite prin gestionarea durabilă"]
+            ]
+          },
+          {
+            "no": "Amenajările pădurilor-parc",
+            "label": "Anexa 1 – Amenajările pădurilor-parc",
+            "items": [
+              ["","Amenajările permise în pădurile-parc sunt:"],
+              ["","a) alei realizate din materiale ecologice, cu lăţimea de maximum 2 metri sau piste pentru biciclete;"],
+              ["","b) bănci;"],
+              ["","c) iluminat;"],
+              ["","d) puncte de informare cu suprafaţa de maximum 4 metri pătraţi;"],
+              ["","e) toalete ecologice;"],
+              ["","f) construcţii provizorii din lemn cu suprafaţa construită de maximum 15 metri pătraţi."],
+              ["","În pădurile-parc se pot realiza împăduriri cu specii care nu sunt din tipul natural fundamental în locul arborilor extraşi."],
+              ["","Pădurile-parc se vor constitui la solicitarea proprietarului/administratorului, în baza unor studii de fundamentare, avizate în Comisia tehnică de avizare pentru silvicultură."],
+              ["","Suprafaţa de constituire a unei păduri-parc este de minimum 3 hectare, iar suprafaţa ocupată cu amenajări permise este de maximum 10% din suprafaţa încadrată ca pădure-parc."]
+            ]
+          },
+          {
+            "no": "Amenajarea pădurilor",
+            "label": "Anexa 1 – Amenajarea pădurilor",
+            "items": [
+              ["","Activitate de dezvoltare tehnologică, cu caracter permanent şi continuu, având drept scop conducerea structurală a pădurilor spre starea de maximă eficacitate funcţională aferentă obiectivelor urmărite de natură ecologică, socială şi economică"]
+            ]
+          },
+          {
+            "no": "Arbore-habitat/Arbore de biodiversitate",
+            "label": "Anexa 1 – Arbore-habitat/Arbore de biodiversitate",
+            "items": [
+              ["","Arbore cu atribute ecologice importante care, prin forma şi caracteristicile sistemului radicelar, trunchiului, ramurilor şi coroanei în ansamblu, constituie habitat pentru alte specii. Sunt incluşi aici arbori scorburoşi, de regulă bătrâni (arbori veterani), cu cuiburi de păsări, cavităţi de reproducere, cu lemn mort în coroană, cu coroane mari etc., sau din specii rare."]
+            ]
+          },
+          {
+            "no": "Arboret",
+            "label": "Anexa 1 – Arboret",
+            "items": [
+              ["","Porţiune omogenă de pădure atât din punctul de vedere al fitocenozei de arbori, cât şi al condiţiilor staţionale, care necesită aceleaşi lucrări silviculturale"]
+            ]
+          },
+          {
+            "no": "Arboretum",
+            "label": "Anexa 1 – Arboretum",
+            "items": [
+              ["","Suprafaţa de teren pe care este cultivată, în scop ştiinţific sau educaţional, o colecţie de plante lemnoase, arborescente şi arbustive, autohtone şi exotice, constituite din exemplare deosebit de valoroase care aparţin unui număr mare de unităţi sistematice de clasificare"]
+            ]
+          },
+          {
+            "no": "Beneficiari direcţi ai serviciilor ecosistemelor forestiere",
+            "label": "Anexa 1 – Beneficiari direcţi ai serviciilor ecosistemelor forestiere",
+            "items": [
+              ["","Persoane fizice şi juridice care beneficiază nemijlocit de contribuţiile ecosistemelor forestiere pentru creşterea calităţii vieţii oamenilor şi a societăţii în ansamblul ei"]
+            ]
+          },
+          {
+            "no": "Beneficiari indirecţi ai serviciilor ecosistemelor forestiere",
+            "label": "Anexa 1 – Beneficiari indirecţi ai serviciilor ecosistemelor forestiere",
+            "items": [
+              ["","Persoane fizice sau juridice care nu sunt beneficiare directe, dar care în mod indirect au acces la contribuţiile ecosistemelor forestiere pentru creşterea calităţii vieţii oamenilor şi a societăţii în ansamblul ei"]
+            ]
+          },
+          {
+            "no": "Cale de colectare a lemnului",
+            "label": "Anexa 1 – Cale de colectare a lemnului",
+            "items": [
+              ["","O amenajare, construcţie sau instalaţie folosită pentru colectarea lemnului care ocupă şi poate să schimbe temporar, pe durata lucrărilor de exploatare, folosinţa unui spaţiu din cadrul şantierului de exploatare a lemnului. Ea cuprinde spaţiul folosit efectiv pentru colectarea lemnului, precum şi alte amenajări, construcţii şi instalaţii necesare funcţionării ei. Din punct de vedere teritorial, căile de colectare pot fi situate atât în interiorul, cât şi în exteriorul parchetelor, dar se încadrează în şantierul de exploatare a lemnului. Se poate folosi şi termenul de instalaţie pasageră pentru colectarea lemnului."]
+            ]
+          },
+          {
+            "no": "Catalogul naţional al ecosistemelor strict protejate",
+            "label": "Anexa 1 – Catalogul naţional al ecosistemelor strict protejate",
+            "items": [
+              ["","Sistem naţional informatic de evidenţă a tuturor arboretelor incluse în categoria ecosistemelor forestiere strict protejate, cu actualizare periodică şi cu o secţiune publică care permite vizualizarea amplasării spaţiale a respectivelor arborete pe o hartă interactivă"]
+            ]
+          },
+          {
+            "no": "Centuri verzi",
+            "label": "Anexa 1 – Centuri verzi",
+            "items": [
+              ["","Zone din jurul oraşelor constituite din păduri, vegetaţie forestieră şi alte terenuri cu înaltă valoare naturală, socioculturală, recreativă sau ecologică, în care gestionarea pădurilor şi a vegetaţiei forestiere se face în conformitate cu normele tehnice speciale elaborate în temeiul art. 166 alin. (3) din prezenta lege, prin aplicarea de măsuri de conservare activă, fără reglementarea recoltării de produse principale"]
+            ]
+          },
+          {
+            "no": "Circulaţia materialelor lemnoase",
+            "label": "Anexa 1 – Circulaţia materialelor lemnoase",
+            "items": [
+              ["","Transportul materialelor lemnoase între două locaţii, folosindu-se în acest scop orice mijloc de transport, şi/sau transmiterea proprietăţii asupra materialelor lemnoase"]
+            ]
+          },
+          {
+            "no": "Cioata",
+            "label": "Anexa 1 – Cioata",
+            "items": [["", "Partea din arbore care rămâne după doborâre atât deasupra solului, cât şi în sol"]]
+          },
+          {
+            "no": "Clasa de regenerare",
+            "label": "Anexa 1 – Clasa de regenerare",
+            "items": [
+              ["","Totalitatea terenurilor existente în cuprinsul unei unităţi de producţie care, la data elaborării unui amenajament, nu sunt acoperite cu arbori, urmând, în conformitate cu lucrările propuse în amenajament, să fie împădurite"]
+            ]
+          },
+          {
+            "no": "Comerciant",
+            "label": "Anexa 1 – Comerciant",
+            "items": [
+              ["","Orice persoană fizică sau juridică din lanţul de aprovizionare, alta decât operatorul, care, în cursul unei activităţi comerciale, pune la dispoziţie pe piaţa Uniunii Europene produse de bază şi alte produse relevante"]
+            ]
+          },
+          {
+            "no": "Compensaţie financiară",
+            "label": "Anexa 1 – Compensaţie financiară",
+            "items": [
+              ["","Formă de ajutor sau de sprijin financiar acordat de către stat proprietarilor terenurilor din FFN, alţii decât statul, pentru gestionarea durabilă a terenurilor din FFN proprietate privată şi pentru proprietarii care aplică măsurile cu caracter obligatoriu, necesare pentru conservarea şi ameliorarea biodiversităţii pădurilor"]
+            ]
+          },
+          {
+            "no": "Compoziţie-ţel",
+            "label": "Anexa 1 – Compoziţie-ţel",
+            "items": [
+              ["","Asortimentul de specii dintr-un arboret care îmbină, în orice moment al existenţei sale, în modul cel mai favorabil, atât prin proporţie, cât şi prin gruparea lor, exigenţele biologice ale pădurii cu cerinţele social-economice ori ecologice"]
+            ]
+          },
+          {
+            "no": "Comunităţi locale dependente critic de păduri",
+            "label": "Anexa 1 – Comunităţi locale dependente critic de păduri",
+            "items": [
+              ["","Comunităţi reprezentate de locuitorii unor localităţi ale căror necesităţi vitale de natură energetică, de realizare a unor produse sau de oferire a unor servicii sunt restricţionate prin încadrarea pădurilor ce satisfăceau aceste necesităţi în zone cu restricţii"]
+            ]
+          },
+          {
+            "no": "Conectivitate ecologică",
+            "label": "Anexa 1 – Conectivitate ecologică",
+            "items": [
+              ["","Structura spaţială a ecosistemelor ce permite deplasarea nestingherită a speciilor şi asigurarea fluxului proceselor naturale care susţin viaţa"]
+            ]
+          },
+          {
+            "no": "Consistenţă",
+            "label": "Anexa 1 – Consistenţă",
+            "items": [
+              ["","Caracteristică generală a unui arboret de a fi constituit din arbori apropiaţi între ei, în aşa fel încât raportul spaţial al acestora să determine un mediu specific ecosistemelor forestiere, diferit de cel din afară. Se exprimă, în mod indirect, prin indicele de desime, indicele de densitate, indicele de acoperire, indicele de închidere a coronamentului."]
+            ]
+          },
+          {
+            "no": "Continuitatea pazei FFN",
+            "label": "Anexa 1 – Continuitatea pazei FFN",
+            "items": [
+              ["","Asigurarea permanentă de către structura de administrare a supravegherii în integralitate a FFN aflat în pază prin diverse mijloace tehnice şi organizatorice în funcţie de rezultatele evaluării proprii la risc"]
+            ]
+          },
+          {
+            "no": "Control de fond",
+            "label": "Anexa 1 – Control de fond",
+            "items": [
+              ["","Controlul care se realizează prin parcurgerea, conform regulamentului de pază, a unei suprafeţe aflate în administrarea ocolului silvic sau pentru care ocolul silvic prestează servicii de pază în scopul verificării integrităţii fondului forestier şi respectării regimului silvic. Controlul parţial vizează aceleaşi obiective precum controlul de fond, dar se desfăşoară doar pe o parte a suprafeţei aflate în pază."]
+            ]
+          },
+          {
+            "no": "Coridor ecologic",
+            "label": "Anexa 1 – Coridor ecologic",
+            "items": [
+              ["","Spaţiu geografic clar delimitat şi desemnat pentru a menţine sau pentru a restabili eficient conectivitatea ecologică"]
+            ]
+          },
+          {
+            "no": "Construcţii şi amenajări necesare lucrărilor de exploatare a lemnului",
+            "label": "Anexa 1 – Construcţii şi amenajări necesare lucrărilor de exploatare a lemnului",
+            "items": [
+              ["","Alte construcţii şi amenajări provizorii necesare lucrărilor de exploatare a lemnului pot fi, nelimitativ, spaţiile pe care se depozitează carburanţi, lubrifianţi şi piese de schimb, atunci când acestea nu sunt depozitate pe suprafaţa platformelor primare, precum şi spaţiile necesare amenajării facilităţilor temporare de locuit pentru forţa de muncă, atunci când acestea nu sunt amenajate pe suprafaţa platformelor primare. Aceste construcţii provizorii se edifică şi deservesc scopului pentru care au fost edificate numai în perioada de valabilitate a autorizaţiei de exploatare."]
+            ]
+          },
+          {
+            "no": "Cubaj expeditiv",
+            "label": "Anexa 1 – Cubaj expeditiv",
+            "items": [
+              ["","Metodă de stabilire a volumului real al materialelor lemnoase aşezate în figuri geometrice, prin utilizarea, după caz, a factorilor de cubaj sau a coeficienţilor de echivalenţă specifici sortimentului la volumul aparent al figurilor."]
+            ]
+          },
+          {
+            "no": "Defrişare",
+            "label": "Anexa 1 – Defrişare",
+            "items": [
+              ["","Acţiunea de înlăturare, de pe un teren inclus în FFN, a vegetaţiei forestiere, fără a fi urmată de regenerarea acesteia, cu schimbarea folosinţei şi/sau a destinaţiei forestiere a terenului"]
+            ]
+          },
+          {
+            "no": "Degradarea pădurilor",
+            "label": "Anexa 1 – Degradarea pădurilor",
+            "items": [
+              ["","Modificări structurale ale suprafeţelor împădurite care constau în transformarea:"],
+              ["","a) pădurilor primare sau a pădurilor regenerate în mod natural în culturi forestiere intensive; sau"],
+              ["","b) pădurilor primare în păduri regenerate artificial"]
+            ]
+          },
+          {
+            "no": "Degradarea terenurilor",
+            "label": "Anexa 1 – Degradarea terenurilor",
+            "items": [
+              ["","Reducerea până la anulare a potenţialului productiv al terenurilor, ca urmare a pierderii totale sau parţiale a fertilităţii potenţiale a solului"]
+            ]
+          },
+          {
+            "no": "Deţinător",
+            "label": "Anexa 1 – Deţinător",
+            "items": [
+              ["","Proprietarul, administratorul, prestatorul de servicii silvice, transportatorul, depozitarul, custodele, precum şi orice altă persoană fizică sau juridică, în temeiul unui titlu legal, de fond forestier sau de materiale lemnoase"]
+            ]
+          },
+          {
+            "no": "Dispozitiv special de marcat",
+            "label": "Anexa 1 – Dispozitiv special de marcat",
+            "items": [
+              ["","Instrument cu regim special care se foloseşte de personalul silvic împuternicit pentru marcarea arborilor destinaţi recoltării, a arborilor care delimitează parchetele de exploatare şi a cioatelor arborilor tăiaţi ilegal, precum şi a arborilor ce permit identificarea locului de unde un arbore a fost extras fără lăsarea de cioată în teren"]
+            ]
+          },
+          {
+            "no": "Drum forestier",
+            "label": "Anexa 1 – Drum forestier",
+            "items": [
+              ["","Cale de transport forestier cu caracter permanent, care serveşte cerinţelor proprii de transport auto în activitatea forestieră, precum şi altor necesităţi de transport, fiind construită şi menţinută în acest scop, în cuprinsul FFN, prin schimbarea categoriei de folosinţă forestieră"]
+            ]
+          },
+          {
+            "no": "Ecosistem forestier",
+            "label": "Anexa 1 – Ecosistem forestier",
+            "items": [
+              ["","Unitatea funcţională a biosferei, constituită din biocenoză, în care rolul predominant îl are populaţia de arbori, şi staţiunea în care se află aceasta"]
+            ]
+          },
+          {
+            "no": "Ecosistem forestier cu valoare conservativă ridicată",
+            "label": "Anexa 1 – Ecosistem forestier cu valoare conservativă ridicată",
+            "items": [
+              ["","Arboret sau ansamblu de arborete cu caracteristici floristice, faunistice, geologice, geomorfologice, hidrologice, climatice, paleontologice sau de altă natură, care au valoare ecologică, ştiinţifică sau culturală deosebită şi care sunt strict protejate prin încadrare în tipul I de categorii funcţionale"]
+            ]
+          },
+          {
+            "no": "Evaluarea lemnului",
+            "label": "Anexa 1 – Evaluarea lemnului",
+            "items": [
+              ["","Acţiunea de culegere de informaţii privind locaţia, suprafaţa pe care se găsesc arborii care urmează a fi selectaţi în vederea exploatării şi caracteristicile dendrometrice ale acestora, necesare calculului volumului de lemn pe picior"]
+            ]
+          },
+          {
+            "no": "Exploatabilitate",
+            "label": "Anexa 1 – Exploatabilitate",
+            "items": [
+              ["","Calitatea de a fi exploatabil atribuită unui arbore sau arboret în momentul în care recoltarea lor devine necesară pentru a se putea realiza în mod optim obiectivele urmărite prin gospodărirea pădurii din care face parte"]
+            ]
+          },
+          {
+            "no": "Exploatare a lemnului",
+            "label": "Anexa 1 – Exploatare a lemnului",
+            "items": [
+              ["","Procesul de producţie prin care se extrage lemnul brut din păduri şi de pe alte terenuri acoperite cu vegetaţie forestieră, în condiţiile impuse de regimul silvic, de regimul terenurilor acoperite cu vegetaţie forestieră"]
+            ]
+          },
+          {
+            "no": "Gestionarea durabilă a pădurilor",
+            "label": "Anexa 1 – Gestionarea durabilă a pădurilor",
+            "items": [
+              ["","Administrarea şi utilizarea pădurilor şi a terenurilor forestiere într-un mod şi într-un ritm care să le menţină biodiversitatea, productivitatea, capacitatea de regenerare, vitalitatea şi potenţialul lor de a îndeplini, acum şi în viitor, funcţiile ecologice, economice şi sociale relevante, la nivel local, naţional şi global, şi care nu provoacă daune altor ecosisteme"]
+            ]
+          },
+          {
+            "no": "Guvernanţa sectorului silvic",
+            "label": "Anexa 1 – Guvernanţa sectorului silvic",
+            "items": [
+              ["","Cadrul instituţional, organizaţiile şi procesele prin care factorii interesaţi din sectorul silvic iau şi aplică decizii cu privire la managementul, utilizarea şi conservarea resurselor forestiere"]
+            ]
+          },
+          {
+            "no": "Integritatea fondului forestier",
+            "label": "Anexa 1 – Integritatea fondului forestier",
+            "items": [
+              ["","Menţinerea suprafeţei FFN, a stării de sănătate corespunzătoare a arboretelor şi a structurii care asigură eficacitatea funcţională cea mai ridicată în raport cu funcţiile atribuite pădurii"]
+            ]
+          },
+          {
+            "no": "Insulă de îmbătrânire",
+            "label": "Anexa 1 – Insulă de îmbătrânire",
+            "items": [
+              ["","Grup de arbori exceptaţi de la exploatarea forestieră pe o suprafaţă de minimum 0,1 hectare, cu rol în conservarea şi ameliorarea biodiversităţii, pentru a constitui, prin evoluţie naturală, habitat sau adăpost temporar pentru speciile de faună care depind de existenţa arborilor cu vârste mari sau a arborilor morţi"]
+            ]
+          },
+          {
+            "no": "Introducere pe piaţă",
+            "label": "Anexa 1 – Introducere pe piaţă",
+            "items": [
+              ["","Punere la dispoziţie pentru prima oară a unui produs de bază sau a unui alt produs pe piaţa Uniunii Europene"]
+            ]
+          },
+          {
+            "no": "Întreprindere legată",
+            "label": "Anexa 1 – Întreprindere legată",
+            "items": [
+              ["","Întreprinderea care face parte dintr-un grup, prin controlul direct sau indirect al majorităţii drepturilor de vot sau al capitalului social, inclusiv prin acorduri, sau, în anumite cazuri, prin intermediul acţionarilor, persoane fizice, ori prin posibilitatea de a exercita o influenţă dominantă asupra unei întreprinderi"]
+            ]
+          },
+          {
+            "no": "Judeţ deficitar în păduri",
+            "label": "Anexa 1 – Judeţ deficitar în păduri",
+            "items": [
+              ["","Judeţul în care suprafaţa fondului forestier reprezintă mai puţin de 30% din suprafaţa totală a acestuia"]
+            ]
+          },
+          {
+            "no": "Lemn",
+            "label": "Anexa 1 – Lemn",
+            "items": [
+              ["","Produsul exploatării lemnului reprezentat de fragmente, părţi sau segmente de arbore aduse la forme, dimensiuni şi calităţi corespunzătoare prelucrării industriale sau utilizării directe"],
+              ["","Există mai multe criterii de clasificare a lemnului brut, cum sunt: specia, caracteristicile fizicomecanice, forma în secţiune transversală, stadiul de transformare în cursul procesului de exploatare, modul de livrare şi destinaţia lemnului."]
+            ]
+          },
+          {
+            "no": "Lăstar",
+            "label": "Anexa 1 – Lăstar",
+            "items": [["", "Ramură tânără care se dezvoltă din rădăcina sau tulpina unui arbore"]]
+          },
+          {
+            "no": "Materiale lemnoase",
+            "label": "Anexa 1 – Materiale lemnoase",
+            "items": [
+              ["","Lemnul rotund sau despicat, cu sau fără coajă, şi lemnul de foc sub formă de trunchiuri, butuci, crăci, vreascuri sau forme similare; cherestelele tivite şi netivite, capetele şi flancurile buştenilor; traversele neimpregnate din lemn pentru căi ferate, mangalul, lemnul ecarisat şi lemnul cioplit; lemnul sub formă de aşchii sau particule, rumeguşul, tocătura provenită din lemn, coaja arborilor şi resturile de lemn. Puieţii forestieri se încadrează în categoria materialelor lemnoase. Materialele lemnoase nu sunt bunuri divizibile."]
+            ]
+          },
+          {
+            "no": "Material forestier de reproducere",
+            "label": "Anexa 1 – Material forestier de reproducere",
+            "items": [
+              ["","Materialul biologic vegetal prin care se realizează regenerarea arborilor din speciile şi hibrizii artificiali, importanţi pentru scopuri forestiere"]
+            ]
+          },
+          {
+            "no": "Ocol silvic",
+            "label": "Anexa 1 – Ocol silvic",
+            "items": [
+              ["","Unitatea silvică înfiinţată în scopul administrării şi/sau asigurării serviciilor pentru terenurile din FFN, având suprafaţa minimă de constituire după cum urmează:"],
+              ["","a) în regiunea de câmpie - 3.000 hectare fond forestier;"],
+              ["","b) în regiunea de deal - 5.000 hectare fond forestier;"],
+              ["","c) în regiunea de munte - 7.000 hectare fond forestier."],
+              ["","Ocolul silvic se constituie de către:"],
+              ["","a) unităţile administrativ-teritoriale, pentru terenuri forestiere proprietate publică sau privată pe care le au în proprietate sau în administrare;"],
+              ["","b) persoanele fizice şi/sau persoanele juridice, pentru terenuri forestiere proprietate privată pe care le au în proprietate;"],
+              ["","c) persoanele juridice rezultate în urma asocierii persoanelor prevăzute la lit. a) şi/sau b) la Registrul asociaţiilor şi fundaţiilor, la Oficiul Naţional al Registrului Comerţului;"],
+              ["","d) administratorii fondului forestier proprietate publică a statului, pentru terenurile forestiere proprietate publică a statului şi/sau a unităţilor administrativ-teritoriale pe care le administrează."]
+            ]
+          },
+          {
+            "no": "Ocupare temporară a unui teren inclus în FFN",
+            "label": "Anexa 1 – Ocupare temporară a unui teren inclus în FFN",
+            "items": [
+              ["","Utilizarea temporară a unui teren inclus în FFN, doar în scopuri şi perioade stabilite în condiţiile prezentei legi"]
+            ]
+          },
+          {
+            "no": "Ocupaţii",
+            "label": "Anexa 1 – Ocupaţii",
+            "items": [
+              ["","Terenurile forestiere înscrise în amenajamentele silvice în vigoare la categoria \"ocupaţii şi litigii\" - \"M\""]
+            ]
+          },
+          {
+            "no": "Operator",
+            "label": "Anexa 1 – Operator",
+            "items": [
+              ["","Orice persoană fizică sau juridică ce, în cursul unei activităţi comerciale, introduce pe piaţa Uniunii Europene şi alte produse relevante sau le exportă de pe piaţa Uniunii Europene"]
+            ]
+          },
+          {
+            "no": "Parchet",
+            "label": "Anexa 1 – Parchet",
+            "items": [
+              ["","Suprafaţa de teren forestier de pe care se recoltează arborii selectaţi prin lucrări de îngrijire şi conducere, prin tratamente silviculturale, prin lucrări de conservare sau prin extragerea produselor accidentale şi extraordinare. Parchetul este parte integrantă a şantierului de exploatare a lemnului."]
+            ]
+          },
+          {
+            "no": "Parc recreativ/tematic/educaţional",
+            "label": "Anexa 1 – Parc recreativ/tematic/educaţional",
+            "items": [
+              ["","Amenajările cu caracter permanent sau nepermanent, care se execută în scopul desfăşurării activităţilor recreative, cu sau fără defrişarea vegetaţiei forestiere, de tipul:"],
+              ["","a) pergole şi/sau locuri de joacă pentru copii;"],
+              ["","b) aventura-parc, instalaţii pentru căţărare sau iniţiere în alpinism;"],
+              ["","c) terenuri pentru paintball;"],
+              ["","d) piste pentru biciclete şi alte infrastructuri specifice sau favorabile circulaţiei bicicletelor, precum şi, după caz, poteci de pământ pentru deplasare pedestră şi alergare şi, separat, pentru ciclism montan şi pentru deplasare ecvestră, piste pentru alergare, piste pentru deplasare pe dispozitive cu role, punţi, pasarele şi podeţe aferente acestor căi de comunicaţie;"],
+              ["","e) căi de acces aferente."]
+            ]
+          },
+          {
+            "no": "Pagubă",
+            "label": "Anexa 1 – Pagubă",
+            "items": [
+              ["","Pierderea economică directă rezultată prin modificarea aspectului, a integrităţii fizice şi/sau a caracteristicilor fiziologice ale arborelui/arborilor ori ale arboretului/plantaţiei/regenerării naturale, după caz, rezultată prin tăierea, ruperea, degradarea, distrugerea, scoaterea din rădăcini a arborilor, puieţilor sau lăstarilor, tăierea crăcilor arborilor în picioare"]
+            ]
+          },
+          {
+            "no": "Pădure primară",
+            "label": "Anexa 1 – Pădure primară",
+            "items": [
+              ["","Pădure care prezintă o dinamică naturală a proceselor ecosistemice (cu specii naturale, structură plurienă, regenerare naturală, eliminare naturală nedirijată a arborilor) pe o suprafaţă a cărei mărime permite menţinerea caracteristicilor naturale şi în care nu se practică o intervenţie umană semnificativă sau în care ultimele intervenţii umane semnificative s-au făcut cu mult timp în urmă astfel încât procesele naturale caracteristice s-au restabilit"]
+            ]
+          },
+          {
+            "no": "Pădure certificată",
+            "label": "Anexa 1 – Pădure certificată",
+            "items": [
+              ["","O suprafaţă de pădure pentru care există un certificat valid emis de o organizaţie independentă acreditată internaţional care, în urma unui audit, confirmă faptul că suprafaţa respectivă este gospodărită în conformitate cu un standard de certificare a managementului forestier agreat la nivel internaţional"]
+            ]
+          },
+          {
+            "no": "Pădure virgină",
+            "label": "Anexa 1 – Pădure virgină",
+            "items": [
+              ["","Acea pădure care s-a format şi dezvoltat exclusiv sub acţiunea factorilor naturali şi în care procesele ecosistemice în dinamica lor se produc fără nicio influenţă antropică directă sau indirectă"]
+            ]
+          },
+          {
+            "no": "Pădure cvasivirgină",
+            "label": "Anexa 1 – Pădure cvasivirgină",
+            "items": [
+              ["","Pădurea virgină din trecut care, între timp, a suferit modificări antropice observabile, nesemnificative asupra structurii, staţiunii şi proceselor ecosistemice"]
+            ]
+          },
+          {
+            "no": "Păduri urbane şi periurbane",
+            "label": "Anexa 1 – Păduri urbane şi periurbane",
+            "items": [
+              ["","Păduri şi terenuri forestiere din interiorul şi din jurul oraşelor care îndeplinesc o funcţie ecologică, sanogenă şi recreativă pentru locuitorii zonelor urbane, dar care pot furniza în subsidiar şi alte bunuri şi servicii periurbane cum ar fi lemn, fibre, fructe sau alte produse forestiere nelemnoase, în condiţiile aplicării normelor prevăzute la art. 166 alin. (3) din prezenta lege"]
+            ]
+          },
+          {
+            "no": "Minipăduri urbane",
+            "label": "Anexa 1 – Minipăduri urbane",
+            "items": [
+              ["","Suprafaţa de teren compactă, de minimum 100 metri pătraţi, situată în intravilanul unei localităţi urbane (oraş, municipiu) sau în zona periurbană, cu o lăţime de cel puţin 2 metri, pe care au fost plantate specii forestiere arborescente, ce oferă societăţii beneficii psihologice, sociale, estetice, economice şi de mediu, în condiţiile aplicării normelor prevăzute la art. 166 alin. (3) din prezenta lege"]
+            ]
+          },
+          {
+            "no": "Păduri cu rol sociocultural",
+            "label": "Anexa 1 – Păduri cu rol sociocultural",
+            "items": [
+              ["","Păduri localizate în jurul, în lungul, în apropierea sau în interiorul unor zone/obiective de interes social sau cultural, fiind destinate să îndeplinească în principal sau în totalitate funcţii socioculturale. Aceste zone/obiective pot fi:"],
+              ["","a) staţiuni balneoclimaterice, climaterice sau sanatorii de importanţă naţională;"],
+              ["","b) obiective esenţiale pentru păstrarea identităţii culturale a comunităţilor locale;"],
+              ["","c) obiective speciale culturale (cetăţi, fortificaţii, mănăstiri etc.)."]
+            ]
+          },
+          {
+            "no": "Peisaj forestier mozaicat",
+            "label": "Anexa 1 – Peisaj forestier mozaicat",
+            "items": [
+              ["","Suprafaţă întinsă cu destinaţie forestieră, formată din terenuri cu folosinţe diverse, dar în care predomină terenurile acoperite cu păduri, în care arboretele se află în diverse stadii de dezvoltare, iar diversele asociaţii de specii şi vârste creează un mozaic cu o dinamică determinată de modul de gospodărire, dar a cărui eterogenitate se menţine relativ constantă în timp ca urmare a aplicării măsurilor cu caracter silvicultural"]
+            ]
+          },
+          {
+            "no": "Precomptare",
+            "label": "Anexa 1 – Precomptare",
+            "items": [
+              ["","Acţiunea de înlocuire a volumului de lemn prevăzut a fi recoltat din arboretele incluse în planul decenal de recoltare a produselor principale dintr-o unitate de gospodărire cu volume echivalente rezultate din arboretele incluse în aceasta, afectate integral de factori biotici sau abiotici, ori din arborete cu vârste mai mari de 1/2 din vârsta exploatabilităţii tehnice afectate parţial de factori biotici sau abiotici ori provenite din defrişări legale şi tăieri ilegale"]
+            ]
+          },
+          {
+            "no": "Prejudiciu",
+            "label": "Anexa 1 – Prejudiciu",
+            "items": [
+              ["","Pierderile rezultate prin alte acţiuni/inacţiuni care nu depind de producerea unei pagube în înţelesul prezentei legi"]
+            ]
+          },
+          {
+            "no": "Prejudiciul forestier",
+            "label": "Anexa 1 – Prejudiciul forestier",
+            "items": [
+              ["","Suma dintre pagubă şi valoarea funcţiilor nerealizate ale pădurii şi se calculează numai în cazul vegetaţiei forestiere din FFN"]
+            ]
+          },
+          {
+            "no": "Prestare a serviciilor silvice",
+            "label": "Anexa 1 – Prestare a serviciilor silvice",
+            "items": [
+              ["","Efectuarea, în baza unui contract, a unei activităţi cu caracter tehnic de către personalul silvic al ocoalelor silvice sau al altor entităţi atestate în condiţiile prezentei legi"]
+            ]
+          },
+          {
+            "no": "Prima transformare a lemnului brut",
+            "label": "Anexa 1 – Prima transformare a lemnului brut",
+            "items": [
+              ["","Prelucrare a lemnului brut care modifică substanţial caracteristicile geometrice şi defineşte modul de utilizare ulterioară. Sortarea, cojirea şi prelucrarea superficială nu sunt considerate prime transformări ale lemnului brut."]
+            ]
+          },
+          {
+            "no": "Perdele forestiere de protecţie",
+            "label": "Anexa 1 – Perdele forestiere de protecţie",
+            "items": [
+              ["","Formaţiunile cu vegetaţie forestieră, amplasate la o anumită distanţă unele faţă de altele sau faţă de un obiectiv cu scopul de a-l proteja împotriva efectelor unor factori dăunători şi/sau pentru ameliorarea climatică, economică şi estetico-sanitară a terenurilor"]
+            ]
+          },
+          {
+            "no": "Perimetru de ameliorare",
+            "label": "Anexa 1 – Perimetru de ameliorare",
+            "items": [
+              ["","Terenurile degradate sau neproductive agricol care pot fi ameliorate prin împădurire, a căror punere în valoare este necesară din punctul de vedere al protecţiei solului, al regimului apelor, al îmbunătăţirii condiţiilor de mediu şi al diversităţii biologice"]
+            ]
+          },
+          {
+            "no": "Plantaj",
+            "label": "Anexa 1 – Plantaj",
+            "items": [
+              ["","Cultura forestieră constituită din arbori proveniţi din mai multe clone sau familii, identificate, în proporţii definite, izolată faţă de surse de polen străin şi care este condusă astfel încât să producă în mod frecvent recolte abundente de seminţe, uşor de recoltat"]
+            ]
+          },
+          {
+            "no": "Platforma primară",
+            "label": "Anexa 1 – Platforma primară",
+            "items": [
+              ["","Spaţiu amenajat în mod special pentru a permite executarea lucrărilor de pregătire şi încărcare a lemnului în mijloacele de transport. În mod obişnuit, platformele primare se amenajează lângă căi de transport cu caracter permanent. Platformele primare sunt părţi integrante ale şantierului de exploatare a lemnului."]
+            ]
+          },
+          {
+            "no": "Posibilitate",
+            "label": "Anexa 1 – Posibilitate",
+            "items": [
+              ["","Volumul de lemn care urmează a fi recoltat ca produse principale dintr-o unitate de gospodărire, în baza amenajamentului silvic, pe perioada de aplicare a acestuia"]
+            ]
+          },
+          {
+            "no": "Posibilitate anuală",
+            "label": "Anexa 1 – Posibilitate anuală",
+            "items": [
+              ["","Volumul de lemn care poate fi recoltat anual ca produs principal dintr-o unitate de gospodărire, egal cu raportul dintre posibilitate şi numărul anilor de valabilitate a amenajamentului"]
+            ]
+          },
+          {
+            "no": "Principiul continuităţii",
+            "label": "Anexa 1 – Principiul continuităţii",
+            "items": [
+              ["","Principiu fundamental al amenajării pădurilor care reflectă preocuparea permanentă de a asigura prin amenajament condiţiile necesare pentru gestionarea durabilă a pădurilor, astfel încât acestea să asigure satisfacerea permanentă a nevoilor de natură ecologică, socială şi economică ale generaţiei actuale, fără a compromite posibilitatea generaţiilor viitoare de a-şi satisface propriile cerinţe"]
+            ]
+          },
+          {
+            "no": "Proces-verbal de inventariere",
+            "label": "Anexa 1 – Proces-verbal de inventariere",
+            "items": [
+              ["","Actul care face dovada provenienţei la locul de recoltare, prin care se calculează volumul lemnului pe picior de până la 20 metri cubi de pe suprafeţele de FFN pentru care legea nu obligă la elaborarea amenajamentelor silvice, volumul de până la 20 metri cubi al lemnului pe picior din vegetaţia forestieră din afara fondului forestier şi volumul pe picior sau exploatat din culturile energetice sau din parcurile din intravilan"]
+            ]
+          },
+          {
+            "no": "Produse accidentale I",
+            "label": "Anexa 1 – Produse accidentale I",
+            "items": [
+              ["","Volumul de lemn provenit din arborii dintr-un arboret/dintr-o parte de arboret cu suprafaţa de minimum 0,5 hectare, afectat în cel mai ridicat grad de vătămare de factori biotici şi/sau abiotici, respectiv arborii dintr-un arboret cu vârsta mai mare de 1/2 din vârsta exploatabilităţii tehnice, afectat parţial de factori biotici şi/sau abiotici. Aceste produse se asimilează cu produsele principale şi se recoltează integral."]
+            ]
+          },
+          {
+            "no": "Produse accidentale II",
+            "label": "Anexa 1 – Produse accidentale II",
+            "items": [
+              ["","Volumul de lemn provenit din arborii dintr-un arboret cu vârsta mai mică sau egală cu 1/2 din vârsta exploatabilităţii tehnice, afectat parţial de factori biotici şi/sau abiotici. Aceste produse se asimilează cu produsele secundare şi se recoltează integral."]
+            ]
+          },
+          {
+            "no": "Produse extraordinare",
+            "label": "Anexa 1 – Produse extraordinare",
+            "items": [
+              ["","Volumul de lemn care se exploatează de pe drumurile şi instalaţiile de scos-apropiat, de pe suprafaţa destinată realizării platformelor primare, de pe terenuri din FFN amplasate sub/peste reţelele de transport sau distribuţie a petrolului, a gazelor naturale sau a energiei electrice sau cea rezultată din exploatarea arborilor care periclitează circulaţia pe căile de transport, inclusiv de pe suprafeţele pentru care este suspendat serviciul silvic, la solicitarea scrisă a deţinătorului sau administratorului reţelei sau căii de transport, din interiorul şi/sau proximitatea obiectivelor militare în scopul menţinerii în stare de operativitate a acestora, pentru protecţia obiectivelor arheologice, culturale sau publice, şi cele rezultate din defrişări legal aprobate"]
+            ]
+          },
+          {
+            "no": "Produse principale",
+            "label": "Anexa 1 – Produse principale",
+            "items": [["", "Volumul de lemn rezultat din tăieri de regenerare a pădurilor"]]
+          },
+          {
+            "no": "Produse secundare",
+            "label": "Anexa 1 – Produse secundare",
+            "items": [["", "Volumul de lemn provenit din tăierile de îngrijire şi conducere a arboretelor"]]
+          },
+          {
+            "no": "Provenienţa lemnului",
+            "label": "Anexa 1 – Provenienţa lemnului",
+            "items": [
+              ["","Locul de recoltare a lemnului, pentru care există drept de tăiere, înregistrat în sistemul informaţional integrat pentru păduri prin poligonul/punctul identificat cu coordonate geografice certe"]
+            ]
+          },
+          {
+            "no": "Preţul mediu al unui metru cub de lemn",
+            "label": "Anexa 1 – Preţul mediu al unui metru cub de lemn",
+            "items": [
+              ["","Preţul mediu de vânzare al unui metru cub de lemn pe picior la nivel naţional, determinat ca medie a datelor statistice publicate pentru ultimii 3 ani de Institutul Naţional de Statistică"]
+            ]
+          },
+          {
+            "no": "Puiet",
+            "label": "Anexa 1 – Puiet",
+            "items": [
+              ["","Plantă lemnoasă tânără calendaristic şi stadial provenită din sămânţă sau părţi de arbori, apărută spontan sau cultivată"]
+            ]
+          },
+          {
+            "no": "Reconstrucţie ecologică",
+            "label": "Anexa 1 – Reconstrucţie ecologică",
+            "items": [
+              ["","Ansamblul de măsuri, iniţiate şi derulate de către om, prin care se asigură restabilirea structurii, funcţiilor naturale, diversităţii şi dinamicii naturale în vederea refacerii unui ecosistem degradat în urma intervenţiei umane. În ceea ce priveşte reconstrucţia ecologică a ecosistemelor forestiere, aceasta cuprinde doar lucrările menite să asigure readucerea lor la tipul natural fundamental de pădure, refacerea structurii acelor ecosisteme, precum şi aducerea la nivel optim a funcţiilor lor şi refacerea conectivităţii în ecosistemele fragmentate."]
+            ]
+          },
+          {
+            "no": "Regenerare",
+            "label": "Anexa 1 – Regenerare",
+            "items": [
+              ["","Proces de înnoire a arboretelor/pădurii prin înlocuirea unei generaţii vechi cu una nouă; se poate realiza pe cale naturală, artificială sau mixtă."]
+            ]
+          },
+          {
+            "no": "Regenerare artificială",
+            "label": "Anexa 1 – Regenerare artificială",
+            "items": [
+              ["","Reînnoirea arboretelor/pădurii pe cale artificială, prin semănături directe sau prin plantaţie"]
+            ]
+          },
+          {
+            "no": "Regenerare naturală",
+            "label": "Anexa 1 – Regenerare naturală",
+            "items": [
+              ["","Proces de reînnoire a arboretelor/pădurii pe cale naturală, din sămânţă (în cazul codrului) sau din lăstari şi drajoni (în cazul crângului)"]
+            ]
+          },
+          {
+            "no": "Regenerare naturală (din sămânţă)",
+            "label": "Anexa 1 – Regenerare naturală (din sămânţă)",
+            "items": [
+              ["","Refacere a pădurii prin împrăştierea seminţelor pe terenul de împădurit, sub acţiunea forţelor naturii"]
+            ]
+          },
+          {
+            "no": "Regim",
+            "label": "Anexa 1 – Regim",
+            "items": [
+              ["","Modul general în care se realizează regenerarea unei păduri: din sămânţă, din lăstari sau mixt (din sămânţă şi lăstari)"]
+            ]
+          },
+          {
+            "no": "Regimul codrului",
+            "label": "Anexa 1 – Regimul codrului",
+            "items": [
+              ["","Regim în care arboretele se exploatează, de regulă, la vârste înaintate şi sunt regenerate pe cale germinativă (din sămânţă, inclusiv prin plantaţii)"]
+            ]
+          },
+          {
+            "no": "Regimul crângului",
+            "label": "Anexa 1 – Regimul crângului",
+            "items": [
+              ["","Regim în care arboretele se exploatează, de regulă, la vârste reduse şi sunt regenerate pe cale vegetativă (din lăstari, drajoni)"]
+            ]
+          },
+          {
+            "no": "Regim silvic",
+            "label": "Anexa 1 – Regim silvic",
+            "items": [
+              ["","Ansamblul de norme tehnice şi juridice privind administrarea şi utilizarea pădurilor şi a terenurilor forestiere, în scopul asigurării gestionării durabile"]
+            ]
+          },
+          {
+            "no": "Rezilienţă",
+            "label": "Anexa 1 – Rezilienţă",
+            "items": [
+              ["","Capacitatea unui ecosistem de a reveni la starea iniţială în urma unei perturbaţii, menţinându-şi compoziţia taxonomică, structurile, funcţiile şi ratele procesului"]
+            ]
+          },
+          {
+            "no": "Schimbarea categoriei de folosinţă",
+            "label": "Anexa 1 – Schimbarea categoriei de folosinţă",
+            "items": [
+              ["","Schimbarea folosinţei terenului cu menţinerea destinaţiei forestiere, în scopul executării de lucrări şi realizării de obiective necesare administrării şi gestionării durabile a fondului forestier"]
+            ]
+          },
+          {
+            "no": "Secuire",
+            "label": "Anexa 1 – Secuire",
+            "items": [
+              ["","Îndepărtarea cojii trunchiului arborelui pe circumferinţa acestuia pentru a-i provoca uscarea"]
+            ]
+          },
+          {
+            "no": "Set de măsuri minime de conservare",
+            "label": "Anexa 1 – Set de măsuri minime de conservare",
+            "items": [
+              ["","Set de măsuri menite să asigure menţinerea stării actuale de conservare a habitatelor şi speciilor din ariile naturale protejate fără plan de management, până la elaborarea şi aprobarea planurilor de management"]
+            ]
+          },
+          {
+            "no": "Sezon de vegetaţie",
+            "label": "Anexa 1 – Sezon de vegetaţie",
+            "items": [
+              ["","Perioada din an cuprinsă între momentul intrării în vegetaţie şi cel al intrării în repausul vegetativ al arborilor"]
+            ]
+          },
+          {
+            "no": "Servicii ecosistemice",
+            "label": "Anexa 1 – Servicii ecosistemice",
+            "items": [
+              ["","Serviciile ecosistemice oferite de pădure sunt contribuţiile ecosistemelor forestiere de care beneficiază proprietarul şi societatea în mod direct sau indirect. Serviciile ecosistemice oferite de păduri, definite în sensul prezentei legi, se clasifică în:"],
+              ["","a) servicii de aprovizionare, reprezentate de produsele lemnoase şi nelemnoase;"],
+              ["","b) servicii de regularizare, identificate prin corespondenţă cu sistemul de zonare funcţional a pădurilor din grupa I funcţională;"],
+              ["","c) servicii culturale, identificate prin pădurile cu rol sociocultural, recreativ, sanogen şi de protecţie ecologică a aşezărilor umane."]
+            ]
+          },
+          {
+            "no": "Silvicultură apropiată de natură",
+            "label": "Anexa 1 – Silvicultură apropiată de natură",
+            "items": [
+              ["","Abordare a gestiunii pădurilor care urmăreşte să imite şi să susţină procesele naturale din pădure, să asigure conservarea biodiversităţii şi să ofere servicii ecosistemice de calitate, în timp ce se asigură şi o producţie durabilă de lemn"]
+            ]
+          },
+          {
+            "no": "Specie autohtonă",
+            "label": "Anexa 1 – Specie autohtonă",
+            "items": [
+              ["","Speciile de arbori sau arbuşti care se regăsesc în mod natural în România şi nu ca urmare a introducerii accidentale sau forţate de către om de-a lungul secolelor"]
+            ]
+          },
+          {
+            "no": "Stare de masiv",
+            "label": "Anexa 1 – Stare de masiv",
+            "items": [
+              ["","Stadiul din care o regenerare se poate dezvolta independent, ca urmare a faptului că exemplarele componente ale acesteia realizează o desime care asigură condiţionarea lor reciprocă în creştere şi dezvoltare, fără a mai fi necesare lucrări de completări şi întreţineri."]
+            ]
+          },
+          {
+            "no": "Stimulent financiar",
+            "label": "Anexa 1 – Stimulent financiar",
+            "items": [
+              ["","Formă de ajutor sau de sprijin financiar acordat de către stat proprietarilor terenurilor din FFN, alţii decât statul, care îşi asumă angajamente voluntare de mediu prin care aplică măsuri de conservare a biodiversităţii"]
+            ]
+          },
+          {
+            "no": "Structură de administrare",
+            "label": "Anexa 1 – Structură de administrare",
+            "items": [
+              ["","Unitate silvică sau grupare de unităţi silvice (direcţie silvică, regie autonomă), cu sau fără personalitate juridică, înfiinţată în scopul administrării şi/sau asigurării serviciilor pentru terenurile din FFN"]
+            ]
+          },
+          {
+            "no": "Sortiment de lemn brut",
+            "label": "Anexa 1 – Sortiment de lemn brut",
+            "items": [
+              ["","Sortimentele de materiale lemnoase specifice introducerii pe piaţă a lemnului recoltat din fondul forestier naţional, şi anume: lemnul rotund sau despicat, cu sau fără coajă, şi lemnul de foc sub formă de trunchiuri, butuci, lobde, crăci, vreascuri sau forme similare, tocătura provenită din lemn, coaja arborilor şi resturile de exploatare"]
+            ]
+          },
+          {
+            "no": "Şantier de exploatare a lemnului",
+            "label": "Anexa 1 – Şantier de exploatare a lemnului",
+            "items": [
+              ["","Spaţiul care se organizează pentru desfăşurarea lucrărilor de exploatare a lemnului, care cuprinde parchetul sau parchetele, căile de colectare a lemnului, una sau mai multe platforme primare, precum şi alte amenajări, construcţii şi instalaţii necesare executării lucrărilor de exploatare a lemnului. Şantierul de exploatare a lemnului poate fi organizat pentru două sau mai multe parchete exploatate concomitent sau succesiv. Recoltarea, colectarea şi lucrările pe platforma primară se desfăşoară în cadrul şantierului de exploatare a lemnului."]
+            ]
+          },
+          {
+            "no": "Tăiere rasă",
+            "label": "Anexa 1 – Tăiere rasă",
+            "items": [
+              ["","Tăiere prin care se înlătură integral şi printr-o singură intervenţie arboretul matur de pe o anumită suprafaţă în vederea regenerării"]
+            ]
+          },
+          {
+            "no": "Tăiere cu drept",
+            "label": "Anexa 1 – Tăiere cu drept",
+            "items": [
+              ["","Recoltarea arborilor din:"],
+              ["","a) parchetele autorizate spre exploatare, cu condiţia respectării prevederilor legale referitoare la evaluarea lemnului destinat valorificării;"],
+              ["","b) vegetaţia din afara FFN, cu respectarea prevederilor legale referitoare la evaluarea lemnului destinat valorificării"]
+            ]
+          },
+          {
+            "no": "Tăiere fără drept",
+            "label": "Anexa 1 – Tăiere fără drept",
+            "items": [
+              ["","Tăierea arborilor fără autorizaţie de exploatare, a celor care nu sunt destinaţi extragerii conform autorizaţiei de exploatare"]
+            ]
+          },
+          {
+            "no": "Teren aferent activelor vândute",
+            "label": "Anexa 1 – Teren aferent activelor vândute",
+            "items": [
+              ["","Suprafaţa de teren din documentaţia tehnică aprobată pentru vânzarea unui activ al Romsilva. Suprafaţa din documentaţia tehnică nu poate depăşi suprafaţa unităţii amenajistice pe care este amplasat activul."]
+            ]
+          },
+          {
+            "no": "Teren neproductiv",
+            "label": "Anexa 1 – Teren neproductiv",
+            "items": [
+              ["","Terenul din FFN, în suprafaţă de cel puţin 0,1 hectare, care nu prezintă condiţii staţionale care să permită instalarea şi dezvoltarea unei vegetaţii forestiere"]
+            ]
+          },
+          {
+            "no": "Terenuri degradate din afara fondului forestier naţional",
+            "label": "Anexa 1 – Terenuri degradate din afara fondului forestier naţional",
+            "items": [
+              ["","Terenurile care prin eroziune, poluare sau acţiunea distructivă a unor factori antropici şi-au pierdut definitiv capacitatea de producţie agricolă, dar pot fi ameliorate prin împădurire, şi anume:"],
+              ["","a) terenurile cu eroziune de suprafaţă foarte puternică şi excesivă;"],
+              ["","b) terenurile cu eroziune de adâncime - ogaşe, ravene, torenţi;"],
+              ["","c) terenurile afectate de alunecări active, prăbuşiri, surpări şi scurgeri noroioase;"],
+              ["","d) terenurile nisipoase expuse erodării de către vânt sau apă;"],
+              ["","e) terenurile cu aglomerări de pietriş, bolovăniş, grohotiş, stâncării şi depozite de aluviuni torenţiale;"],
+              ["","f) terenurile cu exces permanent de umiditate;"],
+              ["","g) terenurile sărăturate sau puternic acide;"],
+              ["","h) terenurile poluate cu substanţe chimice, petroliere sau noxe;"],
+              ["","i) terenurile ocupate cu halde miniere, deşeuri industriale sau menajere, gropi de împrumut;"],
+              ["","j) terenurile neproductive, dacă acestea nu se constituie ca habitate naturale;"],
+              ["","k) terenurile cu nisipuri mişcătoare, care necesită lucrări de împădurire pentru fixarea acestora;"],
+              ["","l) terenurile din oricare dintre categoriile menţionate la lit. a)-k), care au fost ameliorate prin plantaţii silvice şi de pe care vegetaţia a fost înlăturată"]
+            ]
+          },
+          {
+            "no": "Tip funcţional",
+            "label": "Anexa 1 – Tip funcţional",
+            "items": [["", "Totalitatea categoriilor funcţionale care necesită acelaşi mod de gospodărire"]]
+          },
+          {
+            "no": "Trasabilitatea materialelor lemnoase",
+            "label": "Anexa 1 – Trasabilitatea materialelor lemnoase",
+            "items": [
+              ["","Urmărirea sistematică a manipulării spaţiale şi tehnice a materialelor lemnoase de la locul de recoltare până la transformarea în produse semifabricate prin sistemul informaţional integrat pentru păduri"]
+            ]
+          },
+          {
+            "no": "Tratament silvicultural",
+            "label": "Anexa 1 – Tratament silvicultural",
+            "items": [
+              ["","Modul special în care se face recoltarea materialului lemnos exploatabil şi se asigură regenerarea unei păduri în cadrul aceluiaşi regim, pentru atingerea unui anumit scop"]
+            ]
+          },
+          {
+            "no": "Ţel de gospodărire",
+            "label": "Anexa 1 – Ţel de gospodărire",
+            "items": [
+              ["","Caracteristică a modelului structural al pădurii supuse amenajării, model spre realizarea căruia trebuie să fie orientate toate reglementările şi măsurile preconizate prin amenajamentul silvic; ţelurile de gospodărire, specifice pentru realizarea diverselor aspecte structurale ale modelului, se stabilesc la nivel de arboret şi de unitate de gospodărire."]
+            ]
+          },
+          {
+            "no": "Unitate de gospodărire",
+            "label": "Anexa 1 – Unitate de gospodărire",
+            "items": [
+              ["","Totalitatea arboretelor dintr-o unitate de producţie sau dintr-un ocol silvic destinate realizării unor obiective similare şi care formează obiectul unei reglementări distincte a procesului de producţie. Pentru unităţile de gospodărire constituite la nivelul unităţilor de producţie se foloseşte şi termenul de \"subunitate de producţie\", iar pentru cele constituite la nivel de ocol silvic, termenul de \"serie de gospodărire\"."]
+            ]
+          },
+          {
+            "no": "Unitate de producţie",
+            "label": "Anexa 1 – Unitate de producţie",
+            "items": [
+              ["","Unitate teritorială de bază în cadrul căreia pădurile formează obiect independent de organizare şi control şi pentru care se elaborează un amenajament silvic distinct"]
+            ]
+          },
+          {
+            "no": "Vegetaţie forestieră",
+            "label": "Anexa 1 – Vegetaţie forestieră",
+            "items": [
+              ["","Terenuri cu vegetaţie forestieră având suprafaţa mai mare de 0,5 hectare, lăţimea mai mare de 20 metri şi indicele de acoperire (consistenţa) fie de 5-10% pentru arborii capabili să atingă înălţimea minimă de 5 metri la maturitate în condiţii normale de vegetaţie, fie peste 10% pentru arborii care nu pot atinge 5 metri înălţime la maturitate (arbori pitici) şi arbuşti"]
+            ]
+          },
+          {
+            "no": "Volum de lemn pe picior",
+            "label": "Anexa 1 – Volum de lemn pe picior",
+            "items": [
+              ["","Volumul tuturor arborilor situaţi pe o suprafaţă de teren acoperită de aceştia, în care se includ trunchiul, coaja şi crăcile. Pentru speciile de răşinoase, crăcile nu se includ în volumul arborilor."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

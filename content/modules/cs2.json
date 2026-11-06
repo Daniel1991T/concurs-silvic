@@ -1,0 +1,1154 @@
+{
+  "id": "cs2",
+  "title": "Codul silvic II – Regimul silvic și administrarea",
+  "act": "Legea 331/2024, Titlul III, cap. I–II (art. 22–35)",
+  "version": "Codul silvic consolidat la 29 octombrie 2026",
+  "intro": "Aici e partea cu care lucrezi zilnic la ocol: ce obligații și drepturi au proprietarii (pragul de 10 ha și cel de 30 ha), ce contracte se încheie cu ocolul, ce înseamnă teritorialitatea și ocolul nominalizat, ce faci cu pădurea fără proprietar cunoscut și cine administrează pădurile statului, ale UAT și ale privaților.",
+  "lesson": [
+    {
+      "title": "1. Regimul silvic",
+      "paragraphs": [
+        {
+          "text": "Tot FFN este supus **regimului silvic**, adică ansamblului de norme tehnice și juridice pentru gestionarea durabilă.",
+          "refs": ["Cod art. 22 alin. (1)"]
+        },
+        {
+          "text": "În arboretele din obiective militare, din fâșia de frontieră, din albiile majore ale cursurilor de apă și de lângă căile de comunicație, măsurile de gestionare se corelează cu scopurile celor care dețin acele obiective.",
+          "refs": ["Cod art. 22 alin. (2)"]
+        },
+        {
+          "text": "Unde **proprietarul nu poate fi identificat**, dar există servicii silvice, se extrag doar **produsele accidentale și extraordinare**. Banii, după scăderea cheltuielilor, merg în **fondul de conservare și regenerare**, evidențiat separat.",
+          "refs": ["Cod art. 22 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "Tot FFN e supus regimului silvic",
+        "Obiective militare, frontieră, ape, drumuri: gestionare corelată cu deținătorul",
+        "Proprietar neidentificat: doar accidentale și extraordinare; banii în fondul de conservare și regenerare"
+      ],
+      "quiz": [
+        {
+          "q": "Banii din valorificarea accidentalelor dintr-o pădure fără proprietar merg în:",
+          "options": [
+            "Bugetul ocolului",
+            "Fondul de conservare și regenerare",
+            "Bugetul local",
+            "Fondul de mediu"
+          ],
+          "answer": 1,
+          "explain": "Fondul de conservare și regenerare, după scăderea cheltuielilor.",
+          "ref": "Cod art. 22 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "2. Obligațiile proprietarilor",
+      "paragraphs": [
+        {
+          "text": "Regimul silvic e obligatoriu pentru **toți proprietarii și deținătorii** din FFN.",
+          "refs": ["Cod art. 23 alin. (1)"]
+        },
+        {
+          "text": "Proprietarii cu **peste 10 ha**: amenajament și respectarea lui, administrare sau servicii silvice, integritatea FFN, regenerare și monitorizarea ei anuală, îngrijiri, combaterea bolilor și dăunătorilor, prevenirea incendiilor, exploatare **doar după evaluare și autorizare**, întreținerea drumurilor forestiere proprii, limite marcate cu **semne de hotar**.",
+          "refs": ["Cod art. 23 alin. (2)"]
+        },
+        {
+          "text": "Dacă proprietarul are **contract de administrare**, aceste obligații trec la ocol, **cu excepția semnelor de hotar**, care rămân ale proprietarului.",
+          "refs": ["Cod art. 23 alin. (3)"]
+        },
+        {
+          "text": "Proprietarii cu **maximum 10 ha**: semne de hotar, **pază și servicii minimale**, regenerare după soluția tehnică a ocolului, respectarea regulilor de evaluare și circulație a lemnului. Ultimele două pot fi transferate prin contract ocolului.",
+          "refs": ["Cod art. 23 alin. (4)–(5)"]
+        },
+        {
+          "text": "**Coproprietarii răspund solidar.** Proprietarii vegetației din afara FFN respectă evaluarea și circulația lemnului și iau măsuri contra incendiilor, bolilor și dăunătorilor.",
+          "refs": ["Cod art. 23 alin. (6)–(7)"]
+        }
+      ],
+      "keep": [
+        "Peste 10 ha: amenajament, administrare/servicii, regenerare, îngrijiri…",
+        "Contract de administrare: obligațiile trec la ocol, semnele de hotar nu",
+        "Max. 10 ha: hotar, pază și servicii minimale, regenerare după soluția ocolului",
+        "Coproprietarii răspund solidar"
+      ],
+      "quiz": [
+        {
+          "q": "Proprietarul de 8 ha trebuie să regenereze pădurea:",
+          "options": [
+            "După propria soluție",
+            "Pe baza soluției tehnice a ocolului",
+            "Nu are obligația",
+            "Doar cu aviz de la Gardă"
+          ],
+          "answer": 1,
+          "explain": "Pe baza soluției tehnice a ocolului cu care are contract.",
+          "ref": "Cod art. 23 alin. (4)"
+        },
+        {
+          "q": "Proprietarul unui pâlc de salcâm din afara FFN trebuie:",
+          "options": [
+            "Să facă amenajament",
+            "Să respecte evaluarea și circulația lemnului",
+            "Să încheie contract de administrare",
+            "Nimic"
+          ],
+          "answer": 1,
+          "explain": "Și să prevină incendiile, bolile și dăunătorii.",
+          "ref": "Cod art. 23 alin. (7)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Pragul de 10 ha",
+        "items": [
+          {
+            "title": "Peste 10 ha",
+            "text": "amenajament, administrare sau servicii tehnice, regenerare, îngrijiri, drumuri, hotar",
+            "ref": "Cod art. 23 alin. (2)"
+          },
+          {
+            "title": "Max. 10 ha",
+            "text": "hotar, pază + servicii minimale, regenerare după soluția ocolului, evaluare și circulație",
+            "ref": "Cod art. 23 alin. (4)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "3. Serviciile ecosistemice minimale și drepturile proprietarilor",
+      "paragraphs": [
+        {
+          "text": "Proprietarii și administratorii trebuie să asigure **serviciile ecosistemice minimale**: regenerarea pădurii, evitarea degradării, regenerare naturală când se poate, conservarea biodiversității și producție continuă de lemn unde se reglementează producția. Peste 10 ha, nivelul minim e cel al amenajamentului pentru **grupa a II-a funcțională**.",
+          "refs": ["Cod art. 24"]
+        },
+        {
+          "text": "Proprietarii cu **până la 10 ha** pot recolta **maximum 5 m³/an/ha**, după înscrierea în sistemul informațional; pot reporta ce n-au recoltat; pot recolta integral accidentalele, cu precomptare din anii următori; au **pază și servicii minimale gratuite**; pot opta pentru amenajament.",
+          "refs": ["Cod art. 25 alin. (1)"]
+        },
+        {
+          "text": "Proprietarii cu **peste 10 ha** recoltează după amenajament, pot alege sortimentul-țel, recoltează integral accidentalele cu precomptare din posibilitate, au pază și servicii minimale gratuite **până la 30 ha inclusiv** și pot primi compensații și stimulente.",
+          "refs": ["Cod art. 25 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Servicii minimale peste 10 ha: nivelul grupei a II-a funcționale",
+        "Până la 10 ha: max. 5 m³/an/ha, cu report",
+        "Accidentale: integral, cu precomptare",
+        "Pază și servicii minimale gratuite: până la 10 ha; peste 10 ha, doar până la 30 ha inclusiv"
+      ],
+      "quiz": [
+        {
+          "q": "Accidentalele la proprietarul de 6 ha se recoltează:",
+          "options": [
+            "Max. 5 m³/an/ha",
+            "Integral, cu precomptare din anii următori",
+            "Doar cu amenajament",
+            "Nu se recoltează"
+          ],
+          "answer": 1,
+          "explain": "Integral, cu precomptare.",
+          "ref": "Cod art. 25 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "4. Contractele cu ocolul",
+      "paragraphs": [
+        {
+          "text": "Proprietarii, alții decât statul, sunt **obligați** să încheie contracte cu ocoale silvice, respectând teritorialitatea. Sunt trei tipuri: **pază și servicii silvice minimale**, **prestări servicii silvice tehnice**, **administrare**.",
+          "refs": ["Cod art. 26 alin. (1)"]
+        },
+        {
+          "text": "Contractul de pază și servicii minimale e **obligatoriu pentru toți** și e un **act de conservare** (Codul civil, art. 640). Pentru drepturile proprietarilor de peste 10 ha e obligatorie administrarea sau serviciile tehnice. Prestatorul trebuie să înscrie proprietatea în sistemul informațional.",
+          "refs": ["Cod art. 26 alin. (2)–(4)"]
+        },
+        {
+          "text": "Contractul de pază și servicii minimale are ca obiective **paza și integritatea**, **bolile și dăunătorii**, **incendiile**. Până la **30 ha** îl poate încheia oricare coproprietar, chiar fără acordul celorlalți, sau persoana din Registrul agricol până la succesiune. Se încheie **după controlul de fond**, în prezența titularului. E **titlu executoriu**.",
+          "refs": ["Cod art. 27 alin. (1)–(3)"]
+        },
+        {
+          "text": "Dacă proprietarul e executat silit și nu poate plăti paza, ocolul cere Gărzii **suspendarea serviciului silvic**. Pentru reluare, proprietarul plătește în avans serviciile minimale pe **12 luni**.",
+          "refs": ["Cod art. 27 alin. (5)","Cod art. 27 alin. (7)"]
+        },
+        {
+          "text": "Contractul de **servicii tehnice** adaugă regimul silvic, evidența silvomediului și compensațiilor, documentațiile, trasabilitatea lemnului. Prin contractul de **administrare** ocolul e împuternicit să ia decizii pentru proprietar.",
+          "refs": ["Cod art. 28","Cod art. 29"]
+        }
+      ],
+      "keep": [
+        "3 contracte: pază + servicii minimale, servicii tehnice, administrare",
+        "Pază + minimale: obligatoriu pentru toți (în afară de stat), act de conservare, titlu executoriu",
+        "Până la 30 ha îl poate semna orice coproprietar; după controlul de fond",
+        "Reluare după suspendare: plată în avans pe 12 luni"
+      ],
+      "quiz": [
+        {
+          "q": "Contractul de pază și servicii minimale e, în sensul Codului civil, un act de:",
+          "options": ["Dispoziție", "Conservare", "Administrare", "Donație"],
+          "answer": 1,
+          "explain": "Act de conservare (art. 640 Cod civil).",
+          "ref": "Cod art. 26 alin. (2)"
+        },
+        {
+          "q": "Prin ce contract ocolul ia decizii în numele proprietarului?",
+          "options": ["Pază", "Servicii tehnice", "Administrare", "Act de constatare"],
+          "answer": 2,
+          "explain": "Contractul de administrare.",
+          "ref": "Cod art. 29"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Cele trei contracte",
+        "levels": [
+          {
+            "who": "Pază și servicii silvice minimale",
+            "does": ["obligatoriu pentru toți (în afară de stat)","pază, dăunători, incendii; titlu executoriu"],
+            "ref": "Cod art. 27"
+          },
+          {
+            "who": "Prestări servicii silvice tehnice",
+            "does": ["+ regim silvic, silvomediu, documentații, trasabilitate"],
+            "ref": "Cod art. 28"
+          },
+          {
+            "who": "Administrare",
+            "does": ["ocolul e împuternicit să decidă","preia obligațiile proprietarului (în afară de hotar)"],
+            "ref": "Cod art. 29"
+          }
+        ]
+      }
+    },
+    {
+      "title": "5. Teritorialitatea și ocolul nominalizat",
+      "paragraphs": [
+        {
+          "text": "Un ocol funcționează doar pentru FFN din **județul unde are sediul** și din **județele limitrofe**. Excepție: ocolul de regim al unui **proprietar unic** cu păduri și în alte județe.",
+          "refs": ["Cod art. 30 alin. (2)–(3)"]
+        },
+        {
+          "text": "**Ocoalele nominalizate** sunt ocoalele Romsilva și ocoalele de regim din vecinătatea terenului. Ele **sunt obligate** să încheie contract la cererea scrisă a proprietarului, dacă acesta și-a materializat limitele în teren (răspunderea pentru limite e a proprietarului).",
+          "refs": ["Cod art. 30 alin. (4)"]
+        },
+        {
+          "text": "Pentru FFN privat de **max. 30 ha**, neinclus în amenajament, ocolul nominalizat trebuie să asigure serviciile, la cerere.",
+          "refs": ["Cod art. 30 alin. (5)"]
+        },
+        {
+          "text": "Încălcarea teritorialității se sancționează cu **revocarea avizului șefului de ocol de către CNS**.",
+          "refs": ["Cod art. 31 alin. (11)"]
+        }
+      ],
+      "keep": [
+        "Teritorialitate: județul sediului + județele limitrofe",
+        "Excepție: ocolul proprietarului unic",
+        "Ocol nominalizat: obligat să contracteze, dacă limitele sunt materializate",
+        "Încălcare: CNS revocă avizul șefului de ocol"
+      ],
+      "quiz": [
+        {
+          "q": "Ocolul de regim al unui proprietar unic cu păduri în 5 județe:",
+          "options": [
+            "Poate administra doar în județul sediului",
+            "Poate administra toate pădurile proprietarului",
+            "Trebuie să facă 5 ocoale",
+            "Are nevoie de aviz de la Gardă"
+          ],
+          "answer": 1,
+          "explain": "Excepție de la teritorialitate.",
+          "ref": "Cod art. 30 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "6. Pădurea cu proprietar neidentificat",
+      "paragraphs": [
+        {
+          "text": "Pentru FFN de **max. 30 ha** fără administrare sau servicii minimale (proprietar neidentificat, succesiune nedezbătută, limite nematerializate), **Garda notifică în scris UAT-ul** și, în același timp, **ocolul nominalizat**.",
+          "refs": ["Cod art. 31 alin. (1)–(2)"]
+        },
+        {
+          "text": "Ocolul face **control de fond**, evaluează eventualele pagube, apoi încheie **actul de constatare** cu Garda. Preluarea se face în **max. 30 de zile** de la notificare; pe vreme nefavorabilă, termenul se prelungește cu până la 30 de zile, cu aprobarea Gărzii.",
+          "refs": ["Cod art. 31 alin. (3)–(4)"]
+        },
+        {
+          "text": "Până la 30 ha, costurile se suportă **de la bugetul de stat**, prin Autoritate (metodologia din anexa 2).",
+          "refs": ["Cod art. 31 alin. (5)","Cod art. 31 alin. (7)"]
+        },
+        {
+          "text": "**Peste 30 ha**: tot act de constatare, dar plătește **proprietarul**, pe baza devizului ocolului. Devizul necontestat în **30 de zile** devine **titlu executoriu**; dacă nu se plătește, urmează executarea silită.",
+          "refs": ["Cod art. 31 alin. (6)","Cod art. 31 alin. (8)–(10)"]
+        },
+        {
+          "text": "Aceeași procedură se aplică formelor asociative (obști, composesorate) fără reprezentant legal, **indiferent de suprafață**.",
+          "refs": ["Cod art. 31 alin. (12)"]
+        }
+      ],
+      "keep": [
+        "Garda notifică UAT + ocolul nominalizat",
+        "Control de fond + act de constatare; preluare în max. 30 zile (+30)",
+        "≤ 30 ha: plătește statul; > 30 ha: plătește proprietarul (deviz)",
+        "Deviz necontestat în 30 zile = titlu executoriu",
+        "Obștile fără reprezentant: indiferent de suprafață"
+      ],
+      "quiz": [
+        {
+          "q": "Cine încheie actul de constatare?",
+          "options": [
+            "Ocolul și UAT",
+            "Ocolul nominalizat și Garda",
+            "Garda și poliția",
+            "Proprietarul și ocolul"
+          ],
+          "answer": 1,
+          "explain": "Reprezentanții ocolului nominalizat și ai Gărzii.",
+          "ref": "Cod art. 31 alin. (3)"
+        },
+        {
+          "q": "Ce face ocolul înainte de actul de constatare?",
+          "options": ["Nimic", "Control de fond și evaluarea pagubelor", "Licitație", "Amenajament"],
+          "answer": 1,
+          "explain": "Control de fond și evaluarea eventualelor pagube.",
+          "ref": "Cod art. 31 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Pădurea fără proprietar cunoscut",
+        "steps": [
+          {
+            "title": "Garda notifică",
+            "text": "UAT-ul și ocolul nominalizat",
+            "ref": "Cod art. 31 alin. (1)–(2)"
+          },
+          {
+            "title": "Control de fond",
+            "text": "ocolul evaluează eventualele pagube",
+            "ref": "Cod art. 31 alin. (2)"
+          },
+          {
+            "title": "Act de constatare",
+            "text": "ocol nominalizat + Gardă; preluare în max. 30 de zile",
+            "ref": "Cod art. 31 alin. (3)–(4)"
+          },
+          {
+            "title": "Cine plătește",
+            "text": "≤ 30 ha: statul; > 30 ha: proprietarul, pe deviz",
+            "ref": "Cod art. 31 alin. (5)–(8)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "7. Cine administrează, pe forme de proprietate",
+      "paragraphs": [
+        {
+          "text": "FFN al statului (public și privat) e administrat de **Romsilva**, **regie autonomă de interes național**, sub autoritatea statului prin Autoritate; organizarea ei se aprobă prin **HG**.",
+          "refs": ["Cod art. 32 alin. (1)–(2)"]
+        },
+        {
+          "text": "Romsilva poate face și alte activități; cele în condiții de eficiență economică cer un raport venituri/cheltuieli de cel puțin **1**. Poate folosi FFN pentru **crescătorii de vânat**, complexuri de vânătoare și arii protejate. Între venituri: **20% din chiriile** pentru ocupările temporare din FFN al statului. Parcul auto se urmărește cu **GPS și sonde litrometrice**.",
+          "refs": ["Cod art. 32 alin. (3^2)", "Cod art. 32 alin. (4)–(5)", "Cod art. 32 alin. (9)"]
+        },
+        {
+          "text": "FFN al statului mai e administrat de **RAAPPS**, **INCDS** și instituțiile de învățământ silvic, doar pe terenurile lor. Terenurile izolate ale statului pot fi păzite de ocoale de regim, **prin contract cu Romsilva**.",
+          "refs": ["Cod art. 32 alin. (6)–(7)"]
+        },
+        {
+          "text": "Pădurile publice ale **UAT**: prin ocoale de regim proprii, regii autonome de interes local, sau prin contract cu ocoale de stat sau alte regii locale.",
+          "refs": ["Cod art. 33 alin. (1)"]
+        },
+        {
+          "text": "Pădurile **private**: prin ocoale de regim (asociații sau societăți) sau prin contract cu alte ocoale. **INCDS poate asigura doar pază și servicii minimale** pentru privați.",
+          "refs": ["Cod art. 34 alin. (1)–(2)"]
+        },
+        {
+          "text": "Pentru vegetația din afara FFN, **evaluarea lemnului și documentele de circulație** se asigură prin contract cu ocoale silvice.",
+          "refs": ["Cod art. 35 alin. (1)"]
+        }
+      ],
+      "keep": [
+        "Romsilva: regie autonomă de interes național, organizată prin HG",
+        "Eficiență economică: venituri/cheltuieli ≥ 1",
+        "Romsilva primește 20% din chiriile ocupărilor temporare",
+        "Terenuri izolate ale statului: ocoale de regim prin contract cu Romsilva",
+        "INCDS la privați: doar pază și servicii minimale",
+        "Vegetația din afara FFN: evaluare și circulație prin ocol"
+      ],
+      "quiz": [
+        {
+          "q": "Pădurile publice ale unui oraș pot fi administrate de:",
+          "options": [
+            "Doar Romsilva",
+            "Un ocol de regim al orașului (regie locală) sau prin contract cu un ocol de stat",
+            "Doar Garda",
+            "Primărie direct"
+          ],
+          "answer": 1,
+          "explain": "Ocol de regim propriu sau contract.",
+          "ref": "Cod art. 33 alin. (1)"
+        },
+        {
+          "q": "Romsilva poate folosi FFN al statului pentru:",
+          "options": [
+            "Construcții de locuințe",
+            "Crescătorii de vânat și complexuri de vânătoare",
+            "Agricultură",
+            "Orice"
+          ],
+          "answer": 1,
+          "explain": "Și pentru obiective necesare ariilor protejate.",
+          "ref": "Cod art. 32 alin. (4)"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Pragurile de suprafață",
+      "rows": [
+        {
+          "what": "Prag pentru obligațiile complete (amenajament etc.)",
+          "value": "peste 10 ha",
+          "ref": "Cod art. 23 alin. (2)"
+        },
+        {
+          "what": "Recoltare fără amenajament",
+          "value": "max. 5 m³/an/ha (până la 10 ha)",
+          "ref": "Cod art. 25 alin. (1)"
+        },
+        {
+          "what": "Pază și servicii minimale gratuite",
+          "value": "până la 10 ha; peste 10 ha doar până la 30 ha incl.",
+          "ref": "Cod art. 25"
+        },
+        {
+          "what": "Contract semnat de oricare coproprietar",
+          "value": "până la 30 ha",
+          "ref": "Cod art. 27 alin. (2)"
+        },
+        {
+          "what": "Proprietar neidentificat, cost suportat de stat",
+          "value": "max. 30 ha",
+          "ref": "Cod art. 31 alin. (5)"
+        },
+        {
+          "what": "Proprietar neidentificat, plătește proprietarul",
+          "value": "peste 30 ha",
+          "ref": "Cod art. 31 alin. (8)"
+        }
+      ]
+    },
+    {
+      "title": "Termene și cifre",
+      "rows": [
+        {
+          "what": "Preluarea în pază după notificarea Gărzii",
+          "value": "max. 30 zile (+ până la 30)",
+          "ref": "Cod art. 31 alin. (4)"
+        },
+        {
+          "what": "Contestarea devizului",
+          "value": "30 zile calendaristice",
+          "ref": "Cod art. 31 alin. (9)"
+        },
+        {
+          "what": "Plată în avans la reluarea serviciilor",
+          "value": "12 luni",
+          "ref": "Cod art. 27 alin. (7)"
+        },
+        {
+          "what": "Eficiența economică Romsilva",
+          "value": "venituri/cheltuieli ≥ 1",
+          "ref": "Cod art. 32 alin. (3^2)"
+        },
+        {
+          "what": "Cota Romsilva din chiriile ocupărilor temporare",
+          "value": "20%",
+          "ref": "Cod art. 32 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "Cine ce face",
+      "rows": [
+        {
+          "what": "Notifică UAT și ocolul pentru pădurea fără proprietar",
+          "value": "Garda Forestieră",
+          "ref": "Cod art. 31 alin. (1)"
+        },
+        {
+          "what": "Încheie actul de constatare",
+          "value": "ocolul nominalizat + Garda",
+          "ref": "Cod art. 31 alin. (3)"
+        },
+        {
+          "what": "Suspendă serviciul silvic",
+          "value": "Garda, la cererea ocolului",
+          "ref": "Cod art. 27 alin. (5)"
+        },
+        {
+          "what": "Revocă avizul șefului de ocol (teritorialitate)",
+          "value": "CNS",
+          "ref": "Cod art. 31 alin. (11)"
+        },
+        {
+          "what": "Administrează FFN al statului",
+          "value": "Romsilva (plus RAAPPS, INCDS, învățământ)",
+          "ref": "Cod art. 32"
+        },
+        {
+          "what": "Rămân în sarcina proprietarului la administrare",
+          "value": "semnele de hotar",
+          "ref": "Cod art. 23 alin. (3)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "„10 și 30”: 10 ha schimbă obligațiile și drepturile, 30 ha schimbă cine plătește paza.",
+    "Trei contracte, în ordine crescătoare: pază (minim), servicii tehnice (mediu), administrare (ocolul decide).",
+    "Teritorialitate = „județul meu și vecinii lui”.",
+    "Termenul de 30 apare de trei ori la pădurea fără stăpân: 30 ha, 30 de zile pentru preluare, 30 de zile pentru contestarea devizului."
+  ],
+  "cards": [
+    {
+      "q": "Ce se extrage din pădurea cu proprietar neidentificat?",
+      "a": "Doar produsele accidentale și extraordinare; banii merg în fondul de conservare și regenerare.",
+      "ref": "Cod art. 22 alin. (3)"
+    },
+    {
+      "q": "Pentru cine e obligatoriu regimul silvic?",
+      "a": "Pentru toți proprietarii și deținătorii din FFN.",
+      "ref": "Cod art. 23 alin. (1)"
+    },
+    {
+      "q": "Peste ce suprafață proprietarul trebuie să aibă amenajament?",
+      "a": "Peste 10 ha.",
+      "ref": "Cod art. 23 alin. (2)"
+    },
+    {
+      "q": "Ce obligație nu trece la ocol prin contractul de administrare?",
+      "a": "Delimitarea cu semne de hotar.",
+      "ref": "Cod art. 23 alin. (3)"
+    },
+    {
+      "q": "Ce obligații are proprietarul de max. 10 ha?",
+      "a": "Semne de hotar, pază și servicii minimale, regenerare după soluția ocolului, respectarea evaluării și circulației lemnului.",
+      "ref": "Cod art. 23 alin. (4)"
+    },
+    {"q": "Cum răspund coproprietarii?", "a": "Solidar.", "ref": "Cod art. 23 alin. (6)"},
+    {
+      "q": "Ce nivel de reglementare minimă au proprietățile de peste 10 ha?",
+      "a": "Cel al grupei a II-a funcționale.",
+      "ref": "Cod art. 24 alin. (3)"
+    },
+    {
+      "q": "Cât poate recolta anual proprietarul de până la 10 ha?",
+      "a": "Max. 5 m³/an/ha, după înscrierea în sistemul informațional.",
+      "ref": "Cod art. 25 alin. (1)"
+    },
+    {
+      "q": "Până la ce suprafață are gratuit paza proprietarul de peste 10 ha?",
+      "a": "Până la 30 ha inclusiv.",
+      "ref": "Cod art. 25 alin. (2)"
+    },
+    {
+      "q": "Care sunt cele trei tipuri de contracte cu ocolul?",
+      "a": "Pază și servicii minimale; prestări servicii tehnice; administrare.",
+      "ref": "Cod art. 26 alin. (1)"
+    },
+    {
+      "q": "Ce natură juridică are contractul de pază și servicii minimale?",
+      "a": "E obligatoriu, act de conservare (Codul civil art. 640) și titlu executoriu.",
+      "ref": "Cod art. 26 alin. (2)"
+    },
+    {
+      "q": "Ce obiective are contractul de pază și servicii minimale?",
+      "a": "Paza și integritatea, bolile și dăunătorii, incendiile.",
+      "ref": "Cod art. 27 alin. (1)"
+    },
+    {
+      "q": "Când se încheie contractul de pază?",
+      "a": "După controlul de fond făcut de ocol, în prezența titularului.",
+      "ref": "Cod art. 27 alin. (2)"
+    },
+    {
+      "q": "Ce plătește proprietarul pentru reluarea serviciilor după suspendare?",
+      "a": "În avans, serviciile minimale pe 12 luni (plus sumele datorate statului).",
+      "ref": "Cod art. 27 alin. (7)"
+    },
+    {
+      "q": "Ce înseamnă principiul teritorialității?",
+      "a": "Ocolul lucrează doar în județul sediului și în județele limitrofe.",
+      "ref": "Cod art. 30 alin. (2)"
+    },
+    {
+      "q": "Ce condiție pune ocolul nominalizat pentru contract?",
+      "a": "Proprietarul să-și materializeze limitele în teren.",
+      "ref": "Cod art. 30 alin. (4)"
+    },
+    {
+      "q": "Cine notifică UAT-ul pentru pădurea fără proprietar?",
+      "a": "Garda Forestieră competentă.",
+      "ref": "Cod art. 31 alin. (1)"
+    },
+    {
+      "q": "În cât timp preia ocolul nominalizat pădurea fără proprietar?",
+      "a": "Max. 30 de zile de la notificare (+ până la 30 pe vreme rea).",
+      "ref": "Cod art. 31 alin. (4)"
+    },
+    {
+      "q": "Cine plătește paza pădurii fără proprietar de max. 30 ha?",
+      "a": "Bugetul de stat, prin Autoritate.",
+      "ref": "Cod art. 31 alin. (5)"
+    },
+    {
+      "q": "Când devine devizul ocolului titlu executoriu?",
+      "a": "Dacă nu e contestat în 30 de zile calendaristice.",
+      "ref": "Cod art. 31 alin. (9)"
+    },
+    {
+      "q": "Ce sancțiune are încălcarea teritorialității?",
+      "a": "Revocarea avizului șefului de ocol de către CNS.",
+      "ref": "Cod art. 31 alin. (11)"
+    },
+    {
+      "q": "Ce fel de regie e Romsilva?",
+      "a": "Regie autonomă de interes național, sub autoritatea statului prin Autoritate.",
+      "ref": "Cod art. 32 alin. (1)"
+    },
+    {
+      "q": "Ce cotă din chiriile ocupărilor temporare primește Romsilva?",
+      "a": "20%.",
+      "ref": "Cod art. 32 alin. (5)"
+    },
+    {
+      "q": "Cum se monitorizează parcul auto al Romsilva?",
+      "a": "Aplicație de management al flotei cu GPS și sonde litrometrice.",
+      "ref": "Cod art. 32 alin. (9)"
+    },
+    {
+      "q": "Ce poate asigura INCDS pentru pădurile private?",
+      "a": "Doar pază și servicii minimale.",
+      "ref": "Cod art. 34 alin. (2)"
+    },
+    {
+      "q": "Cum se face evaluarea lemnului din vegetația din afara FFN?",
+      "a": "Prin contract cu ocoale silvice.",
+      "ref": "Cod art. 35 alin. (1)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Proprietarul unei păduri de 25 ha trebuie, între altele:",
+      "options": [
+        "Doar să aibă semne de hotar",
+        "Să asigure amenajament și administrare/servicii silvice",
+        "Doar contract de pază",
+        "Nimic, sub 30 ha"
+      ],
+      "answer": 1,
+      "explain": "Peste 10 ha: obligațiile complete.",
+      "ref": "Cod art. 23 alin. (2)"
+    },
+    {
+      "q": "Cu contract de administrare, rămâne obligația proprietarului:",
+      "options": ["Regenerarea", "Semnele de hotar", "Combaterea dăunătorilor", "Amenajamentul"],
+      "answer": 1,
+      "explain": "Hotarul rămâne la proprietar.",
+      "ref": "Cod art. 23 alin. (3)"
+    },
+    {
+      "q": "Proprietarul unei păduri de 4 ha poate recolta anual cel mult:",
+      "options": ["5 m³ în total", "20 m³", "10 m³", "Cât vrea"],
+      "answer": 1,
+      "explain": "5 m³/an/ha × 4 ha = 20 m³.",
+      "ref": "Cod art. 25 alin. (1)"
+    },
+    {
+      "q": "Volumul nerecoltat de proprietarul de până la 10 ha:",
+      "options": [
+        "Se pierde",
+        "Poate fi reportat pentru anii următori",
+        "Revine statului",
+        "Se vinde de ocol"
+      ],
+      "answer": 1,
+      "explain": "Poate fi reportat.",
+      "ref": "Cod art. 25 alin. (1)"
+    },
+    {
+      "q": "Un proprietar de 45 ha are paza și serviciile minimale gratuite?",
+      "options": ["Da, integral", "Nu", "Da, pentru primele 30 ha", "Doar dacă e UAT"],
+      "answer": 1,
+      "explain": "Peste 10 ha gratuitatea e doar pentru suprafețe de max. 30 ha.",
+      "ref": "Cod art. 25 alin. (2)"
+    },
+    {
+      "q": "Contractul de pază și servicii minimale este obligatoriu pentru:",
+      "options": [
+        "Doar proprietarii peste 10 ha",
+        "Toți proprietarii, alții decât statul",
+        "Doar UAT",
+        "Doar obștile"
+      ],
+      "answer": 1,
+      "explain": "Pentru toți proprietarii, alții decât statul.",
+      "ref": "Cod art. 26 alin. (2)"
+    },
+    {
+      "q": "Care NU e un obiectiv al contractului de pază și servicii minimale?",
+      "options": ["Paza", "Combaterea dăunătorilor", "Prevenirea incendiilor", "Alegerea sortimentului-țel"],
+      "answer": 3,
+      "explain": "Sortimentul-țel ține de amenajament.",
+      "ref": "Cod art. 27 alin. (1)"
+    },
+    {
+      "q": "Pentru o pădure de 12 ha în coproprietate, contractul de pază poate fi semnat:",
+      "options": [
+        "Doar cu acordul tuturor",
+        "De oricare coproprietar, chiar fără acordul celorlalți",
+        "Doar de UAT",
+        "Doar după succesiune"
+      ],
+      "answer": 1,
+      "explain": "Până la 30 ha, oricare coproprietar.",
+      "ref": "Cod art. 27 alin. (2)"
+    },
+    {
+      "q": "Contractul de pază și servicii minimale constituie:",
+      "options": ["Simplu acord", "Titlu executoriu", "Act administrativ", "Autorizație"],
+      "answer": 1,
+      "explain": "Titlu executoriu, cu garanții pentru plată.",
+      "ref": "Cod art. 27 alin. (3)"
+    },
+    {
+      "q": "Un ocol cu sediul în Bacău poate presta servicii în:",
+      "options": ["Orice județ", "Bacău și județele limitrofe", "Doar Bacău", "Doar Moldova"],
+      "answer": 1,
+      "explain": "Principiul teritorialității.",
+      "ref": "Cod art. 30 alin. (2)"
+    },
+    {
+      "q": "Ocoalele nominalizate sunt:",
+      "options": [
+        "Doar ocoalele Romsilva",
+        "Ocoalele Romsilva și ocoalele de regim din vecinătatea terenului",
+        "Doar ocoalele de regim",
+        "Ocoalele alese de Gardă"
+      ],
+      "answer": 1,
+      "explain": "Ambele categorii.",
+      "ref": "Cod art. 30 alin. (4)"
+    },
+    {
+      "q": "Pentru o pădure de 20 ha cu succesiune nedezbătută, cine notifică primăria?",
+      "options": ["Ocolul", "Garda Forestieră", "Poliția", "Prefectul"],
+      "answer": 1,
+      "explain": "Garda notifică UAT-ul și ocolul nominalizat.",
+      "ref": "Cod art. 31 alin. (1)"
+    },
+    {
+      "q": "Ocolul nominalizat preia pădurea fără proprietar în cel mult:",
+      "options": ["10 zile", "15 zile", "30 de zile", "90 de zile"],
+      "answer": 2,
+      "explain": "30 de zile, cu posibilă prelungire de până la 30.",
+      "ref": "Cod art. 31 alin. (4)"
+    },
+    {
+      "q": "Pentru o pădure de 50 ha cu proprietar neidentificat, paza se plătește de:",
+      "options": ["Bugetul de stat", "Proprietar, pe baza devizului ocolului", "Garda", "UAT"],
+      "answer": 1,
+      "explain": "Peste 30 ha plătește proprietarul.",
+      "ref": "Cod art. 31 alin. (8)"
+    },
+    {
+      "q": "Încălcarea principiului teritorialității atrage:",
+      "options": [
+        "Amendă pentru proprietar",
+        "Revocarea avizului șefului de ocol de către CNS",
+        "Desființarea ocolului",
+        "Nimic"
+      ],
+      "answer": 1,
+      "explain": "CNS revocă avizul șefului de ocol.",
+      "ref": "Cod art. 31 alin. (11)"
+    },
+    {
+      "q": "Pentru o obște fără reprezentant legal, procedura pădurii fără proprietar se aplică:",
+      "options": ["Doar sub 30 ha", "Indiferent de suprafață", "Doar peste 30 ha", "Nu se aplică"],
+      "answer": 1,
+      "explain": "Indiferent de suprafață.",
+      "ref": "Cod art. 31 alin. (12)"
+    },
+    {
+      "q": "Romsilva funcționează ca:",
+      "options": [
+        "Societate comercială",
+        "Regie autonomă de interes național",
+        "Instituție publică",
+        "Asociație"
+      ],
+      "answer": 1,
+      "explain": "Regie autonomă de interes național.",
+      "ref": "Cod art. 32 alin. (1)"
+    },
+    {
+      "q": "O activitate a Romsilva e în condiții de eficiență economică dacă raportul venituri/cheltuieli e:",
+      "options": ["≥ 0,8", "≥ 1", "≥ 1,2", "≥ 2"],
+      "answer": 1,
+      "explain": "Cel puțin egal cu 1.",
+      "ref": "Cod art. 32 alin. (3^2)"
+    },
+    {
+      "q": "Paza terenurilor izolate ale statului poate fi asigurată de un ocol de regim:",
+      "options": [
+        "Nu, niciodată",
+        "Da, prin contract cu Romsilva",
+        "Da, prin decizia Gărzii",
+        "Da, fără contract"
+      ],
+      "answer": 1,
+      "explain": "Prin contract cu Romsilva.",
+      "ref": "Cod art. 32 alin. (7)"
+    },
+    {
+      "q": "INCDS poate asigura pentru o pădure privată:",
+      "options": [
+        "Administrare completă",
+        "Doar pază și servicii minimale",
+        "Servicii tehnice și administrare",
+        "Nimic"
+      ],
+      "answer": 1,
+      "explain": "Doar pază și servicii minimale.",
+      "ref": "Cod art. 34 alin. (2)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Moștenitorul care vrea lemne",
+      "situation": "Un om din sat vine la ocol: a moștenit de la tatăl lui 3 ha de pădure, succesiunea nu e încă dezbătută, dar el e trecut în Registrul agricol. Vrea să taie lemne de foc.",
+      "steps": [
+        {
+          "q": "Poate încheia contract de pază cu ocolul?",
+          "a": "Da: persoana din Registrul agricol poate încheia contract de pază și servicii minimale pentru max. 30 ha, până la finalizarea succesiunii.",
+          "ref": "Cod art. 27 alin. (2)"
+        },
+        {
+          "q": "Ce trebuie să facă ocolul înainte de semnare?",
+          "a": "Controlul de fond, în prezența lui.",
+          "ref": "Cod art. 27 alin. (2)"
+        },
+        {
+          "q": "Cât lemn poate recolta pe an?",
+          "a": "Max. 5 m³/an/ha, deci 15 m³ pe an, după înscrierea în sistemul informațional.",
+          "ref": "Cod art. 25 alin. (1)"
+        },
+        {
+          "q": "Plătește paza?",
+          "a": "Nu: proprietarii de până la 10 ha au paza și serviciile minimale gratuite.",
+          "ref": "Cod art. 25 alin. (1)"
+        },
+        {
+          "q": "Ce obligație îi rămâne lui?",
+          "a": "Să-și marcheze limitele cu semne de hotar și să le întrețină.",
+          "ref": "Cod art. 23 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "Pădurea uitată de 40 ha",
+      "situation": "La un control constați 40 ha de pădure privată fără contract cu niciun ocol; proprietarul a plecat din țară și nu răspunde.",
+      "steps": [
+        {
+          "q": "Care e procedura?",
+          "a": "Ocolul nominalizat face controlul de fond și evaluarea pagubelor, apoi încheie act de constatare cu Garda.",
+          "ref": "Cod art. 31 alin. (6)"
+        },
+        {
+          "q": "Cine plătește serviciile?",
+          "a": "Proprietarul, pe baza devizului ocolului (suprafață × cost mediu pe hectar după relief, anexa 2).",
+          "ref": "Cod art. 31 alin. (8)"
+        },
+        {
+          "q": "Ce se întâmplă dacă nu contestă devizul și nu plătește?",
+          "a": "Devizul necontestat în 30 de zile devine titlu executoriu, iar suma se recuperează prin executare silită.",
+          "ref": "Cod art. 31 alin. (9)–(10)"
+        }
+      ]
+    },
+    {
+      "title": "Ocolul de regim din alt județ",
+      "situation": "Un ocol de regim cu sediul în Brașov vrea să ia în pază o pădure privată din Bacău.",
+      "steps": [
+        {
+          "q": "Poate?",
+          "a": "Nu, dacă Bacăul nu e limitrof Brașovului: ocolul lucrează doar în județul sediului și în județele limitrofe. Excepția e doar pentru ocolul unui proprietar unic.",
+          "ref": "Cod art. 30 alin. (2)–(3)"
+        },
+        {
+          "q": "Ce riscă șeful ocolului dacă o face totuși?",
+          "a": "CNS îi poate revoca avizul.",
+          "ref": "Cod art. 31 alin. (11)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlul III, cap. I–II (art. 22–35)",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {
+            "title": "Titlul III – Reglementări privind regimul silvic · Capitolul I – Norme generale",
+            "from": "22"
+          },
+          {
+            "title": "Capitolul II – Administrarea FFN şi prestarea serviciilor silvice · Secţiunea 1 – Norme generale",
+            "from": "26"
+          },
+          {
+            "title": "Secţiunea a 2-a – Administrarea terenurilor din FFN proprietate a statului",
+            "from": "32"
+          },
+          {
+            "title": "Secţiunea a 3-a – Administrarea/Serviciile silvice pentru terenurile din FFN ale altor titulari",
+            "from": "33"
+          },
+          {
+            "title": "Secţiunea a 4-a – Servicii silvice pentru vegetaţia forestieră din afara FFN",
+            "from": "35"
+          }
+        ],
+        "articles": [
+          {
+            "no": "22",
+            "label": "Art. 22 – Aplicarea regimului silvic",
+            "items": [
+              ["(1)","FFN este supus regimului silvic."],
+              ["(2)","În arboretele din FFN, amplasate în interiorul obiectivelor militare, în zona fâşiei de frontieră, în albiile majore ale cursurilor de apă înscrise în sistemul integrat de cadastru şi carte funciară şi/sau ale celor cu debit permanent, precum şi în zonele limitrofe căilor de comunicaţie, măsurile de gestionare sunt în concordanţă cu scopurile urmărite de entităţile care deţin aceste obiective."],
+              ["(3)","În suprafeţele din FFN al căror proprietar nu poate fi identificat şi pentru care se asigură serviciile silvice, măsurile de gestionare constau în extragerea produselor accidentale şi a celor extraordinare, iar sumele rezultate din valorificarea acestora de către ocolul silvic, după deducerea cheltuielilor efectuate, se depun în fondul de conservare şi regenerare a pădurilor, evidenţiat separat prin actele de constatare prevăzute la art. 31 alin. (3) şi (6)."]
+            ]
+          },
+          {
+            "no": "23",
+            "label": "Art. 23 – Obligaţii ale proprietarilor cu privire la respectarea regimului silvic",
+            "items": [
+              ["(1)","Respectarea regimului silvic este obligatorie pentru toţi proprietarii şi deţinătorii terenurilor din FFN."],
+              ["(2)","Proprietarii terenurilor din FFN cu o suprafaţă de peste 10 hectare au, pe lângă celelalte obligaţii prevăzute în mod expres în prezenta lege, şi următoarele obligaţii:"],
+              ["a)","să asigure elaborarea şi să respecte prevederile amenajamentelor silvice;"],
+              ["b)","să asigure administrarea sau serviciile silvice, în condiţiile prezentei legi;"],
+              ["c)","să asigure integritatea FFN;"],
+              ["d)","să execute lucrările de regenerare a pădurii;"],
+              ["e)","să asigure monitorizarea anuală a regenerărilor;"],
+              ["f)","să execute lucrările de îngrijire şi conducere a arboretelor;"],
+              ["g)","să execute lucrările necesare pentru prevenirea şi combaterea bolilor şi dăunătorilor pădurilor;"],
+              ["h)","să aplice măsurile de prevenire şi stingere a incendiilor;"],
+              ["i)","să exploateze lemnul numai după evaluarea acestuia, autorizarea parchetelor şi eliberarea documentelor specifice de către personalul abilitat;"],
+              ["j)","să asigure întreţinerea şi repararea drumurilor forestiere pe care le au în proprietate;"],
+              ["k)","să aibă delimitat prin semne de hotar limitele proprietăţii, în conformitate cu actele de proprietate pentru imobilele neînscrise în sistemul integrat de cadastru şi carte funciară sau cu limitele imobilelor existente în sistemul integrat de cadastru şi carte funciară pentru imobilele înscrise, şi să le menţină în stare corespunzătoare."],
+              ["(3)","În cazul încheierii unui contract de administrare cu un ocol silvic, obligaţiile prevăzute la alin. (2) aparţin ocolului silvic, cu excepţia celor prevăzute la alin. (2) lit. k)."],
+              ["(4)","Proprietarii de terenuri din FFN cu o suprafaţă de maximum 10 hectare inclusiv au, pe lângă celelalte obligaţii prevăzute în mod expres în prezenta lege, şi următoarele obligaţii:"],
+              ["a)","să aibă delimitat prin semne de hotar limitele proprietăţii, în conformitate cu actele de proprietate sau, după caz, cu documentele cadastrale, şi să le menţină în stare corespunzătoare;"],
+              ["b)","să asigure paza şi serviciile minimale conform prevederilor art. 27;"],
+              ["c)","să realizeze lucrările de regenerare a pădurii pe baza soluţiei tehnice furnizate de ocolul silvic cu care au contract de pază şi servicii minimale;"],
+              ["d)","să respecte reglementările privind evaluarea lemnului destinat valorificării şi circulaţia materialelor lemnoase."],
+              ["(5)","Obligaţiile prevăzute la alin. (4) lit. c) şi d) pot fi transferate prin contract către ocolul silvic."],
+              ["(6)","Coproprietarii terenurilor din FFN răspund solidar pentru îndeplinirea obligaţiilor prevăzute la alin. (2) şi (4), precum şi pentru oricare alte obligaţii prevăzute în sarcina acestora în cadrul prezentei legi."],
+              ["(7)","Proprietarii vegetaţiei forestiere din afara FFN au următoarele obligaţii:"],
+              ["a)","să respecte reglementările privind evaluarea lemnului destinat valorificării şi pe cele privind circulaţia materialelor lemnoase;"],
+              ["b)","să ia măsuri pentru prevenirea şi stingerea incendiilor, precum şi pentru prevenirea şi combaterea bolilor şi dăunătorilor."]
+            ]
+          },
+          {
+            "no": "24",
+            "label": "Art. 24 – Servicii ecosistemice minimale",
+            "items": [
+              ["(1)","Proprietarii, respectiv administratorii de păduri au obligaţia asigurării condiţiilor pentru furnizarea de către păduri a serviciilor ecosistemice minimale."],
+              ["(2)","În sensul prezentei legi, prin furnizarea serviciilor ecosistemice minimale de către păduri se înţelege obligaţia asigurării regenerării pădurii, evitarea degradării terenurilor şi pădurii, promovarea regenerării naturale atunci când este posibil din punct de vedere tehnic, conservarea şi ameliorarea biodiversităţii potrivit modalităţilor prevăzute în art. 83 alin. (2) şi asigurarea cu continuitate a producţiei sustenabile de lemn pentru pădurile în care se reglementează procesul de producţie."],
+              ["(3)","Obligaţia asigurării condiţiilor pentru furnizarea de către păduri a serviciilor ecosistemice minimale prevăzute la alin. (2) se stabileşte diferenţiat, în raport cu mărimea proprietăţii, astfel:"],
+              ["a)","prin reglementările instituite la art. 23 alin. (4) în sarcina proprietarilor terenurilor cu suprafeţe de maximum 10 hectare inclusiv;"],
+              ["b)","prin stabilirea nivelului minim de reglementare prin amenajamente silvice corespunzător grupei a II-a funcţionale, în acord cu prevederile normelor tehnice pentru amenajarea pădurilor, pentru proprietarii terenurilor cu suprafeţe mai mari de 10 hectare."]
+            ]
+          },
+          {
+            "no": "25",
+            "label": "Art. 25 – Drepturi ale proprietarilor",
+            "items": [
+              ["(1)","Proprietarii terenurilor din FFN cu o suprafaţă de până la 10 hectare inclusiv au, pe lângă celelalte drepturi prevăzute în prezenta lege, şi următoarele drepturi:"],
+              ["a)","de a recolta un volum de lemn de maximum 5 metri cubi/an/hectar, în funcţie de caracteristicile structurale ale arboretului, în baza înscrierii în sistemul informaţional integrat pentru păduri. Volumul de 5 metri cubi/an/hectar poate fi depăşit în condiţiile stabilite de normele tehnice prevăzute la art. 66 alin. (1);"],
+              ["b)","de a reporta pentru anii următori cantităţile nerecoltate conform lit. a), în scopul executării corespunzătoare a lucrărilor silvotehnice conform caracteristicilor structurale ale arboretului;"],
+              ["c)","de a recolta integral produsele accidentale, cu precomptarea din volumul prevăzut anual pentru anii următori, conform înregistrărilor din sistemul informaţional integrat pentru păduri;"],
+              ["d)","de a beneficia gratuit de pază şi serviciile silvice minimale;"],
+              ["e)","de a opta pentru elaborarea unui amenajament silvic conform prevederilor art. 63 alin. (3), cu exercitarea dreptului de a alege sortimentul ţel pentru pădurile cu rol de producţie."],
+              ["(2)","Proprietarii terenurilor din FFN cu o suprafaţă de peste 10 hectare au, pe lângă drepturile prevăzute în prezenta lege, următoarele drepturi pentru recoltarea de produse lemnoase:"],
+              ["a)","de a alege sortimentul ţel în pădurile cu rol de producţie şi protecţie, conform prevederilor normelor tehnice de amenajare a pădurilor, în cazul în care se elaborează amenajamente silvice conform prevederilor art. 63 alin. (3), cu condiţia asigurării continuităţii la acest nivel, aplicând tratamente adecvate;"],
+              ["b)","de a recolta lemn conform prevederilor amenajamentelor silvice;"],
+              ["c)","de a recolta integral produsele accidentale, cu precomptarea din posibilitatea stabilită de amenajamentele silvice;"],
+              ["d)","de a beneficia gratuit de pază şi serviciile silvice minimale în cazul suprafeţelor de maximum 30 hectare inclusiv;"],
+              ["e)","de a beneficia de compensaţiile şi stimulentele financiare prevăzute la art. 84, 123 şi 124."],
+              ["(3)","Acordarea drepturilor de la alin. (1) lit. d) şi e) şi de la alin. (2) lit. d) şi e) se face cu respectarea prevederilor europene şi naţionale din domeniul ajutorului de stat."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26 – Definirea contractelor de servicii silvice",
+            "items": [
+              ["(1)","Proprietarii de FFN, alţii decât statul, sunt obligaţi să încheie contracte cu ocoale silvice, cu respectarea principiului teritorialităţii. Contractele se clasifică după cum urmează:"],
+              ["a)","contracte de pază şi servicii silvice minimale;"],
+              ["b)","contracte de prestări servicii silvice tehnice;"],
+              ["c)","contracte de administrare."],
+              ["(2)","Încheierea contractului de pază şi servicii silvice minimale prevăzut la alin. (1) lit. a) cu un ocol silvic este obligatorie pentru toţi proprietarii de terenuri din FFN, alţii decât statul, şi reprezintă un act de conservare, în sensul prevederilor art. 640 din Legea nr. 287/2009 privind Codul civil, republicată, cu modificările şi completările ulterioare."],
+              ["(3)","Administrarea sau, după caz, asigurarea serviciilor silvice tehnice prin contract, indiferent de forma de proprietate, este obligatorie pentru exercitarea drepturilor prevăzute la art. 25 alin. (2)."],
+              ["(4)","Asigurarea serviciilor silvice tehnice în baza unui contract include şi obligaţia ocolului silvic prestator de servicii de înscriere a proprietăţii în sistemul informaţional integrat pentru păduri, precum şi de ţinere a evidenţelor şi documentaţiilor specificate în sistemele de monitorizare."]
+            ]
+          },
+          {
+            "no": "27",
+            "label": "Art. 27 – Contractul de pază şi servicii silvice minimale",
+            "items": [
+              ["(1)","Contractul de pază şi servicii silvice minimale are următoarele obiective:"],
+              ["a)","asigurarea pazei şi integrităţii terenurilor din FFN ce face obiectul contractului;"],
+              ["b)","efectuarea lucrărilor necesare pentru depistarea, prevenirea şi combaterea bolilor şi dăunătorilor pădurilor;"],
+              ["c)","asigurarea măsurilor de prevenire şi stingere a incendiilor."],
+              ["(2)","Pentru terenurile forestiere în suprafaţă de maximum 30 hectare inclusiv, contractul de servicii silvice poate fi încheiat de proprietari, succesorul în drepturi sau oricare dintre coproprietari, cu sau fără acordul celorlalţi coproprietari. Persoanele înscrise în Registrul agricol naţional pot încheia contract de pază şi servicii silvice minimale cu ocolul silvic nominalizat, pentru terenurile forestiere în suprafaţă de maximum 30 hectare inclusiv, până la finalizarea procedurii succesorale, chiar dacă aceasta nu a fost începută. Contractul se încheie după efectuarea controlului de fond de către ocolul silvic nominalizat, în prezenţa titularului contractului, iar acesta beneficiază de drepturile prevăzute la art. 25 alin. (1) lit. a) -c)."],
+              ["(3)","Contractul de pază şi servicii silvice minimale constituie titlu executoriu şi conţine clauze referitoare la garanţii contractuale în favoarea prestatorului pentru plata remuneraţiei prevăzute în contract."],
+              ["(4)","Dacă nu este cunoscut proprietarul terenului din FFN, suprafeţele se preiau în pază de către ocolul nominalizat, în baza dispoziţiilor art. 31."],
+              ["(5)","Dacă proprietarul terenurilor din FFN este executat silit, fiind în imposibilitate de plată a contravalorii contractului de pază, ocolul silvic prestator de servicii silvice, după notificarea proprietarului, solicită Gărzii Forestiere competente teritorial emiterea actului administrativ de suspendare a serviciului cu specific silvic."],
+              ["(6)","În situaţia suspendării serviciului public cu specific silvic se aplică în mod corespunzător prevederile art. 4 alin. (1) - (6) din Legea nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991, cu modificările şi completările ulterioare."],
+              ["(7)","Pentru situaţiile prevăzute la alin. (5) şi (6), proprietarul poate solicita Gărzii Forestiere competente teritorial reluarea administrării/prestării serviciilor silvice cu condiţia plăţii prealabile, dacă este cazul, a sumelor prevăzute la art. 4 alin. (5) din Legea nr. 374/2006, cu modificările şi completările ulterioare, pe baza devizului emis de prestatorul de servicii silvice şi a plăţii în avans către prestatorul de servicii silvice a contravalorii serviciilor silvice minimale pe o perioadă de 12 luni."],
+              ["(8)","Pentru recuperarea sumelor achitate de la bugetul de stat în condiţiile prevăzute la alin. (5) şi (6), deconturile avizate care atestă sumele suportate de la bugetul statului în scopul asigurării pazei fondului forestier şi asigurării supravegherii stării de sănătate a pădurii, prevăzute la art. 4 alin. (5) din Legea nr. 374/2006, cu modificările şi completările ulterioare, constituie titluri executorii şi vor fi transmise organelor fiscale din subordinea Agenţiei Naţionale de Administrare Fiscală de către Garda Forestieră competentă teritorial, în vederea recuperării creanţelor potrivit Legii nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare. Sumele astfel recuperate se fac venit la bugetul de stat şi se încasează într-un cont de venituri distinct."]
+            ]
+          },
+          {
+            "no": "28",
+            "label": "Art. 28 – Contractul de prestări de servicii silvice tehnice",
+            "items": [
+              ["(1)","Contractul de prestări de servicii silvice tehnice pentru terenurile din FFN include, adiţional obiectivelor prevăzute la art. 27 alin. (1), şi următoarele scopuri:"],
+              ["a)","asigurarea obligaţiilor de respectare a regimului silvic;"],
+              ["b)","evidenţa serviciilor de silvomediu şi a compensaţiilor;"],
+              ["c)","elaborarea documentaţiei aferente lucrărilor silvotehnice şi a celei solicitate pentru acordarea de compensaţii;"],
+              ["d)","asigurarea trasabilităţii lemnului destinat comercializării;"],
+              ["e)","identificarea potenţialilor beneficiari direcţi ai serviciilor ecosistemice furnizate de păduri."],
+              ["(2)","Obiectul contractului îl reprezintă paza şi serviciile silvice minimale, respectarea regimului silvic prevăzut la alin. (1) lit. a) şi a oricăruia dintre serviciile silvice tehnice prevăzute la alin. (1) lit. b) -e), conform acordului părţilor şi în condiţiile prezentei legi."]
+            ]
+          },
+          {
+            "no": "29",
+            "label": "Art. 29 – Contractul de administrare",
+            "items": [
+              ["","Prin contractul de administrare, ocolul silvic este împuternicit de către proprietar să presteze serviciile silvice tehnice şi alte activităţi cu caracter tehnic, economic şi juridic menite să asigure gestionarea durabilă a terenurilor din FFN şi să ia decizii în conformitate cu clauzele contractuale şi cu respectarea regimului silvic."]
+            ]
+          },
+          {
+            "no": "30",
+            "label": "Art. 30 – Principiul teritorialităţii",
+            "items": [
+              ["(1)","Administrarea şi serviciile silvice se asigură cu respectarea principiului teritorialităţii."],
+              ["(2)","Principiul teritorialităţii implică faptul că ocolul silvic se constituie, funcţionează şi asigură administrarea şi/sau serviciile silvice numai pentru terenuri din FFN aflate în limitele teritoriale ale judeţului în care acesta are sediul social, precum şi în judeţele limitrofe acestuia."],
+              ["(3)","Prin excepţie de la prevederile alin. (2), ocolul silvic de regim înfiinţat de proprietarul unic care are în proprietate terenuri din FFN şi în alte judeţe decât judeţul în care ocolul silvic îşi are sediul social sau cele limitrofe poate administra ori presta servicii silvice şi pentru aceste suprafeţe."],
+              ["(4)","Ocoalele silvice nominalizate sunt ocoalele silvice de stat din structura Romsilva, precum şi ocoalele silvice de regim care administrează şi/sau asigură serviciile silvice în vecinătatea unui teren din FFN proprietate privată ori proprietate publică a unei unităţi administrativ-teritoriale şi care au obligaţia să asigure, pe bază de contract, administrarea/serviciile silvice, la solicitarea scrisă a proprietarului/coproprietarului sau a succesorului în drepturi, sub condiţia materializării fizice de către acesta a limitelor proprietăţii pe baza documentelor care atestă dreptul de proprietate. Responsabilitatea privind corectitudinea materializării limitelor de proprietate revine proprietarului/coproprietarului sau succesorului în drepturi, după caz."],
+              ["(5)","Pentru terenurile din FFN de maximum 30 hectare inclusiv, aparţinând persoanelor fizice şi juridice, neincluse în amenajamente silvice, ocolul silvic nominalizat are obligaţia de a asigura serviciile silvice, pe bază de contract, la solicitarea persoanei îndreptăţite."]
+            ]
+          },
+          {
+            "no": "31",
+            "label": "Art. 31 – Asigurarea pazei şi a serviciilor silvice minimale pentru terenurile cu proprietar neidentificat",
+            "items": [
+              ["(1)","În cazul terenurilor din FFN în suprafaţă de maximum 30 hectare inclusiv, pentru care nu există administrare sau pentru care nu sunt asigurate servicii silvice minimale, al căror proprietar nu se poate identifica ori a cărui succesiune nu a fost dezbătută sau nu există materializate în teren limitele proprietăţii, Garda Forestieră competentă teritorial notifică în scris unitatea administrativ-teritorială locală pe raza căreia se găseşte terenul cu privire la necesitatea de a se asigura paza şi serviciile silvice minimale."],
+              ["(2)","Notificarea prevăzută la alin. (1) se transmite concomitent şi ocolului silvic nominalizat să asigure paza şi serviciile silvice minimale pentru această suprafaţă şi care efectuează un control de fond/evaluează, în condiţiile prezentei legi, eventualele pagube aduse fondului forestier pentru terenul care nu beneficiază de servicii silvice minimale."],
+              ["(3)","Pentru terenurile prevăzute la alin. (1), asigurarea pazei şi a serviciilor silvice minimale de către ocolul silvic nominalizat se face prin act de constatare încheiat între reprezentantul ocolului silvic nominalizat şi reprezentantul Gărzii Forestiere competente teritorial, după evaluarea de către reprezentantul ocolului silvic nominalizat, în condiţiile prezentei legi, a eventualelor pagube aduse fondului forestier."],
+              ["(4)","În vederea asigurării pazei şi a serviciilor silvice minimale, preluarea terenurilor prevăzute la alin. (1) se realizează de ocolul silvic nominalizat, în maximum 30 de zile de la notificarea Gărzii Forestiere competente teritorial; în situaţia condiţiilor atmosferice nefavorabile, care nu permit identificarea eventualelor prejudicii, termenul se poate prelungi cu până la 30 de zile de la data constatării încetării condiţiilor nefavorabile, cu aprobarea Gărzii Forestiere competente teritorial."],
+              ["(5)","Costurile necesare asigurării pazei şi serviciilor silvice minimale pentru situaţiile prevăzute la alin. (1) se suportă de la bugetul de stat, prin bugetul Autorităţii."],
+              ["(6)","Pentru suprafeţele de fond forestier de peste 30 hectare, pentru care nu există administrare sau pentru care nu sunt asigurate serviciile silvice minimale, al căror proprietar nu se poate identifica ori a cărui succesiune nu a fost dezbătută, asigurarea serviciilor silvice de către ocolul silvic nominalizat se face prin act de constatare încheiat între reprezentantul ocolului silvic nominalizat şi reprezentantul Gărzii Forestiere competente teritorial, după realizarea controlului de fond/evaluarea de către ocolul silvic, în condiţiile prezentei legi, a eventualelor pagube aduse fondului forestier."],
+              ["(7)","Metodologia de calcul al cheltuielilor destinate asigurării pazei şi serviciilor silvice minimale pentru terenurile din FFN în suprafaţă de maximum 30 hectare inclusiv este prevăzută în anexa nr. 2."],
+              ["(8)","Costurile medii/hectar necesare asigurării pazei şi serviciilor silvice minimale pentru terenurile prevăzute la alin. (6) sunt cele calculate potrivit metodologiei prevăzute la alin. (7), iar contravaloarea serviciilor silvice se suportă de către proprietar, în baza devizului întocmit şi comunicat de ocolul silvic nominalizat; valoarea devizului se calculează ca produs între suprafaţă şi costurile medii/hectar pe suprafeţele aferente formelor de relief, în conformitate cu dispoziţiile anexei nr. 2."],
+              ["(9)","Valoarea devizului prevăzut la alin. (8), acceptat în mod expres sau tacit prin necontestare de proprietar, în termen de 30 de zile calendaristice de la data comunicării, constituie titlu executoriu, fiind temei pentru facturarea şi recuperarea contravalorii serviciilor silvice efectuate."],
+              ["(10)","În situaţia în care sumele prevăzute prin deviz nu sunt plătite de către proprietar/succesorul în drepturi în termenul prevăzut la alin. (9), acestea se recuperează prin executare silită."],
+              ["(11)","Nerespectarea principiului teritorialităţii prevăzut la art. 30 alin. (2) se sancţionează cu revocarea avizului emis pentru şeful ocolului silvic de către CNS."],
+              ["(12)","Prevederile alin. (1) - (3) se aplică în mod corespunzător şi în cazul formelor asociative prevăzute la art. 8, care nu au reprezentant legal, indiferent de suprafaţă."],
+              ["(13)","Metodologia de stabilire a ocolului silvic nominalizat şi procedura de asigurare a pazei şi a serviciilor silvice minimale pentru terenurile din FFN în suprafaţă de maximum 30 hectare inclusiv, prevăzute la alin. (1), şi în suprafaţă de peste 30 hectare, prevăzute la alin. (6), se stabilesc prin ordin al conducătorului Autorităţii în termen de 120 de zile de la data intrării în vigoare a prezentei legi."]
+            ]
+          },
+          {
+            "no": "32",
+            "label": "Art. 32 – Administrarea FFN proprietate a statului",
+            "items": [
+              ["(1)","Fondul forestier proprietate publică şi privată a statului se administrează prin Romsilva, care funcţionează ca regie autonomă de interes naţional, aflată sub autoritatea statului, prin Autoritate."],
+              ["(2)","Măsurile de organizare şi funcţionare, precum şi de reorganizare ale Romsilva se aprobă prin hotărâre a Guvernului, la propunerea Autorităţii."],
+              ["(2^1)","Metodologia pentru înfiinţarea, organizarea şi funcţionarea subunităţilor din cadrul unităţilor fără personalitate juridică din Romsilva se aprobă prin ordin al conducătorului Autorităţii, la propunerea consiliului de administraţie."],
+              ["(3)","Romsilva poate să desfăşoare, în FFN proprietate publică a statului pe care îl administrează, şi alte activităţi suplimentare administrării."],
+              ["(3^1)","Hotărârea prevăzută la alin. (2) reglementează activităţile economice suplimentare celor de administrare a fondului forestier desfăşurate de Romsilva, inclusiv pe cele care se desfăşoară în condiţii de eficienţă economică."],
+              ["(3^2)","În sensul prevederilor alin. (3 1 ), prin eficienţă economică se înţelege faptul că raportul dintre veniturile obţinute şi cheltuielile efectuate într-un an este cel puţin egal cu 1."],
+              ["(4)","Romsilva are dreptul de a utiliza terenuri din FFN proprietate publică a statului pe care le administrează şi pentru înfiinţarea de crescătorii de vânat şi de complexuri de vânătoare, precum şi pentru realizarea de obiective necesare asigurării managementului ariilor naturale protejate pe care le administrează."],
+              ["(5)","Veniturile Romsilva se constituie din:"],
+              ["a)","valorificarea produselor din FFN şi din alte activităţi economice specifice;"],
+              ["b)","administrarea sau prestarea de servicii silvice pentru terenuri din FFN sau din afara FFN, aparţinând altor proprietari decât statul, precum şi închirierea de bunuri;"],
+              ["c)","despăgubiri;"],
+              ["d)","donaţii, potrivit prezentei legi;"],
+              ["e)","contravaloarea serviciilor ecosistemice asigurate prin menţinerea funcţiilor de protecţie a pădurilor, care se suportă de către beneficiarii direcţi sau indirecţi ai serviciilor ecosistemice, care se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică;"],
+              ["f)","compensaţii acordate de la bugetul de stat;"],
+              ["g)","alocaţii de la bugetul de stat pentru susţinerea activităţii de administrare a FFN proprietate publică a statului, pentru finanţarea administrării ariilor naturale protejate, în conformitate cu prevederile art. 30 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice, aprobată cu modificări şi completări prin Legea nr. 49/2011, cu modificările şi completările ulterioare, şi pentru finanţarea Direcţiei de creştere, exploatare şi ameliorare a cabalinelor, în conformitate cu prevederile art. III din Legea nr. 99/2019 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 139/2002 privind desfiinţarea Societăţii Naţionale \"Cai de Rasă\" - S.A. şi preluarea patrimoniului acesteia de către Regia Naţională a Pădurilor;"],
+              ["h)","20% din chiriile pentru ocupările temporare de terenuri din FFN proprietate publică a statului;"],
+              ["i)","alte surse, potrivit legii."],
+              ["(6)","Terenurile din FFN proprietate a statului se administrează şi de către:"],
+              ["a)","RAAPPS, prin ocolul silvic propriu, exclusiv pentru terenurile pe care le are în administrare;"],
+              ["b)","INCDS, prin staţiunile şi bazele experimentale proprii, asimilate ocoalelor silvice de stat, în condiţiile prezentei legi;"],
+              ["c)","instituţii de învăţământ de stat cu profil silvic, prin bazele experimentale şi didactice proprii, exclusiv pentru terenurile pe care le au în administrare."],
+              ["(7)","Pentru terenurile izolate din FFN proprietate publică a statului, paza şi serviciile minimale pot fi asigurate şi de către ocoalele silvice de regim, pe bază de contract cu Romsilva."],
+              ["(8)","Atribuţiile Romsilva privind administrarea fondului forestier proprietate publică a statului nu pot fi exercitate astfel încât să afecteze prerogativele conferite ministerelor sau organelor de specialitate ale administraţiei publice centrale din subordinea Guvernului sau a ministerelor prin dreptul de administrare, ca drept real corespunzător proprietăţii publice a statului, potrivit Legii nr. 287/2009, republicată, cu modificările şi completările ulterioare, şi Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările şi completările ulterioare."],
+              ["(9)","Parcul auto şi de utilaje al Romsilva se gestionează prin intermediul unei aplicaţii informatice de management al flotei auto care include obligatoriu monitorizare GPS şi sonde litrometrice."]
+            ]
+          },
+          {
+            "no": "33",
+            "label": "Art. 33 – Administrarea/Serviciile silvice pentru terenurile din FFN proprietate publică a unităţilor administrativ-teritoriale",
+            "items": [
+              ["(1)","Terenurile din FFN proprietate publică a unităţilor administrativ-teritoriale se administrează:"],
+              ["a)","prin ocoale silvice de regim proprii, care se pot constitui de către unităţile administrativ-teritoriale care au în proprietate terenuri din FFN sau de asociaţii ale acestora şi care funcţionează ca regii autonome de interes local;"],
+              ["b)","pe bază de contracte cu ocoale silvice de stat sau cu alte ocoale silvice de regim care funcţionează ca regii autonome de interes local."],
+              ["(2)","Pentru terenurile din FFN proprietate publică a unităţilor administrativ-teritoriale, serviciile silvice tehnice se pot realiza de:"],
+              ["a)","ocoale silvice de regim înfiinţate de către asociaţii între unităţi administrativ-teritoriale şi/sau persoane fizice şi/sau persoane juridice care funcţionează ca asociaţii în baza Ordonanţei Guvernului nr. 26/2000, aprobată cu modificări şi completări prin Legea nr. 246/2005, cu modificările şi completările ulterioare, sau ca societăţi reglementate de Legea societăţilor nr. 31/1990, republicată, cu modificările şi completările ulterioare;"],
+              ["b)","alte ocoale silvice de regim."],
+              ["(3)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "34",
+            "label": "Art. 34 – Administrarea/Serviciile silvice pentru terenurile din FFN proprietate privată",
+            "items": [
+              ["(1)","Pentru terenurile din FFN proprietate privată a persoanelor fizice şi/sau persoanelor juridice, administrarea sau serviciile silvice, după caz, se realizează prin ocoale silvice de regim, persoane juridice care funcţionează ca asociaţii în baza Ordonanţei Guvernului nr. 26/2000, aprobată cu modificări şi completări prin Legea nr. 246/2005, cu modificările şi completările ulterioare, sau ca societăţi reglementate de Legea nr. 31/1990, republicată, cu modificările şi completările ulterioare, ori pe bază de contract cu alte ocoale silvice."],
+              ["(2)","INCDS poate asigura doar servicii de pază şi servicii silvice minimale pentru terenurile prevăzute la alin. (1)."],
+              ["(3)","Ocoalele silvice de regim prevăzute la alin. (1) se pot constitui de către unul sau mai mulţi proprietari ori de către una sau mai multe asociaţii de proprietari de terenuri din FFN."],
+              ["(4)","Veniturile ocoalelor silvice de regim se pot constitui din:"],
+              ["a)","valorificarea produselor fondului forestier;"],
+              ["b)","prestări de servicii şi închirieri de bunuri, în condiţiile legii;"],
+              ["c)","contravaloarea serviciilor ecosistemelor forestiere asigurate prin menţinerea funcţiilor de protecţie a pădurilor, care se suportă de către beneficiarii direcţi sau indirecţi ai serviciilor ecosistemelor forestiere, care se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică;"],
+              ["d)","cotizaţia anuală a proprietarilor care le-au constituit;"],
+              ["e)","tarifele percepute pentru serviciile prestate;"],
+              ["f)","donaţii, potrivit legii;"],
+              ["g)","compensaţii acordate de la bugetul de stat sau local;"],
+              ["h)","alte surse, în condiţiile legii;"],
+              ["i)","valorificarea creditelor de carbon."]
+            ]
+          },
+          {
+            "no": "35",
+            "label": "Art. 35 – Servicii silvice pentru vegetaţia forestieră din afara FFN",
+            "items": [
+              ["(1)","Evaluarea lemnului din vegetaţia forestieră din afara FFN destinat valorificării şi emiterea documentelor privind circulaţia materialelor lemnoase se asigură prin contract cu ocoale silvice."],
+              ["(2)","Pentru gestionarea vegetaţiei forestiere din afara FFN, proprietarul poate solicita prestarea unor servicii silvice tehnice dintre cele prevăzute la art. 28 alin. (1) lit. b) -e) pe bază de contract cu ocoale silvice."],
+              ["(3)","Staţiunile, bazele experimentale şi bazele didactice se exceptează de la prestarea serviciilor silvice tehnice prevăzute la alin. (2)."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

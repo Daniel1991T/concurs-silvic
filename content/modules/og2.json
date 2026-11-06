@@ -1,0 +1,1424 @@
+{
+  "id": "og2",
+  "title": "Regimul contravențiilor",
+  "act": "OG 2/2001",
+  "version": "Consolidată la 29 octombrie 2026 (ultima modificare: OUG 7/2026)",
+  "intro": "Legea-cadru a contravențiilor: ce sancțiuni există, limitele amenzii, prescripția, ce trebuie să conțină procesul-verbal ca să nu fie nul, plângerea și executarea. Se aplică și contravențiilor silvice, acolo unde Legea 171/2010 nu prevede altceva, așa că merită reținute diferențele dintre cele două.",
+  "lesson": [
+    {
+      "title": "1. Contravenția și actele care o stabilesc",
+      "paragraphs": [
+        {
+          "text": "Legea contravențională apără valorile sociale **neocrotite de legea penală**. Contravenția e fapta săvârșită **cu vinovăție**, stabilită prin **lege, ordonanță, hotărâre de Guvern** sau **hotărâre a consiliului local sau județean**.",
+          "refs": ["OG2 art. 1"]
+        },
+        {
+          "text": "Consiliile locale și județene stabilesc contravenții doar în domeniile lor și doar dacă nu există deja reglementare prin lege sau HG; altfel hotărârea e **nulă de drept** (constatată de contencios).",
+          "refs": ["OG2 art. 2 alin. (2)","OG2 art. 2 alin. (5)"]
+        },
+        {
+          "text": "Actul trebuie să descrie fapta și sancțiunea, cu **minimul și maximul** amenzii. Persoana juridică răspunde în condițiile actului respectiv.",
+          "refs": ["OG2 art. 3"]
+        },
+        {
+          "text": "Actele care stabilesc contravenții intră în vigoare la **30 de zile** de la publicare; în cazuri urgente mai devreme, dar **nu sub 10 zile**.",
+          "refs": ["OG2 art. 4 alin. (1)–(2)"]
+        }
+      ],
+      "keep": [
+        "Contravenție: faptă cu vinovăție, stabilită prin lege, OG, HG, HCL/HCJ",
+        "HCL în domenii reglementate deja: nulă de drept",
+        "Intrare în vigoare: 30 zile (urgent, min. 10 zile)"
+      ],
+      "quiz": [
+        {
+          "q": "O HCL care stabilește contravenții într-un domeniu deja reglementat prin lege este:",
+          "options": ["Valabilă", "Nulă de drept", "Suspendată 30 zile", "Anulabilă de primar"],
+          "answer": 1,
+          "explain": "Art. 2 alin. (5).",
+          "ref": "OG2 art. 2 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "2. Sancțiunile",
+      "paragraphs": [
+        {
+          "text": "**Principale**: **avertismentul**, **amenda**, **prestarea unei activități în folosul comunității**.",
+          "refs": ["OG2 art. 5 alin. (2)"]
+        },
+        {
+          "text": "**Complementare**: confiscarea; suspendarea sau anularea avizului, acordului, autorizației; închiderea unității; blocarea contului; suspendarea activității; retragerea licenței; **desființarea lucrărilor și aducerea terenului la starea inițială**.",
+          "refs": ["OG2 art. 5 alin. (3)"]
+        },
+        {
+          "text": "Pentru o contravenție se aplică **o singură sancțiune principală** și una sau mai multe complementare, **proporțional** cu pericolul social.",
+          "refs": ["OG2 art. 5 alin. (5)–(7)"]
+        },
+        {
+          "text": "**Avertismentul** = atenționare verbală sau scrisă, pentru fapte de **gravitate redusă**; se poate da **chiar dacă actul nu-l prevede**. Avertismentul și amenda se aplică persoanelor fizice și juridice; munca în folosul comunității **doar persoanelor fizice**.",
+          "refs": ["OG2 art. 7","OG2 art. 6"]
+        },
+        {
+          "text": "**Amenda** are caracter administrativ. Minimum **25 lei**; maximum **100.000 lei** prin lege sau ordonanță, **50.000** prin HG, **10.000** prin hotărâre de consiliu județean, **5.000** prin hotărâre de consiliu local.",
+          "refs": ["OG2 art. 8 alin. (1)–(2)"]
+        },
+        {
+          "text": "Munca în folosul comunității se stabilește **numai prin lege**, **alternativ cu amenda**, max. **300 de ore**.",
+          "refs": ["OG2 art. 9 alin. (1)–(2)"]
+        }
+      ],
+      "keep": [
+        "Principale: avertisment, amendă, muncă în folosul comunității",
+        "O singură principală + oricâte complementare",
+        "Avertisment: chiar dacă actul nu-l prevede",
+        "Amenda: 25 lei – 100.000 (lege/OG) / 50.000 (HG) / 10.000 (CJ) / 5.000 (CL)",
+        "Muncă comunitară: doar prin lege, doar PF, max. 300 ore"
+      ],
+      "quiz": [
+        {
+          "q": "„Desființarea lucrărilor și aducerea terenului la starea inițială” este sancțiune:",
+          "options": ["Principală", "Complementară", "Penală", "Disciplinară"],
+          "answer": 1,
+          "explain": "Art. 5 alin. (3) lit. g).",
+          "ref": "OG2 art. 5 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Plafonul amenzii după actul care o stabilește",
+        "levels": [
+          {
+            "who": "Lege sau ordonanță",
+            "does": ["max. 100.000 lei"],
+            "ref": "OG2 art. 8 alin. (2) lit. a)"
+          },
+          {
+            "who": "Hotărâre de Guvern",
+            "does": ["max. 50.000 lei"],
+            "ref": "OG2 art. 8 alin. (2) lit. b)"
+          },
+          {
+            "who": "Consiliu județean / CGMB",
+            "does": ["max. 10.000 lei"],
+            "ref": "OG2 art. 8 alin. (2) lit. c)"
+          },
+          {
+            "who": "Consiliu local",
+            "does": ["max. 5.000 lei","minimul general: 25 lei"],
+            "ref": "OG2 art. 8 alin. (2) lit. d)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "3. Mai multe contravenții, minori, legea mai blândă",
+      "paragraphs": [
+        {
+          "text": "Pentru **fiecare contravenție** se aplică o sancțiune. Constatate prin **același proces-verbal**, se cumulează fără să depășească **dublul maximului** celei mai grave. Fiecare participant e sancționat separat.",
+          "refs": ["OG2 art. 10"]
+        },
+        {
+          "text": "Caracterul contravențional e înlăturat de: **legitima apărare, starea de necesitate, constrângerea, cazul fortuit, iresponsabilitatea, beția involuntară completă, eroarea de fapt, infirmitatea** legată de faptă. Aceste cauze le constată **numai instanța**.",
+          "refs": ["OG2 art. 11 alin. (1)","OG2 art. 11 alin. (5)"]
+        },
+        {
+          "text": "Minorul **sub 14 ani** nu răspunde; între 14 și 18 ani limitele amenzii se **reduc la jumătate**; sub **16 ani** nu poate primi muncă în folosul comunității.",
+          "refs": ["OG2 art. 11 alin. (2)–(4)"]
+        },
+        {
+          "text": "Dacă fapta nu mai e contravenție, nu se mai sancționează. Dacă noua lege dă o sancțiune **mai ușoară**, se aplică aceasta; dacă dă una mai grea, se aplică legea de la data faptei.",
+          "refs": ["OG2 art. 12"]
+        }
+      ],
+      "keep": [
+        "Același PV: cumul max. dublul maximului celei mai grave",
+        "Cauzele exoneratoare: le constată doar instanța",
+        "Minori: < 14 nu răspund; 14–18 amenda la jumătate; < 16 fără muncă",
+        "Se aplică legea mai blândă"
+      ],
+      "quiz": [
+        {
+          "q": "Doi oameni taie împreună un arbore din afara pădurii. Sancțiunea:",
+          "options": ["Una, împărțită", "Câte una fiecăruia", "Doar instigatorului", "Doar proprietarului"],
+          "answer": 1,
+          "explain": "Art. 10 alin. (3).",
+          "ref": "OG2 art. 10 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "4. Prescripția",
+      "paragraphs": [
+        {
+          "text": "Aplicarea amenzii se prescrie în **6 luni de la săvârșirea faptei**; la contravențiile **continue**, de la **încetarea** faptei.",
+          "refs": ["OG2 art. 13 alin. (1)–(2)"]
+        },
+        {
+          "text": "Dacă fapta a fost cercetată ca infracțiune, prescripția nu curge cât a stat la parchet sau instanță, dar operează oricum dacă sancțiunea nu s-a aplicat în **un an**. Când procurorul trimite dosarul, cele 6 luni curg de la sesizarea agentului.",
+          "refs": ["OG2 art. 13 alin. (3)","OG2 art. 30 alin. (3)"]
+        },
+        {
+          "text": "**Executarea** sancțiunii se prescrie dacă procesul-verbal **nu e comunicat în 2 luni** de la aplicarea sancțiunii; o poate constata și instanța care judecă plângerea.",
+          "refs": ["OG2 art. 14"]
+        },
+        {
+          "text": "Atenție la diferență: Legea 171/2010 cere comunicarea procesului-verbal de contravenție silvică în **30 de zile**, mai strict decât cele 2 luni din OG 2/2001.",
+          "refs": ["OG2 art. 25 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Aplicarea: 6 luni de la faptă (continuă: de la încetare)",
+        "Cercetată penal: max. 1 an",
+        "Executarea: prescrisă dacă PV nu e comunicat în 2 luni",
+        "Silvic: comunicare în 30 zile (Legea 171)"
+      ],
+      "quiz": [
+        {
+          "q": "Fapta trimisă de procuror ca contravenție: cele 6 luni curg de la:",
+          "options": [
+            "Data faptei",
+            "Sesizarea organului care aplică sancțiunea",
+            "Ordonanța procurorului",
+            "Plângere"
+          ],
+          "answer": 1,
+          "explain": "Art. 30 alin. (3).",
+          "ref": "OG2 art. 30 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "5. Procesul-verbal",
+      "paragraphs": [
+        {
+          "text": "Contravenția se constată prin proces-verbal de **agenți constatatori**: primari, polițiști, jandarmi, persoane împuternicite de miniștri, prefecți, președinți de consilii județene, primari și cei din legi speciale.",
+          "refs": ["OG2 art. 15 alin. (1)–(2)"]
+        },
+        {
+          "text": "Mențiuni obligatorii: data și locul; agentul; contravenientul cu domiciliu și CNP; fapta cu data, ora, locul și împrejurările; actul normativ; **posibilitatea plății a jumătate din minim în 15 zile**; termenul de plângere și instanța.",
+          "refs": ["OG2 art. 16 alin. (1)"]
+        },
+        {
+          "text": "Agentul aduce la cunoștință **dreptul la obiecțiuni**, care se trec la „Alte mențiuni”, **sub sancțiunea nulității**.",
+          "refs": ["OG2 art. 16 alin. (7)"]
+        },
+        {
+          "text": "**Nulitate absolută** (constatată și din oficiu) dacă lipsește: numele agentului; numele contravenientului; CNP-ul; la PJ denumirea și sediul; **fapta**; **data** comiterii; **semnătura agentului**.",
+          "refs": ["OG2 art. 17"]
+        },
+        {
+          "text": "Contravenientul trebuie să-și arate actul de identitate; dacă refuză, agentul cheamă poliția, jandarmii sau poliția locală.",
+          "refs": ["OG2 art. 18"]
+        },
+        {
+          "text": "PV se semnează **pe fiecare pagină**. Dacă contravenientul lipsește sau refuză, confirmă **un martor**, care **nu poate fi alt agent constatator**; în lipsa martorului se motivează; înregistrarea **audio-video** înlocuiește martorul. Mai multe contravenții constatate deodată de același agent: **un singur PV**.",
+          "refs": ["OG2 art. 19","OG2 art. 20 alin. (1)"]
+        }
+      ],
+      "keep": [
+        "PV: mențiunea plății a ½ din minim în 15 zile",
+        "Obiecțiuni neconsemnate → nulitate",
+        "Nulitate absolută: lipsă agent, contravenient, CNP, faptă, dată, semnătura agentului",
+        "Martorul nu poate fi alt agent; audio-video îl înlocuiește",
+        "Un singur PV pentru mai multe contravenții"
+      ],
+      "quiz": [
+        {
+          "q": "Contravenientul refuză să-și arate buletinul. Agentul:",
+          "options": [
+            "Renunță",
+            "Poate apela la poliție, jandarmi sau poliția locală",
+            "Îl reține",
+            "Aplică dublu"
+          ],
+          "answer": 1,
+          "explain": "Art. 18.",
+          "ref": "OG2 art. 18"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Nulitatea absolută a procesului-verbal (art. 17)",
+        "items": [
+          {
+            "title": "Agentul",
+            "text": "lipsa numelui și prenumelui sau a semnăturii",
+            "ref": "OG2 art. 17"
+          },
+          {
+            "title": "Contravenientul",
+            "text": "lipsa numelui, prenumelui, CNP-ului; la PJ, denumirea și sediul",
+            "ref": "OG2 art. 17"
+          },
+          {"title": "Fapta", "text": "lipsa descrierii faptei", "ref": "OG2 art. 17"},
+          {"title": "Data", "text": "lipsa datei comiterii", "ref": "OG2 art. 17"}
+        ]
+      }
+    },
+    {
+      "title": "6. Aplicarea sancțiunii și comunicarea",
+      "paragraphs": [
+        {
+          "text": "De regulă, agentul constatator **aplică și sancțiunea** prin procesul-verbal; altfel îl trimite organului competent, care sancționează prin rezoluție. Sancțiunea ține cont de împrejurări, mijloace, scop, urmări și persoana contravenientului.",
+          "refs": ["OG2 art. 21"]
+        },
+        {
+          "text": "Dacă există **tarife de evaluare** a pagubei, despăgubirea se stabilește cu **acordul expres** al persoanei vătămate; fără tarif, pe calea dreptului comun.",
+          "refs": ["OG2 art. 23"]
+        },
+        {
+          "text": "Confiscarea o dispune cel care aplică sancțiunea; bunurile se descriu în PV, se stabilește proprietarul; dacă nu se găsesc, contravenientul plătește **contravaloarea**.",
+          "refs": ["OG2 art. 24"]
+        },
+        {
+          "text": "PV se comunică în **max. 2 luni**; dacă refuză primirea și e filmat, se consideră **comunicat pe loc**. Comunicarea: poștă cu aviz sau **afișare** la domiciliu, cu un martor (sau filmată). PV e **titlu de creanță și înștiințare de plată**.",
+          "refs": ["OG2 art. 25","OG2 art. 27"]
+        },
+        {
+          "text": "Contravenientul poate plăti **jumătate din minimul amenzii** în **15 zile** de la înmânare sau comunicare.",
+          "refs": ["OG2 art. 28 alin. (1)"]
+        },
+        {
+          "text": "Dacă fapta pare infracțiune, se sesizează **organul de urmărire penală**.",
+          "refs": ["OG2 art. 30 alin. (1)"]
+        }
+      ],
+      "keep": [
+        "Agentul aplică și sancțiunea",
+        "Despăgubire pe tarif: cu acordul vătămatului",
+        "Comunicare: max. 2 luni; refuz filmat = comunicat pe loc",
+        "PV = titlu de creanță",
+        "½ din minim în 15 zile"
+      ],
+      "quiz": [
+        {
+          "q": "Contravenientul prezent refuză primirea PV, iar refuzul e filmat:",
+          "options": ["PV se comunică prin poștă", "PV se consideră comunicat pe loc", "PV e nul", "Se reia"],
+          "answer": 1,
+          "explain": "Art. 25 alin. (1^1).",
+          "ref": "OG2 art. 25 alin. (1^1)"
+        }
+      ]
+    },
+    {
+      "title": "7. Plângerea",
+      "paragraphs": [
+        {
+          "text": "Plângerea se face în **15 zile** de la înmânare sau comunicare. Partea vătămată poate contesta doar despăgubirea; proprietarul bunurilor confiscate, doar confiscarea.",
+          "refs": ["OG2 art. 31"]
+        },
+        {
+          "text": "Se depune, la alegere, la judecătoria **locului faptei** sau a **domiciliului** contravenientului. Plângerea **suspendă executarea**.",
+          "refs": ["OG2 art. 32 alin. (1)","OG2 art. 32 alin. (3)"]
+        },
+        {
+          "text": "Termenul de judecată **nu depășește 30 de zile**; plângerile se judecă **cu precădere**. Hotărârea se atacă doar cu **apel**, la secția de contencios a **tribunalului**; apelul suspendă executarea.",
+          "refs": ["OG2 art. 33 alin. (1)", "OG2 art. 34 alin. (2)", "OG2 art. 35"]
+        },
+        {
+          "text": "După OG 2, plângerea se **taxează**; Legea 171 o face **scutită de taxă** pentru contravențiile silvice și o trimite doar la judecătoria **locului faptei**.",
+          "refs": ["OG2 art. 36"]
+        },
+        {
+          "text": "PV **neatacat** în termen sau hotărârea definitivă = **titlu executoriu**, fără altă formalitate.",
+          "refs": ["OG2 art. 37"]
+        }
+      ],
+      "keep": [
+        "Plângere: 15 zile",
+        "Instanța: locul faptei sau domiciliul (la silvic: doar locul faptei)",
+        "Suspendă executarea",
+        "Termen de judecată: max. 30 zile; apel la tribunal",
+        "Taxă de timbru (la silvic: scutit)",
+        "PV neatacat = titlu executoriu"
+      ],
+      "quiz": [
+        {
+          "q": "Termenul primului termen de judecată pe plângere:",
+          "options": ["Max. 15 zile", "Max. 30 de zile", "Max. 60 zile", "Nelimitat"],
+          "answer": 1,
+          "explain": "Art. 33.",
+          "ref": "OG2 art. 33 alin. (1)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Calea de atac",
+        "steps": [
+          {"title": "Plângere", "text": "15 zile de la comunicare", "ref": "OG2 art. 31 alin. (1)"},
+          {
+            "title": "Judecătoria",
+            "text": "locul faptei sau domiciliul; suspendă executarea",
+            "ref": "OG2 art. 32"
+          },
+          {
+            "title": "Primul termen",
+            "text": "max. 30 de zile; cu precădere",
+            "ref": "OG2 art. 33 alin. (1)"
+          },
+          {"title": "Apel", "text": "tribunal, secția de contencios", "ref": "OG2 art. 34 alin. (2)"}
+        ]
+      }
+    },
+    {
+      "title": "8. Executarea",
+      "paragraphs": [
+        {
+          "text": "Avertismentul se dă **oral** când contravenientul e de față; altfel se consideră executat prin comunicarea PV.",
+          "refs": ["OG2 art. 38"]
+        },
+        {
+          "text": "Amenda o pune în executare organul agentului (dacă nu s-a făcut plângere) sau instanța. PV neatacat se trimite la **organul fiscal** în **30 de zile**: la primărie pentru persoane fizice, la ANAF pentru venituri la bugetul de stat.",
+          "refs": ["OG2 art. 39 alin. (1)–(2)"]
+        },
+        {
+          "text": "Amenzile persoanelor fizice merg la **bugetul local** al domiciliului; ale persoanelor juridice, la **bugetul de stat** (cu excepții).",
+          "refs": ["OG2 art. 8 alin. (3)–(4)"]
+        },
+        {
+          "text": "Neplătită în **30 de zile** de la rămânerea definitivă și fără posibilitate de executare silită: instanța o poate înlocui cu muncă în folosul comunității, max. **50 de ore** (**25** pentru minorii de la 16 ani).",
+          "refs": ["OG2 art. 39^1 alin. (1)–(2)"]
+        },
+        {
+          "text": "La anularea PV, bunurile confiscate se **restituie de îndată**; dacă s-au vândut, se plătește valoarea lor de circulație. Militarii în termen nu primesc sancțiuni contravenționale, ci măsuri disciplinare.",
+          "refs": ["OG2 art. 41 alin. (2)–(3)","OG2 art. 44 alin. (1)"]
+        }
+      ],
+      "keep": [
+        "Avertisment oral, dacă e de față",
+        "PV neatacat → fisc în 30 zile",
+        "Amenzi PF → bugetul local; PJ → bugetul de stat",
+        "Neplătită → muncă max. 50 ore (minori 25)",
+        "PV anulat → bunurile restituite"
+      ],
+      "quiz": [
+        {
+          "q": "PV neatacat se trimite la fisc în:",
+          "options": ["15 zile", "30 de zile de la expirarea termenului de plângere", "2 luni", "6 luni"],
+          "answer": 1,
+          "explain": "Art. 39 alin. (2).",
+          "ref": "OG2 art. 39 alin. (2)"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Sancțiuni și limite",
+      "rows": [
+        {
+          "what": "Sancțiuni principale",
+          "value": "avertisment, amendă, muncă în folosul comunității",
+          "ref": "OG2 art. 5 alin. (2)"
+        },
+        {"what": "Amenda minimă", "value": "25 lei", "ref": "OG2 art. 8 alin. (2)"},
+        {"what": "Maxim prin lege / OG", "value": "100.000 lei", "ref": "OG2 art. 8 alin. (2) lit. a)"},
+        {"what": "Maxim prin HG", "value": "50.000 lei", "ref": "OG2 art. 8 alin. (2) lit. b)"},
+        {
+          "what": "Maxim prin HCJ / HCL",
+          "value": "10.000 / 5.000 lei",
+          "ref": "OG2 art. 8 alin. (2) lit. c)"
+        },
+        {
+          "what": "Muncă în folosul comunității",
+          "value": "doar prin lege, max. 300 ore",
+          "ref": "OG2 art. 9 alin. (1)"
+        },
+        {
+          "what": "Cumul în același PV",
+          "value": "max. dublul maximului celei mai grave",
+          "ref": "OG2 art. 10 alin. (2)"
+        },
+        {
+          "what": "Minor 14–18 ani",
+          "value": "limitele amenzii la jumătate",
+          "ref": "OG2 art. 11 alin. (3)"
+        },
+        {"what": "Intrare în vigoare", "value": "30 zile (urgent min. 10)", "ref": "OG2 art. 4"}
+      ]
+    },
+    {
+      "title": "Termene",
+      "rows": [
+        {
+          "what": "Prescripția aplicării",
+          "value": "6 luni de la faptă",
+          "ref": "OG2 art. 13 alin. (1)"
+        },
+        {"what": "Faptă cercetată penal", "value": "max. 1 an", "ref": "OG2 art. 13 alin. (3)"},
+        {"what": "Comunicarea PV", "value": "max. 2 luni", "ref": "OG2 art. 25 alin. (2)"},
+        {"what": "Plata a ½ din minim", "value": "15 zile", "ref": "OG2 art. 28 alin. (1)"},
+        {"what": "Plângerea", "value": "15 zile", "ref": "OG2 art. 31 alin. (1)"},
+        {"what": "Primul termen de judecată", "value": "max. 30 zile", "ref": "OG2 art. 33 alin. (1)"},
+        {"what": "Trimiterea la fisc", "value": "30 zile", "ref": "OG2 art. 39 alin. (2)"},
+        {
+          "what": "Înlocuirea amenzii neplătite",
+          "value": "muncă max. 50 ore (minori 25)",
+          "ref": "OG2 art. 39^1 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "OG 2/2001 față de Legea 171/2010",
+      "rows": [
+        {
+          "what": "Comunicarea PV",
+          "value": "OG 2: 2 luni · L171: 30 zile",
+          "ref": "OG2 art. 25 alin. (2)"
+        },
+        {
+          "what": "Instanța",
+          "value": "OG 2: faptă sau domiciliu · L171: locul faptei",
+          "ref": "OG2 art. 32 alin. (1)"
+        },
+        {"what": "Taxa de timbru", "value": "OG 2: da · L171: scutit", "ref": "OG2 art. 36"},
+        {"what": "Plata a ½ din minim", "value": "15 zile în ambele", "ref": "OG2 art. 28 alin. (1)"},
+        {"what": "Plângerea", "value": "15 zile în ambele", "ref": "OG2 art. 31 alin. (1)"}
+      ]
+    }
+  ],
+  "tricks": [
+    "Plafoanele amenzii: „100 – 50 – 10 – 5” mii lei, după cine dă actul: Parlament/Guvern prin OG, Guvern prin HG, consiliul județean, consiliul local.",
+    "„15 – 15”: 15 zile pentru jumătate din minim, 15 zile pentru plângere.",
+    "„6 luni – 1 an – 2 luni”: 6 luni prescripția aplicării, 1 an dacă a trecut pe la penal, 2 luni pentru comunicare.",
+    "Nulitatea absolută a PV: cine (agent, contravenient, CNP), ce (fapta), când (data) și semnătura agentului.",
+    "Legea specială bate legea generală: la silvic, comunicare în 30 de zile, judecătoria locului faptei, fără taxă."
+  ],
+  "cards": [
+    {
+      "q": "Ce valori apără legea contravențională?",
+      "a": "Valorile sociale care nu sunt ocrotite prin legea penală.",
+      "ref": "OG2 art. 1"
+    },
+    {
+      "q": "Prin ce acte se pot stabili contravenții?",
+      "a": "Lege, ordonanță, hotărâre de Guvern, hotărâre a consiliului local sau județean.",
+      "ref": "OG2 art. 1"
+    },
+    {
+      "q": "În cât timp intră în vigoare un act care stabilește contravenții?",
+      "a": "30 de zile de la publicare; în urgență, minimum 10 zile.",
+      "ref": "OG2 art. 4 alin. (1)–(2)"
+    },
+    {
+      "q": "Care sunt sancțiunile principale?",
+      "a": "Avertismentul, amenda, prestarea unei activități în folosul comunității.",
+      "ref": "OG2 art. 5 alin. (2)"
+    },
+    {
+      "q": "Câte sancțiuni principale se pot aplica pentru o contravenție?",
+      "a": "Una singură, plus una sau mai multe complementare.",
+      "ref": "OG2 art. 5 alin. (7)"
+    },
+    {
+      "q": "Se poate da avertisment dacă actul normativ nu-l prevede?",
+      "a": "Da, pentru fapte de gravitate redusă.",
+      "ref": "OG2 art. 7 alin. (3)"
+    },
+    {
+      "q": "Cui nu se poate aplica munca în folosul comunității?",
+      "a": "Persoanelor juridice (se aplică doar persoanelor fizice).",
+      "ref": "OG2 art. 6 alin. (2)"
+    },
+    {"q": "Care e amenda minimă?", "a": "25 lei.", "ref": "OG2 art. 8 alin. (2)"},
+    {
+      "q": "Care e maximul amenzii stabilite prin lege?",
+      "a": "100.000 lei.",
+      "ref": "OG2 art. 8 alin. (2) lit. a)"
+    },
+    {"q": "Și prin hotărâre de Guvern?", "a": "50.000 lei.", "ref": "OG2 art. 8 alin. (2) lit. b)"},
+    {
+      "q": "Și prin hotărâre de consiliu local?",
+      "a": "5.000 lei (consiliu județean: 10.000).",
+      "ref": "OG2 art. 8 alin. (2) lit. d)"
+    },
+    {
+      "q": "Câte ore de muncă în folosul comunității se pot stabili prin lege?",
+      "a": "Max. 300 de ore, alternativ cu amenda.",
+      "ref": "OG2 art. 9 alin. (1)–(2)"
+    },
+    {
+      "q": "Cum se cumulează sancțiunile din același PV?",
+      "a": "Fără a depăși dublul maximului celei mai grave contravenții.",
+      "ref": "OG2 art. 10 alin. (2)"
+    },
+    {
+      "q": "Cine constată cauzele care înlătură caracterul contravențional?",
+      "a": "Numai instanța.",
+      "ref": "OG2 art. 11 alin. (5)"
+    },
+    {
+      "q": "Răspunde contravențional un copil de 13 ani?",
+      "a": "Nu, sub 14 ani nu răspunde.",
+      "ref": "OG2 art. 11 alin. (2)"
+    },
+    {
+      "q": "Ce se întâmplă cu amenda pentru un minor de 15 ani?",
+      "a": "Minimul și maximul se reduc la jumătate.",
+      "ref": "OG2 art. 11 alin. (3)"
+    },
+    {
+      "q": "În cât timp se prescrie aplicarea amenzii?",
+      "a": "6 luni de la săvârșirea faptei.",
+      "ref": "OG2 art. 13 alin. (1)"
+    },
+    {
+      "q": "De când curge prescripția la contravenția continuă?",
+      "a": "De la încetarea faptei.",
+      "ref": "OG2 art. 13 alin. (2)"
+    },
+    {
+      "q": "Când se prescrie executarea sancțiunii?",
+      "a": "Dacă PV nu e comunicat în 2 luni de la aplicarea sancțiunii.",
+      "ref": "OG2 art. 14 alin. (1)"
+    },
+    {
+      "q": "Ce posibilitate de plată trebuie menționată în PV?",
+      "a": "Plata a jumătate din minimul amenzii în 15 zile.",
+      "ref": "OG2 art. 16 alin. (1)"
+    },
+    {
+      "q": "Unde se trec obiecțiunile contravenientului?",
+      "a": "La rubrica „Alte mențiuni”, sub sancțiunea nulității.",
+      "ref": "OG2 art. 16 alin. (7)"
+    },
+    {
+      "q": "Ce lipsuri atrag nulitatea absolută a PV?",
+      "a": "Numele agentului, numele și CNP-ul contravenientului (la PJ denumirea și sediul), fapta, data, semnătura agentului.",
+      "ref": "OG2 art. 17"
+    },
+    {"q": "Poate un alt agent constatator fi martor?", "a": "Nu.", "ref": "OG2 art. 19 alin. (2)"},
+    {
+      "q": "Când nu mai e nevoie de martor la refuzul semnării?",
+      "a": "Când refuzul e înregistrat audio-video.",
+      "ref": "OG2 art. 19 alin. (4)"
+    },
+    {
+      "q": "Câte PV se întocmesc pentru mai multe contravenții constatate deodată de același agent?",
+      "a": "Unul singur.",
+      "ref": "OG2 art. 20 alin. (1)"
+    },
+    {
+      "q": "Când se stabilește despăgubirea direct prin PV?",
+      "a": "Când există tarife de evaluare și persoana vătămată e de acord expres.",
+      "ref": "OG2 art. 23 alin. (1)"
+    },
+    {
+      "q": "Ce plătește contravenientul dacă bunurile de confiscat nu se găsesc?",
+      "a": "Contravaloarea lor în lei.",
+      "ref": "OG2 art. 24 alin. (2)"
+    },
+    {
+      "q": "În cât timp se comunică PV după OG 2?",
+      "a": "Max. 2 luni.",
+      "ref": "OG2 art. 25 alin. (2)"
+    },
+    {
+      "q": "Ce valoare are PV de contravenție?",
+      "a": "Titlu de creanță și înștiințare de plată.",
+      "ref": "OG2 art. 25 alin. (3)"
+    },
+    {
+      "q": "În cât timp se poate plăti jumătate din minim?",
+      "a": "15 zile de la înmânare sau comunicare.",
+      "ref": "OG2 art. 28 alin. (1)"
+    },
+    {
+      "q": "În cât timp se face plângerea?",
+      "a": "15 zile de la înmânare sau comunicare.",
+      "ref": "OG2 art. 31 alin. (1)"
+    },
+    {
+      "q": "La ce instanță se depune plângerea după OG 2?",
+      "a": "Judecătoria locului faptei sau a domiciliului contravenientului, la alegere.",
+      "ref": "OG2 art. 32 alin. (1)"
+    },
+    {"q": "Suspendă plângerea executarea?", "a": "Da.", "ref": "OG2 art. 32 alin. (3)"},
+    {
+      "q": "Cum se atacă hotărârea pe plângere?",
+      "a": "Cu apel, la secția de contencios administrativ a tribunalului.",
+      "ref": "OG2 art. 34 alin. (2)"
+    },
+    {
+      "q": "Când devine PV titlu executoriu?",
+      "a": "Dacă nu e atacat în termen sau după hotărârea definitivă.",
+      "ref": "OG2 art. 37"
+    },
+    {
+      "q": "Unde merg amenzile persoanelor fizice?",
+      "a": "La bugetul local al domiciliului.",
+      "ref": "OG2 art. 8 alin. (4)"
+    },
+    {
+      "q": "Cu ce se poate înlocui amenda neplătită?",
+      "a": "Cu muncă în folosul comunității, max. 50 de ore (minori de la 16 ani: 25).",
+      "ref": "OG2 art. 39^1 alin. (2)"
+    },
+    {
+      "q": "Ce se întâmplă cu bunurile confiscate dacă PV e anulat?",
+      "a": "Se restituie de îndată; dacă au fost vândute, se plătește valoarea de circulație.",
+      "ref": "OG2 art. 41 alin. (2)–(3)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Contravențiile NU se pot stabili prin:",
+      "options": ["Lege", "Hotărâre de Guvern", "Ordin de ministru", "Hotărâre de consiliu local"],
+      "answer": 2,
+      "explain": "Art. 1 enumeră lege, OG, HG, HCL/HCJ.",
+      "ref": "OG2 art. 1"
+    },
+    {
+      "q": "În cazuri urgente, un act care stabilește contravenții poate intra în vigoare în cel puțin:",
+      "options": ["3 zile", "10 zile", "15 zile", "30 zile"],
+      "answer": 1,
+      "explain": "Min. 10 zile.",
+      "ref": "OG2 art. 4 alin. (2)"
+    },
+    {
+      "q": "Care NU e sancțiune principală?",
+      "options": ["Avertismentul", "Amenda", "Confiscarea", "Munca în folosul comunității"],
+      "answer": 2,
+      "explain": "Confiscarea e complementară.",
+      "ref": "OG2 art. 5"
+    },
+    {
+      "q": "Avertismentul se poate aplica:",
+      "options": [
+        "Doar dacă actul îl prevede",
+        "Și dacă actul nu-l prevede, pentru fapte de gravitate redusă",
+        "Doar minorilor",
+        "Doar PJ"
+      ],
+      "answer": 1,
+      "explain": "Art. 7 alin. (3).",
+      "ref": "OG2 art. 7 alin. (3)"
+    },
+    {
+      "q": "Limita maximă a amenzii stabilite prin HG este:",
+      "options": ["5.000 lei", "10.000 lei", "50.000 lei", "100.000 lei"],
+      "answer": 2,
+      "explain": "50.000.",
+      "ref": "OG2 art. 8 alin. (2) lit. b)"
+    },
+    {
+      "q": "Limita maximă a amenzii stabilite prin hotărâre de consiliu local:",
+      "options": ["1.000 lei", "5.000 lei", "10.000 lei", "50.000 lei"],
+      "answer": 1,
+      "explain": "5.000.",
+      "ref": "OG2 art. 8 alin. (2) lit. d)"
+    },
+    {
+      "q": "Munca în folosul comunității poate fi stabilită:",
+      "options": ["Prin orice act", "Numai prin lege, max. 300 ore", "Prin HG, max. 100 ore", "Prin HCL"],
+      "answer": 1,
+      "explain": "Art. 9.",
+      "ref": "OG2 art. 9 alin. (1)"
+    },
+    {
+      "q": "Trei contravenții constatate în același PV:",
+      "options": [
+        "Se aplică doar cea mai grea",
+        "Se cumulează, max. dublul maximului celei mai grave",
+        "Se cumulează nelimitat",
+        "Se aplică media"
+      ],
+      "answer": 1,
+      "explain": "Art. 10 alin. (2).",
+      "ref": "OG2 art. 10 alin. (2)"
+    },
+    {
+      "q": "Starea de necesitate, ca motiv de înlăturare a contravenției, o constată:",
+      "options": ["Agentul", "Instanța", "Primarul", "Procurorul"],
+      "answer": 1,
+      "explain": "Numai instanța.",
+      "ref": "OG2 art. 11 alin. (5)"
+    },
+    {
+      "q": "Un minor de 15 ani care rupe puieți:",
+      "options": [
+        "Nu răspunde",
+        "Răspunde, cu limitele amenzii la jumătate",
+        "Răspunde ca un adult",
+        "Primește muncă în folosul comunității"
+      ],
+      "answer": 1,
+      "explain": "14–18 ani: jumătate; < 16: fără muncă.",
+      "ref": "OG2 art. 11 alin. (3)"
+    },
+    {
+      "q": "Dacă după faptă apare o lege cu sancțiune mai ușoară:",
+      "options": ["Se aplică legea veche", "Se aplică legea mai ușoară", "Se anulează", "Decide primarul"],
+      "answer": 1,
+      "explain": "Art. 12 alin. (2).",
+      "ref": "OG2 art. 12 alin. (2)"
+    },
+    {
+      "q": "Aplicarea amenzii se prescrie în:",
+      "options": ["30 zile", "3 luni", "6 luni de la faptă", "1 an"],
+      "answer": 2,
+      "explain": "6 luni.",
+      "ref": "OG2 art. 13 alin. (1)"
+    },
+    {
+      "q": "La o contravenție continuă, prescripția curge:",
+      "options": ["De la începutul faptei", "De la încetarea faptei", "De la constatare", "Nu curge"],
+      "answer": 1,
+      "explain": "Art. 13 alin. (2).",
+      "ref": "OG2 art. 13 alin. (2)"
+    },
+    {
+      "q": "Executarea sancțiunii se prescrie dacă PV nu e comunicat în:",
+      "options": ["15 zile", "30 zile", "2 luni", "6 luni"],
+      "answer": 2,
+      "explain": "2 luni.",
+      "ref": "OG2 art. 14 alin. (1)"
+    },
+    {
+      "q": "Lipsa semnăturii agentului constatator duce la:",
+      "options": ["Nimic", "Nulitatea PV, constatată și din oficiu", "Amânare", "Avertisment"],
+      "answer": 1,
+      "explain": "Art. 17.",
+      "ref": "OG2 art. 17"
+    },
+    {
+      "q": "Obiecțiunile neconsemnate în PV:",
+      "options": ["Nu contează", "Atrag nulitatea PV", "Se adaugă ulterior", "Se trimit la instanță"],
+      "answer": 1,
+      "explain": "Art. 16 alin. (7).",
+      "ref": "OG2 art. 16 alin. (7)"
+    },
+    {
+      "q": "Poate fi martor la refuzul semnării colegul pădurar, tot agent constatator?",
+      "options": ["Da", "Nu", "Doar cu acordul șefului", "Doar ziua"],
+      "answer": 1,
+      "explain": "Art. 19 alin. (2).",
+      "ref": "OG2 art. 19 alin. (2)"
+    },
+    {
+      "q": "Dacă refuzul semnării e filmat cu camera instituției:",
+      "options": ["Tot trebuie martor", "Nu mai e nevoie de martor", "PV e nul", "Se amână"],
+      "answer": 1,
+      "explain": "Art. 19 alin. (4).",
+      "ref": "OG2 art. 19 alin. (4)"
+    },
+    {
+      "q": "Despăgubirea pe bază de tarif se trece în PV:",
+      "options": ["Întotdeauna", "Cu acordul expres al persoanei vătămate", "Niciodată", "Doar la PJ"],
+      "answer": 1,
+      "explain": "Art. 23.",
+      "ref": "OG2 art. 23 alin. (1)"
+    },
+    {
+      "q": "PV de contravenție este:",
+      "options": [
+        "Doar act de constatare",
+        "Titlu de creanță și înștiințare de plată",
+        "Hotărâre judecătorească",
+        "Act penal"
+      ],
+      "answer": 1,
+      "explain": "Art. 25 alin. (3).",
+      "ref": "OG2 art. 25 alin. (3)"
+    },
+    {
+      "q": "Jumătate din minimul amenzii se poate plăti în:",
+      "options": ["48 ore", "7 zile", "15 zile", "30 zile"],
+      "answer": 2,
+      "explain": "15 zile.",
+      "ref": "OG2 art. 28 alin. (1)"
+    },
+    {
+      "q": "Plângerea împotriva PV, după OG 2, se depune la:",
+      "options": [
+        "Doar judecătoria locului faptei",
+        "Judecătoria locului faptei sau a domiciliului",
+        "Tribunal",
+        "Agentul constatator"
+      ],
+      "answer": 1,
+      "explain": "Competență alternativă.",
+      "ref": "OG2 art. 32 alin. (1)"
+    },
+    {
+      "q": "Plângerea:",
+      "options": [
+        "Nu suspendă executarea",
+        "Suspendă executarea",
+        "Suspendă doar confiscarea",
+        "Dublează amenda"
+      ],
+      "answer": 1,
+      "explain": "Art. 32 alin. (3).",
+      "ref": "OG2 art. 32 alin. (3)"
+    },
+    {
+      "q": "Hotărârea judecătoriei pe plângere se atacă cu:",
+      "options": [
+        "Recurs la Curtea de Apel",
+        "Apel la tribunal (contencios)",
+        "Contestație în anulare",
+        "Nu se atacă"
+      ],
+      "answer": 1,
+      "explain": "Art. 34 alin. (2).",
+      "ref": "OG2 art. 34 alin. (2)"
+    },
+    {
+      "q": "Amenda neplătită, fără posibilitate de executare silită, poate fi înlocuită cu muncă de max.:",
+      "options": ["25 ore", "50 ore", "100 ore", "300 ore"],
+      "answer": 1,
+      "explain": "50 ore (minori 25).",
+      "ref": "OG2 art. 39^1 alin. (2)"
+    },
+    {
+      "q": "La contravenția silvică, plângerea se depune:",
+      "options": [
+        "Cu taxă, la domiciliu",
+        "Fără taxă, la judecătoria locului faptei (Legea 171)",
+        "La Gardă",
+        "La tribunal"
+      ],
+      "answer": 1,
+      "explain": "Legea specială derogă de la OG 2 (art. 36 OG2 cere taxă).",
+      "ref": "OG2 art. 36"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Procesul-verbal fără dată",
+      "situation": "Un contravenient contestă un proces-verbal de contravenție silvică în care agentul a uitat să treacă data faptei.",
+      "steps": [
+        {
+          "q": "Ce sancțiune are lipsa datei?",
+          "a": "Nulitate absolută, pe care instanța o constată și din oficiu.",
+          "ref": "OG2 art. 17"
+        },
+        {
+          "q": "Se aplică OG 2 la o contravenție silvică?",
+          "a": "Da, Legea 171 se completează cu OG 2/2001 acolo unde nu prevede altceva.",
+          "ref": "OG2 art. 47"
+        },
+        {
+          "q": "Ce se întâmplă cu lemnul confiscat?",
+          "a": "Se restituie de îndată celui în drept; dacă a fost vândut, i se plătește valoarea de circulație.",
+          "ref": "OG2 art. 41 alin. (2)–(3)"
+        }
+      ]
+    },
+    {
+      "title": "Contravenientul care nu semnează",
+      "situation": "Un om prins rupând puieți refuză să semneze procesul-verbal. Ești singur, cu un coleg pădurar, și nu ai cameră.",
+      "steps": [
+        {
+          "q": "Poate colegul să semneze ca martor?",
+          "a": "Nu dacă e și el agent constatator; martorul nu poate fi alt agent.",
+          "ref": "OG2 art. 19 alin. (2)"
+        },
+        {
+          "q": "Și dacă nu găsești alt martor?",
+          "a": "Treci în procesul-verbal motivele pentru care l-ai încheiat fără martor.",
+          "ref": "OG2 art. 19 alin. (3)"
+        },
+        {
+          "q": "Ce mențiune de plată pui obligatoriu?",
+          "a": "Posibilitatea de a plăti jumătate din minimul amenzii în 15 zile.",
+          "ref": "OG2 art. 16 alin. (1)"
+        },
+        {
+          "q": "În cât timp comunici PV dacă refuză și primirea?",
+          "a": "Pentru contravenția silvică, în max. 30 de zile (Legea 171); regula generală din OG 2 e de 2 luni.",
+          "ref": "OG2 art. 25 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "Fapta descoperită târziu",
+      "situation": "În martie descoperi că un vecin al pădurii a depozitat gunoaie în FFN în august anul trecut și nu le-a mai atins.",
+      "steps": [
+        {
+          "q": "Mai poți aplica amenda?",
+          "a": "Aplicarea se prescrie în 6 luni de la faptă; dacă depozitarea a fost o faptă instantanee din august, termenul a expirat.",
+          "ref": "OG2 art. 13 alin. (1)"
+        },
+        {
+          "q": "Contează dacă fapta e continuă?",
+          "a": "Da, la contravenția continuă (încălcarea durează în timp) prescripția curge de la încetarea faptei.",
+          "ref": "OG2 art. 13 alin. (2)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "OG2",
+        "name": "OG 2/2001 privind regimul juridic al contravențiilor",
+        "title": "OG 2/2001 privind regimul juridic al contravențiilor",
+        "note": "Consolidată la 29 octombrie 2026 (ultima modificare: OUG 7/2026, 27 martie 2026). Articolele abrogate nu sunt afișate.",
+        "inText": true,
+        "chapters": [
+          {"title": "Capitolul I – Dispoziţii generale", "from": "1"},
+          {"title": "Capitolul II – Constatarea contravenţiei", "from": "15"},
+          {"title": "Capitolul III – Aplicarea sancţiunilor contravenţionale", "from": "21"},
+          {"title": "Capitolul IV – Căile de atac", "from": "31"},
+          {"title": "Capitolul V – Executarea sancţiunilor contravenţionale", "from": "37"},
+          {"title": "Capitolul VI – Dispoziţii speciale şi tranzitorii", "from": "44"}
+        ],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["","Legea contravenţională apără valorile sociale, care nu sunt ocrotite prin legea penală. Constituie contravenţie fapta săvârşită cu vinovăţie, stabilită şi sancţionată prin lege, ordonanţă, prin hotărâre a Guvernului sau, după caz, prin hotărâre a consiliului local al comunei, oraşului, municipiului sau al sectorului municipiului Bucureşti, a consiliului judeţean ori a Consiliului General al Municipiului Bucureşti."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["(1)","Prin legi, ordonanţe ori hotărâri ale Guvernului se pot stabili şi sancţiona contravenţii în toate domeniile de activitate."],
+              ["(2)","Prin hotărâri ale autorităţilor administraţiei publice locale sau judeţene se stabilesc şi se sancţionează contravenţii în toate domeniile de activitate pentru care acestora le sunt stabilite atribuţii prin lege, în măsura în care în domeniile respective nu sunt stabilite contravenţii prin legi, ordonanţe sau hotărâri ale Guvernului."],
+              ["(3)","Consiliile locale ale sectoarelor municipiului Bucureşti pot stabili şi sancţiona contravenţii în următoarele domenii: salubritate; activitatea din pieţe, curăţenia şi igienizarea acestora; întreţinerea parcurilor şi spaţiilor verzi, a spaţiilor şi locurilor de joacă pentru copii; amenajarea şi curăţenia spaţiilor din jurul blocurilor de locuinţe, precum şi a terenurilor virane; întreţinerea bazelor şi obiectivelor sportive aflate în administrarea lor; întreţinerea străzilor şi trotuarelor, a şcolilor şi altor instituţii de educaţie şi cultură, întreţinerea clădirilor, împrejmuirilor şi a altor construcţii; depozitarea şi colectarea gunoaielor şi a resturilor menajere."],
+              ["(4)","Consiliul General al Municipiului Bucureşti poate stabili şi alte domenii de activitate din competenţa consiliilor locale ale sectoarelor, în care acestea pot stabili şi sancţiona contravenţii."],
+              ["(5)","Hotărârile consiliilor locale sau judeţene ori, după caz, ale sectoarelor municipiului Bucureşti, prin care s-au stabilit contravenţii cu nesocotirea principiilor prevăzute la alin. (2) - (4), sunt nule de drept. Nulitatea se constată de instanţa de contencios administrativ competentă, la cererea oricărei persoane interesate."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["(1)","Actele normative prin care se stabilesc contravenţii vor cuprinde descrierea faptelor ce constituie contravenţii şi sancţiunea ce urmează să se aplice pentru fiecare dintre acestea; în cazul sancţiunii cu amendă se vor stabili limita minimă şi maximă a acesteia sau, după caz, cote procentuale din anumite valori; se pot stabili şi tarife de determinare a despăgubirilor pentru pagubele pricinuite prin săvârşirea contravenţiilor."],
+              ["(2)","Persoana juridică răspunde contravenţional în cazurile şi în condiţiile prevăzute de actele normative prin care se stabilesc şi se sancţionează contravenţii."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","Dispoziţiile din actele normative prin care se stabilesc şi se sancţionează contravenţiile intră în vigoare în termen de 30 de zile de la data publicării, iar în cazul hotărârilor consiliilor locale sau judeţene, punerea în aplicare se face şi cu respectarea condiţiilor prevăzute la art. 50 alin. (2) din Legea administraţiei publice locale nr. 215/2002."],
+              ["(2)","În cazuri urgente se poate prevedea intrarea în vigoare într-un termen mai scurt, dar nu mai puţin de 10 zile."],
+              ["(3)","Hotărârile autorităţilor administraţiei publice locale sau judeţene prevăzute la art. 1, prin care se stabilesc şi se sancţionează contravenţii, pot fi aduse la cunoştinţă publică prin afişare sau prin orice altă formă de publicitate în condiţiile Legii nr. 215/2001."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","Sancţiunile contravenţionale sunt principale şi complementare."],
+              ["(2)","Sancţiunile contravenţionale principale sunt:"],
+              ["a)","avertismentul;"],
+              ["b)","amenda contravenţională;"],
+              ["c)","prestarea unei activităţi în folosul comunităţii."],
+              ["d)","«abrogat»"],
+              ["(3)","Sancţiunile contravenţionale complementare sunt:"],
+              ["a)","confiscarea bunurilor destinate, folosite sau rezultate din contravenţii;"],
+              ["b)","suspendarea sau anularea, după caz, a avizului, acordului sau a autorizaţiei de exercitare a unei activităţi;"],
+              ["c)","închiderea unităţii;"],
+              ["d)","blocarea contului bancar;"],
+              ["e)","suspendarea activităţii agentului economic;"],
+              ["f)","retragerea licenţei sau a avizului pentru anumite operaţiuni ori pentru activităţi de comerţ exterior, temporar sau definitiv;"],
+              ["g)","desfiinţarea lucrărilor şi aducerea terenului în starea iniţială."],
+              ["(4)","Prin legi speciale se pot stabili şi alte sancţiuni principale sau complementare."],
+              ["(5)","Sancţiunea stabilită trebuie să fie proporţională cu gradul de pericol social al faptei săvârşite."],
+              ["(6)","Sancţiunile complementare se aplică în funcţie de natura şi de gravitatea faptei."],
+              ["(7)","Pentru una şi aceeaşi contravenţie se poate aplica numai o sancţiune contravenţională principală şi una sau mai multe sancţiuni complementare."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["(1)","Avertismentul şi amenda contravenţională se pot aplica oricărui contravenient persoană fizică sau juridică."],
+              ["(2)","Prestarea unei activităţi în folosul comunităţii se poate aplica numai contravenienţilor persoane fizice."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["(1)","Avertismentul constă în atenţionarea verbală sau scrisă a contravenientului asupra pericolului social al faptei săvârşite, însoţită de recomandarea de a respecta dispoziţiile legale."],
+              ["(2)","Avertismentul se aplică în cazul în care fapta este de gravitate redusă."],
+              ["(3)","Avertismentul se poate aplica şi în cazul în care actul normativ de stabilire şi sancţionare a contravenţiei nu prevede această sancţiune."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["(1)","Amenda contravenţională are caracter administrativ."],
+              ["(2)","Limita minimă a amenzii contravenţionale este de 25 lei RON, iar limita maximă nu poate depăşi:"],
+              ["a)","100.000 lei RON, în cazul contravenţiilor stabilite prin lege şi ordonanţă;"],
+              ["b)","50.000 lei RON, în cazul contravenţiilor stabilite prin hotărâri ale Guvernului;"],
+              ["c)","10.000 lei, în cazul contravenţiilor stabilite prin hotărâri ale consiliilor judeţene ori ale Consiliului General al Municipiului Bucureşti;"],
+              ["d)","5.000 lei, în cazul contravenţiilor stabilite prin hotărâri ale consiliilor locale ale comunelor, oraşelor, municipiilor şi ale sectoarelor municipiului Bucureşti."],
+              ["(3)","Sumele provenite din amenzile aplicate persoanelor juridice în conformitate cu legislaţia în vigoare se fac venit integral la bugetul de stat, cu excepţia celor aplicate, potrivit legii, de autorităţile administraţiei publice locale şi amenzilor privind circulaţia pe drumurile publice, care se fac venit integral la bugetele locale ale unităţii/subdiviziunii administrativ-teritoriale în care contravenientul îşi are domiciliul sau sediul, după caz."],
+              ["(4)","Sumele provenite din amenzile aplicate persoanelor fizice în conformitate cu legislaţia în vigoare se fac venit integral la bugetele locale ale unităţii/subdiviziunii administrativ-teritoriale în care contravenientul îşi are domiciliul."],
+              ["(5)","Sumele provenite din amenzile aplicate persoanelor fizice fără domiciliu în România şi persoanelor juridice fără sediu în România se fac venit la bugetul de stat."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9",
+            "items": [
+              ["(1)","Prestarea unei activităţi în folosul comunităţii poate fi stabilită numai prin lege şi numai pe o durată ce nu poate depăşi 300 de ore."],
+              ["(2)","Sancţiunea prevăzută la alin. (1) se stabileşte alternativ cu amenda."],
+              ["(3)","În cazul în care contravenientul persoană fizică nu a achitat amenda în termen de 30 de zile de la rămânerea definitivă a sancţiunii şi nu există posibilitatea executării silite, organul de specialitate al unităţii administrativ-teritoriale prevăzut la art. 39 alin. (2) lit. a) în a cărui rază teritorială domiciliază contravenientul va sesiza instanţa judecătorească în a cărei circumscripţie domiciliază acesta, în vederea înlocuirii amenzii cu sancţiunea obligării contravenientului la prestarea unei activităţi în folosul comunităţii, ţinându-se seama de partea din amendă care a fost achitată."],
+              ["(4)","La primul termen de judecată, instanţa, cu citarea contravenientului, poate acorda acestuia, la cerere, un termen de 30 de zile, în vederea achitării integrale a amenzii."],
+              ["(5)","În cazul în care contravenientul nu achită amenda în termenul prevăzut la alin. (4), instanţa procedează la înlocuirea amenzii cu sancţiunea obligării la prestarea unei activităţi în folosul comunităţii."],
+              ["(6)","Hotărârea prin care s-a aplicat sancţiunea prestării unei activităţi în folosul comunităţii este supusă numai apelului."]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["(1)","Dacă aceeaşi persoană a săvârşit mai multe contravenţii sancţiunea se aplică pentru fiecare contravenţie."],
+              ["(2)","Când contravenţiile au fost constatate prin acelaşi proces-verbal, sancţiunile contravenţionale se cumulează fără a putea depăşi dublul maximului amenzii prevăzut pentru contravenţia cea mai gravă sau, după caz, maximul general stabilit în prezenta ordonanţă pentru prestarea unei activităţi în folosul comunităţii."],
+              ["(3)","În cazul în care la săvârşirea unei contravenţii au participat mai multe persoane, sancţiunea se va aplica fiecăreia separat."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["(1)","Caracterul contravenţional al faptei este înlăturat în cazul legitimei apărări, stării de necesitate, constrângerii fizice sau morale, cazului fortuit, iresponsabilităţii, beţiei involuntare complete, erorii de fapt, precum şi infirmităţii, dacă are legătură cu fapta săvârşită."],
+              ["(2)","Minorul sub 14 ani nu răspunde contravenţional."],
+              ["(3)","Pentru contravenţiile săvârşite de minorii care au împlinit 14 ani minimul şi maximul amenzii stabilite în actul normativ pentru fapta săvârşită se reduc la jumătate."],
+              ["(4)","Minorul care nu a împlinit vârsta de 16 ani nu poate fi sancţionat cu prestarea unei activităţi în folosul comunităţii."],
+              ["(5)","Cauzele care înlătură caracterul contravenţional al faptei se constată numai de instanţa de judecată."]
+            ]
+          },
+          {
+            "no": "12",
+            "label": "Art. 12",
+            "items": [
+              ["(1)","Dacă printr-un act normativ fapta nu mai este considerată contravenţie, ea nu se mai sancţionează, chiar dacă a fost săvârşită înainte de data intrării în vigoare a noului act normativ."],
+              ["","Declarat parţial neconstituţional la data de 13/03/2007 prin Decizia nr. 228/2007 referitoare la admiterea excepţiei de neconstituţionalitate a dispoziţiilor art. 12 alin. (1) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor (M.Of. partea I nr. 283 din 27/04/2007) D E C I D E: -"],
+              ["","Admite excepţia de neconstituţionalitate şi constată că dispoziţiile art. 12 alin. (1) din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor sunt neconstituţionale în măsura în care prin sintagma \"nu se mai sancţionează\" prevăzută în text se înţelege doar aplicarea sancţiunii contravenţionale, nu şi executarea acesteia. Excepţia a fost invocată de Societatea Comercială \"P.D. Gemma Com\" - S.R.L. din Oraviţa în Dosarul nr. 5.285/115/2006 al Tribunalului Caraş-Severin."],
+              ["(2)","Dacă sancţiunea prevăzută în noul act normativ este mai uşoară se va aplica aceasta. În cazul în care noul act normativ prevede o sancţiune mai gravă, contravenţia săvârşită anterior va fi sancţionată conform dispoziţiilor actului normativ în vigoare la data săvârşirii acesteia."]
+            ]
+          },
+          {
+            "no": "13",
+            "label": "Art. 13",
+            "items": [
+              ["(1)","Aplicarea sancţiunii amenzii contravenţionale se prescrie în termen de 6 luni de la data săvârşirii faptei."],
+              ["(2)","În cazul contravenţiilor continue, termenul prevăzut la alin. (1) curge de la data încetării săvârşirii faptei. Contravenţia este continuă în situaţia în care încălcarea obligaţiei legale durează în timp."],
+              ["(3)","Când fapta a fost urmărită ca infracţiune şi ulterior s-a stabilit că ea constituie contravenţie, prescripţia aplicării sancţiunii nu curge pe tot timpul în care cauza s-a aflat în faţa organelor de cercetare sau de urmărire penală ori în faţa instanţei de judecată, dacă sesizarea s-a făcut înăuntrul termenului prevăzut la alin. (1) sau (2). Prescripţia operează totuşi dacă sancţiunea nu a fost aplicată în termen de un an de la data săvârşirii, respectiv constatării faptei, dacă prin lege nu se dispune altfel."],
+              ["(4)","Prin legi speciale pot fi prevăzute şi alte termene de prescripţie pentru aplicarea sancţiunilor contravenţionale."]
+            ]
+          },
+          {
+            "no": "14",
+            "label": "Art. 14",
+            "items": [
+              ["(1)","Executarea sancţiunilor contravenţionale se prescrie dacă procesul-verbal de constatare a contravenţiei nu a fost comunicat contravenientului în termen de cel mult două luni de la data aplicării sancţiunii."],
+              ["(2)","Prescripţia executării sancţiunilor contravenţionale poate fi constatată chiar şi de instanţa învestită cu soluţionarea plângerii contravenţionale."]
+            ]
+          },
+          {
+            "no": "15",
+            "label": "Art. 15",
+            "items": [
+              ["(1)","Contravenţia se constată printr-un proces-verbal încheiat de persoanele anume prevăzute în actul normativ care stabileşte şi sancţionează contravenţia, denumite în mod generic agenţi constatatori."],
+              ["(2)","Pot fi agenţi constatatori: primarii, ofiţerii şi subofiţerii din cadrul Ministerului de Interne, special abilitaţi, persoanele împuternicite în acest scop de miniştri şi de alţi conducători ai autorităţilor administraţiei publice centrale, de prefecţi, preşedinţi ai consiliilor judeţene, primari, de primarul general al municipiului Bucureşti, precum şi de alte persoane prevăzute în legi speciale."],
+              ["(3)","Ofiţerii şi subofiţerii din cadrul Ministerului de Interne constată contravenţii privind: apărarea ordinii publice; circulaţia pe drumurile publice; regulile generale de comerţ; vânzarea, circulaţia şi transportul produselor alimentare şi nealimentare, ţigărilor şi băuturilor alcoolice; alte domenii de activitate stabilite prin lege sau prin hotărâre a Guvernului."]
+            ]
+          },
+          {
+            "no": "16",
+            "label": "Art. 16",
+            "items": [
+              ["(1)","Procesul-verbal de constatare a contravenţiei va cuprinde în mod obligatoriu: data şi locul unde este încheiat; numele, prenumele, calitatea şi instituţia din care face parte agentul constatator; numele, prenumele, domiciliul şi codul numeric personal ale contravenientului, descrierea faptei contravenţionale cu indicarea datei, orei şi locului în care a fost săvârşită, precum şi arătarea împrejurărilor care pot servi la aprecierea gravităţii faptei şi la evaluarea eventualelor pagube pricinuite; indicarea actului normativ prin care se stabileşte şi se sancţionează contravenţia; indicarea societăţii de asigurări, în situaţia în care fapta a avut ca urmare producerea unui accident de circulaţie; posibilitatea achitării, în termen de 15 zile de la data înmânării sau comunicării procesului-verbal, a jumătate din minimul amenzii prevăzute de actul normativ; termenul de exercitare a căii de atac şi instanţa la care se depune plângerea."],
+              ["(1¹)","În cazul contravenienţilor cetăţeni străini, persoane fără cetăţenie sau cetăţeni români cu domiciliul în străinătate, în procesul-verbal vor fi cuprinse şi următoarele date: seria şi numărul paşaportului ori ale altui document de trecere a frontierei de stat, data eliberării acestuia şi statul emitent."],
+              ["(2)","«abrogat»"],
+              ["(3)","«abrogat»"],
+              ["(4)","«abrogat»"],
+              ["(5)","În cazul în care contravenientul este minor procesul-verbal va cuprinde şi numele, prenumele şi domiciliul părinţilor sau ale altor reprezentanţi ori ocrotitori legali ai acestuia."],
+              ["(6)","În situaţia în care contravenientul este persoană juridică în procesul-verbal se vor face menţiuni cu privire la denumirea, sediul, numărul de înmatriculare în registrul comerţului şi codul fiscal ale acesteia, precum şi datele de identificare a persoanei care o reprezintă."],
+              ["(7)","În momentul încheierii procesului-verbal agentul constatator este obligat să aducă la cunoştinţă contravenientului dreptul de a face obiecţiuni cu privire la conţinutul actului de constatare. Obiecţiunile sunt consemnate distinct în procesul-verbal la rubrica \"Alte menţiuni\", sub sancţiunea nulităţii procesului-verbal."]
+            ]
+          },
+          {
+            "no": "17",
+            "label": "Art. 17",
+            "items": [
+              ["","Lipsa uneia dintre menţiunile privind numele şi prenumele agentului constatator, numele şi prenumele contravenientului, codul numeric personal pentru persoanele care au atribuit un asemenea cod, iar, în cazul persoanei juridice, lipsa denumirii şi a sediului acesteia, a faptei săvârşite şi a datei comiterii acesteia sau a semnăturii agentului constatator atrage nulitatea procesului-verbal. Nulitatea se constată şi din oficiu."]
+            ]
+          },
+          {
+            "no": "18",
+            "label": "Art. 18",
+            "items": [
+              ["","Contravenientul este obligat să prezinte agentului constatator, la cerere, actul de identitate ori documentele în baza cărora se fac menţiunile prevăzute la art. 16 alin. (1) şi (1 1 ). În caz de refuz, pentru legitimarea contravenientului, agentul constatator poate apela la poliţişti, jandarmi sau poliţişti locali."]
+            ]
+          },
+          {
+            "no": "19",
+            "label": "Art. 19",
+            "items": [
+              ["(1)","Procesul-verbal se semnează pe fiecare pagină de agentul constatator şi de contravenient. În cazul în care contravenientul nu se află de faţă, refuză sau nu poate să semneze, agentul constatator va face menţiune despre aceste împrejurări, care trebuie să fie confirmate de cel puţin un martor. În acest caz procesul-verbal va cuprinde şi datele personale din actul de identitate al martorului şi semnătura acestuia."],
+              ["(2)","Nu poate avea calitatea de martor un alt agent constatator."],
+              ["(3)","În lipsa unui martor agentul constatator va preciza motivele care au condus la încheierea procesului-verbal în acest mod."],
+              ["(4)","În cazul în care contravenientul refuza sau nu poate sa semneze procesul-verbal si aceste împrejurari sunt înregistrate cu mijloace audio-video ale organului din care face parte agentul constatator, acesta va mentiona împrejurarile în procesul-verbal fara a mai fi necesara confirmarea lor de catre un martor."]
+            ]
+          },
+          {
+            "no": "20",
+            "label": "Art. 20",
+            "items": [
+              ["(1)","Dacă o persoană săvârşeşte mai multe contravenţii constatate în acelaşi timp de acelaşi agent constatator, se încheie un singur proces-verbal."],
+              ["(2)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21",
+            "items": [
+              ["(1)","În cazul în care prin actul normativ de stabilire şi sancţionare a contravenţiilor nu se prevede altfel, agentul constatator, prin procesul-verbal de constatare, aplică şi sancţiunea."],
+              ["(2)","Dacă, potrivit actului normativ de stabilire şi sancţionare a contravenţiei, agentul constatator nu are dreptul să aplice şi sancţiunea, procesul-verbal de constatare se trimite de îndată organului sau persoanei competente să aplice sancţiunea. În acest caz sancţiunea se aplică prin rezoluţie scrisă pe procesul-verbal."],
+              ["(3)","Sancţiunea se aplică în limitele prevăzute de actul normativ şi trebuie să fie proporţională cu gradul de pericol social al faptei săvârşite, ţinându-se seama de împrejurările în care a fost săvârşită fapta, de modul şi mijloacele de săvârşire a acesteia, de scopul urmărit, de urmarea produsă, precum şi de circumstanţele personale ale contravenientului şi de celelalte date înscrise în procesul-verbal."]
+            ]
+          },
+          {
+            "no": "23",
+            "label": "Art. 23",
+            "items": [
+              ["(1)","În cazul în care prin săvârşirea contravenţiei s-a cauzat o pagubă şi există tarife de evaluare a acesteia, persoana împuternicită să aplice sancţiunea stabileşte şi despăgubirea, cu acordul expres al persoanei vătămate, făcând menţiunea corespunzătoare în procesul-verbal."],
+              ["(2)","Dacă nu există tarif de evaluare a pagubei persoana vătămată îşi va putea valorifica pretenţiile potrivit dreptului comun."]
+            ]
+          },
+          {
+            "no": "24",
+            "label": "Art. 24",
+            "items": [
+              ["(1)","Persoana împuternicită să aplice sancţiunea dispune şi confiscarea bunurilor destinate, folosite sau rezultate din contravenţii. În toate situaţiile agentul constatator va descrie în procesul-verbal bunurile supuse confiscării şi va lua în privinţa lor măsurile de conservare sau de valorificare prevăzute de lege, făcând menţiunile corespunzătoare în procesul-verbal."],
+              ["(2)","În cazul în care bunurile nu se găsesc contravenientul este obligat la plata contravalorii lor în lei."],
+              ["(3)","Agentul constatator are obligaţia să stabilească cine este proprietarul bunurilor confiscate şi, dacă acestea aparţin unei alte persoane decât contravenientul, în procesul-verbal se vor menţiona, dacă este posibil, datele de identificare a proprietarului sau se vor preciza motivele pentru care identificarea nu a fost posibilă."]
+            ]
+          },
+          {
+            "no": "25",
+            "label": "Art. 25",
+            "items": [
+              ["(1)","Procesul-verbal se va înmâna sau, după caz, se va comunica, în copie, contravenientului şi, dacă este cazul, părţii vătămate şi proprietarului bunurilor confiscate."],
+              ["(1¹)","Procesul-verbal se considera comunicat pe loc în cazul în care contravenientul este prezent la încheierea acestuia, refuza primirea si aceste împrejurari sunt înregistrate cu mijloace audio-video ale organului din care face parte agentul constatator. Contravenientul poate obtine o copie a procesuluiverbal de la autoritatea din care face parte agentul constatator."],
+              ["(1²)","În cazul în care contravenientul nu este prezent sau, deşi prezent, refuză primirea procesului-verbal şi aceste împrejurări nu sunt înregistrate cu mijloace audio-video ale organului din care face parte agentul constatator, comunicarea procesului-verbal se face de către agentul constatator, în termen de cel mult două luni de la data încheierii acestuia."],
+              ["(2)","Comunicarea se face de către organul care a aplicat sancţiunea, în termen de cel mult două luni de la data aplicării acesteia."],
+              ["(3)","Procesul-verbal de constatare a contravenţiei este titlu de creanţă şi înştiinţare de plată."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26",
+            "items": [
+              ["(1)","Dacă agentul constatator aplică şi sancţiunea, iar contravenientul este prezent la încheierea procesului-verbal, copia de pe acesta se înmânează contravenientului, făcându-se menţiune în acest sens în procesul-verbal. Contravenientul va semna de primire."],
+              ["(2)","Dispoziţiile alin. (1) se aplică şi faţă de celelalte persoane cărora trebuie să li se comunice copia de pe procesul-verbal, dacă sunt prezente la încheierea acestuia."],
+              ["(3)","În cazul în care contravenientul nu este prezent sau, deşi prezent, refuză să semneze procesul-verbal, comunicarea acestuia se face de către agentul constatator, în termen de cel mult două luni de la data încheierii."]
+            ]
+          },
+          {
+            "no": "27",
+            "label": "Art. 27",
+            "items": [
+              ["","Comunicarea procesului-verbal se face prin poştă, cu aviz de primire, sau prin afişare la domiciliul sau la sediul contravenientului. Operaţiunea de afişare se consemnează într-un proces-verbal, semnat de cel puţin un martor."],
+              ["(2)","Nu este necesara semnarea procesului-verbal de catre un martor atunci când procedura de afisare este înregistrata cu mijloace audio-video ale organului din care face parte agentul constatator."]
+            ]
+          },
+          {
+            "no": "28",
+            "label": "Art. 28",
+            "items": [
+              ["(1)","Contravenientul poate achita, în termen de cel mult 15 zile de la data înmânării sau comunicării procesului- verbal, jumătate din minimul amenzii prevăzute de actul normativ, agentul constatator făcând menţiune despre această posibilitate în procesul-verbal."],
+              ["(1¹)","Pentru amenzile aplicate în domeniul autorizării executării lucrărilor de construcţii şi urbanismului, contravenientul poate achita jumătate din cuantumul amenzii aplicate de agentul constatator, în termen de cel mult 15 zile de la data înmânării sau comunicării procesului-verbal, agentul constatator făcând menţiune expresă despre această posibilitate în cuprinsul procesului-verbal, cu excepţia situaţiilor în care sunt executate lucrări fără autorizaţia de construire sau desfiinţare cerută de lege sau cu nerespectarea prevederilor acestora."],
+              ["(2)","Amenzile care se cuvin bugetului de stat pot fi achitate, prin mijloace de plată online, în conturile dedicate, la instituţiile de credit autorizate cu care există încheiate convenţii sau la unităţile Trezoreriei Statului, iar amenzile cuvenite bugetelor locale se achită, prin mijloace de plată online, prin instituţii de credit autorizate cu care există încheiate convenţii sau la casieriile autorităţilor administraţiei publice locale ori ale altor instituţii publice abilitate să administreze veniturile bugetelor locale indiferent de localitatea pe a cărei rază acestea funcţionează, de cetăţenia, domiciliul sau de reşedinţa contravenientului ori de locul săvârşirii contravenţiei, precum şi la ghişeul unic din punctele de trecere a frontierei de stat a României. O copie de pe chitanţă se predă de către contravenient agentului constatator sau se trimite prin poştă sau electronic, prin e-mail, organului din care acesta face parte, potrivit dispoziţiilor alin. (1)."],
+              ["(3)","Plata amenzilor contravenţionale achitate prin intermediul sistemelor electronice de plată prevăzute de lege se dovedeşte prin prezentarea extrasului de cont al plătitorului sau a dovezii de plată emise de către sistemele de plăţi, aceasta specificând data şi ora efectuării plăţii; în aceste situaţii se elimină obligativitatea pentru plătitor de a preda o copie de pe extrasul de cont sau de pe dovada de plată emisă de sistemul de plăţi către agentul constatator sau organul din care acesta face parte."]
+            ]
+          },
+          {
+            "no": "29",
+            "label": "Art. 29",
+            "items": [
+              ["","Dispoziţiile art. 28 se aplică şi în cazurile prevăzute la art. 10 alin. (2), dacă contravenientul achită jumătate din minimul amenzii prevăzute de actul normativ pentru fiecare dintre contravenţiile constatate, fără ca prin totalizare să se depăşească maximul prevăzut pentru contravenţia cea mai gravă."]
+            ]
+          },
+          {
+            "no": "30",
+            "label": "Art. 30",
+            "items": [
+              ["(1)","Dacă persoana împuternicită să aplice sancţiunea apreciază că fapta a fost săvârşită în astfel de condiţii încât, potrivit legii penale, constituie infracţiune, sesizează organul de urmărire penală competent."],
+              ["(2)","În cazul în care fapta a fost urmărită ca infracţiune şi ulterior s-a stabilit de către procuror sau de către instanţă că ea ar putea constitui contravenţie, actul de sesizare sau de constatare a faptei, împreună cu o copie de pe rezoluţia, ordonanţa sau, după caz, de pe hotărârea judecătorească, se trimite de îndată organului în drept să constate contravenţia, pentru a lua măsurile ce se impun conform legii."],
+              ["(3)","Termenul de 6 luni pentru aplicarea sancţiunii în cazul prevăzut la alin. (2) curge de la data sesizării organului în drept să aplice sancţiunea."]
+            ]
+          },
+          {
+            "no": "31",
+            "label": "Art. 31",
+            "items": [
+              ["(1)","Împotriva procesului-verbal de constatare a contravenţiei şi de aplicare a sancţiunii se poate face plângere în termen de 15 zile de la data înmânării sau comunicării acestuia."],
+              ["(2)","Partea vătămată poate face plângere numai în ceea ce priveşte despăgubirea, iar cel căruia îi aparţin bunurile confiscate, altul decât contravenientul, numai în ceea ce priveşte măsura confiscării."]
+            ]
+          },
+          {
+            "no": "32",
+            "label": "Art. 32",
+            "items": [
+              ["(1)","Plângerea se depune şi se soluţionează în baza competenţei alternative la judecătoria în a cărei circumscripţie a fost săvârşită contravenţia ori la judecătoria în a cărei rază teritorială îşi are domiciliul sau sediul contravenientul."],
+              ["(2)","Controlul aplicării şi executării sancţiunilor contravenţionale principale şi complementare este de competenţa exclusivă a instanţei prevăzute la alin. (1)."],
+              ["(3)","Plângerea suspendă executarea. Plângerea persoanelor prevăzute la art. 31 alin. (2) suspendă executarea numai în ceea ce priveşte despăgubirea sau, după caz, măsura confiscării."]
+            ]
+          },
+          {
+            "no": "33",
+            "label": "Art. 33",
+            "items": [
+              ["(1)","Judecătoria va fixa termen de judecată, care nu va depăşi 30 de zile, şi va dispune citarea contravenientului sau, după caz, a persoanei care a făcut plângerea, a organului care a aplicat sancţiunea, a martorilor indicaţi în procesul-verbal sau în plângere, precum şi a oricăror alte persoane în măsură să contribuie la rezolvarea temeinică a cauzei."],
+              ["(2)","În cazul în care fapta a avut ca urmare producerea unui accident de circulaţie, judecătoria va cita şi societatea de asigurări menţionată în procesul-verbal de constatare a contravenţiei."]
+            ]
+          },
+          {
+            "no": "34",
+            "label": "Art. 34",
+            "items": [
+              ["(1)","Instanţa competentă să soluţioneze plângerea, după ce verifică dacă aceasta a fost introdusă în termen, ascultă pe cel care a făcut-o şi pe celelalte persoane citate, dacă aceştia s-au prezentat, administrează orice alte probe prevăzute de lege, necesare în vederea verificării legalităţii şi temeiniciei procesului-verbal, şi hotărăşte asupra sancţiunii, despăgubirii stabilite, precum şi asupra măsurii confiscării. Dispoziţiile art. 236 1 şi ale art. 405 din Codul de procedură civilă nu sunt aplicabile."],
+              ["(2)","Dacă prin lege nu se prevede altfel, hotărârea prin care s-a soluţionat plângerea poate fi atacată numai cu apel. Apelul se soluţionează de secţia de contencios administrativ şi fiscal a tribunalului. Motivarea apelului nu este obligatorie. Motivele de apel pot fi susţinute şi oral în faţa instanţei. Apelul suspendă executarea hotărârii."]
+            ]
+          },
+          {
+            "no": "35",
+            "label": "Art. 35",
+            "items": [
+              ["","Plângerile împotriva proceselor-verbale de constatare şi sancţionare a contravenţiilor se soluţionează cu precădere."]
+            ]
+          },
+          {
+            "no": "36",
+            "label": "Art. 36",
+            "items": [
+              ["","Pentru plângerea împotriva procesului-verbal de constatare şi sancţionare a contravenţiei, pentru recursul formulat împotriva hotărârii judecătoreşti prin care s-a soluţionat plângerea, precum şi pentru orice alte cereri incidente se percep taxele judiciare de timbru prevăzute de lege."]
+            ]
+          },
+          {
+            "no": "37",
+            "label": "Art. 37",
+            "items": [
+              ["","Procesul-verbal neatacat în termenul prevăzut la art. 31, precum şi hotărârea judecătorească definitivă prin care s-a soluţionat plângerea constituie titlu executoriu, fără vreo altă formalitate."]
+            ]
+          },
+          {
+            "no": "38",
+            "label": "Art. 38",
+            "items": [
+              ["(1)","Avertismentul se adresează oral atunci când contravenientul este prezent la constatarea contravenţiei şi sancţiunea este aplicată de agentul constatator."],
+              ["(2)","În celelalte cazuri avertismentul se socoteşte executat prin comunicarea procesului-verbal de constatare a contravenţiei, cu rezoluţia corespunzătoare."],
+              ["(3)","Dacă sancţiunea a fost aplicată de instanţă prin înlocuirea amenzii contravenţionale cu avertisment, comunicarea acesteia se face prin încunoştinţare scrisă."]
+            ]
+          },
+          {
+            "no": "39",
+            "label": "Art. 39",
+            "items": [
+              ["(1)","Punerea în executare a sancţiunii amenzii contravenţionale se face astfel:"],
+              ["a)","de către organul din care face parte agentul constatator, ori de câte ori nu se exercită calea de atac împotriva procesului-verbal de constatare a contravenţiei în termenul prevăzut de lege;"],
+              ["b)","de către instanţa judecătorească, în celelalte cazuri."],
+              ["(2)","În vederea executării amenzii, organele prevăzute la alin. (1) vor comunica din oficiu procesul-verbal de constatare a contravenţiei şi de aplicare a sancţiunii, neatacat cu plângere în termenul legal, în termen de 30 de zile de la data expirării acestui termen, ori, după caz, dispozitivul hotărârii judecătoreşti definitive prin care s-a soluţionat plângerea, în termen de 30 de zile de la data la care hotărârea a devenit definitivă, astfel:"],
+              ["a)","pentru sumele care se fac venit integral la bugetele locale, organelor de specialitate ale unităţilor administrativ-teritoriale în a căror rază teritorială domiciliază contravenientul persoană fizică sau, după caz, îşi are domiciliul fiscal contravenientul persoană juridică;"],
+              ["b)","pentru sumele care se fac venit integral la bugetul de stat, organelor de specialitate ale unităţilor subordonate Ministerului Finanţelor Publice - Agenţia Naţională de Administrare Fiscală, în a căror rază teritorială îşi are domiciliul fiscal contravenientul persoană juridică."],
+              ["(3)","Executarea se face în condiţiile prevăzute de dispoziţiile legale privind executarea silită a creanţelor fiscale."],
+              ["(3¹)","În cazul în care contravenientul îşi schimbă domiciliul fiscal, organul fiscal local de la domiciliul anterior transferă organului fiscal local de la noul domiciliu dosarul fiscal al contravenientului cuprinzând titlurile executorii provenite din sancţiuni contravenţionale, neîncasate sau încasate parţial pentru diferenţă, precum şi orice alte acte de executare silită întocmite cu respectarea prevederilor legale."],
+              ["(3²)","Organul fiscal local de la noul domiciliu continuă procedura de executare silită în baza actelor administrative fiscale emise de organul fiscal local de la domiciliul fiscal anterior al contravenientului."],
+              ["(3³)","Sumele încasate în cursul procedurii de executare silită prevăzute la alin. (3 2 ) se fac venit la bugetul local al unităţii administrativ-teritoriale de la noul domiciliu fiscal al contravenientului.\""],
+              ["(4)","Împotriva actelor de executare se poate face contestaţie la executare, în condiţiile legii."]
+            ]
+          },
+          {
+            "no": "39^1",
+            "label": "Art. 39¹",
+            "items": [
+              ["(1)","În cazul în care contravenientul nu a achitat amenda în termen de 30 de zile de la rămânerea definitivă a sancţiunii şi nu există posibilitatea executării silite, acesta va sesiza instanţa în circumscripţia căreia s-a săvârşit contravenţia, în vederea înlocuirii amenzii cu sancţiunea prestării unei activităţi în folosul comunităţii, ţinându-se seama, după caz, şi de partea din amendă care a fost achitată."],
+              ["(2)","În cazul în care contravenientul, citat de instanţă, nu a achitat amenda în termenul prevăzut la alin. (1), instanţa procedează la înlocuirea amenzii cu sancţiunea prestării unei activităţi în folosul comunităţii pe o durată maximă de 50 de ore, iar pentru minori începând cu vârsta de 16 ani, de 25 de ore."],
+              ["(3)","Hotărârea prin care s-a aplicat sancţiunea prestării unei activităţi în folosul comunităţii este supusă recursului."],
+              ["(4)","Urmărirea punerii în executare a sentinţelor se realizează de către serviciul de executări civile de pe lângă judecătoria în a cărei rază s-a săvârşit contravenţia, în colaborare cu serviciile specializate din primării."]
+            ]
+          },
+          {
+            "no": "40",
+            "label": "Art. 40",
+            "items": [
+              ["","Executarea sancţiunilor contravenţionale complementare se face potrivit dispoziţiilor legale."]
+            ]
+          },
+          {
+            "no": "41",
+            "label": "Art. 41",
+            "items": [
+              ["(1)","Confiscarea se aduce la îndeplinire de organul care a dispus această măsură, în condiţiile legii."],
+              ["(2)","În caz de anulare sau de constatare a nulităţii procesului-verbal bunurile confiscate, cu excepţia celor a căror deţinere sau circulaţie este interzisă prin lege, se restituie de îndată celui în drept."],
+              ["(3)","Dacă bunurile prevăzute la alin. (2) au fost valorificate, instanţa va dispune să se achite celui în drept o despăgubire care se stabileşte în raport cu valoarea de circulaţie a bunurilor."]
+            ]
+          },
+          {
+            "no": "42",
+            "label": "Art. 42",
+            "items": [
+              ["","În scopul executării despăgubirii stabilite pe bază de tarif actele prevăzute la art. 39 alin. (2) se comunică şi părţii vătămate, care va proceda potrivit dispoziţiilor legale referitoare la executarea silită a creanţelor."]
+            ]
+          },
+          {
+            "no": "44",
+            "label": "Art. 44",
+            "items": [
+              ["(1)","Sancţiunile prevăzute în prezenta ordonanţă nu se aplică în cazul contravenţiilor săvârşite de militarii în termen. Procesul-verbal de constatare se trimite comandantului unităţii din care face parte contravenientul, pentru a i se aplica măsuri disciplinare, dacă se constată că acesta este întemeiat."],
+              ["(2)","Dacă prin contravenţia săvârşită de un militar în termen s-a produs o pagubă sau dacă sunt bunuri supuse confiscării, organul competent potrivit legii va stabili despăgubirea pe bază de tarif şi va dispune asupra confiscării. Câte o copie de pe procesul-verbal se comunică contravenientului, părţii vătămate şi celui căruia îi aparţin bunurile confiscate."]
+            ]
+          },
+          {
+            "no": "46",
+            "label": "Art. 46",
+            "items": [
+              ["","Ministerul Apărării Naţionale, Ministerul de Interne, precum şi celelalte autorităţi ale administraţiei publice care au structuri militare vor stabili prin regulamentele interne organele competente să constate şi să aplice sancţiunile în cazul contravenţiilor săvârşite de cadrele militare şi de angajaţii civili în legătură cu serviciul."]
+            ]
+          },
+          {
+            "no": "47",
+            "label": "Art. 47",
+            "items": [
+              ["","Dispoziţiile prezentei ordonanţe se completează cu dispoziţiile Codului penal şi ale Codului de procedură civilă, după caz."]
+            ]
+          },
+          {
+            "no": "48",
+            "label": "Art. 48",
+            "items": [
+              ["","Ori de câte ori într-o lege specială sau în alt act normativ anterior se face trimitere la Legea nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor, trimiterea se va socoti făcută la dispoziţiile corespunzătoare din prezenta ordonanţă."]
+            ]
+          },
+          {
+            "no": "49",
+            "label": "Art. 49",
+            "items": [
+              ["","Cauzele aflate în curs de soluţionare la data intrării în vigoare a prezentei ordonanţe vor continua să se judece potrivit legii aplicabile în momentul constatării contravenţiei."]
+            ]
+          },
+          {
+            "no": "50",
+            "label": "Art. 50",
+            "items": [
+              ["","Actele normative prin care se stabilesc contravenţii, în vigoare la data publicării prezentei ordonanţe în Monitorul Oficial al României, Partea I, vor fi modificate sau completate, dacă este cazul, în termen de 3 luni, potrivit prevederilor acesteia."]
+            ]
+          },
+          {
+            "no": "51",
+            "label": "Art. 51",
+            "items": [
+              ["(1)","Prezenta ordonanţă va intra în vigoare în termen de 30 de zile de la data publicării ei în Monitorul Oficial al României, Partea I."],
+              ["(2)","Pe aceeaşi dată se abrogă Legea nr. 32/1968 privind stabilirea şi sancţionarea contravenţiilor, publicată în Buletinul Oficial, Partea I, nr. 148 din 14 noiembrie 1968, cu modificările şi completările ulterioare, precum şi orice alte dispoziţii contrare."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

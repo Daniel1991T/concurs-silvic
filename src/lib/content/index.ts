@@ -1,6 +1,9 @@
 import "server-only";
+import { readFileSync } from "node:fs";
+import path from "node:path";
 import examJson from "../../../content/exams/inginer-silvic-ds-bacau.json";
-import { ExamSchema, type Exam, type Group, type ModuleRef } from "./schema";
+import { ExamSchema, type Exam, type Group, type ModuleContent, type ModuleRef } from "./schema";
+import { validateModule } from "./validate";
 
 /*
  * Singurul loc din aplicație care citește conținutul.
@@ -21,6 +24,27 @@ export function getModuleRef(id: string): ModuleRef | undefined {
 
 export function getGroup(id: string | undefined): Group | undefined {
   return id ? exam.groups.find((g) => g.id === id) : undefined;
+}
+
+const MODULES_DIR = path.join(process.cwd(), "content", "modules");
+const cache = new Map<string, ModuleContent>();
+
+/**
+ * Conținutul complet al unui modul. Aruncă o eroare (deci oprește build-ul)
+ * dacă JSON-ul nu respectă schema sau dacă o trimitere nu duce la niciun articol.
+ */
+export function getModule(id: string): ModuleContent {
+  const hit = cache.get(id);
+  if (hit) return hit;
+  const ref = getModuleRef(id);
+  if (!ref || ref.status !== "ready") throw new Error(`Modulul „${id}” nu e în bibliografie sau nu are conținut.`);
+  const json: unknown = JSON.parse(readFileSync(path.join(MODULES_DIR, `${id}.json`), "utf8"));
+  const { module, errors } = validateModule(json, id);
+  if (!module || errors.length) {
+    throw new Error(`content/modules/${id}.json are ${errors.length} probleme:\n  - ${errors.join("\n  - ")}`);
+  }
+  cache.set(id, module);
+  return module;
 }
 
 /** Rândurile din bara laterală: module simple și grupuri pliabile, în ordinea bibliografiei. */

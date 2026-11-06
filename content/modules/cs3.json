@@ -1,0 +1,1373 @@
+{
+  "id": "cs3",
+  "title": "Codul silvic III – Integritatea FFN",
+  "act": "Legea 331/2024, Titlul III, cap. III (art. 36–60)",
+  "version": "Codul silvic consolidat la 29 octombrie 2026",
+  "intro": "Capitolul despre cum se apără suprafața pădurii: când se poate scoate definitiv sau ocupa temporar un teren din FFN, cine aprobă și cu ce plăți, cum se schimbă categoria de folosință, cum se vinde o pădure privată (preempțiunea) și cine are acces în pădure. Sunt multe cifre: 1 și 10 ha la aprobări, 3× și 5× la compensare, 500 și 300 m² la casele de vacanță.",
+  "lesson": [
+    {
+      "title": "1. Cadastru și ocupații",
+      "paragraphs": [
+        {
+          "text": "Proprietatea statului asupra FFN se intabulează la cererea administratorilor. Dacă lipsesc actele de proprietate, dovada se face cu **amenajamentele silvice în vigoare**.",
+          "refs": ["Cod art. 36 alin. (1)–(2)"]
+        },
+        {
+          "text": "Ocupațiile și litigiile se rezolvă amiabil sau în instanță. Administratorii FFN public trebuie să pornească procesele pentru ocupații în **maximum 5 ani** de la intrarea în vigoare a Codului, **fără taxă de timbru**.",
+          "refs": ["Cod art. 37"]
+        }
+      ],
+      "keep": ["Fără acte: proprietatea statului se dovedește cu amenajamentul","Ocupații: procese pornite în max. 5 ani, scutite de taxa de timbru"],
+      "quiz": [
+        {
+          "q": "Procesele pentru ocupații ale administratorilor FFN public sunt:",
+          "options": ["Cu taxă dublă", "Scutite de taxa de timbru", "Interzise", "Doar amiabile"],
+          "answer": 1,
+          "explain": "Scutite de taxa judiciară de timbru.",
+          "ref": "Cod art. 37 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "2. Reducerea suprafeței FFN",
+      "paragraphs": [
+        {
+          "text": "**Reducerea suprafeței FFN e interzisă**, cu excepția scoaterilor fără compensare de la art. 40. Orice act contrar e **nul de drept**.",
+          "refs": ["Cod art. 39 alin. (1)"]
+        },
+        {
+          "text": "Limitele sau suprafața FFN se pot modifica doar prin: aprobări de scoatere definitivă; corectarea limitelor pe hotarele materializate; schimbarea naturală a cursurilor de apă; măsurători mai precise; corectarea încadrărilor greșite dovedite.",
+          "refs": ["Cod art. 39 alin. (2)"]
+        },
+        {
+          "text": "Scoaterea definitivă e permisă **numai** pentru obiectivele de la art. 40 și 41, altfel actul e lovit de nulitate absolută.",
+          "refs": ["Cod art. 39 alin. (4)"]
+        }
+      ],
+      "keep": ["Reducerea FFN: interzisă, cu excepția art. 40","Scoatere definitivă: doar pentru obiectivele de la art. 40 și 41"],
+      "quiz": [
+        {
+          "q": "Limitele FFN se pot modifica dacă un râu își schimbă natural cursul?",
+          "options": ["Nu", "Da", "Doar prin HG", "Doar cu compensare"],
+          "answer": 1,
+          "explain": "E unul din cazurile de modificare.",
+          "ref": "Cod art. 39 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "3. Scoaterea definitivă fără compensare",
+      "paragraphs": [
+        {
+          "text": "Se poate reduce FFN, **fără teren în compensare**, pentru: obiective de **utilitate publică** (național, județean, local); rețeaua meteo și telecomunicațiile speciale; capacități de apărare strategice; securizarea frontierei și obiective MAI; obiective militare; exploatarea **lignitului** de interes național (aprobare prin **HG**); extracția de gaze de interes național; situri **UNESCO**; **cimitire** ale UAT; **lăcașuri de cult**.",
+          "refs": ["Cod art. 40 alin. (1)"]
+        },
+        {
+          "text": "Pentru terenurile **proprietate publică**, scoaterea se face fără compensare și **fără taxe** și fără celelalte obligații financiare.",
+          "refs": ["Cod art. 40 alin. (2)","Cod art. 45 alin. (5)"]
+        }
+      ],
+      "keep": ["Fără compensare: utilitate publică, apărare, frontieră, lignit (HG), gaze, UNESCO, cimitire, lăcașuri de cult","Teren public: fără compensare și fără taxe"],
+      "quiz": [
+        {
+          "q": "Scoaterea unui teren public pentru o bază militară:",
+          "options": [
+            "Cu compensare și taxe",
+            "Fără compensare și fără taxe",
+            "Interzisă",
+            "Doar ocupare temporară"
+          ],
+          "answer": 1,
+          "explain": "Art. 40 + art. 45 alin. (5).",
+          "ref": "Cod art. 40 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "4. Scoaterea definitivă cu compensare",
+      "paragraphs": [
+        {
+          "text": "Cu **teren în compensare** și plata anticipată a obligațiilor se pot scoate terenuri pentru: **exploatări miniere**; obiective turistice, sportive, medicale, sociale, lăcașe de cult (în extravilan, cu avizul arhitectului-șef de județ); **locuințe sau case de vacanță**; obiectivele vândute de Romsilva sau instalate în FFN înainte de 1990; monumente istorice, lucrări hidrotehnice și de acvacultură.",
+          "refs": ["Cod art. 41 alin. (1)"]
+        },
+        {
+          "text": "**Casele de vacanță**: doar pe **FFN privat**, **nu în județele deficitare**; casa și terenul aparțin aceleiași persoane; maximum **500 m²** (cu acces și împrejmuire) dacă proprietatea are peste 5 ha, sau **1% din proprietate, dar max. 300 m²** dacă are sub 5 ha.",
+          "refs": ["Cod art. 41 alin. (1)","Cod art. 41 alin. (2)"]
+        },
+        {
+          "text": "Terenul dat în compensare are cel puțin **de 3 ori suprafața** și **de 5 ori valoarea** terenului scos. Sub **50 m²** se poate plăti, în loc de teren, de **5 ori valoarea**. La rocile utile și substanțele nemetalifere, compensarea e cel puțin egală ca suprafață și valoare.",
+          "refs": ["Cod art. 41 alin. (3)","Cod art. 41 alin. (5)–(6)"]
+        },
+        {
+          "text": "Terenul de compensare e **din afara FFN, limitrof**, apt de împădurit; peste **10 ha** poate fi nelimitrof, dar compact. Nu se acceptă terenuri degradate, neproductive, de stepă, alpine sau subalpine. În județele cu sub **30%** pădure, compensarea se face **în același județ**.",
+          "refs": ["Cod art. 41 alin. (8)–(10)"]
+        },
+        {
+          "text": "Construcțiile la **sub 50 m de lizieră**, în afara FFN, se autorizează cu **avizul Gărzii** (excepție: obiectivele de interes național, județean, local).",
+          "refs": ["Cod art. 41 alin. (12)"]
+        },
+        {
+          "text": "Terenul scos devine al beneficiarului la predare-primire. **Destinația construcției nu se poate schimba 5 ani** de la recepția finală; altfel, Garda cere anularea aprobării și readucerea terenului la starea inițială.",
+          "refs": ["Cod art. 42 alin. (1)","Cod art. 42 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "Case de vacanță: FFN privat, nu în județe deficitare",
+        "Max. 500 m² (proprietate > 5 ha) / 1%, max. 300 m² (< 5 ha)",
+        "Compensare: 3× suprafața, 5× valoarea; sub 50 m²: plată de 5× valoarea",
+        "Teren de compensare: din afara FFN, limitrof (sau compact peste 10 ha)",
+        "Construcții la < 50 m de lizieră: aviz Gardă",
+        "Destinația obiectivului: neschimbată 5 ani"
+      ],
+      "quiz": [
+        {
+          "q": "O pensiune în pădure, în extravilan, cere și avizul:",
+          "options": ["Primarului", "Arhitectului-șef de județ", "Gărzii de Mediu", "ANCPI"],
+          "answer": 1,
+          "explain": "Avizul arhitectului-șef de județ.",
+          "ref": "Cod art. 41 alin. (1)"
+        },
+        {
+          "q": "Terenul de compensare devine:",
+          "options": [
+            "Teren agricol",
+            "Teren cu destinație forestieră, inclus în FFN",
+            "Intravilan",
+            "Proprietatea beneficiarului"
+          ],
+          "answer": 1,
+          "explain": "Intră în FFN.",
+          "ref": "Cod art. 41 alin. (9)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Casa în pădure (art. 41)",
+        "items": [
+          {
+            "title": "Unde",
+            "text": "doar FFN privat, nu în județe deficitare; casa și terenul ale aceleiași persoane",
+            "ref": "Cod art. 41 alin. (1)–(2)"
+          },
+          {
+            "title": "Cât",
+            "text": "> 5 ha: max. 500 m² · < 5 ha: 1%, max. 300 m²",
+            "ref": "Cod art. 41 alin. (2)"
+          },
+          {
+            "title": "Compensare",
+            "text": "teren ≥ 3× suprafața și 5× valoarea, limitrof FFN",
+            "ref": "Cod art. 41 alin. (3)"
+          },
+          {
+            "title": "După",
+            "text": "destinația nu se schimbă 5 ani de la recepție",
+            "ref": "Cod art. 42 alin. (3)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "5. Ocuparea temporară",
+      "paragraphs": [
+        {
+          "text": "Ocuparea temporară e permisă doar pe perioadă determinată, pentru: obiective de utilitate publică (transport, utilități, apă, energie, comunicații, gaze); explorări miniere, petrol și gaze, rețele de transport și distribuție; surse și rețele de apă și energie, comunicații, **parcuri recreative, tematice, educaționale**.",
+          "refs": ["Cod art. 38 alin. (1)"]
+        },
+        {
+          "text": "Se aprobă pe **maximum 10 ani**, cu prelungiri succesive de câte max. 10 ani. Pentru utilitatea publică și rețelele de petrol, gaze și energie care durează peste 10 ani se poate aproba pe toată durata existenței obiectivului.",
+          "refs": ["Cod art. 38 alin. (3)–(4)"]
+        },
+        {
+          "text": "**Chiria** pe fiecare an se plătește până la **31 ianuarie**. Durata ocupării pădurii include și timpul de readucere a terenului în stare de împădurire.",
+          "refs": ["Cod art. 38 alin. (5)","Cod art. 38 alin. (7)"]
+        },
+        {
+          "text": "Obligațiile financiare: **garanția** (egală cu taxa de scoatere cu compensare), chiria, pierderea de creștere, obiectivele dezafectate, reinstalarea vegetației. La terenurile statului, chiria se împarte: **30%** fondul de conservare și regenerare, **20%** administratorul, **50%** fondul de accesibilizare.",
+          "refs": ["Cod art. 46 alin. (1)"]
+        },
+        {
+          "text": "Dacă la final terenul nu e adus în starea cerută, **garanția se reține** și se dă ocolului pentru lucrări, pe deviz avizat de Gardă. Terenul se poate primi înapoi cu altă categorie de folosință doar dacă aprobarea o prevede și cu plata taxei de scoatere cu compensare.",
+          "refs": ["Cod art. 38 alin. (9)–(11)"]
+        }
+      ],
+      "keep": [
+        "Ocupare temporară: max. 10 ani, prelungiri de câte max. 10 ani",
+        "Chiria: până la 31 ianuarie, pentru anul în curs",
+        "Garanție = taxa de scoatere cu compensare",
+        "Chiria la stat: 30% fond regenerare, 20% administrator, 50% fond accesibilizare",
+        "Teren nereabilitat: garanția se reține"
+      ],
+      "quiz": [
+        {
+          "q": "Garanția la ocuparea temporară este egală cu:",
+          "options": [
+            "Chiria pe un an",
+            "Taxa de scoatere definitivă cu compensare",
+            "Valoarea lemnului",
+            "10% din investiție"
+          ],
+          "answer": 1,
+          "explain": "Echivalentă cu taxa de scoatere cu compensare.",
+          "ref": "Cod art. 46 alin. (1)"
+        },
+        {
+          "q": "Durata ocupării unei păduri include și:",
+          "options": [
+            "Doar construcția",
+            "Timpul de readucere a terenului în stare de împădurire",
+            "Perioada de garanție",
+            "Nimic altceva"
+          ],
+          "answer": 1,
+          "explain": "Include lucrările de redare.",
+          "ref": "Cod art. 38 alin. (7)"
+        }
+      ]
+    },
+    {
+      "title": "6. Cine aprobă și cum se predă terenul",
+      "paragraphs": [
+        {
+          "text": "Cererile de scoatere definitivă sau de ocupare temporară, cu **acordul proprietarului** și **avizul ocolului** (sau al Romsilva, la stat), se aprobă de: **conducătorul Gărzii** până la **1 ha** inclusiv; **conducătorul Autorității**, cu avizul Gărzii, între **1 și 10 ha**; **Guvernul**, peste **10 ha**.",
+          "refs": ["Cod art. 44 alin. (1)"]
+        },
+        {
+          "text": "Acordul proprietarului privat e act sub semnătură privată, dar pentru **explorări miniere, petrol și gaze** trebuie **formă autentică**. Dacă proprietarii sunt necunoscuți, acordul e suplinit de declarația inițiatorului, iar banii se consemnează într-un cont.",
+          "refs": ["Cod art. 44 alin. (2)–(5)"]
+        },
+        {
+          "text": "**Urgențe** (punerea în siguranță a drumurilor și căilor ferate, avarii la rețele): ocuparea o aprobă conducătorul Gărzii pe **max. 90 de zile**, **fără garanție**. Beneficiarul plătește apoi prejudiciul pe devizul ocolului, în **30 de zile**; devizul e titlu executoriu.",
+          "refs": ["Cod art. 44 alin. (6)–(8)"]
+        },
+        {
+          "text": "La scoaterea cu compensare se plătesc: **taxa de scoatere** (în fondul de ameliorare, înainte de aprobare), pierderea de creștere, obiectivele dezafectate, instalarea vegetației până la starea de masiv. Valoarea terenului nu se mai plătește când există compensare.",
+          "refs": ["Cod art. 45 alin. (1)"]
+        },
+        {
+          "text": "Predarea-primirea se face pe **proces-verbal** între beneficiar și ocol, **de față cu Garda**, după plată, în **max. 180 de zile** de la aprobare. Dacă terenul nu e preluat, aprobarea se revocă.",
+          "refs": ["Cod art. 45 alin. (3)–(4)","Cod art. 46 alin. (6)"]
+        },
+        {
+          "text": "Lemnul rezultat din defrișare revine **proprietarului** (privat sau UAT) sau **administratorului** (la stat).",
+          "refs": ["Cod art. 50"]
+        }
+      ],
+      "keep": [
+        "Aprobă: Garda ≤ 1 ha; Autoritatea 1–10 ha; Guvernul > 10 ha",
+        "Acord autentic pentru explorări miniere, petrol, gaze",
+        "Urgențe: Garda, max. 90 zile, fără garanție",
+        "Predare-primire cu Garda, în max. 180 zile",
+        "Lemnul revine proprietarului sau administratorului"
+      ],
+      "quiz": [
+        {
+          "q": "Dacă proprietarii sunt necunoscuți, acordul lor pentru ocupare e suplinit de:",
+          "options": [
+            "Primar",
+            "Declarația pe propria răspundere a inițiatorului proiectului",
+            "Gardă",
+            "Instanță"
+          ],
+          "answer": 1,
+          "explain": "Iar banii se consemnează într-un cont.",
+          "ref": "Cod art. 44 alin. (3)–(4)"
+        },
+        {
+          "q": "Predarea terenului scos din FFN se face:",
+          "options": ["Doar între beneficiar și ocol", "Pe PV, cu Garda de față", "La notar", "Fără act"],
+          "answer": 1,
+          "explain": "PV între beneficiar și ocol, în prezența Gărzii.",
+          "ref": "Cod art. 45 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Cine aprobă scoaterea sau ocuparea",
+        "levels": [
+          {
+            "who": "Conducătorul Gărzii",
+            "does": ["până la 1 ha inclusiv","urgențe: max. 90 de zile, fără garanție"],
+            "ref": "Cod art. 44 alin. (1)"
+          },
+          {
+            "who": "Conducătorul Autorității",
+            "does": ["1–10 ha inclusiv, cu avizul Gărzii"],
+            "ref": "Cod art. 44 alin. (1)"
+          },
+          {"who": "Guvernul", "does": ["peste 10 ha, cu avizul Gărzii"], "ref": "Cod art. 44 alin. (1)"}
+        ]
+      }
+    },
+    {
+      "title": "7. Schimbarea categoriei de folosință",
+      "paragraphs": [
+        {
+          "text": "Schimbarea dintr-o folosință silvică în alta, pe durata amenajamentului, se aprobă prin **ordin al conducătorului Autorității**.",
+          "refs": ["Cod art. 47 alin. (1)"]
+        },
+        {
+          "text": "Când se schimbă folosința **„pădure”**, se plătește o taxă egală cu **taxa de scoatere definitivă**.",
+          "refs": ["Cod art. 47 alin. (2)"]
+        },
+        {
+          "text": "Fără taxă: **drumuri forestiere** și corectarea torenților; **pepiniere** de max. **1 ha**; **depozite de lemn** de max. **1 ha**; instalații de cercetare; culoarul de frontieră; centre de antrenament ale apărării și ordinii publice; extinderea zonei de siguranță a liniilor electrice și a căilor de transport. Corectarea erorilor la amenajare e tot scutită.",
+          "refs": ["Cod art. 47 alin. (3)","Cod art. 47 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "Aprobare: ordin al conducătorului Autorității",
+        "De la „pădure”: taxă egală cu taxa de scoatere",
+        "Scutiri: drumuri forestiere, pepiniere și depozite de max. 1 ha, cercetare, frontieră"
+      ],
+      "quiz": [
+        {
+          "q": "Schimbarea folosinței pentru un drum forestier:",
+          "options": ["Plătește taxă", "Scutită de taxă", "Interzisă", "Aprobată de primar"],
+          "answer": 1,
+          "explain": "Drumurile forestiere sunt scutite.",
+          "ref": "Cod art. 47 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "8. Vânzare, concesionare, schimb, fragmentare",
+      "paragraphs": [
+        {
+          "text": "FFN **public al statului** nu poate deveni proprietate privată și nu se pot constitui dezmembrăminte pe el (nulitate absolută). Se poate **concesiona** doar terenul obiectivelor dinainte de 1990 sau al activelor vândute de Romsilva (max. **49 de ani**) sau al activelor închiriate de Romsilva (max. **5 ani**).",
+          "refs": ["Cod art. 51","Cod art. 52 alin. (1)"]
+        },
+        {
+          "text": "Pădurea privată se vinde respectând **preempțiunea**, în ordine: **coproprietarii**, **vecinii** din FFN, **statul prin Romsilva**, **UAT**. Vânzătorul îi anunță în scris prin **executor sau notar**; preemptorii răspund în **30 de zile**. Fără înștiințare sau la preț mai mic: **nulitate absolută**.",
+          "refs": ["Cod art. 53 alin. (1)–(5)"]
+        },
+        {
+          "text": "Romsilva cumpără până la **500 ha** la valorile maxime ale procedurii; peste 500 ha poate negocia cu cel mult **15%** în plus.",
+          "refs": ["Cod art. 55 alin. (2)–(3)"]
+        },
+        {
+          "text": "**Schimburile** de terenuri cu FFN public trebuie să elimine enclave, să comaseze, să crească pădurea în zone deficitare sau să fie echivalente valoric; se aprobă prin **ordin al Autorității**. În județele cu sub 30% pădure, doar în același județ.",
+          "refs": ["Cod art. 56"]
+        },
+        {
+          "text": "Pădurile **nu pot fi dezmembrate sau partajate sub 0,5 ha**, cu excepția scoaterilor de la art. 40–41.",
+          "refs": ["Cod art. 57"]
+        }
+      ],
+      "keep": [
+        "FFN public al statului: inalienabil",
+        "Concesiune: max. 49 ani (obiective dinainte de 1990, active vândute) / 5 ani (active închiriate)",
+        "Preempțiune: coproprietari → vecini → stat (Romsilva) → UAT; 30 de zile",
+        "Romsilva: până la 500 ha la valoarea maximă; peste, +15%",
+        "Fără dezmembrare sub 0,5 ha"
+      ],
+      "quiz": [
+        {
+          "q": "Terenul unui activ închiriat de Romsilva se poate concesiona pe maximum:",
+          "options": ["5 ani", "10 ani", "25 ani", "49 ani"],
+          "answer": 0,
+          "explain": "5 ani.",
+          "ref": "Cod art. 52 alin. (1)"
+        },
+        {
+          "q": "Cum se anunță preemptorii?",
+          "options": ["Verbal", "Prin executor judecătoresc sau notar", "Prin presă", "Prin Gardă"],
+          "answer": 1,
+          "explain": "În scris, prin executor sau notar (sau afișare la primărie).",
+          "ref": "Cod art. 53 alin. (2)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Vânzarea unei păduri private",
+        "steps": [
+          {
+            "title": "Ofertă scrisă",
+            "text": "prin executor sau notar, cu prețul, către toți preemptorii",
+            "ref": "Cod art. 53 alin. (2)"
+          },
+          {
+            "title": "30 de zile",
+            "text": "coproprietari → vecini → stat (Romsilva) → UAT",
+            "ref": "Cod art. 53 alin. (3)"
+          },
+          {
+            "title": "Niciun răspuns",
+            "text": "vânzarea e liberă; dovada la notar",
+            "ref": "Cod art. 53 alin. (4)"
+          },
+          {
+            "title": "Fără ofertă sau la preț mai mic",
+            "text": "nulitate absolută",
+            "ref": "Cod art. 53 alin. (5)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "9. Accesul în pădure",
+      "paragraphs": [
+        {
+          "text": "Accesul **pe jos sau cu bicicleta** e **liber**, pe propria răspundere. Proprietarul sau administratorul îl poate restricționa temporar (incendii, exploatări, vânătoare, protecție strictă), prin afișare la loc vizibil.",
+          "refs": ["Cod art. 58 alin. (1)–(3)"]
+        },
+        {
+          "text": "Potecile și traseele se amenajează cu acordul administratorului sau proprietarului, doar din **pământ, lemn și pietriș**, fără autorizație de construire; se pot tăia **max. 5 arbori/ha**.",
+          "refs": ["Cod art. 58 alin. (5)–(6)"]
+        },
+        {
+          "text": "Accesul public cu **vehicule cu motor sau cu tracțiune animală e interzis**. Excepții: evenimente organizate, în afara ariilor protejate, pe trasee marcate și cu acord; tranzitul pe drumurile forestiere spre obiective turistice, dacă proprietarul permite.",
+          "refs": ["Cod art. 58 alin. (7)–(9)"]
+        },
+        {
+          "text": "Lângă iazurile de decantare, drumurile forestiere au statut de **drum de servitute**, cu zonă de siguranță de max. **30 m**.",
+          "refs": ["Cod art. 58 alin. (10)"]
+        },
+        {
+          "text": "Au acces și: personalul silvic, de control, al ariilor protejate, al fondurilor cinegetice, al cercetării și IFN, al entităților care lucrează legal în FFN, **ONG-urile și jurnaliștii** (pe propria răspundere).",
+          "refs": ["Cod art. 59"]
+        }
+      ],
+      "keep": [
+        "Pe jos și cu bicicleta: liber",
+        "Poteci: pământ, lemn, pietriș; max. 5 arbori/ha",
+        "Vehicule cu motor sau atelaje: interzise (cu excepții)",
+        "Iazuri de decantare: zonă de siguranță max. 30 m",
+        "Acces și pentru ONG-uri și jurnaliști"
+      ],
+      "quiz": [
+        {
+          "q": "Un concurs de enduro organizat poate avea loc în pădure:",
+          "options": [
+            "Oriunde",
+            "Doar în afara ariilor protejate, pe trasee marcate, cu acord",
+            "Nu, niciodată",
+            "Doar în arii protejate"
+          ],
+          "answer": 1,
+          "explain": "Excepție condiționată.",
+          "ref": "Cod art. 58 alin. (8)"
+        },
+        {
+          "q": "Jurnaliștii au acces în FFN?",
+          "options": ["Nu", "Da, pe propria răspundere", "Doar cu Garda", "Doar cu acordul ministrului"],
+          "answer": 1,
+          "explain": "Da, pe răspunderea proprie.",
+          "ref": "Cod art. 59"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Aprobări și termene",
+      "rows": [
+        {
+          "what": "Aprobă scoaterea/ocuparea până la 1 ha",
+          "value": "conducătorul Gărzii",
+          "ref": "Cod art. 44 alin. (1)"
+        },
+        {
+          "what": "Între 1 și 10 ha",
+          "value": "conducătorul Autorității, cu avizul Gărzii",
+          "ref": "Cod art. 44 alin. (1)"
+        },
+        {"what": "Peste 10 ha", "value": "Guvernul", "ref": "Cod art. 44 alin. (1)"},
+        {
+          "what": "Ocupare în urgență",
+          "value": "Garda, max. 90 zile, fără garanție",
+          "ref": "Cod art. 44 alin. (6)"
+        },
+        {
+          "what": "Predare-primire după aprobare",
+          "value": "max. 180 zile, cu Garda",
+          "ref": "Cod art. 45 alin. (3)"
+        },
+        {
+          "what": "Ocupare temporară",
+          "value": "max. 10 ani (+ prelungiri de max. 10)",
+          "ref": "Cod art. 38 alin. (3)"
+        },
+        {"what": "Plata chiriei", "value": "până la 31 ianuarie", "ref": "Cod art. 38 alin. (5)"},
+        {
+          "what": "Destinația obiectivului construit",
+          "value": "neschimbată 5 ani de la recepție",
+          "ref": "Cod art. 42 alin. (3)"
+        },
+        {"what": "Răspunsul preemptorilor", "value": "30 de zile", "ref": "Cod art. 53 alin. (3)"}
+      ]
+    },
+    {
+      "title": "Cifre la scoatere și compensare",
+      "rows": [
+        {
+          "what": "Teren de compensare",
+          "value": "≥ 3× suprafața, 5× valoarea",
+          "ref": "Cod art. 41 alin. (3)"
+        },
+        {
+          "what": "Sub 50 m²",
+          "value": "plată de 5× valoarea, fără teren",
+          "ref": "Cod art. 41 alin. (5)"
+        },
+        {
+          "what": "Casă de vacanță, proprietate > 5 ha",
+          "value": "max. 500 m²",
+          "ref": "Cod art. 41 alin. (2)"
+        },
+        {
+          "what": "Casă de vacanță, proprietate < 5 ha",
+          "value": "1%, max. 300 m²",
+          "ref": "Cod art. 41 alin. (2)"
+        },
+        {
+          "what": "Compensare cu teren nelimitrof",
+          "value": "doar peste 10 ha, compact",
+          "ref": "Cod art. 41 alin. (8)"
+        },
+        {
+          "what": "Aviz Gardă pentru construcții",
+          "value": "la < 50 m de lizieră",
+          "ref": "Cod art. 41 alin. (12)"
+        },
+        {
+          "what": "Pepiniere și depozite fără taxă",
+          "value": "max. 1 ha",
+          "ref": "Cod art. 47 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "Bani și proprietate",
+      "rows": [
+        {
+          "what": "Chiria pe terenurile statului",
+          "value": "30% fond regenerare / 20% administrator / 50% fond accesibilizare",
+          "ref": "Cod art. 46 alin. (1)"
+        },
+        {
+          "what": "Garanția la ocupare temporară",
+          "value": "= taxa de scoatere cu compensare",
+          "ref": "Cod art. 46 alin. (1)"
+        },
+        {
+          "what": "Concesiunea terenului",
+          "value": "max. 49 ani / 5 ani (active închiriate)",
+          "ref": "Cod art. 52 alin. (1)"
+        },
+        {
+          "what": "Ordinea preempțiunii",
+          "value": "coproprietari, vecini, stat (Romsilva), UAT",
+          "ref": "Cod art. 53 alin. (1)"
+        },
+        {
+          "what": "Cumpărare Romsilva peste 500 ha",
+          "value": "+ max. 15% la negociere",
+          "ref": "Cod art. 55 alin. (3)"
+        },
+        {"what": "Fragmentare interzisă", "value": "sub 0,5 ha", "ref": "Cod art. 57"},
+        {"what": "Poteci în pădure", "value": "max. 5 arbori/ha", "ref": "Cod art. 58 alin. (6)"}
+      ]
+    }
+  ],
+  "tricks": [
+    "Aprobări „1-10”: până la 1 ha Garda, până la 10 ha Autoritatea, peste 10 ha Guvernul.",
+    "Compensarea „3 și 5”: de trei ori pământul, de cinci ori banii. Iar sub 50 m² plătești tot de cinci ori.",
+    "Chiria pe pădurea statului: „30-20-50”, cea mai mare parte merge la drumuri (accesibilizare).",
+    "Preempțiunea merge din interior spre exterior: coproprietar, vecin, stat, comună."
+  ],
+  "cards": [
+    {
+      "q": "Cum se dovedește proprietatea statului asupra FFN fără acte?",
+      "a": "Cu amenajamentele silvice în vigoare.",
+      "ref": "Cod art. 36 alin. (2)"
+    },
+    {
+      "q": "În cât timp trebuie pornite procesele pentru ocupații?",
+      "a": "Max. 5 ani de la intrarea în vigoare a Codului, fără taxă de timbru.",
+      "ref": "Cod art. 37"
+    },
+    {
+      "q": "Se poate reduce suprafața FFN?",
+      "a": "Nu, cu excepția scoaterilor fără compensare de la art. 40; actele contrare sunt nule de drept.",
+      "ref": "Cod art. 39 alin. (1)"
+    },
+    {
+      "q": "Dați 3 exemple de scoatere definitivă fără compensare.",
+      "a": "Utilitate publică, obiective militare, cimitire, lăcașuri de cult, situri UNESCO, lignit (prin HG).",
+      "ref": "Cod art. 40 alin. (1)"
+    },
+    {
+      "q": "Cum se aprobă scoaterea pentru exploatarea lignitului?",
+      "a": "Prin hotărâre de Guvern.",
+      "ref": "Cod art. 40 alin. (1)"
+    },
+    {
+      "q": "Unde nu se pot face case de vacanță în pădure?",
+      "a": "Pe FFN public și în județele deficitare în păduri.",
+      "ref": "Cod art. 41 alin. (1)"
+    },
+    {
+      "q": "Ce suprafață maximă se scoate pentru o casă, la o proprietate de 8 ha?",
+      "a": "500 m², cu acces și împrejmuire.",
+      "ref": "Cod art. 41 alin. (2)"
+    },
+    {
+      "q": "Și la o proprietate de 2 ha?",
+      "a": "1% din proprietate, adică 200 m² (max. 300 m²).",
+      "ref": "Cod art. 41 alin. (2)"
+    },
+    {
+      "q": "Ce condiții are terenul de compensare?",
+      "a": "Cel puțin 3× suprafața și 5× valoarea; din afara FFN, limitrof, apt de împădurit.",
+      "ref": "Cod art. 41 alin. (3)"
+    },
+    {
+      "q": "Când poți plăti în loc să dai teren în compensare?",
+      "a": "Sub 50 m²: plătești 5× valoarea terenului.",
+      "ref": "Cod art. 41 alin. (5)"
+    },
+    {
+      "q": "Cu ce terenuri nu se poate compensa?",
+      "a": "Degradate, neproductive, de stepă, alpine sau subalpine.",
+      "ref": "Cod art. 41 alin. (8)"
+    },
+    {
+      "q": "Unde se compensează în județele deficitare?",
+      "a": "Doar în același județ.",
+      "ref": "Cod art. 41 alin. (10)"
+    },
+    {
+      "q": "Ce aviz trebuie pentru o casă la 30 m de lizieră, în afara FFN?",
+      "a": "Avizul Gărzii Forestiere.",
+      "ref": "Cod art. 41 alin. (12)"
+    },
+    {
+      "q": "Cât timp nu se poate schimba destinația obiectivului construit pe teren scos din FFN?",
+      "a": "5 ani de la recepția finală.",
+      "ref": "Cod art. 42 alin. (3)"
+    },
+    {
+      "q": "Pe cât timp se aprobă ocuparea temporară?",
+      "a": "Max. 10 ani, cu prelungiri succesive de max. 10 ani.",
+      "ref": "Cod art. 38 alin. (3)"
+    },
+    {
+      "q": "Până când se plătește chiria pentru ocuparea temporară?",
+      "a": "Până la 31 ianuarie a anului pentru care se datorează.",
+      "ref": "Cod art. 38 alin. (5)"
+    },
+    {
+      "q": "Cum se împarte chiria pe terenurile statului?",
+      "a": "30% fondul de conservare și regenerare, 20% administratorul, 50% fondul de accesibilizare.",
+      "ref": "Cod art. 46 alin. (1)"
+    },
+    {
+      "q": "Ce se întâmplă cu garanția dacă terenul nu e adus în starea cerută?",
+      "a": "Se reține și se dă ocolului pentru lucrări, pe deviz avizat de Gardă.",
+      "ref": "Cod art. 38 alin. (10)–(11)"
+    },
+    {
+      "q": "Cine aprobă ocuparea a 0,6 ha?",
+      "a": "Conducătorul Gărzii Forestiere.",
+      "ref": "Cod art. 44 alin. (1)"
+    },
+    {
+      "q": "Cine aprobă scoaterea a 4 ha?",
+      "a": "Conducătorul Autorității, cu avizul Gărzii.",
+      "ref": "Cod art. 44 alin. (1)"
+    },
+    {"q": "Cine aprobă scoaterea a 15 ha?", "a": "Guvernul.", "ref": "Cod art. 44 alin. (1)"},
+    {
+      "q": "Ce formă are acordul proprietarului pentru explorări de petrol?",
+      "a": "Formă autentică.",
+      "ref": "Cod art. 44 alin. (5)"
+    },
+    {
+      "q": "Cum se aprobă o ocupare urgentă după o avarie?",
+      "a": "De conducătorul Gărzii, max. 90 de zile, fără garanție.",
+      "ref": "Cod art. 44 alin. (6)"
+    },
+    {
+      "q": "În cât timp se predă terenul scos din FFN?",
+      "a": "Max. 180 de zile de la aprobare, pe PV, cu Garda de față.",
+      "ref": "Cod art. 45 alin. (3)"
+    },
+    {
+      "q": "Al cui e lemnul tăiat de pe terenul scos din FFN?",
+      "a": "Al proprietarului (privat, UAT) sau al administratorului (stat).",
+      "ref": "Cod art. 50"
+    },
+    {
+      "q": "Cine aprobă schimbarea categoriei de folosință silvică?",
+      "a": "Conducătorul Autorității, prin ordin.",
+      "ref": "Cod art. 47 alin. (1)"
+    },
+    {
+      "q": "Plătești taxă pentru un depozit de lemn de 0,8 ha?",
+      "a": "Nu: depozitele și pepinierele de max. 1 ha sunt scutite.",
+      "ref": "Cod art. 47 alin. (3)"
+    },
+    {
+      "q": "Pe cât timp se poate concesiona terenul unui activ vândut de Romsilva?",
+      "a": "Pe durata construcției, max. 49 de ani.",
+      "ref": "Cod art. 52 alin. (1)"
+    },
+    {
+      "q": "Ordinea preemptorilor la vânzarea unei păduri private?",
+      "a": "Coproprietari, vecini din FFN, statul prin Romsilva, UAT.",
+      "ref": "Cod art. 53 alin. (1)"
+    },
+    {
+      "q": "Ce termen au preemptorii?",
+      "a": "30 de zile de la comunicare sau afișare.",
+      "ref": "Cod art. 53 alin. (3)"
+    },
+    {
+      "q": "Ce sancțiune are vânzarea fără înștiințarea preemptorilor?",
+      "a": "Nulitatea absolută a vânzării.",
+      "ref": "Cod art. 53 alin. (5)"
+    },
+    {
+      "q": "Se poate partaja o pădure în loturi de 0,3 ha?",
+      "a": "Nu, sub 0,5 ha e interzis.",
+      "ref": "Cod art. 57"
+    },
+    {
+      "q": "Câți arbori se pot tăia pentru o potecă?",
+      "a": "Max. 5 arbori/ha.",
+      "ref": "Cod art. 58 alin. (6)"
+    },
+    {
+      "q": "E permis accesul cu ATV-ul în pădure?",
+      "a": "Nu, accesul public cu vehicule cu motor e interzis (cu excepțiile din lege).",
+      "ref": "Cod art. 58 alin. (7)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Reducerea suprafeței FFN este:",
+      "options": [
+        "Permisă oricând cu taxă",
+        "Interzisă, cu excepția art. 40",
+        "Permisă sub 1 ha",
+        "Permisă cu aviz de la primărie"
+      ],
+      "answer": 1,
+      "explain": "Actele contrare sunt nule de drept.",
+      "ref": "Cod art. 39 alin. (1)"
+    },
+    {
+      "q": "Scoaterea pentru un cimitir al comunei se face:",
+      "options": ["Cu compensare 3×", "Fără compensare", "Interzis", "Doar prin lege"],
+      "answer": 1,
+      "explain": "Cimitirele UAT sunt la art. 40.",
+      "ref": "Cod art. 40 alin. (1)"
+    },
+    {
+      "q": "Scoaterea pentru exploatarea lignitului se aprobă prin:",
+      "options": ["Decizia Gărzii", "Ordinul Autorității", "Hotărâre de Guvern", "Lege"],
+      "answer": 2,
+      "explain": "Prin HG.",
+      "ref": "Cod art. 40 alin. (1)"
+    },
+    {
+      "q": "O casă de vacanță se poate face pe pădure:",
+      "options": [
+        "Publică a UAT",
+        "Privată, în afara județelor deficitare",
+        "Oriunde cu compensare",
+        "Doar în intravilan"
+      ],
+      "answer": 1,
+      "explain": "Numai pe FFN privat, nu în județe deficitare.",
+      "ref": "Cod art. 41 alin. (1)"
+    },
+    {
+      "q": "Pentru o proprietate de 3 ha, suprafața maximă care se poate scoate pentru o casă este:",
+      "options": ["300 m²", "30 m²", "500 m²", "1.000 m²"],
+      "answer": 0,
+      "explain": "Sub 5 ha: 1% din proprietate (1% din 30.000 m² = 300 m²), cel mult 300 m².",
+      "ref": "Cod art. 41 alin. (2)"
+    },
+    {
+      "q": "Terenul de compensare trebuie să aibă cel puțin:",
+      "options": ["Aceeași suprafață", "De 2 ori suprafața", "De 3 ori suprafața", "De 5 ori suprafața"],
+      "answer": 2,
+      "explain": "3× suprafața și 5× valoarea.",
+      "ref": "Cod art. 41 alin. (3)"
+    },
+    {
+      "q": "Pentru o scoatere de 40 m², beneficiarul poate:",
+      "options": [
+        "Nu plăti nimic",
+        "Plăti de 5 ori valoarea terenului în loc de compensare",
+        "Plăti dublu",
+        "Primi aprobare tacită"
+      ],
+      "answer": 1,
+      "explain": "Sub 50 m², 5× valoarea în fondul de ameliorare.",
+      "ref": "Cod art. 41 alin. (5)"
+    },
+    {
+      "q": "Terenul de compensare poate fi nelimitrof FFN dacă are peste:",
+      "options": ["1 ha", "5 ha", "10 ha", "50 ha"],
+      "answer": 2,
+      "explain": "Peste 10 ha, compact.",
+      "ref": "Cod art. 41 alin. (8)"
+    },
+    {
+      "q": "Construcțiile la mai puțin de 50 m de lizieră, în afara FFN, necesită:",
+      "options": ["Avizul ocolului", "Avizul Gărzii", "Avizul Romsilva", "Nimic"],
+      "answer": 1,
+      "explain": "Avizul Gărzii competente.",
+      "ref": "Cod art. 41 alin. (12)"
+    },
+    {
+      "q": "Ocuparea temporară se aprobă, de regulă, pe maximum:",
+      "options": ["5 ani", "10 ani", "25 ani", "49 ani"],
+      "answer": 1,
+      "explain": "10 ani, cu prelungiri.",
+      "ref": "Cod art. 38 alin. (3)"
+    },
+    {
+      "q": "Chiria pentru ocuparea temporară se plătește până la:",
+      "options": ["31 ianuarie", "31 martie", "30 iunie", "31 decembrie"],
+      "answer": 0,
+      "explain": "31 ianuarie a anului respectiv.",
+      "ref": "Cod art. 38 alin. (5)"
+    },
+    {
+      "q": "Pe terenurile statului, ce procent din chirie merge în fondul de accesibilizare?",
+      "options": ["20%", "30%", "50%", "100%"],
+      "answer": 2,
+      "explain": "30 / 20 / 50.",
+      "ref": "Cod art. 46 alin. (1)"
+    },
+    {
+      "q": "Cine aprobă ocuparea temporară a 0,8 ha de pădure privată?",
+      "options": ["Guvernul", "Conducătorul Autorității", "Conducătorul Gărzii", "Primarul"],
+      "answer": 2,
+      "explain": "Până la 1 ha inclusiv: Garda.",
+      "ref": "Cod art. 44 alin. (1)"
+    },
+    {
+      "q": "Cine aprobă scoaterea a 7 ha?",
+      "options": ["Garda", "Conducătorul Autorității, cu avizul Gărzii", "Guvernul", "Romsilva"],
+      "answer": 1,
+      "explain": "1–10 ha: Autoritatea.",
+      "ref": "Cod art. 44 alin. (1)"
+    },
+    {
+      "q": "Ocuparea pentru o avarie la o linie electrică se aprobă pe maximum:",
+      "options": ["30 de zile", "90 de zile", "1 an", "10 ani"],
+      "answer": 1,
+      "explain": "90 de zile, fără garanție, de conducătorul Gărzii.",
+      "ref": "Cod art. 44 alin. (6)"
+    },
+    {
+      "q": "Termenul maxim pentru predarea-primirea terenului scos din FFN:",
+      "options": ["30 zile", "90 zile", "180 zile", "1 an"],
+      "answer": 2,
+      "explain": "180 de zile, altfel se revocă aprobarea.",
+      "ref": "Cod art. 45 alin. (3)"
+    },
+    {
+      "q": "Lemnul de pe un teren al statului ocupat temporar revine:",
+      "options": ["Beneficiarului", "Administratorului", "Gărzii", "Primăriei"],
+      "answer": 1,
+      "explain": "La stat, administratorului.",
+      "ref": "Cod art. 50"
+    },
+    {
+      "q": "Schimbarea folosinței de la pădure la pepinieră de 0,5 ha:",
+      "options": ["Plătește taxa de scoatere", "E scutită", "E interzisă", "Se aprobă prin HG"],
+      "answer": 1,
+      "explain": "Pepinierele de max. 1 ha sunt scutite.",
+      "ref": "Cod art. 47 alin. (3)"
+    },
+    {
+      "q": "Cine are primul drept de preempțiune la vânzarea unei păduri private?",
+      "options": ["Statul prin Romsilva", "Vecinii", "Coproprietarii", "UAT"],
+      "answer": 2,
+      "explain": "Ordinea: coproprietari, vecini, stat, UAT.",
+      "ref": "Cod art. 53 alin. (1)"
+    },
+    {
+      "q": "Vânzarea unei păduri la un preț mai mic decât cel din oferta către preemptori:",
+      "options": ["E validă", "E anulabilă", "E lovită de nulitate absolută", "Se amendează"],
+      "answer": 2,
+      "explain": "Nulitate absolută.",
+      "ref": "Cod art. 53 alin. (5)"
+    },
+    {
+      "q": "Peste 500 ha, Romsilva poate negocia o valoare suplimentară de cel mult:",
+      "options": ["5%", "10%", "15%", "25%"],
+      "answer": 2,
+      "explain": "15%.",
+      "ref": "Cod art. 55 alin. (3)"
+    },
+    {
+      "q": "Terenurile din FFN cu folosința pădure nu pot fi partajate sub:",
+      "options": ["0,1 ha", "0,5 ha", "1 ha", "5 ha"],
+      "answer": 1,
+      "explain": "0,5 ha.",
+      "ref": "Cod art. 57"
+    },
+    {
+      "q": "Accesul pe jos în pădure este:",
+      "options": ["Interzis fără acord", "Liber, pe propria răspundere", "Permis doar pe drumuri", "Cu bilet"],
+      "answer": 1,
+      "explain": "Liber, pe jos sau cu bicicleta.",
+      "ref": "Cod art. 58 alin. (1)"
+    },
+    {
+      "q": "Din ce materiale se pot face potecile în FFN?",
+      "options": ["Asfalt", "Beton", "Pământ, lemn și pietriș", "Orice material"],
+      "answer": 2,
+      "explain": "Doar pământ, lemn și pietriș.",
+      "ref": "Cod art. 58 alin. (6)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Casa de vacanță",
+      "situation": "Un proprietar cu 4 ha de pădure în Neamț (județ cu peste 30% pădure) vrea să-și facă o cabană în pădurea lui.",
+      "steps": [
+        {
+          "q": "Are voie?",
+          "a": "Da: casele de vacanță se pot face pe FFN privat, în județe nedeficitare, cu scoatere definitivă cu compensare, dacă terenul și casa sunt ale lui.",
+          "ref": "Cod art. 41 alin. (1)–(2)"
+        },
+        {
+          "q": "Cât poate scoate din FFN?",
+          "a": "Proprietatea are sub 5 ha: 1% din 4 ha = 400 m², dar maximum 300 m², deci 300 m², inclusiv acces și împrejmuire.",
+          "ref": "Cod art. 41 alin. (2)"
+        },
+        {
+          "q": "Ce teren dă în compensare?",
+          "a": "Cel puțin 900 m² (3×), cu valoare de 5 ori mai mare, din afara FFN, limitrof, apt de împădurit.",
+          "ref": "Cod art. 41 alin. (3)"
+        },
+        {
+          "q": "Cine aprobă?",
+          "a": "Conducătorul Gărzii (sub 1 ha), cu avizul ocolului care îi asigură serviciile.",
+          "ref": "Cod art. 44 alin. (1)"
+        },
+        {
+          "q": "Poate transforma cabana în pensiune după 2 ani?",
+          "a": "Nu: destinația nu se poate schimba 5 ani de la recepție; altfel Garda cere anularea aprobării și readucerea terenului la starea inițială.",
+          "ref": "Cod art. 42 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "Conducta de gaze",
+      "situation": "Un operator vrea să treacă o conductă de distribuție de gaze prin 2,5 ha de pădure a statului, administrată de ocolul tău.",
+      "steps": [
+        {
+          "q": "Ce regim se aplică?",
+          "a": "Ocupare temporară, pe max. 10 ani cu prelungiri, sau pe toată durata existenței obiectivului dacă e de utilitate publică și durează peste 10 ani.",
+          "ref": "Cod art. 38 alin. (3)–(4)"
+        },
+        {
+          "q": "Cine aprobă?",
+          "a": "Conducătorul Autorității, cu avizul Gărzii (1–10 ha) și cu avizul Romsilva.",
+          "ref": "Cod art. 44 alin. (1)"
+        },
+        {
+          "q": "Cum se împarte chiria?",
+          "a": "30% fondul de conservare și regenerare, 20% administratorul, 50% fondul de accesibilizare.",
+          "ref": "Cod art. 46 alin. (1)"
+        },
+        {
+          "q": "Al cui e lemnul tăiat?",
+          "a": "Al administratorului, fiind teren al statului.",
+          "ref": "Cod art. 50"
+        }
+      ]
+    },
+    {
+      "title": "Vecinul vinde pădurea",
+      "situation": "Vecinul de proprietate al unui om din sat își vinde cele 6 ha de pădure unui cumpărător din oraș, fără să anunțe pe nimeni.",
+      "steps": [
+        {
+          "q": "Pe cine trebuia să anunțe și cum?",
+          "a": "Pe coproprietari, vecinii din FFN, statul prin Romsilva și UAT, în scris, prin executor sau notar, cu prețul cerut.",
+          "ref": "Cod art. 53 alin. (1)–(2)"
+        },
+        {
+          "q": "Ce termen aveau aceștia?",
+          "a": "30 de zile de la comunicare sau afișarea la primărie.",
+          "ref": "Cod art. 53 alin. (3)"
+        },
+        {
+          "q": "Ce se întâmplă cu vânzarea făcută fără înștiințare?",
+          "a": "E lovită de nulitate absolută.",
+          "ref": "Cod art. 53 alin. (5)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlul III, cap. III (art. 36–60)",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {
+            "title": "Capitolul III – Integritatea FFN · Secţiunea 1 – Sistemul integrat de cadastru şi carte funciară",
+            "from": "36"
+          },
+          {
+            "title": "Secţiunea a 2-a – Ocupaţii ale terenurilor din FFN. Ocuparea temporară a terenurilor din FFN",
+            "from": "37"
+          },
+          {
+            "title": "Secţiunea a 3-a – Scoaterea terenurilor din FFN şi includerea terenurilor în FFN",
+            "from": "39"
+          },
+          {
+            "title": "Secţiunea a 4-a – Aprobarea scoaterilor definitive din FFN şi a ocupărilor temporare a terenurilor din FFN şi obligaţii ce decurg din aceasta",
+            "from": "44"
+          },
+          {
+            "title": "Secţiunea a 5-a – Schimbarea categoriei de folosinţă a terenurilor cu destinaţie forestieră",
+            "from": "47"
+          },
+          {"title": "Secţiunea a 6-a – Transmiterea terenurilor din FFN", "from": "51"},
+          {"title": "Secţiunea a 7-a – Accesul pe terenurile din FFN", "from": "58"},
+          {
+            "title": "Secţiunea a 8-a – Reprezentarea juridică în litigii privind terenurile din FFN",
+            "from": "60"
+          }
+        ],
+        "articles": [
+          {
+            "no": "36",
+            "label": "Art. 36 – Înscrierea în sistemul integrat de cadastru şi carte funciară a terenurilor forestiere din FFN proprietate publică a statului",
+            "items": [
+              ["(1)","Dreptul de proprietate publică şi privată a statului asupra imobilelor din FFN se intabulează în sistemul integrat de cadastru şi carte funciară la cererea administratorilor terenurilor proprietate publică a statului, astfel cum sunt prevăzuţi la art. 12 alin. (1), în baza actelor de proprietate şi a documentaţiei cadastrale."],
+              ["(2)","Prin excepţie de la prevederile alin. (1), în lipsa actelor de proprietate, dovada proprietăţii statului asupra terenurilor din FFN proprietate publică şi privată a statului se face cu amenajamentele silvice în vigoare."],
+              ["(3)","Înscrierea provizorie a terenurilor prevăzute la alin. (2) se efectuează conform procedurii stabilite prin ordin al preşedintelui Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară. Coordonatele punctelor de pe limita imobilelor respective vor fi determinate, în sistem Stereografic 1970, prin vectorizare, la nivel de unitate administrativ-teritorială."],
+              ["(4)","Justificarea înscrierii provizorii pentru situaţiile prevăzute la alin. (3) se face în baza amenajamentului silvic valabil actualizat al FFN proprietate publică a statului, care confirmă suprafaţa şi identitatea dintre imobilul din documentaţia cadastrală şi cel evidenţiat în amenajamentul silvic actualizat."]
+            ]
+          },
+          {
+            "no": "37",
+            "label": "Art. 37 – Ocupaţii",
+            "items": [
+              ["(1)","Ocupaţiile şi litigiile cu privire la terenurile forestiere înscrise în amenajamentele silvice se soluţionează pe cale amiabilă sau judiciară. În termen de maximum 5 ani de la data intrării în vigoare a prezentei legi, administratorii terenurilor din FFN proprietate publică au obligaţia de a demara procedurile judiciare pentru soluţionarea ocupaţiilor."],
+              ["(2)","Administratorii terenurilor din FFN proprietate publică sunt scutiţi de taxele judiciare de timbru pentru demersurile judiciare prevăzute la alin. (1)."]
+            ]
+          },
+          {
+            "no": "38",
+            "label": "Art. 38 – Ocuparea temporară a terenurilor din FFN",
+            "items": [
+              ["(1)","Ocuparea temporară a terenurilor din FFN este permisă numai pe o perioadă determinată, în scopul:"],
+              ["a)","realizării/extinderii/modernizării/dezafectării obiectivelor/lucrărilor prevăzute la art. 40 alin. (1) lit. a), declarate de utilitate publică de interes naţional, judeţean sau local, care vizează proiectele de infrastructură de transport, utilităţile, sursele şi reţele de apă şi de canalizare, inclusiv ape minerale, sursele şi reţele de energie din resurse convenţionale sau regenerabile, reţelele şi sistemele de comunicaţii sau reţelele de gaze naturale;"],
+              ["b)","explorării următoarelor resurse minerale: cărbuni, roci utile, agregate minerale, minereuri; explorării, exploatării şi transportului resurselor de petrol şi gaze naturale, precum şi instalării, reparării, întreţinerii, dezafectării reţelelor de transport sau distribuţie de petrol, gaze naturale sau energie electrică;"],
+              ["c)","realizării/extinderii/modernizării/dezafectării de surse şi reţele de apă şi de canalizare, inclusiv ape minerale, surse şi reţele de energie din resurse convenţionale sau regenerabile, reţele şi sisteme de comunicaţii, parcuri recreative, parcuri tematice şi/sau educaţionale."],
+              ["(2)","Pentru realizarea obiectivelor şi lucrărilor prevăzute la art. 41, ocuparea temporară a terenurilor din FFN se face cu plata anticipată a obligaţiilor financiare prevăzute la art. 46 de către beneficiarul aprobării de ocupare temporară de terenuri din FFN."],
+              ["(3)","În raport cu durata obiectivului/lucrării, ocuparea prevăzută la alin. (1) poate fi aprobată pe o perioadă de maximum 10 ani, cu posibilitatea prelungirii pe perioade succesive de maximum 10 ani."],
+              ["(4)","Prin excepţie de la prevederile alin. (3), ocuparea temporară a terenurilor din FFN se aprobă pe toată perioada de execuţie şi existenţă în FFN a obiectivelor/lucrărilor de interes naţional, judeţean sau local prevăzute la alin. (1) lit. a), precum şi a obiectivelor/lucrărilor de transport şi distribuţie de petrol, gaze naturale şi energie electrică prevăzute la alin. (1) lit. b), dacă sunt îndeplinite cumulativ următoarele condiţii:"],
+              ["a)","durata de execuţie şi existenţă a obiectivelor depăşeşte 10 ani;"],
+              ["b)","redarea terenurilor în circuitul silvic nu se poate realiza fără restricţii;"],
+              ["c)","perioada de execuţie/existenţă a obiectivului este cea înscrisă în acordul/permisul de concesiune a zăcământului, în cazul obiectivelor/lucrărilor de transport şi distribuţie de petrol şi gaze naturale, transport şi distribuţie de energie electrică."],
+              ["(5)","Chiria aferentă fiecărui an se plăteşte până la data de 31 ianuarie a anului pentru care se datorează şi se calculează conform metodologiei prevăzute la art. 49."],
+              ["(6)","Dacă pentru organizarea de şantier necesară realizării obiectivelor prevăzute la art. 40 şi art. 41 alin. (1) lit. a) -c) sunt necesare şi alte terenuri adiacente celor pentru care există aprobare de scoatere definitivă din FFN, acestea pot fi ocupate temporar, în condiţiile prezentei legi, pe perioada realizării investiţiei/obiectivului/lucrării, cu plata anticipată a obligaţiilor financiare prevăzute la art. 46."],
+              ["(7)","Perioada pentru care se aprobă ocuparea temporară de terenuri din FFN care au categoria de folosinţă pădure sau clasa de regenerare include şi perioada necesară executării lucrărilor necesare pentru redarea terenurilor în condiţii apte de a fi împădurite."],
+              ["(8)","Dacă terenul care a făcut obiectul ocupării temporare este încadrat în alte categorii de folosinţă forestieră decât cele prevăzute la alin. (7), beneficiarul are obligaţia de a preda terenul în condiţiile stabilite în actul de aprobare, emis în condiţiile prevăzute la art. 44 alin. (1)."],
+              ["(9)","Terenul ocupat temporar se poate reprimi cu o altă categorie de folosinţă decât cea iniţială cu condiţia precizării acesteia în actul administrativ de aprobare şi cu plata unei taxe echivalente cu taxa pentru scoaterea definitivă a terenurilor din FFN cu compensare prevăzută la art. 41."],
+              ["(10)","Dacă la sfârşitul perioadei aprobate de ocupare temporară terenul nu îndeplineşte condiţiile prevăzute la alin. (7) - (9), garanţia depusă şi dobânda bancară aferentă se reţin în fondul de ameliorare a fondului funciar cu destinaţie silvică."],
+              ["(11)","Garanţia depusă şi dobânda bancară aferentă prevăzute la alin. (10) se transmit ocolului silvic care asigură administrarea şi/sau serviciile silvice, la solicitarea acestuia, în fondul de conservare şi regenerare a pădurilor, pentru execuţia lucrărilor necesare aducerii terenului la condiţiile prevăzute în actul de aprobare, conform devizului de lucrări întocmit de ocolul silvic şi avizat de Garda Forestieră competentă teritorial."]
+            ]
+          },
+          {
+            "no": "39",
+            "label": "Art. 39 – Reducerea suprafeţei FFN",
+            "items": [
+              ["(1)","Este interzisă reducerea suprafeţei FFN, cu excepţia cazurilor prevăzute la art. 40 în care scoaterea definitivă este permisă fără compensare cu terenuri. Orice act contrar este nul de drept."],
+              ["(2)","Modificarea limitelor şi/sau a suprafeţei FFN se poate face:"],
+              ["a)","în baza aprobărilor de scoatere definitivă din FFN;"],
+              ["b)","în urma corectării limitelor terenurilor pe hotarele materializate în teren de administratorul/proprietarul acestuia;"],
+              ["c)","în urma modificării cursurilor de apă prin procese naturale de eroziune sau depunere;"],
+              ["d)","în urma determinării cu precizie mai ridicată a suprafeţelor;"],
+              ["e)","în urma corectării unor amplasamente şi suprafeţe încadrate eronat ca terenuri din FFN pentru care proprietarul/administratorul deţine documente legale sau are justificări dovedite cu măsurători."],
+              ["(3)","Aplicarea prevederilor alin. (2) se face în baza unei metodologii aprobate prin ordin al conducătorului Autorităţii în termen de 18 luni de la intrarea în vigoare a prezentei legi."],
+              ["(4)","Scoaterea definitivă a terenurilor din FFN este permisă numai pentru realizarea obiectivelor prevăzute la art. 40 şi 41. Orice act contrar este lovit de nulitate absolută."]
+            ]
+          },
+          {
+            "no": "40",
+            "label": "Art. 40 – Scoaterea definitivă din FFN fără compensare",
+            "items": [
+              ["(1)","Prin excepţie de la prevederile art. 39, este permisă reducerea suprafeţei FFN prin scoaterea definitivă a unor terenuri:"],
+              ["a)","necesare realizării/extinderii obiectivelor/lucrărilor declarate de utilitate publică, de interes naţional, judeţean sau local, în condiţiile legii, la solicitarea beneficiarului/expropriatorului/reprezentantului expropriatorului;"],
+              ["b)","necesare amplasării/extinderii componentelor reţelei naţionale de supraveghere meteorologică şi necesare amplasării/extinderii infrastructurii de telecomunicaţii speciale, la solicitarea Administraţiei Naţionale de Meteorologie, respectiv a Serviciului de Telecomunicaţii Speciale;"],
+              ["c)","necesare amplasării sau a terenurilor pe care sunt amplasate capacităţi de producţie şi/sau servicii pentru apărare de interes strategic pentru securitatea naţională, la solicitarea entităţii beneficiare;"],
+              ["d)","necesare realizării unor obiective din cadrul Sistemului integrat de securizare a frontierei de stat, precum şi pentru lucrările de investiţii, modernizare şi extindere a obiectivelor din domeniul ordinii şi siguranţei publice, la solicitarea Ministerului Afacerilor Interne;"],
+              ["e)","necesare lucrărilor de investiţii, modernizare şi extindere a obiectivelor cu caracter militar din domeniul apărării naţionale, la solicitarea ministerului de resort;"],
+              ["f)","necesare lucrărilor miniere declarate de interes naţional şi de utilitate publică de exploatare a zăcămintelor de lignit, executate pe terenurile forestiere achiziţionate de operatorul economic cu capital integral sau majoritar de stat în condiţiile prevăzute la art. 6 lit. a) din Legea minelor nr. 85/2003, cu modificările şi completările ulterioare, care nu fac parte din coridorul de expropriere al unei lucrări miniere declarate de interes naţional şi de utilitate publică de exploatare a zăcămintelor de lignit, dar care se regăsesc pe amplasamentul lucrării în cauză şi sunt necesare realizării lucrărilor miniere. În acest caz, beneficiarul scoaterii din FFN este operatorul economic cu capital integral sau majoritar de stat. Scoaterea definitivă a terenurilor necesare realizării lucrărilor miniere de exploatare a zăcămintelor de lignit se aprobă prin hotărâre a Guvernului;"],
+              ["g)","pe care sunt amplasate capacităţi de extracţie gaze naturale aferente lucrărilor de interes naţional de extracţie a gazelor naturale, la solicitarea entităţii beneficiare;"],
+              ["h)","pe care sunt amplasate situri arheologice înscrise în patrimoniul mondial UNESCO, la solicitarea autorităţii publice centrale pentru cultură;"],
+              ["i)","necesare realizării/extinderii cimitirelor aparţinând domeniului public al unităţilor administrativ-teritoriale, la solicitarea acestora;"],
+              ["j)","necesare construirii de lăcaşuri de cult pentru obiective de interes bisericesc."],
+              ["(2)","Scoaterea definitivă din FFN a terenurilor proprietate publică prevăzute la alin. (1) se face fără compensare cu alte terenuri şi fără plata taxei pentru scoaterea definitivă a terenurilor din FFN şi a celorlalte obligaţii financiare prevăzute la art. 45."],
+              ["(3)","Scoaterea definitivă din FFN, fără compensare, având ca beneficiari persoanele prevăzute la alin. (1) lit. f), care desfăşoară activitate economică, se face cu respectarea prevederilor europene şi naţionale în domeniul ajutorului de stat."]
+            ]
+          },
+          {
+            "no": "41",
+            "label": "Art. 41 – Scoaterea definitivă din FFN cu compensare",
+            "items": [
+              ["(1)","Prin excepţie de la prevederile art. 39, pot fi scoase definitiv din FFN, cu condiţia compensării acestora cu alte terenuri şi a plăţii anticipate a sumelor prevăzute la art. 45 alin. (1) lit. a) şi c) -e), fără reducerea suprafeţei de teren, numai terenurile necesare realizării sau extinderii următoarelor categorii de lucrări şi obiective:"],
+              ["a)","exploatarea resurselor minerale prevăzute la art. 2 alin. (1) din Legea nr. 85/2003, cu modificările şi completările ulterioare. Beneficiarul scoaterii definitive a terenurilor din FFN, inclusiv pentru terenurile din FFN prevăzute la alin. (4), este persoana care deţine permis/licenţă pentru exploatarea resurselor minerale sau proprietarul, în baza unui contract de asociere încheiat cu persoana care deţine permis/licenţă pentru exploatarea resurselor minerale aferente proprietăţii respective;"],
+              ["b)","obiective turistice, de agrement, inclusiv structuri de primire turistice, lăcaşe de cult, obiective sportive, medicale, precum şi obiective sociale realizate numai de furnizorii de servicii sociale; pentru teritoriul administrativ în zonele de interes economic al Rezervaţiei Biosferei \"Delta Dunării\" se pot realiza pontoane de acostare pentru ambarcaţiuni cu scop turistic şi de agrement şi de aprovizionare cu alimente şi combustibil. Beneficiarul scoaterii definitive a terenurilor din FFN este persoana fizică sau juridică solicitantă care realizează obiectivul. Scoaterea definitivă a terenurilor din FFN pentru realizarea acestor obiective în extravilanul localităţilor se poate aproba numai în baza avizului arhitectului-şef de judeţ;"],
+              ["c)","locuinţe sau case de vacanţă, numai pe terenurile din FFN proprietate privată, cu excepţia judeţelor deficitare în păduri. Beneficiarul scoaterii definitive a terenurilor din FFN este persoana proprietară a terenului;"],
+              ["d)","obiective vândute de către Romsilva ale căror terenuri aferente sunt concesionate, precum şi obiective instalate în FFN înainte de anul 1990; beneficiarul scoaterii definitive a terenurilor din FFN este persoana proprietară a obiectivului vândut de către Romsilva sau a obiectivului instalat în FFN înainte de anul 1990;"],
+              ["e)","monumente istorice, precum şi lucrări şi/sau construcţii hidrotehnice şi de acvacultură. Beneficiarul scoaterii definitive a terenurilor din FFN este persoana fizică sau juridică solicitantă care realizează obiectivul."],
+              ["(2)","Amplasarea obiectivelor prevăzute la alin. (1) lit. c) se face cu respectarea următoarelor condiţii cumulative:"],
+              ["a)","construcţia şi terenul pe care se amplasează sunt proprietatea aceleiaşi persoane;"],
+              ["b)","în cazul terenurilor încadrate în categoriile de folosinţă pădure şi terenuri destinate împăduririi, suprafaţa maximă care poate face obiectul scoaterii definitive din FFN, incluzând construcţia, accesul şi împrejmuirea, este de maximum 500 metri pătraţi, în cazul proprietăţilor forestiere mai mari de 5 hectare, şi de 1% din suprafaţa proprietăţii, dar maximum 300 metri pătraţi, în cazul proprietăţilor forestiere mai mici de 5 hectare."],
+              ["(3)","Compensarea prevăzută la alin. (1) se realizează cu un teren care îndeplineşte cumulativ următoarele condiţii:"],
+              ["a)","are suprafaţa de cel puţin 3 ori suprafaţa terenului care face obiectul scoaterii din FFN;"],
+              ["b)","valoarea terenului cu care se realizează compensarea este de 5 ori valoarea terenului care face obiectul scoaterii din FFN."],
+              ["(4)","Scoaterea definitivă a terenurilor din FFN aparţinând formelor asociative de proprietate asupra terenurilor prevăzute la art. 26 alin. (1) din Legea nr. 1/2000, cu modificările şi completările ulterioare, este permisă pentru amplasarea/extinderea/modernizarea obiectivelor şi lucrărilor prevăzute la alin. (1) şi la art. 40; terenurile oferite în compensare intră în proprietatea formelor asociative şi întregesc drepturile membrilor proporţional cu cotele deţinute."],
+              ["(5)","Prin excepţie de la prevederile alin. (3), pentru suprafeţele de sub 50 metri pătraţi, beneficiarul scoaterii definitive poate să nu ofere teren în compensare, situaţie în care trebuie să plătească, anticipat aprobării, o sumă de 5 ori mai mare decât valoarea terenului care face obiectul scoaterii, sumă care se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică, situaţie în care nu achită cheltuielile de instalare şi întreţinere a vegetaţiei forestiere până la realizarea stării de masiv."],
+              ["(6)","Prin excepţie de la prevederile alin. (3), pentru activităţile de exploatare a resurselor minerale de substanţe utile nemetalifere şi roci utile, terenul oferit în compensare este cel puţin egal ca suprafaţă şi valoare cu terenul scos definitiv din FFN."],
+              ["(7)","Tariful procentual prevăzut în anexa nr. 2 la Legea fondului funciar nr. 18/1991, republicată, cu modificările şi completările ulterioare, este 100 şi se aplică la calculul obligaţiilor financiare prevăzute la art. 45 şi 47, în cazul scoaterilor definitive cu compensare a terenurilor din FFN şi a schimbării categoriei de folosinţă."],
+              ["(8)","Terenurile cu care se realizează compensarea prevăzută la alin. (1) trebuie să fie numai din afara FFN, dar limitrofe acestuia, apte de a fi împădurite. În situaţia în care suprafaţa minimă a unui teren cu care se realizează compensarea este mai mare de 10 hectare, acesta poate să nu fie limitrof FFN, dar trebuie să fie compact. Nu se poate realiza compensarea cu terenuri degradate, terenuri neproductive din punct de vedere silvic sau cu terenuri situate în zonele de stepă, alpină şi subalpină."],
+              ["(9)","Terenurile prevăzute la alin. (8) devin terenuri cu destinaţie forestieră şi sunt incluse în FFN."],
+              ["(10)","În judeţele în care suprafaţa terenurilor din FFN este sub 30% din suprafaţa judeţului, compensarea se realizează numai cu terenuri din cadrul aceluiaşi judeţ."],
+              ["(11)","Amenajările necesare pentru realizarea pădurilor-parc sunt permise numai în situaţia în care realizarea amenajărilor nu implică tăieri de arbori sau defrişări şi nu fac obiectul scoaterii definitive ori a ocupărilor temporare din FFN."],
+              ["(12)","Autorizarea construcţiilor la distanţe mai mici de 50 metri de liziera pădurii, în afara FFN, cu excepţia obiectivelor de interes naţional, judeţean sau local, se face cu avizul Gărzii Forestiere competente teritorial."]
+            ]
+          },
+          {
+            "no": "42",
+            "label": "Art. 42 – Proprietatea şi destinaţia terenurilor care au făcut obiectul scoaterii din FFN",
+            "items": [
+              ["(1)","Terenurile scoase definitiv din FFN devin proprietatea beneficiarului scoaterii în momentul efectuării operaţiunii de predare-primire, în condiţiile prevăzute la art. 45 alin. (3), şi dobândesc destinaţia pe care acesta a solicitat-o şi care i-a fost aprobată."],
+              ["(2)","Se exceptează de la prevederile art. 40 terenurile aflate în perimetrul fâşiei de protecţie a frontierei de stat, care fac parte din domeniul public şi care, prin natura lor, sunt destinate protecţiei şi întreţinerii liniei de frontieră."],
+              ["(3)","Se interzice schimbarea destinaţiei obiectivului construit pe terenul care a făcut obiectul scoaterii definitive din FFN mai devreme de 5 ani de la data recepţiei finale a obiectivului. Constatarea schimbării destinaţiei obiectivului construit revine în sarcina Gărzii Forestiere competente teritorial. În situaţia schimbării destinaţiei obiectivului construit pe terenul care a făcut obiectul scoaterii definitive din FFN mai devreme de 5 ani, Garda Forestieră competentă teritorial iniţiază demersurile legale pentru anularea actului de aprobare emis pentru scoaterea definitivă, aprobată în condiţiile art. 44 alin. (1), şi obligarea beneficiarului scoaterii definitive să aducă la starea iniţială terenul scos definitiv din fondul forestier, pe cheltuiala acestuia."]
+            ]
+          },
+          {
+            "no": "43",
+            "label": "Art. 43 – Condiţii de includere a terenurilor cu alte destinaţii în FFN",
+            "items": [
+              ["(1)","Proprietarii terenurilor prevăzute la art. 3 alin. (1) pot solicita schimbarea destinaţiei acestora în terenuri cu destinaţie forestieră."],
+              ["(2)","Proprietarii terenurilor care în mod voluntar optează pentru schimbarea destinaţiei terenului agricol în teren cu destinaţie forestieră beneficiază de ajutor de stat similar/în aceleaşi condiţii ca proprietarii care au accesat măsura de sprijin privind împădurirea terenurilor agricole."],
+              ["(3)","Schimbarea destinaţiei terenurilor prevăzute la art. 4 alin. (1), precum şi a altor terenuri pentru care proprietarul a optat pentru includerea lor în FFN, situaţie în care se elaborează amenajament silvic sau sunt incluse într-un amenajament silvic existent, este scutită de taxe şi impozite şi se aprobă prin ordin al Autorităţii."]
+            ]
+          },
+          {
+            "no": "44",
+            "label": "Art. 44 – Aprobarea scoaterilor definitive din FFN şi a ocupărilor temporare a terenurilor din FFN",
+            "items": [
+              ["(1)","Solicitările de ocupare temporară a terenurilor din FFN sau de scoatere definitivă, în condiţiile prevăzute la art. 38, 40 şi 41, cu acordul proprietarului şi avizate favorabil de ocolul silvic care asigură administrarea şi/sau serviciile silvice, în cazul proprietăţii private şi proprietăţii publice a unităţilor administrativ-teritoriale, respectiv cu avizul Romsilva, al INCDS, al instituţiilor de învăţământ de stat cu profil silvic sau al ocolului silvic înfiinţat de RAAPPS, după caz, în cazul terenurilor din FFN proprietate publică a statului, se aprobă de către:"],
+              ["a)","conducătorul Gărzii Forestiere competente teritorial, pentru suprafeţe de până la 1 hectar inclusiv;"],
+              ["b)","conducătorul Autorităţii, cu avizul Gărzii Forestiere competente teritorial, pentru suprafeţe de la 1 hectar până la 10 hectare inclusiv;"],
+              ["c)","Guvern, la propunerea Autorităţii, cu avizul Gărzii Forestiere competente teritorial, pentru suprafeţe de peste 10 hectare, cu excepţia situaţiilor în care prin lege se dispune altfel."],
+              ["(2)","Acordul proprietarului pentru terenurile din FFN proprietate privată, prevăzut la alin. (1), se emite sub forma înscrisului sub semnătură privată pentru ocuparea temporară a terenurilor forestiere din FFN necesare realizării/extinderii/modernizării/dezafectării obiectivelor/lucrărilor prevăzute la art. 38 alin. (1) lit. a), surselor/reţelelor/sistemelor/parcurilor prevăzute la art. 38 alin. (1) lit. c), precum şi obiectivelor/lucrărilor de utilitate publică, de interes naţional, judeţean sau local de transport şi distribuţie de petrol, gaze naturale şi energie electrică, prevăzute la art. 40 alin. (1) lit. a), şi se depune în copie certificată pentru conformitate cu originalul de iniţiatorul proiectului la instituţia competentă să emită avizul/aprobarea de ocupare temporară."],
+              ["(3)","Prin excepţie de la prevederile alin. (1), ocuparea temporară a terenurilor din FFN se face fără acordul proprietarului atunci când nu se prezintă un titlu valabil sau nu sunt cunoscuţi proprietarii, precum şi în situaţia succesiunilor nedeschise ori a succesorilor necunoscuţi. Acordul proprietarului în acest caz se suplineşte prin declaraţia iniţiatorului proiectului de asumare proprie a răspunderii şi care descrie imposibilitatea obţinerii acordului proprietarilor."],
+              ["(4)","În situaţia prevăzută la alin. (3), sumele datorate pentru ocuparea temporară, inclusiv valoarea lemnului valorificat, se consemnează cu titlu de indemnizaţie într-un cont bancar deschis pe numele iniţiatorului proiectului şi se eliberează ulterior persoanelor care fac dovada proprietăţii, prin dispoziţia iniţiatorului proiectului, în condiţiile prezentei legi."],
+              ["(5)","În cazul prevăzut la art. 38 alin. (1) lit. b), acordul proprietarului de teren din FFN proprietate privată se emite în formă autentică."],
+              ["(6)","Ocuparea temporară a unor terenuri din FFN pentru intervenţii cu caracter urgent pentru execuţia lucrărilor de punere în siguranţă a infrastructurii de transport rutier şi feroviar, pentru remedierea unor deranjamente sau avarii la reţelele de telecomunicaţii, de transport sau de distribuţie a energiei electrice, la conductele de apă, canalizare, gaze, precum şi la alte instalaţii similare se aprobă de conducătorul Gărzii Forestiere competente teritorial, în baza unei solicitări emise de Guvern/autoritatea competentă/administratorul infrastructurii/operatorul de transport sau distribuţie, după caz, pentru o perioadă de maximum 90 de zile, fără a mai fi necesară plata garanţiei pentru ocuparea temporară de terenuri din FFN."],
+              ["(7)","În cazul prevăzut la alin. (6), beneficiarul ocupării temporare a unor terenuri din FFN este obligat să achite contravaloarea prejudiciilor produse, a pierderii de creştere a arborilor, precum şi a lucrărilor necesare aducerii terenului la starea iniţială, stabilită pe bază de deviz, întocmit de către ocolul silvic care asigură administrarea şi/sau serviciile silvice şi avizat de conducătorul Gărzii Forestiere competente teritorial, devizul constituind titlu executoriu."],
+              ["(8)","Contravaloarea prevăzută la alin. (7) se achită, în termen de 30 de zile de la data comunicării devizului prevăzut la acelaşi alineat, către beneficiar."]
+            ]
+          },
+          {
+            "no": "45",
+            "label": "Art. 45 – Obligaţii financiare în cazul terenurilor scoase definitiv din FFN",
+            "items": [
+              ["(1)","Pentru terenurile care se scot definitiv din FFN, în cazurile prevăzute la art. 41, obligaţiile financiare sunt următoarele:"],
+              ["a)","taxa pentru scoaterea definitivă a terenurilor din FFN, care se achită anticipat emiterii aprobării de scoatere definitivă şi se depune în fondul de ameliorare a fondului funciar cu destinaţie silvică, aflat la dispoziţia Autorităţii;"],
+              ["b)","contravaloarea terenului scos definitiv din FFN, care se achită proprietarului terenului pentru terenurile proprietate privată. Pentru terenurile proprietate publică a statului/unităţilor administrativ-teritoriale, suma prevăzută la art. 41 alin. (5) se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică; contravaloarea terenului scos definitiv din FFN nu se achită în cazul scoaterilor definitive cu compensare;"],
+              ["c)","contravaloarea pierderii de creştere determinate de exploatarea lemnului înainte de vârsta exploatabilităţii tehnice, care se achită proprietarului terenului pentru terenurile proprietate privată sau proprietate publică a unităţilor administrativ-teritoriale, iar pentru terenurile proprietate publică a statului, administratorului pădurilor proprietate publică a statului, făcându-se venit la fondul de conservare şi regenerare a pădurilor;"],
+              ["d)","contravaloarea obiectivelor dezafectate; în cazul pădurilor proprietate publică a statului, aceasta se achită administratorului, iar pentru celelalte forme de proprietate, se achită proprietarului;"],
+              ["e)","cheltuielile de instalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv, numai pentru cazurile prevăzute la art. 41 alin. (1), sume care se depun în fondul de conservare şi regenerare a pădurilor. Obligaţia de instalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv, în regie proprie sau prin prestări de servicii, este în sarcina ocolului silvic care administrează sau asigură serviciile silvice."],
+              ["(2)","Obligaţiile financiare prevăzute la alin. (1) lit. b) -e) se achită anticipat predării-primirii terenului pentru care a fost emisă aprobarea de scoatere definitivă din FFN."],
+              ["(3)","Predarea-primirea terenului pentru care există aprobarea de scoatere definitivă din FFN se face pe bază de proces-verbal încheiat între beneficiarul scoaterii definitive şi ocolul silvic care asigură administrarea/serviciile silvice, în prezenţa reprezentantului Gărzii Forestiere competente teritorial, numai după achitarea obligaţiilor financiare prevăzute la alin. (1) lit. b) -e), după caz, în termen de maximum 180 de zile de la data aprobării scoaterii definitive."],
+              ["(4)","Nepreluarea terenului pentru care există aprobarea de scoatere definitivă din FFN în termenul prevăzut la alin. (3) determină revocarea sau, după caz, anularea actului administrativ emis pentru aprobarea scoaterii definitive a terenului din FFN, în condiţiile legii. Constatarea se face de către Garda Forestieră competentă teritorial."],
+              ["(5)","Pentru terenurile proprietate publică, scoaterea definitivă din FFN pentru realizarea obiectivelor prevăzute la art. 40 alin. (1) se face fără plata obligaţiilor financiare prevăzute la alin. (1)."]
+            ]
+          },
+          {
+            "no": "46",
+            "label": "Art. 46 – Obligaţii financiare pentru terenurile care se ocupă temporar din FFN",
+            "items": [
+              ["(1)","Pentru terenurile care se ocupă temporar din FFN necesare realizării obiectivelor prevăzute la art. 38 alin. (1) lit. b) şi c), obligaţiile financiare sunt următoarele:"],
+              ["a)","garanţia, echivalentă cu taxa pentru scoaterea definitivă a terenurilor din FFN cu compensare, care se achită anticipat emiterii aprobării şi se depune în fondul de ameliorare a fondului funciar cu destinaţie silvică, fond aflat la dispoziţia Autorităţii;"],
+              ["b)","chiria, care se achită proprietarului, în cazul terenurilor proprietate privată şi al celor proprietate publică a unităţilor administrativ-teritoriale; pentru terenurile proprietate publică a statului, 30% din chirie se depune în fondul de conservare şi regenerare a pădurilor, 20% se achită administratorului, iar 50% se depune în fondul de accesibilizare a pădurilor;"],
+              ["c)","contravaloarea pierderii de creştere determinate de exploatarea lemnului înainte de vârsta exploatabilităţii tehnice, care se achită proprietarului terenului pentru terenurile proprietate privată şi cele proprietate publică a unităţilor administrativ-teritoriale; pentru terenurile proprietate publică a statului, contravaloarea pierderii de creştere se achită administratorului, care o depune în fondul de conservare şi regenerare a pădurilor;"],
+              ["d)","valoarea obiectivelor dezafectate de pe terenurile respective, care se achită administratorului în cazul terenurilor proprietate publică a statului, respectiv proprietarului în celelalte cazuri;"],
+              ["e)","cheltuielile de reinstalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv, care se depun în fondul de conservare şi regenerare a pădurilor."],
+              ["(2)","Ocuparea temporară a terenurilor din FFN proprietate publică a statului sau a unităţilor administrativ-teritoriale în cazul prevăzut la art. 38 alin. (1) lit. a), al căror beneficiar este statul sau unitatea administrativ-teritorială, se face fără plata obligaţiilor financiare prevăzute la alin. (1) lit. a) -c)."],
+              ["(3)","Ocuparea temporară a terenurilor din FFN proprietate privată în cazul prevăzut la art. 38 alin. (1) lit. a), al căror beneficiari sunt statul sau unităţile administrativ-teritoriale, se face fără plata obligaţiilor financiare prevăzute la alin. (1) lit. a)."],
+              ["(4)","Ocuparea temporară a terenurilor din FFN, fără plata obligaţiilor, potrivit dispoziţiilor alin. (2) şi (3), în favoarea unor entităţi care desfăşoară activitate economică, se face cu respectarea prevederilor europene şi naţionale în domeniul ajutorului de stat."],
+              ["(5)","Obligaţiile financiare prevăzute la alin. (1) lit. b) -e) se achită anticipat predării-primirii terenului pentru care a fost emisă aprobarea de ocupare temporară din FFN."],
+              ["(6)","Predarea-primirea terenului pentru care s-a aprobat ocuparea temporară din FFN se face în prezenţa reprezentantului Gărzii Forestiere competente teritorial în termen de maximum 180 de zile de la data aprobării."],
+              ["(7)","În situaţia nepreluării de către beneficiar a terenului în termenul prevăzut la alin. (6), Garda Forestieră competentă teritorial iniţiază demersurile legale pentru revocarea actului de aprobare emis pentru scoaterea definitivă."]
+            ]
+          },
+          {
+            "no": "47",
+            "label": "Art. 47 – Schimbarea categoriei de folosinţă a terenurilor cu destinaţie forestieră",
+            "items": [
+              ["(1)","Schimbarea categoriei de folosinţă silvică a terenurilor cu destinaţie forestieră, pe perioada de aplicare a amenajamentului silvic, în altă categorie de folosinţă silvică se face la solicitarea beneficiarului şi se aprobă prin ordin al conducătorului Autorităţii."],
+              ["(2)","Schimbarea categoriei de folosinţă silvică a terenurilor cu destinaţie forestieră de la folosinţa \"pădure\" la altă categorie de folosinţă silvică se face cu plata unei taxe echivalente cu taxa pentru scoaterea definitivă a terenurilor din FFN, prevăzută la art. 45 alin. (1) lit. a), care se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică."],
+              ["(3)","Fac excepţie de la prevederile alin. (2):"],
+              ["a)","terenurile necesare construcţiei de drumuri forestiere şi realizării de lucrări de corectare a torenţilor;"],
+              ["b)","terenurile necesare înfiinţării de pepiniere silvice cu o suprafaţă de maximum 1 hectar;"],
+              ["c)","terenurile necesare depozitelor de material lemnos cu o suprafaţă de maximum 1 hectar;"],
+              ["d)","terenurile necesare amplasării unor instalaţii şi echipamente de cercetare în domeniul silvic;"],
+              ["e)","terenurile necesare constituirii culoarului de frontieră şi a fâşiei de protecţie a frontierei de stat, cele destinate realizării unor obiective din cadrul Sistemului integrat de securizare a frontierei;"],
+              ["f)","terenurile destinate realizării unor centre de antrenament la solicitarea instituţiilor din sistemul naţional de apărare şi ordine publică;"],
+              ["g)","terenurile destinate extinderii zonei de siguranţă a liniilor electrice existente şi a infrastructurii de transport rutier şi feroviar."],
+              ["(4)","Schimbarea categoriei de folosinţă a terenurilor prevăzute la alin. (3) lit. a) -d) se face la solicitarea proprietarului/administratorului de fond forestier, a celor prevăzute la alin. (3) lit. e) şi f) se face la solicitarea instituţiilor din sistemul naţional de apărare şi ordine publică, iar a celor prevăzute la alin. (3) lit. g) se face la solicitarea deţinătorului obiectivului."],
+              ["(5)","Corecţia erorilor de încadrare în ceea ce priveşte categoriile de folosinţă, identificate cu ocazia elaborării/revizuirii amenajamentului silvic, este scutită de plata taxelor prevăzute la alin. (2)."],
+              ["(6)","Exceptarea de la plata taxei echivalente cu taxa pentru scoaterea definitivă a terenurilor din FFN, prevăzută la art. 45 alin. (1) lit. a), pentru schimbarea categoriei de folosinţă silvică a terenurilor din FFN, ai cărei beneficiari sunt entităţi care desfăşoară activitate economică, se face cu respectarea legislaţiei europene şi naţionale în domeniul ajutorului de stat."]
+            ]
+          },
+          {
+            "no": "48",
+            "label": "Art. 48 – Înscrierea în cartea funciară a terenurilor care fac obiectul scoaterii definitive din FFN",
+            "items": [
+              ["(1)","Terenurile pentru care a fost emisă aprobarea de scoatere definitivă din FFN şi terenurile preluate în compensare dobândesc situaţia juridică a terenurilor pe care le înlocuiesc şi se înscriu în cartea funciară în baza actului de aprobare şi a procesului-verbal de predare-primire, încheiat între părţi, în cuprinsul cărora imobilele sunt identificate cu număr cadastral/topografic şi număr de carte funciară."],
+              ["(2)","Obligaţia de edificare a obiectivului pentru care a fost obţinută aprobarea de scoatere definitivă în condiţiile prevăzute la art. 40 şi 41 se notează în cartea funciară."]
+            ]
+          },
+          {
+            "no": "49",
+            "label": "Art. 49 – Metodologia pentru scoaterea definitivă şi ocuparea temporară a terenurilor din FFN",
+            "items": [
+              ["","Metodologia privind scoaterea definitivă, ocuparea temporară şi calculul obligaţiilor băneşti se aprobă prin ordin al conducătorului Autorităţii, în termen de 120 de zile de la data intrării în vigoare a prezentei legi, care se publică în Monitorul Oficial al României, Partea I."]
+            ]
+          },
+          {
+            "no": "50",
+            "label": "Art. 50 – Materialul lemnos rezultat ca urmare a scoaterii sau ocupării",
+            "items": [
+              ["","Materialul lemnos rezultat în urma defrişării vegetaţiei forestiere de pe terenurile scoase definitiv sau ocupate temporar din FFN revine proprietarului, în cazul terenurilor proprietate privată şi al celor proprietate publică a unităţilor administrativ-teritoriale, respectiv administratorului, în cazul terenurilor proprietate publică a statului, cu excepţia situaţiilor în care prin lege nu se dispune altfel."]
+            ]
+          },
+          {
+            "no": "51",
+            "label": "Art. 51 – Inalienabilitatea terenurilor din FFN proprietate publică a statului",
+            "items": [
+              ["","Terenurile din FFN proprietate publică a statului nu fac obiectul constituirii dreptului de proprietate privată sau al vreunui dezmembrământ al dreptului de proprietate, sub sancţiunea nulităţii absolute a actului de constituire."]
+            ]
+          },
+          {
+            "no": "52",
+            "label": "Art. 52 – Concesionarea terenurilor din FFN",
+            "items": [
+              ["(1)","Terenurile din FFN proprietate publică a statului nu pot fi concesionate, cu excepţia:"],
+              ["a)","terenurilor aferente obiectivelor instalate în FFN înainte de anul 1990, pe durata existenţei construcţiilor, dar nu mai mult de 49 de ani;"],
+              ["b)","terenurilor aferente activelor vândute de către Romsilva, pe durata existenţei construcţiilor, dar nu mai mult de 49 de ani de la data încheierii contractului de vânzare-cumpărare;"],
+              ["c)","terenurilor aferente activelor închiriate de către Romsilva, pe o durată de maximum 5 ani de la data încheierii contractului de închiriere."],
+              ["(2)","Calculul valorii redevenţei rezultate din concesionarea terenurilor din fondul forestier proprietate publică a statului se stabileşte prin metodologie, aprobată prin hotărâre a Guvernului în termen de 120 de zile de la data intrării în vigoare a prezentei legi."]
+            ]
+          },
+          {
+            "no": "53",
+            "label": "Art. 53 – Dreptul de preempţiune la cumpărarea terenurilor proprietate privată incluse în FFN",
+            "items": [
+              ["(1)","Prin derogare de la dispoziţiile art. 1.746 din Legea nr. 287/2009, republicată, cu modificările şi completările ulterioare, terenurile din FFN aflate în proprietate privată se vând cu respectarea, în ordine, a dreptului de preempţiune al coproprietarilor, al proprietarilor terenurilor învecinate din FFN, al statului român exercitat prin Romsilva şi al unităţilor administrativ teritoriale, la preţ şi în condiţii egale."],
+              ["(2)","Vânzătorul are obligaţia de a-i înştiinţa în scris pe toţi preemptorii prevăzuţi la alin. (1), prin executor judecătoresc sau notar public, despre intenţia de vânzare, arătând şi preţul cerut pentru terenul ce urmează a fi vândut. În cazul în care coproprietarii sau vecinii fondului, alţii decât administratorul terenurilor din FFN proprietate publică a statului, nu au domiciliul ori sediul cunoscut, înştiinţarea ofertei de vânzare se înregistrează la primăria sau, după caz, primăriile în raza cărora este situat terenul şi se afişează, în aceeaşi zi, la sediul primăriei, prin grija secretarului consiliului local."],
+              ["(3)","Titularii dreptului de preempţiune trebuie să îşi manifeste în scris intenţia de cumpărare şi să comunice acceptarea ofertei de vânzare sau, după caz, să o înregistreze la sediul primăriei unde aceasta a fost afişată, în termen de 30 de zile de la data comunicării ofertei de vânzare ori, după caz, de la data afişării acesteia la sediul primăriei."],
+              ["(4)","Dacă în termenul prevăzut la alin. (3) niciunul dintre preemptori nu îşi manifestă intenţia de cumpărare, vânzarea terenului este liberă. În faţa notarului public dovada înştiinţării preemptorilor se face cu copie de pe comunicările făcute sau, dacă este cazul, cu certificatul eliberat de primărie, după expirarea termenului de 30 de zile în care trebuia manifestată intenţia de cumpărare."],
+              ["(5)","Nerespectarea de către vânzător a obligaţiei prevăzute la alin. (2) sau vânzarea terenului la un preţ mai mic ori în condiţii mai avantajoase decât cele arătate în oferta de vânzare atrage nulitatea absolută a vânzării."],
+              ["(6)","Statul român poate dobândi terenuri din FFN aflate în proprietate privată în condiţiile prevederilor art. 863 lit. c) din Legea nr. 287/2009, republicată, cu modificările şi completările ulterioare. Terenurile astfel dobândite intră în proprietatea publică a statului."]
+            ]
+          },
+          {
+            "no": "54",
+            "label": "Art. 54 – Schimbul de terenuri",
+            "items": [
+              ["(1)","Administratorii terenurilor din FFN proprietate a statului sau a unităţilor administrativ-teritoriale iau măsuri de lichidare a enclavelor, de corectare a perimetrului FFN şi de comasare a terenurilor pe care le administrează prin schimburi de terenuri prin acte autentice."],
+              ["(2)","Terenurile care fac obiectul schimbului au/dobândesc destinaţie forestieră."],
+              ["(3)","Schimbul terenurilor se realizează minim în echivalenţă ca suprafaţă sau în echivalenţa valorică."]
+            ]
+          },
+          {
+            "no": "55",
+            "label": "Art. 55 – Modul de dobândire a terenurilor forestiere de către statul român",
+            "items": [
+              ["(1)","Procedura de dobândire prin cumpărare, schimb sau donaţie, prin Romsilva şi prin ceilalţi administratori ai FFN proprietate publică, în condiţiile prevăzute la art. 53, de evaluare a terenurilor forestiere din proprietatea publică şi a vegetaţiei forestiere aferente, precum şi de evaluare a terenurilor forestiere care fac obiectul trecerii din proprietatea publică a statului în proprietatea privată a acestuia în vederea reconstituirii dreptului de proprietate se aprobă prin hotărâre a Guvernului la propunerea Autorităţii, în termen de 180 de zile de la data intrării în vigoare a prezentei legi."],
+              ["(2)","Pentru suprafeţele de până la 500 hectare inclusiv, statul, prin Romsilva, îşi exercită dreptul de preempţiune la cumpărarea de terenuri din FFN, până la valorile maxime stabilite potrivit procedurii prevăzute la alin. (1)."],
+              ["(3)","Pentru suprafeţele de peste 500 hectare, statul, prin Romsilva, îşi exercită dreptul de preempţiune la cumpărarea de terenuri din FFN, în condiţiile alin. (1), cu posibilitatea de negociere cu o valoare suplimentară care nu poate să depăşească 15% din valoarea stabilită potrivit procedurii prevăzute la alin. (1)."]
+            ]
+          },
+          {
+            "no": "56",
+            "label": "Art. 56 – Condiţii ale schimbului de terenuri",
+            "items": [
+              ["(1)","Pentru realizarea schimbului de terenuri în situaţiile în care unul dintre terenuri este proprietate publică, schimbul trebuie să îndeplinească cel puţin una dintre următoarele condiţii:"],
+              ["a)","să conducă la eliminarea de enclave din FFN proprietate publică a statului;"],
+              ["b)","să determine comasarea terenurilor din FFN proprietate publică a statului;"],
+              ["c)","să asigure majorarea suprafeţelor împădurite din zonele deficitare în păduri;"],
+              ["d)","să fie asigurată echivalenţa valorică a terenurilor care fac obiectul schimbului, potrivit metodologiei prevăzute la art. 55, fără diminuarea suprafeţei de FFN proprietate publică."],
+              ["(2)","Schimbul de terenuri prevăzut la alin. (1) se iniţiază de către administratorul terenurilor din FFN proprietate publică sau de către proprietar, în cazul terenurilor din FFN proprietate publică a unităţilor administrativ-teritoriale, şi se aprobă prin ordin al conducătorului Autorităţii."],
+              ["(3)","În situaţia în care suprafaţa terenurilor din FFN este sub 30% din suprafaţa judeţului, schimbul de terenuri se poate realiza doar în cadrul aceluiaşi judeţ."],
+              ["(4)","Schimbul se realizează numai cu terenuri din FFN, cu excepţia situaţiilor prevăzute la alin. (1) lit. a) şi c), în care schimbul se poate face cu terenuri cu altă destinaţie."]
+            ]
+          },
+          {
+            "no": "57",
+            "label": "Art. 57 – Fragmentarea suprafeţelor de fond forestier",
+            "items": [
+              ["","De la data intrării în vigoare a prezentei legi nu pot fi dezmembrate ori dezlipite sub limita de 0,5 hectare prevăzută la art. 2 alin. (1), prin acte notariale de dezmembrare sau partaj, terenurile din FFN având categoria de folosinţă pădure, cu excepţia cazurilor prevăzute la art. 40 şi 41."]
+            ]
+          },
+          {
+            "no": "58",
+            "label": "Art. 58 – Accesul în scop recreativ pe terenurile din FFN",
+            "items": [
+              ["(1)","Accesul persoanelor, pedestru sau cu bicicleta, pe terenurile din FFN este liber şi se realizează pe propria răspundere a acestora, fără a se produce prejudicii."],
+              ["(2)","Accesul persoanelor prevăzute la alin. (1) se restricţionează de către administrator/proprietar pentru perioade limitate în zonele de risc la incendii, în zonele de risc în care se realizează lucrări de exploatare forestieră sau activităţi de vânătoare, în zonele de protecţie strictă în care accesul persoanelor este interzis pentru considerente privind protecţia mediului, pe terenurile prevăzute la art. 1 alin. (3) lit. g), cu excepţia drumurilor forestiere, în situaţia în care nu sunt localizate în perimetrele care fac obiectul situaţiilor enumerate."],
+              ["(3)","Structurile de administrare pot restricţiona temporar accesul în condiţiile alin. (2) pentru asigurarea condiţiilor de siguranţă a persoanelor, prin afişarea acestor restricţii la loc vizibil."],
+              ["(4)","În pădurile situate în ariile naturale protejate, accesul public în pădure poate fi restricţionat prin reglementările planurilor de management ale ariilor naturale protejate."],
+              ["(5)","Amenajarea în FFN de poteci şi trasee pentru plimbare, alergare, turism ecvestru şi biciclete se face cu acordul administratorului, pentru pădurile proprietate publică sau privată a statului, sau cu acordul proprietarului, în cazul celorlalte forme de proprietate. În pădurile din arii naturale protejate, amenajările se pot realiza numai cu aprobarea administratorului ariei naturale protejate."],
+              ["(6)","Potecile şi traseele pentru plimbare, alergare, turism ecvestru şi biciclete pot fi realizate numai din pământ, lemn şi pietriş. Realizarea acestora nu face obiectul scoaterii ori ocupărilor temporare din FFN, nu necesită autorizaţie de construire, iar pentru amenajarea acestora pot fi recoltaţi maximum 5 arbori/hectar."],
+              ["(7)","Accesul public în FFN cu vehicule cu mijloace de autopropulsare sau cu tracţiune animală este interzis."],
+              ["(8)","Prin excepţie de la prevederile alin. (7), evenimentele sportive, utilitare, de recreere şi turism care au un organizator desemnat şi care implică folosirea acestor mijloace motorizate se pot organiza numai în afara ariilor naturale protejate, pe trasee special marcate, şi numai cu acordul administratorului terenului proprietate publică sau al proprietarului, în celelalte cazuri."],
+              ["(9)","Prin excepţie de la prevederile alin. (7), accesul cu vehicule cu mijloace de autopropulsare sau cu tracţiune animală pe drumurile forestiere în scop de tranzitare poate fi permis în condiţiile stabilite de către proprietar/administrator atunci când drumurile deservesc obiective turistice, utilitare sau de agrement, dacă acest lucru nu pune în pericol integritatea FFN."],
+              ["(10)","Pentru asigurarea accesului în perimetrul iazurilor de decantare, drumurile forestiere au statut de drum de servitute. Pentru buna gestionare a siguranţei în funcţionare a iazurilor de decantare şi a sistemelor de gestionare a apelor şi securităţii structurale a acestora, se constituie o zonă de siguranţă cu o lăţime de maximum 30 metri de la limita iazului de decantare sau a sistemului de gestionare a apelor."]
+            ]
+          },
+          {
+            "no": "59",
+            "label": "Art. 59 – Accesul în fondul forestier în alte scopuri",
+            "items": [
+              ["","Accesul pe terenurile din FFN este permis pentru:"],
+              ["a)","personalul din cadrul structurilor de administrare/prestare servicii silvice;"],
+              ["b)","personalul cu atribuţii de control şi de constatare a încălcării prevederilor prezentei legi;"],
+              ["c)","personalul din cadrul structurilor de administrare a ariilor naturale protejate;"],
+              ["d)","personalul împuternicit pentru gestionarea fondurilor cinegetice;"],
+              ["e)","personalul implicat în activităţi de proiectare, dezvoltare tehnologică şi cercetare ştiinţifică;"],
+              ["f)","personalul responsabil cu realizarea IFN;"],
+              ["g)","personalul din cadrul entităţilor care desfăşoară legal activităţi în FFN;"],
+              ["h)","reprezentanţi ai organizaţiilor neguvernamentale sau jurnalişti, pe răspunderea proprie, în condiţiile prezentei legi."]
+            ]
+          },
+          {
+            "no": "60",
+            "label": "Art. 60 – Litigii referitoare la terenurile din FFN proprietate publică",
+            "items": [
+              ["(1)","În litigiile referitoare la dreptul de proprietate asupra FFN proprietate publică a statului, titularul dreptului de administrare are obligaţia să arate instanţei cine este titularul dreptului de proprietate, potrivit prevederilor Legii nr. 134/2010 privind Codul de procedură civilă, republicată, cu modificările şi completările ulterioare. Titularul dreptului de administrare răspunde pentru prejudiciile/prejudiciile forestiere cauzate ca urmare a neîndeplinirii acestor obligaţii."],
+              ["(2)","În litigiile referitoare la dreptul de administrare a fondului forestier proprietate publică, titularul acestui drept stă în instanţă în nume propriu."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

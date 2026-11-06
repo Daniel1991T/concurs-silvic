@@ -1,0 +1,1191 @@
+{
+  "id": "n2537",
+  "title": "Regenerarea pădurilor și controlul anual",
+  "act": "Ordinul 2537/2022 – norme tehnice și ghid",
+  "version": "Normele și ghidul din 28 septembrie 2022, valabile la 29 octombrie 2026",
+  "intro": "Controlul anual al regenerărilor: calendarul, cine îl face, cele două etape, cum se amplasează suprafețele de control, cum se calculează reușita, ce sunt pierderile tehnologice și cele accidentale, când se fac completări și când se declară starea de masiv. La interviu se cer des datele calendarului și pragurile de reușită.",
+  "lesson": [
+    {
+      "title": "1. Ce e controlul anual al regenerărilor",
+      "paragraphs": [
+        {
+          "text": "Controlul anual = lucrare tehnică prin care se determină **starea regenerărilor** și se stabilesc măsurile pentru dezvoltarea lor până la **starea de masiv**.",
+          "refs": ["NT art. 1 alin. (1)"]
+        },
+        {
+          "text": "Scopul: reușita regenerărilor și lucrările necesare pentru realizarea **compoziției de regenerare** și a compoziției-țel.",
+          "refs": ["NT art. 1 alin. (2)"]
+        },
+        {
+          "text": "Obiectul: **toate suprafețele regenerate** natural, mixt sau artificial care **nu au realizat starea de masiv**. Starea de masiv = anul din care regenerarea se dezvoltă independent, puieții interacționând, fără completări sau întrețineri.",
+          "refs": ["NT art. 1 alin. (3)"]
+        },
+        {
+          "text": "Regenerările se urmăresc din anul declanșării până la starea de masiv, atât în pădurile publice, cât și în cele private.",
+          "refs": ["NT art. 1 alin. (4)"]
+        }
+      ],
+      "keep": [
+        "Obiect: toate regenerările fără stare de masiv",
+        "Scop: reușita + lucrările viitoare",
+        "Se aplică la proprietatea publică și privată"
+      ],
+      "quiz": [
+        {
+          "q": "Controlul anual se aplică în pădurile private?",
+          "options": ["Nu", "Da", "Doar peste 100 ha", "Doar cu aviz"],
+          "answer": 1,
+          "explain": "Art. 1 alin. (4).",
+          "ref": "NT art. 1 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "2. Calendarul și echipele",
+      "paragraphs": [
+        {
+          "text": "Controlul se face anual între **1 septembrie și 31 decembrie**: **1 sep. – 15 oct.** faza de teren și centralizarea la ocol; **15 oct. – 15 nov.** verificarea la direcția silvică; **15 nov. – 31 dec.** depunerea și susținerea documentației la administratorul pădurilor statului sau, la celelalte proprietăți, la Gardă.",
+          "refs": ["NT art. 2 alin. (1)"]
+        },
+        {
+          "text": "Numărul de echipe se stabilește astfel încât faza de teren să fie gata **până la 15 octombrie**.",
+          "refs": ["NT art. 2 alin. (2)"]
+        },
+        {
+          "text": "Ghidul: echipele, numite prin ordinul șefului de ocol, au de regulă **minimum trei persoane**: **șeful de district** (șef de echipă), **pădurarul titular** al cantonului și **un pădurar dintr-un canton alăturat**; lucrează în prezența gestionarului.",
+          "refs": ["Ghid pct. 2"]
+        },
+        {
+          "text": "Echipele: amplasează suprafețele de control, le verifică pe cele de la recepția împăduririlor, inventariază puieții, verifică lucrările executate față de documentații și propun lucrările necesare.",
+          "refs": ["NT art. 2 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "1 sep.–31 dec.",
+        "Teren: 1 sep.–15 oct.",
+        "Verificare: 15 oct.–15 nov.",
+        "Depunere: 15 nov.–31 dec.",
+        "Echipa: șef de district + pădurarul titular + pădurar vecin"
+      ],
+      "quiz": [
+        {
+          "q": "Documentația pentru pădurile private se depune la:",
+          "options": ["Romsilva", "Structurile teritoriale ale autorității (Garda)", "Primărie", "Prefectură"],
+          "answer": 1,
+          "explain": "Art. 2 lit. c).",
+          "ref": "NT art. 2 alin. (1) lit. c)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Calendarul controlului anual",
+        "steps": [
+          {"title": "1 septembrie", "text": "începe faza de teren", "ref": "NT art. 2 alin. (1)"},
+          {
+            "title": "15 octombrie",
+            "text": "gata terenul și centralizarea la ocol",
+            "ref": "NT art. 2 alin. (1) lit. a)"
+          },
+          {
+            "title": "15 noiembrie",
+            "text": "gata verificarea la direcția silvică",
+            "ref": "NT art. 2 alin. (1) lit. b)"
+          },
+          {
+            "title": "31 decembrie",
+            "text": "depus și susținut la administrator / Gardă",
+            "ref": "NT art. 2 alin. (1) lit. c)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "3. Cele două etape",
+      "paragraphs": [
+        {
+          "text": "**Etapa I**: doar regenerările **naturale** din codru, de la declanșare până la trecerea **unui sezon de vegetație după tăierea definitivă**, cât seminișul e sub adăpostul arboretului matern.",
+          "refs": ["NT art. 3 lit. a)"]
+        },
+        {
+          "text": "**Etapa a II-a**: începe după un sezon de vegetație de la **tăierea definitivă** (regenerare naturală integrală), de la **completare** (mixtă) sau de la **împădurire** (artificială). Grădinăritul e exceptat.",
+          "refs": ["NT art. 3 lit. b)"]
+        },
+        {
+          "text": "În etapa I se urmărește seminișul, corectitudinea tăierilor de regenerare, lucrările de ajutorare și **momentul înlăturării arboretului matern**.",
+          "refs": ["NT art. 4 alin. (1)"]
+        },
+        {
+          "text": "**Seminișul utilizabil**: din speciile compoziției de regenerare, viguros, sănătos, fără răni, bine conformat, **indiferent de vârstă sau înălțime**. **Neutilizabil**: vătămat, rău conformat, închircit, cu coroană tabulară sau în umbrelă, ori din specii străine compoziției.",
+          "refs": ["NT art. 4 alin. (3)–(4)"]
+        },
+        {
+          "text": "Ghidul: la **tăierile grădinărite**, suprafețele de control = **8% din cupon**, urmărite până la revenirea cu o nouă tăiere (**10 ani**).",
+          "refs": ["Ghid pct. 3.1"]
+        }
+      ],
+      "keep": [
+        "Etapa I: natural sub adăpost, până la un sezon după definitivă",
+        "Etapa II: după un sezon de la definitivă / completare / împădurire",
+        "Seminiș utilizabil: indiferent de vârstă sau înălțime",
+        "Grădinărit: 8% din cupon, 10 ani"
+      ],
+      "quiz": [
+        {
+          "q": "Regenerările din tăieri grădinărite intră în etapa a II-a?",
+          "options": ["Da", "Nu, sunt exceptate", "Doar molidul", "Doar după 5 ani"],
+          "answer": 1,
+          "explain": "Art. 3 lit. b).",
+          "ref": "NT art. 3 lit. b)"
+        }
+      ]
+    },
+    {
+      "title": "4. Suprafețele de control",
+      "paragraphs": [
+        {
+          "text": "**Etapa I** (regenerare naturală sub adăpost): suprafețe de **5 m²** – dreptunghi **5 × 1 m** sau cerc cu **R = 1,26 m**; câte **10/ha** sub 3 ha, **5/ha** între 3 și 10 ha, **2/ha** peste 10 ha. Țărușii sunt obligatorii doar în anul controlului.",
+          "refs": ["NT Anexa 1"]
+        },
+        {
+          "text": "**Etapa a II-a**: suprafețele de control însumează **8%** din cultură sub 5 ha, **4%** între 5 și 10 ha, **2%** peste 10 ha. Sub **0,25 ha** se inventariază **integral**. Mărimea unei suprafețe: **100 m²** (sub 5 ha) sau 100–200 m² (peste 5 ha).",
+          "refs": ["NT Anexa 1"]
+        },
+        {
+          "text": "În etapa a II-a suprafețele sunt **permanente** până la starea de masiv, marcate cu borne și țăruși, și au aceeași formă și mărime într-o regenerare. La plopi, salcie, nuc, răchită pot fi rânduri sau părți de rând.",
+          "refs": ["NT Anexa 1"]
+        },
+        {
+          "text": "La regenerările artificiale și mixte, suprafețele se amplasează la încheierea împăduririi și servesc și la **recepția tehnică**.",
+          "refs": ["NT Anexa 1"]
+        }
+      ],
+      "keep": [
+        "Etapa I: 5 m² (5×1 m sau R 1,26 m); 10 / 5 / 2 pe ha (< 3 / 3–10 / > 10 ha)",
+        "Etapa II: 8% / 4% / 2% (< 5 / 5–10 / > 10 ha)",
+        "Sub 0,25 ha: inventariere integrală",
+        "Etapa II: suprafețe permanente, cu borne"
+      ],
+      "quiz": [
+        {
+          "q": "Suprafețele de control din etapa a II-a se mențin:",
+          "options": ["Un an", "Permanent, până la starea de masiv", "3 ani", "Se mută anual"],
+          "answer": 1,
+          "explain": "Anexa 1.",
+          "ref": "NT Anexa 1"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Suprafețele de control",
+        "items": [
+          {"title": "Etapa I – mărime", "text": "5 m² (5 × 1 m sau R = 1,26 m)", "ref": "NT Anexa 1"},
+          {
+            "title": "Etapa I – număr",
+            "text": "10/ha (< 3 ha) · 5/ha (3–10 ha) · 2/ha (> 10 ha)",
+            "ref": "NT Anexa 1"
+          },
+          {
+            "title": "Etapa II – pondere",
+            "text": "8% (< 5 ha) · 4% (5–10 ha) · 2% (> 10 ha)",
+            "ref": "NT Anexa 1"
+          },
+          {
+            "title": "Etapa II – mărime",
+            "text": "100 m² (sau 200 m² peste 5 ha); sub 0,25 ha integral",
+            "ref": "NT Anexa 1"
+          }
+        ]
+      }
+    },
+    {
+      "title": "5. Reușita regenerărilor",
+      "paragraphs": [
+        {
+          "text": "Reușita se stabilește **separat** pentru regenerarea naturală și cea artificială. Dacă regenerarea naturală nu are pe toată suprafața numărul minim pentru „bună”, doar porțiunile care îl au se raportează ca reușite, iar diferența trece la **regenerări artificiale**.",
+          "refs": ["NT art. 5 alin. (3)–(4)"]
+        },
+        {
+          "text": "**Regenerări naturale** (mii puieți/ha, specii principale): rășinoase și fag – **10–15** la 1 an și la 2–4 ani, **10** la starea de masiv; cvercinee și alte foioase – 10–15, apoi **8** la masiv; crâng de salcâm – 12–14 / 10–11 / 10 (se numără doar **2 lăstari pe cioată**). La tăierile în scaun: peste **450 de scaune viabile/ha**, cu minimum 5 lăstari.",
+          "refs": ["NT Anexa 2A"]
+        },
+        {
+          "text": "**Regenerări artificiale**, terenuri normale, regiunea montană și de dealuri: anul I **≥ 75%** (pierderi tehnologice admise **25%**), anul II **≥ 85%** (15%); peste **95%** nu se fac completări. Silvostepă și câmpie: anul I ≥ 70%, anul II ≥ 75%. Lunca și Delta: anul I ≥ 80%, anul II ≥ 85%.",
+          "refs": ["NT Anexa 2B"]
+        },
+        {
+          "text": "Reușita artificială se raportează atât la **totalul puieților plantați**, cât și la cei din **speciile principale de bază și de amestec**. Pragurile diferă și pentru terenuri degradate și extreme.",
+          "refs": ["NT art. 5 alin. (4) lit. c)","NT art. 5 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "Natural, rășinoase/fag: 10–15 mii/ha, 10 mii la masiv; cvercinee 8 mii",
+        "Salcâm: 2 lăstari pe cioată; scaun: > 450 scaune/ha",
+        "Artificial, munte–deal: anul I ≥ 75%, anul II ≥ 85%; > 95% fără completări",
+        "Câmpie: 70% / 75%; luncă: 80% / 85%"
+      ],
+      "quiz": [
+        {
+          "q": "Reușita regenerării naturale și artificiale se stabilește:",
+          "options": ["Împreună", "Separat", "Doar natural", "Doar artificial"],
+          "answer": 1,
+          "explain": "Art. 5 alin. (3).",
+          "ref": "NT art. 5 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "6. Pierderi și completări",
+      "paragraphs": [
+        {
+          "text": "**Pierderi**: puieți dispăruți, uscați, vătămați, roși de vânat, atacați, care nu mai pot fi refăcuți.",
+          "refs": ["NT art. 5 alin. (6)"]
+        },
+        {
+          "text": "**Pierdere grupată** = lipsa în același loc a **cel puțin 4 puieți**; la răchitării, butași lipsă pe **cel puțin 1 m**; la scheme mari (nuc, plop, salcie), **un singur puiet**.",
+          "refs": ["NT art. 5 alin. (7)"]
+        },
+        {
+          "text": "Reușită sub **20%** = **pierdere totală**; lucrarea se reface integral.",
+          "refs": ["NT art. 5 alin. (8)"]
+        },
+        {
+          "text": "Pierderi **tehnologice** (normale, șocul de transplantare) și **accidentale** (peste cele tehnologice, din factori obiectivi sau subiectivi – neglijență, pășunat, material necorespunzător, dăunători care se puteau preveni).",
+          "refs": ["NT art. 5 alin. (9)","Ghid pct. 3.2"]
+        },
+        {
+          "text": "Primăvara, în **30 de zile** de la încheierea plantării, se face **procesul-verbal de prindere**, care ajută la încadrarea pierderilor.",
+          "refs": ["NT art. 5 alin. (10)"]
+        },
+        {
+          "text": "**Completările sunt obligatorii** la pierderi grupate, **indiferent de reușită** și de an, până la masiv; în **primii doi ani** sunt obligatorii și când reușita e sub cea din anexa 2B. Se folosesc puieți bine dezvoltați, din speciile compoziției.",
+          "refs": ["NT art. 5 alin. (11)"]
+        }
+      ],
+      "keep": [
+        "Pierdere grupată: ≥ 4 puieți (răchită 1 m; scheme mari 1 puiet)",
+        "Reușită < 20% = pierdere totală → refacere",
+        "Tehnologice (normale) vs accidentale (imputabile)",
+        "PV de prindere: în 30 zile de la plantare",
+        "Completări obligatorii la pierderi grupate, oricând până la masiv"
+      ],
+      "quiz": [
+        {
+          "q": "La plantațiile de plop la scheme mari, pierdere grupată e lipsa a:",
+          "options": ["4 puieți", "Un puiet", "10 puieți", "1 m"],
+          "answer": 1,
+          "explain": "Art. 5 alin. (7) lit. b).",
+          "ref": "NT art. 5 alin. (7)"
+        }
+      ]
+    },
+    {
+      "title": "7. Starea de masiv și verificarea",
+      "paragraphs": [
+        {
+          "text": "**Regenerări naturale**: foioase – coroanele se ating în proporție de **minimum 80%**; rășinoase – înălțimea de **1,0–1,20 m** (0,6–0,7 m în stațiuni extreme).",
+          "refs": ["NT art. 5 alin. (13)"]
+        },
+        {
+          "text": "**Regenerări artificiale**: foioase – coroanele se ating cel puțin **80%**; plopi euramericani și nuc – **d₁,₃₀ ≥ 8 cm**; rășinoase – **1,2–1,4 m** (0,6–0,8 m în stațiuni extreme și terenuri degradate).",
+          "refs": ["NT art. 5 alin. (14)"]
+        },
+        {
+          "text": "Starea de masiv se declară când e realizată **pe întreaga suprafață**. Golurile de peste **2.500 m²**, cu condiții staționale diferite, se pot separa. Termenele pe specii sunt în anexa 4 a ghidului (ex.: molid și rășinoase montane, anii VII–IX).",
+          "refs": ["NT art. 5 alin. (15)","Ghid pct. 3.2"]
+        },
+        {
+          "text": "La stat și la ocoalele de regim, o **comisie de verificare** controlează **cel puțin 20%** din suprafețele de control (amplasare), datele prin sondaj, necesitatea și calitatea lucrărilor, cauzele pierderilor, refacerea pierderilor anterioare. Raportul cuprinde regenerările care au realizat starea de masiv și pe cele întârziate, cu justificări.",
+          "refs": ["NT art. 6 alin. (1)–(2)"]
+        }
+      ],
+      "keep": [
+        "Natural: foioase coroane ≥ 80%; rășinoase 1,0–1,2 m",
+        "Artificial: foioase ≥ 80%, plopi/nuc d ≥ 8 cm; rășinoase 1,2–1,4 m",
+        "Declarată pe toată suprafața; goluri > 2.500 m² separabile",
+        "Comisia verifică ≥ 20% din suprafețele de control"
+      ],
+      "quiz": [
+        {
+          "q": "Starea de masiv se declară:",
+          "options": ["Pe jumătate din suprafață", "Pe întreaga suprafață", "Pe 80%", "Oricând"],
+          "answer": 1,
+          "explain": "Art. 5 alin. (15).",
+          "ref": "NT art. 5 alin. (15)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Starea de masiv",
+        "levels": [
+          {
+            "who": "Foioase (natural și artificial)",
+            "does": ["coroanele se ating ≥ 80%"],
+            "ref": "NT art. 5 alin. (13)"
+          },
+          {
+            "who": "Rășinoase – natural",
+            "does": ["1,0–1,2 m (extreme 0,6–0,7 m)"],
+            "ref": "NT art. 5 alin. (13)"
+          },
+          {
+            "who": "Rășinoase – artificial",
+            "does": ["1,2–1,4 m (extreme 0,6–0,8 m)"],
+            "ref": "NT art. 5 alin. (14)"
+          },
+          {"who": "Plopi e.a., nuc", "does": ["d₁,₃₀ ≥ 8 cm"], "ref": "NT art. 5 alin. (14)"}
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Calendar și organizare",
+      "rows": [
+        {"what": "Perioada controlului", "value": "1 sep. – 31 dec.", "ref": "NT art. 2 alin. (1)"},
+        {"what": "Faza de teren", "value": "1 sep. – 15 oct.", "ref": "NT art. 2 alin. (1) lit. a)"},
+        {
+          "what": "Verificare la direcția silvică",
+          "value": "15 oct. – 15 nov.",
+          "ref": "NT art. 2 alin. (1) lit. b)"
+        },
+        {
+          "what": "Depunere și susținere",
+          "value": "15 nov. – 31 dec.",
+          "ref": "NT art. 2 alin. (1) lit. c)"
+        },
+        {
+          "what": "Echipa",
+          "value": "șef district + pădurar titular + pădurar vecin",
+          "ref": "Ghid pct. 2"
+        },
+        {
+          "what": "Verificarea comisiei",
+          "value": "≥ 20% din suprafețele de control",
+          "ref": "NT art. 6 alin. (1) lit. a)"
+        },
+        {"what": "Grădinărit", "value": "8% din cupon, 10 ani", "ref": "Ghid pct. 3.1"}
+      ]
+    },
+    {
+      "title": "Suprafețe de control",
+      "rows": [
+        {"what": "Etapa I: mărime", "value": "5 m² (5 × 1 m sau R = 1,26 m)", "ref": "NT Anexa 1"},
+        {
+          "what": "Etapa I: număr",
+          "value": "10/ha (< 3 ha) · 5/ha (3–10 ha) · 2/ha (> 10 ha)",
+          "ref": "NT Anexa 1"
+        },
+        {
+          "what": "Etapa II: pondere",
+          "value": "8% (< 5 ha) · 4% (5–10 ha) · 2% (> 10 ha)",
+          "ref": "NT Anexa 1"
+        },
+        {"what": "Inventariere integrală", "value": "sub 0,25 ha", "ref": "NT Anexa 1"},
+        {
+          "what": "Mărime etapa II",
+          "value": "100 m² (< 5 ha); 100–200 m² (> 5 ha)",
+          "ref": "NT Anexa 1"
+        }
+      ]
+    },
+    {
+      "title": "Reușită și masiv",
+      "rows": [
+        {
+          "what": "Natural rășinoase/fag",
+          "value": "10–15 mii/ha; 10 mii la masiv",
+          "ref": "NT Anexa 2A"
+        },
+        {"what": "Natural cvercinee", "value": "8 mii/ha la masiv", "ref": "NT Anexa 2A"},
+        {"what": "Scaun (zăvoaie)", "value": "> 450 scaune/ha, ≥ 5 lăstari", "ref": "NT Anexa 2A"},
+        {"what": "Artificial munte–deal", "value": "an I ≥ 75% · an II ≥ 85%", "ref": "NT Anexa 2B"},
+        {"what": "Fără completări peste", "value": "95% (munte–deal)", "ref": "NT Anexa 2B"},
+        {"what": "Pierdere grupată", "value": "≥ 4 puieți", "ref": "NT art. 5 alin. (7)"},
+        {"what": "Pierdere totală", "value": "reușită < 20%", "ref": "NT art. 5 alin. (8)"},
+        {"what": "PV de prindere", "value": "30 zile de la plantare", "ref": "NT art. 5 alin. (10)"},
+        {
+          "what": "Masiv rășinoase natural / artificial",
+          "value": "1,0–1,2 m / 1,2–1,4 m",
+          "ref": "NT art. 5 alin. (13)–(14)"
+        },
+        {"what": "Masiv foioase", "value": "coroane ≥ 80%", "ref": "NT art. 5 alin. (13)"},
+        {"what": "Goluri separabile", "value": "> 2.500 m²", "ref": "NT art. 5 alin. (15)"}
+      ]
+    }
+  ],
+  "tricks": [
+    "Calendarul: „1 – 15 – 15 – 31”: 1 sep. start, 15 oct. gata terenul, 15 nov. gata verificarea, 31 dec. depunerea.",
+    "Suprafețele de control: etapa I „10 – 5 – 2 pe hectar”, etapa II „8 – 4 – 2 la sută”.",
+    "Reușita artificială la munte: „75 – 85 – 95”: anul I, anul II, prag peste care nu mai completezi.",
+    "Masivul la rășinoase: natural 1,0–1,2 m, artificial 1,2–1,4 m (plantațiile trebuie să fie mai înalte).",
+    "Pierdere grupată = 4 puieți lipsă; sub 20% reușită = refaci tot."
+  ],
+  "cards": [
+    {
+      "q": "Ce e obiectul controlului anual al regenerărilor?",
+      "a": "Toate suprafețele regenerate (natural, mixt, artificial) care nu au realizat starea de masiv.",
+      "ref": "NT art. 1 alin. (3)"
+    },
+    {
+      "q": "Ce e starea de masiv?",
+      "a": "Anul din care regenerarea se dezvoltă independent, fără completări sau întrețineri.",
+      "ref": "NT art. 1 alin. (3)"
+    },
+    {
+      "q": "În ce perioadă se face controlul anual?",
+      "a": "1 septembrie – 31 decembrie.",
+      "ref": "NT art. 2 alin. (1)"
+    },
+    {
+      "q": "Până când trebuie terminată faza de teren?",
+      "a": "15 octombrie.",
+      "ref": "NT art. 2 alin. (2)"
+    },
+    {
+      "q": "Când se verifică lucrările la direcția silvică?",
+      "a": "15 octombrie – 15 noiembrie.",
+      "ref": "NT art. 2 alin. (1) lit. b)"
+    },
+    {
+      "q": "Când se depune documentația?",
+      "a": "15 noiembrie – 31 decembrie.",
+      "ref": "NT art. 2 alin. (1) lit. c)"
+    },
+    {
+      "q": "Din cine e formată echipa de control?",
+      "a": "Șeful de district (șef de echipă), pădurarul titular și un pădurar dintr-un canton alăturat.",
+      "ref": "Ghid pct. 2"
+    },
+    {
+      "q": "Ce suprafețe intră în etapa I?",
+      "a": "Regenerările naturale sub adăpost, până la un sezon de vegetație după tăierea definitivă.",
+      "ref": "NT art. 3 lit. a)"
+    },
+    {
+      "q": "Când începe etapa a II-a la o regenerare artificială?",
+      "a": "După trecerea unui sezon de vegetație de la împădurire.",
+      "ref": "NT art. 3 lit. b)"
+    },
+    {
+      "q": "Contează vârsta seminișului ca să fie utilizabil?",
+      "a": "Nu, contează să fie din specii corespunzătoare, viguros, sănătos, bine conformat.",
+      "ref": "NT art. 4 alin. (3)"
+    },
+    {
+      "q": "Ce mărime au suprafețele de control în etapa I?",
+      "a": "5 m²: 5 × 1 m sau cerc cu R = 1,26 m.",
+      "ref": "NT Anexa 1"
+    },
+    {
+      "q": "Câte suprafețe de control la hectar într-o regenerare naturală de 2 ha?",
+      "a": "10/ha.",
+      "ref": "NT Anexa 1"
+    },
+    {
+      "q": "Ce pondere au suprafețele de control în etapa a II-a la o cultură de 4 ha?",
+      "a": "8% din suprafață.",
+      "ref": "NT Anexa 1"
+    },
+    {"q": "Când se inventariază integral o regenerare?", "a": "Sub 0,25 ha.", "ref": "NT Anexa 1"},
+    {
+      "q": "Ce reușită minimă trebuie la o regenerare naturală de fag la starea de masiv?",
+      "a": "10 mii puieți/ha din speciile principale.",
+      "ref": "NT Anexa 2A"
+    },
+    {"q": "Câți lăstari se numără pe cioată la salcâm?", "a": "Doar 2.", "ref": "NT Anexa 2A"},
+    {
+      "q": "Ce reușită trebuie la o plantație de molid din anul I, la munte?",
+      "a": "Cel puțin 75%.",
+      "ref": "NT Anexa 2B"
+    },
+    {"q": "Și în anul II?", "a": "Cel puțin 85%.", "ref": "NT Anexa 2B"},
+    {
+      "q": "Peste ce reușită nu se mai fac completări, la munte?",
+      "a": "95%.",
+      "ref": "NT Anexa 2B"
+    },
+    {
+      "q": "Ce e o pierdere grupată?",
+      "a": "Lipsa în același loc a cel puțin 4 puieți.",
+      "ref": "NT art. 5 alin. (7)"
+    },
+    {
+      "q": "Când se consideră pierdere totală?",
+      "a": "La reușită sub 20%; lucrarea se reface integral.",
+      "ref": "NT art. 5 alin. (8)"
+    },
+    {
+      "q": "Ce sunt pierderile tehnologice?",
+      "a": "Pierderile normale până la masiv, din șocul de transplantare.",
+      "ref": "NT art. 5 alin. (9)"
+    },
+    {
+      "q": "Când se face PV de prindere?",
+      "a": "Primăvara, în 30 de zile de la încheierea plantării.",
+      "ref": "NT art. 5 alin. (10)"
+    },
+    {
+      "q": "Când sunt obligatorii completările?",
+      "a": "La pierderi grupate, indiferent de reușită; în primii doi ani și când reușita e sub prag.",
+      "ref": "NT art. 5 alin. (11)"
+    },
+    {
+      "q": "Când e realizată starea de masiv la o regenerare naturală de molid?",
+      "a": "La înălțimea de 1,0–1,20 m (0,6–0,7 m în stațiuni extreme).",
+      "ref": "NT art. 5 alin. (13)"
+    },
+    {
+      "q": "Și la o plantație de molid?",
+      "a": "La 1,2–1,4 m (0,6–0,8 m în stațiuni extreme).",
+      "ref": "NT art. 5 alin. (14)"
+    },
+    {
+      "q": "Când e realizată starea de masiv la foioase?",
+      "a": "Când coroanele se ating în proporție de minimum 80%.",
+      "ref": "NT art. 5 alin. (13)"
+    },
+    {
+      "q": "Când e masiv la plopii euramericani?",
+      "a": "La diametrul de minimum 8 cm la 1,30 m.",
+      "ref": "NT art. 5 alin. (14)"
+    },
+    {
+      "q": "Ce goluri se pot separa la declararea masivului?",
+      "a": "Cele de peste 2.500 m², cu condiții staționale diferite.",
+      "ref": "NT art. 5 alin. (15)"
+    },
+    {
+      "q": "Cât verifică comisia din suprafețele de control?",
+      "a": "Cel puțin 20%.",
+      "ref": "NT art. 6 alin. (1) lit. a)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Controlul anual al regenerărilor se efectuează în perioada:",
+      "options": ["1 aprilie – 30 iunie", "1 septembrie – 31 decembrie", "1 ianuarie – 31 martie", "Tot anul"],
+      "answer": 1,
+      "explain": "Art. 2.",
+      "ref": "NT art. 2 alin. (1)"
+    },
+    {
+      "q": "Faza de teren trebuie încheiată până la:",
+      "options": ["30 septembrie", "15 octombrie", "15 noiembrie", "31 decembrie"],
+      "answer": 1,
+      "explain": "Art. 2.",
+      "ref": "NT art. 2 alin. (2)"
+    },
+    {
+      "q": "Verificarea la nivelul direcției silvice are loc:",
+      "options": ["1 sep. – 15 oct.", "15 oct. – 15 nov.", "15 nov. – 31 dec.", "În ianuarie"],
+      "answer": 1,
+      "explain": "Art. 2.",
+      "ref": "NT art. 2 alin. (1) lit. b)"
+    },
+    {
+      "q": "Șeful echipei de control anual este, de regulă:",
+      "options": ["Șeful de ocol", "Șeful de district", "Pădurarul titular", "Inginerul de fond forestier"],
+      "answer": 1,
+      "explain": "Ghid.",
+      "ref": "Ghid pct. 2"
+    },
+    {
+      "q": "Etapa I a controlului vizează:",
+      "options": ["Plantațiile", "Regenerările naturale sub adăpost", "Culturile de plop", "Pepinierele"],
+      "answer": 1,
+      "explain": "Art. 3.",
+      "ref": "NT art. 3 lit. a)"
+    },
+    {
+      "q": "Etapa a II-a începe, la regenerarea naturală integrală, după:",
+      "options": [
+        "Tăierea de însămânțare",
+        "Un sezon de vegetație de la tăierea definitivă",
+        "5 ani",
+        "Starea de masiv"
+      ],
+      "answer": 1,
+      "explain": "Art. 3 lit. b).",
+      "ref": "NT art. 3 lit. b)"
+    },
+    {
+      "q": "Seminișul cu coroană în formă de umbrelă este:",
+      "options": ["Utilizabil", "Neutilizabil", "Indiferent", "Preexistent valoros"],
+      "answer": 1,
+      "explain": "Art. 4 alin. (4).",
+      "ref": "NT art. 4 alin. (4)"
+    },
+    {
+      "q": "Suprafețele de control din etapa I au:",
+      "options": ["1 m²", "5 m²", "100 m²", "500 m²"],
+      "answer": 1,
+      "explain": "5×1 m sau R 1,26 m.",
+      "ref": "NT Anexa 1"
+    },
+    {
+      "q": "Într-o regenerare naturală de 8 ha (etapa I) se amplasează:",
+      "options": ["10 suprafețe/ha", "5 suprafețe/ha", "2 suprafețe/ha", "1/ha"],
+      "answer": 1,
+      "explain": "3–10 ha: 5/ha.",
+      "ref": "NT Anexa 1"
+    },
+    {
+      "q": "În etapa a II-a, pentru o cultură de 12 ha, suprafețele de control însumează:",
+      "options": ["8%", "4%", "2%", "1%"],
+      "answer": 2,
+      "explain": "Peste 10 ha: 2%.",
+      "ref": "NT Anexa 1"
+    },
+    {
+      "q": "O regenerare de 0,2 ha se inventariază:",
+      "options": ["Pe 8%", "Integral", "Pe 2 suprafețe", "Nu se inventariază"],
+      "answer": 1,
+      "explain": "Sub 0,25 ha.",
+      "ref": "NT Anexa 1"
+    },
+    {
+      "q": "Reușita bună la starea de masiv în regenerările naturale de cvercinee:",
+      "options": ["5 mii/ha", "8 mii/ha", "10 mii/ha", "15 mii/ha"],
+      "answer": 1,
+      "explain": "Anexa 2A.",
+      "ref": "NT Anexa 2A"
+    },
+    {
+      "q": "La crângul de salcâm se inventariază pe cioată:",
+      "options": ["Toți lăstarii", "2 lăstari", "5 lăstari", "1 lăstar"],
+      "answer": 1,
+      "explain": "Anexa 2A.",
+      "ref": "NT Anexa 2A"
+    },
+    {
+      "q": "Reușita minimă pentru împăduririle din anul I, regiunea montană:",
+      "options": ["≥ 60%", "≥ 75%", "≥ 85%", "≥ 95%"],
+      "answer": 1,
+      "explain": "Anexa 2B.",
+      "ref": "NT Anexa 2B"
+    },
+    {
+      "q": "Pierderile tehnologice admise în anul I, regiunea montană:",
+      "options": ["5%", "15%", "25%", "50%"],
+      "answer": 2,
+      "explain": "Anexa 2B.",
+      "ref": "NT Anexa 2B"
+    },
+    {
+      "q": "Pierdere grupată înseamnă lipsa în același loc a cel puțin:",
+      "options": ["2 puieți", "4 puieți", "10 puieți", "1 m²"],
+      "answer": 1,
+      "explain": "Art. 5 alin. (7).",
+      "ref": "NT art. 5 alin. (7)"
+    },
+    {
+      "q": "O plantație cu reușită de 15%:",
+      "options": [
+        "Se completează",
+        "Se consideră pierdere totală și se reface integral",
+        "Se declară masiv",
+        "Se lasă"
+      ],
+      "answer": 1,
+      "explain": "Sub 20%.",
+      "ref": "NT art. 5 alin. (8)"
+    },
+    {
+      "q": "Pierderile cauzate de pășunat sunt:",
+      "options": ["Tehnologice", "Accidentale", "Normale", "Nu se înregistrează"],
+      "answer": 1,
+      "explain": "Ghid: imputabile.",
+      "ref": "Ghid pct. 3.2"
+    },
+    {
+      "q": "PV de stabilire a procentului de prindere se face:",
+      "options": [
+        "La controlul anual",
+        "Primăvara, în 30 de zile de la încheierea plantării",
+        "La starea de masiv",
+        "La 5 ani"
+      ],
+      "answer": 1,
+      "explain": "Art. 5 alin. (10).",
+      "ref": "NT art. 5 alin. (10)"
+    },
+    {
+      "q": "Completările la pierderile grupate sunt:",
+      "options": ["Facultative", "Obligatorii indiferent de reușită", "Doar în anul I", "Interzise"],
+      "answer": 1,
+      "explain": "Art. 5 alin. (11).",
+      "ref": "NT art. 5 alin. (11)"
+    },
+    {
+      "q": "Starea de masiv la o regenerare naturală de foioase:",
+      "options": ["Înălțime 1 m", "Coroanele se ating minimum 80%", "10 ani", "d 8 cm"],
+      "answer": 1,
+      "explain": "Art. 5 alin. (13).",
+      "ref": "NT art. 5 alin. (13)"
+    },
+    {
+      "q": "Starea de masiv la o plantație de molid în stațiune normală:",
+      "options": ["0,6–0,8 m", "1,0–1,2 m", "1,2–1,4 m", "2 m"],
+      "answer": 2,
+      "explain": "Art. 5 alin. (14).",
+      "ref": "NT art. 5 alin. (14)"
+    },
+    {
+      "q": "Golurile neregenerate pot fi separate la declararea masivului dacă depășesc:",
+      "options": ["500 m²", "1.000 m²", "2.500 m²", "1 ha"],
+      "answer": 2,
+      "explain": "Art. 5 alin. (15).",
+      "ref": "NT art. 5 alin. (15)"
+    },
+    {
+      "q": "Comisia de verificare controlează amplasarea a cel puțin:",
+      "options": ["5%", "10%", "20%", "50%"],
+      "answer": 2,
+      "explain": "Art. 6.",
+      "ref": "NT art. 6 alin. (1) lit. a)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Plantația de molid din primăvară",
+      "situation": "În aprilie s-a plantat o suprafață de 6 ha cu molid, pe o tăiere rasă la munte. În septembrie, la controlul anual, găsești 70% puieți viabili; într-un colț lipsesc 6 puieți alăturați.",
+      "steps": [
+        {
+          "q": "Ce PV trebuia făcut după plantare?",
+          "a": "PV de stabilire a procentului de prindere, în 30 de zile de la încheierea plantării.",
+          "ref": "NT art. 5 alin. (10)"
+        },
+        {
+          "q": "Ce pondere au suprafețele de control?",
+          "a": "4% din suprafață (cultură între 5 și 10 ha), de 100–200 m², permanente până la masiv.",
+          "ref": "NT Anexa 1"
+        },
+        {
+          "q": "E reușita bună?",
+          "a": "Nu: în anul I la munte trebuie cel puțin 75%; cu 70% e nesatisfăcătoare, deci se completează.",
+          "ref": "NT Anexa 2B"
+        },
+        {
+          "q": "Ce faci cu cei 6 puieți lipsă alăturați?",
+          "a": "E pierdere grupată (cel puțin 4 puieți); completarea e obligatorie indiferent de reușită.",
+          "ref": "NT art. 5 alin. (11)"
+        }
+      ]
+    },
+    {
+      "title": "Regenerarea naturală de fag după definitivă",
+      "situation": "Într-un făget s-a făcut tăierea definitivă iarna trecută. Seminișul are în medie 80 cm, dar într-o porțiune de 0,4 ha lipsește complet.",
+      "steps": [
+        {
+          "q": "În ce etapă e controlul acum?",
+          "a": "Etapa a II-a începe după trecerea unui sezon de vegetație de la tăierea definitivă.",
+          "ref": "NT art. 3 lit. b)"
+        },
+        {
+          "q": "Câte mii de puieți trebuie la masiv?",
+          "a": "10 mii/ha din speciile principale (rășinoase și fag).",
+          "ref": "NT Anexa 2A"
+        },
+        {
+          "q": "Ce se întâmplă cu porțiunea goală?",
+          "a": "Doar porțiunile cu reușită bună se raportează la naturale; diferența trece la regenerări artificiale și se împădurește.",
+          "ref": "NT art. 5 alin. (4) lit. a)"
+        },
+        {
+          "q": "Când declari masivul la fag?",
+          "a": "Când coroanele se ating în proporție de minimum 80%, pe toată suprafața.",
+          "ref": "NT art. 5 alin. (13)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "NT",
+        "name": "Normele tehnice privind regenerarea pădurilor și controlul anual al regenerărilor (Ordinul 2537/2022)",
+        "title": "Normele tehnice privind regenerarea pădurilor și efectuarea controlului anual al regenerărilor",
+        "note": "Aprobate prin Ordinul MMAP nr. 2.537/2022, în vigoare din 13 octombrie 2022; rămân valabile până la noile norme (Codul silvic art. 164 alin. (20)). Tabelele din anexele 2A și 2B apar comprimate.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["(1)","Controlul anual al regenerărilor este o lucrare tehnică complexă prin care se determină starea regenerărilor şi se stabilesc măsurile necesare pentru a asigura dezvoltarea normală a acestora, până la realizarea stării de masiv."],
+              ["(2)","Scopul controlului anual al regenerărilor este de a determina reuşita regenerărilor şi modul în care acestea s-au dezvoltat, precum şi de a stabili lucrările care trebuie executate în continuare, în vederea realizării compoziţiei de regenerare şi a compoziţiei ţel prevăzute prin documentaţiile tehnice."],
+              ["(3)","Obiectul controlului anual al regenerărilor îl constituie toate suprafeţele regenerate pe cale naturală, mixtă sau artificială, care nu au realizat starea de masiv. Starea de masiv reprezintă momentul - anul - din care o regenerare se poate dezvolta independent, exemplarele componente realizând o desime la care acestea interacţionează în creştere şi dezvoltare, fără a mai necesita lucrări ulterioare de completare sau întreţinere."],
+              ["(4)","Perioada de urmărire a regenerărilor prin controlul anual este cuprinsă între momentul - anul - declanşării acestora şi momentul - anul - realizării stării de masiv. Procedura pentru efectuarea controlului anual al regenerărilor se poate aplica atât în pădurile proprietate publică, cât şi în pădurile proprietate privată."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["(1)","Controlul regenerărilor se execută în fiecare an, în perioada 1 septembrie-31 decembrie, şi are următoarele etape:"],
+              ["a)","1 septembrie-15 octombrie, faza de teren şi centralizarea datelor la nivelul de bază al structurii organizatorice - ocol silvic, bază experimentală, persoane juridice, persoane fizice;"],
+              ["b)","15 octombrie-15 noiembrie, verificarea, centralizarea şi analiza lucrărilor la nivelul superior al structurii organizatorice - direcţie silvică şi structurii silvice de rang superior, dacă aceasta este înfiinţată;"],
+              ["c)","15 noiembrie-31 decembrie, depunerea şi susţinerea documentaţiei la administratorii fondului forestier proprietate publică, respectiv la structurile teritoriale de specialitate ale autorităţii publice centrale care răspunde de silvicultură pentru celelalte tipuri de proprietăţi forestiere."],
+              ["(2)","Numărul de echipe necesar se determină în funcţie de suprafaţa totală pe care se va efectua controlul anual al regenerărilor, astfel încât definitivarea lucrărilor de teren să nu depăşească data de 15 octombrie şi să fie asigurată precizia necesară în preluarea şi prelucrarea datelor."],
+              ["(3)","Echipele de teren constituite efectuează următoarele lucrări:"],
+              ["a)","amplasează în teren suprafeţele de control, pe suprafeţele cu regenerarea naturală, artificială sau mixtă;"],
+              ["b)","verifică şi revizuiesc suprafeţele de control amplasate la recepţia tehnică a lucrărilor de împăduriri, în şantierele care s-au regenerat integral pe cale artificială sau mixtă;"],
+              ["c)","inventariază puieţii din suprafeţele de control şi completează fişele de teren;"],
+              ["d)","controlează dacă lucrările executate pe parcursul anului sunt cele înscrise în documentaţiile tehnice, în bonurile de lucrurecepţie şi în fişele de evidenţă a lucrărilor de regenerare;"],
+              ["e)","propun lucrările necesare în continuare pentru regenerarea suprafeţei respective pentru realizarea compoziţiei stabilite şi atingerea stării de masiv în termenul planificat."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["","Controlul anual al regenerărilor se execută, în funcţie de natura şi stadiul de dezvoltare al acestora, în două etape:"],
+              ["a)","etapa I care are ca obiectiv numai suprafeţele pe care se asigură regenerarea naturală a pădurilor gospodărite în regimul codrului, în perioada scursă de la declanşarea regenerării până la trecerea unui sezon de vegetaţie de la executarea tăierii definitive, în care seminţişul se află sub adăpostul arboretului matern;"],
+              ["b)","etapa a II-a care se execută în suprafeţele care se regenerează în totalitate pe cale naturală, exceptând suprafeţele pe care se aplică tratamentul tăierilor grădinărite, mixtă sau artificială, şi începe după trecerea unui sezon de vegetaţie:"],
+              ["(i)","de la executarea tăierii definitive, în cazul regenerării naturale integrale;"],
+              ["(ii)","de la executarea completării regenerării naturale, pentru regenerarea mixtă;"],
+              ["(iii)","de la executarea împăduririlor, pentru regenerarea artificială."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","În etapa I se urmăreşte modul în care evoluează seminţişul natural, se stabilesc măsuri pentru aplicarea corectă a tăierilor de regenerare, natura lucrărilor de ajutorare necesare în vederea dirijării regenerărilor naturale în direcţia dorită, precum şi momentul înlăturării complete a arboretului matern."],
+              ["(2)","Culegerea datelor de teren se face pe baza suprafeţelor de control amplasate conform prevederilor din anexa nr. 1."],
+              ["(3)","Prin seminţiş se înţelege exemplarele sau grupele de seminţiş care corespund scopului urmărit pentru regenerarea arboretului, aparţinând speciilor din compoziţia de regenerare, viguroase, sănătoase, fără răni sau cicatrici, bine conformate, indiferent de vârsta sau înălţimea pe care o au, capabile să se integreze în viitorul arboret."],
+              ["(4)","Seminţiş neutilizabil se consideră cel format din exemplarele vătămate, rău conformate, închircite, cu coroane tabulare sau sub formă de umbrelă, sau cu alte defecte şi caracteristici care nu corespund scopului urmărit, precum şi seminţişul alcătuit din specii care nu corespund compoziţiei de regenerare."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","În etapa a II-a a controlului anual al regenerărilor obiectivul principal constă în inventarierea puieţilor viabili rezultaţi prin regenerare naturală din speciile care fac parte din compoziţia de regenerare, viguroşi, sănătoşi, fără răni sau cicatrici, bine conformaţi, inclusiv exemplarele care se pot reface prin lucrări silviculturale, capabili să formeze viitorul arboret, precum şi cei din regenerare artificială."],
+              ["(2)","Forma, amplasarea şi materializarea pe teren a suprafeţelor de control sunt prezentate în anexa nr. 1. Obiectivul secundar al acestei etape constă în stabilirea lucrărilor care trebuie executate în vederea realizării stării de masiv la termenele fixate pentru fiecare suprafaţă regenerată."],
+              ["(3)","Reuşita regenerărilor se stabileşte separat pentru regenerarea naturală şi pentru cea artificială."],
+              ["(4)","Pentru înscrierea corectă a reuşitei regenerărilor se menţionează următoarele:"],
+              ["a)","în cazul regenerărilor naturale care nu întrunesc pe întreaga suprafaţă numărul minim de puieţi la hectar din speciile prevăzute în compoziţiile ţel, din sămânţă, drajoni sau lăstari, stabilit pentru categoria \"bună\", potrivit anexei nr. 2A, se iau în considerare şi se raportează la reuşita bună numai suprafeţele care se încadrează în această categorie. Diferenţa va fi raportată la categoria regenerări artificiale, potrivit anexei nr. 2B;"],
+              ["b)","determinarea reuşitei regenerării naturale rezultate din tăierile în crâng se face în funcţie de numărul de lăstari/drajoni la hectar, iar la tăierile în scaun, în funcţie de numărul minim de scaune viabile la hectar, potrivit anexei nr. 2A;"],
+              ["c)","reuşita regenerărilor artificiale se determină prin raportare atât la numărul total de puieţi plantaţi, cât şi la numărul total de puieţi plantaţi din speciile principale de bază şi de amestec, potrivit anexei nr. 2B."],
+              ["(5)","În funcţie de numărul de puieţi viabili la hectar, reuşita regenerărilor artificiale se stabileşte pentru terenurile normale, terenurile degradate şi terenuri cu condiţii extreme, luând în considerare următoarele elemente:"],
+              ["a)","favorabilitatea condiţiilor climatice din două grupe de etaje şi zone bioclimatice - regiunea montană - premontană şi de dealuri; regiunea de silvostepă de deal şi de câmpie -, din zonele ocupate de dunele continentale şi fluviomarine şi din zonele de luncă, determinate de condiţiile staţionale corespunzătoare grupelor ecologice incluse şi procentele de reuşită stabilite în mod diferenţiat pentru aceste condiţii, în cazul terenurilor normale din cea mai mare parte a fondului forestier şi pentru terenurile destinate perdelelor forestiere de protecţie;"],
+              ["b)","favorabilitatea condiţiilor de mediu determinate de tipul degradării şi procentele de reuşită stabilite în mod diferenţiat pentru tipurile de degradare existente, în cazul terenurilor degradate din fondul forestier;"],
+              ["c)","caracterul limitativ al unor condiţii de mediu, existente în cazul terenurilor cu condiţii extreme din fondul forestier, şi procentele de reuşită stabilite în mod diferenţiat pentru staţiunile extreme identificate în cazul celor trei categorii în care se încadrează şi terenurile normale."],
+              ["(6)","Reuşita este condiţionată de volumul pierderilor ce se înregistrează cu ocazia inventarierii puieţilor la controlul anual al regenerărilor. Se consideră pierderi puieţii dispăruţi pentru care există urme evidente că au fost plantaţi, puieţii uscaţi din diverse cauze, precum şi puieţii vătămaţi, zdreliţi, răniţi, roşi parţial sau total de vânat, tufăriţi, atacaţi de ciuperci sau alţi dăunători care nu mai pot fi readuşi în stare normală de vegetaţie prin măsuri silviculturale şi care trebuie să fie înlocuiţi, nemaiputând contribui la realizarea compoziţiei de regenerare."],
+              ["(7)","Pierderile pot fi uniform răspândite sau grupate. Prin pierdere grupată se înţelege lipsa în acelaşi loc a cel puţin 4 puieţi pentru toate schemele sau desimile de plantare, cu excepţiile următoare:"],
+              ["a)","răchitării, la care lipsa butaşilor viabili trebuie să fie pe o lungime de cel puţin 1 m;"],
+              ["b)","plantaţii executate la scheme mari - nuc, plop, salcie -, la care pierderea nu trebuie să fie mai mare de un puiet;"],
+              ["c)","în regenerări naturale, în care suprafaţa goală, fără seminţiş viabil, depăşeşte minimum 4 puieţi conform unei scheme de regenerare artificială aplicată la specia respectivă."],
+              ["(8)","În situaţia în care pierderile de puieţi sunt mari, reuşita culturilor fiind sub 20%, se consideră că pierderea este totală. În acest caz se prevede refacerea integrală a lucrării respective."],
+              ["(9)","După cauze, pierderile se grupează astfel: pierderi tehnologice şi pierderi accidentale. Pierderile tehnologice reprezintă pierderile care se înregistrează în perioada de până la realizarea stării de masiv, fiind generate de interacţiunea dintre puieţi şi mediu (şocul de transplantare), prin care se elimină exemplarele care sunt mai puţin adaptate. Pierderile accidentale sunt acele pierderi care se înregistrează peste cele tehnologice, acestea fiind cauzate de factori obiectivi sau subiectivi."],
+              ["(10)","Primăvara, în termen de 30 de zile de la încetarea lucrărilor de plantare, se întocmeşte procesul-verbal pentru stabilirea procentului de prindere în plantaţiile realizate şi/sau refăcute în toamna anului anterior sau primăvara anului curent, proces-verbal care va contribui la încadrarea cât mai corectă a pierderilor de puieţi în cele două categorii: tehnologice sau accidentale. În baza situaţiei din teren se prevăd lucrările necesare care să asigure realizarea stării de masiv până cel târziu la termenul stabilit: completarea şi refacerea pierderilor, revizuiri, mobilizări de sol, descopleşiri, recepări, rărirea puieţilor, curăţări."],
+              ["(11)","Completările se prevăd ca obligatorii în cazul pierderilor grupate, indiferent de reuşita regenerării şi de anul când apar aceste pierderi, până la realizarea stării de masiv. La realizarea completărilor se vor utiliza numai puieţi corespunzători, bine dezvoltaţi, care să poată ajunge la starea de masiv în cel mai scurt timp, odată cu puieţii plantaţi iniţial. Completările se prevăd obligatoriu în primii doi ani de la plantare, numai în cazul când reuşita este sub cea prevăzută în anexa nr. 2B. Aceste completări vor trebui să asigure în momentul închiderii stării de masiv o reuşită bună, avându-se în vedere următoarele:"],
+              ["a)","speciile care se introduc în culturile respective prin completări vor trebui să asigure proporţiile stabilite prin compoziţiile de regenerare;"],
+              ["b)","lucrările de întreţinere care se propun vor reprezenta o estimare a necesităţilor reale, în funcţie de încadrarea bioclimatică a culturii şi de experienţa locală privind natura şi frecvenţa acestor lucrări."],
+              ["(12)","În regenerările artificiale cu reuşită nesatisfăcătoare, stabilită prin raportare atât la numărul total de puieţi plantaţi, cât şi la numărul total de puieţi plantaţi din speciile principale de bază şi amestec, se vor face completări cu numărul necesar de puieţi pentru realizarea unei reuşite bune."],
+              ["(13)","Starea de masiv pentru regenerările naturale se consideră realizată în următoarele situaţii:"],
+              ["a)","la foioase: când coroanele puieţilor se ating în proporţie de minimum 80%;"],
+              ["b)","la răşinoase: când înălţimea puieţilor este de 1,0-1,20 m în staţiuni normale şi de 0,6-0,7 m în staţiuni extreme."],
+              ["(14)","Starea de masiv pentru regenerările artificiale se consideră realizată în următoarele situaţii:"],
+              ["a)","la foioase: când coroanele puieţilor se ating, pe rând sau în grupe, în proporţie de cel puţin 80%, iar pentru plopi e.a. şi nuc, când diametrul la 1,30 m este de minimum 8 cm;"],
+              ["b)","la răşinoase: când înălţimea puieţilor este de 1,2-1,4 m în staţiuni normale şi de 0,6-0,8 m în staţiuni extreme şi terenuri degradate."],
+              ["(15)","Starea de masiv se declară în momentul în care aceasta se realizează pe întreaga suprafaţă a regenerării analizate. În cazul unor goluri neregenerate mai mari de 2.500 mp, acestea pot fi separate de restul suprafeţei regenerate, cu starea de masiv realizată, dacă pierderile se datorează unor condiţii staţionale diferite de restul suprafeţei regenerate şi vor fi din categoria de folosinţă corespunzătoare."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["(1)","Datele de teren culese şi prelucrate pentru fiecare suprafaţă supusă controlului anual al regenerărilor se înregistrează în centralizatorul lucrărilor de control anual al regenerărilor. În cazul fondului forestier de stat administrat de administratorii prevăzuţi de lege, precum şi în cazul celui administrat/pentru care sunt asigurate servicii silvice de către ocoale silvice de regim, se numeşte o comisie de verificare a lucrărilor de control anual al regenerărilor care analizează şi verifică:"],
+              ["a)","cel puţin 20% din numărul suprafeţelor de control, sub aspectul amplasării şi delimitării lor corecte;"],
+              ["b)","prin sondaj, realitatea datelor culese din suprafeţele de control;"],
+              ["c)","necesitatea lucrărilor executate în anul când se efectuează controlul anual, calitatea execuţiei şi perioada realizării lor;"],
+              ["d)","eficacitatea lucrărilor executate, sub aspect tehnic şi economic;"],
+              ["e)","temeinicia cauzelor prin care se justifică pierderile înregistrate în suprafeţele supuse controlului şi corectitudinea estimării acestor pagube;"],
+              ["f)","dacă pierderile înregistrate la controlul anterior au fost refăcute, precum şi dacă eventualele ieşiri din fondul forestier sunt legale."],
+              ["(2)","La terminarea lucrărilor de inventariere comisia de verificare a controlului anual va prezenta următoarele:"],
+              ["a)","aprecieri asupra desfăşurării controlului anual (respectarea îndrumărilor tehnice privind constituirea echipelor de control, numărul şi mărimea suprafeţelor de control şi procentul acestora din suprafaţa regenerată, modul de verificare pe teren a lucrărilor de control anual etc.);"],
+              ["b)","realizarea şi eficacitatea completărilor, refacerilor şi lucrărilor de întreţinere propuse la controlul anterior;"],
+              ["c)","calitatea regenerărilor executate, respectiv calitatea materialului de plantat folosit, calitatea lucrărilor executate, respectarea prevederilor documentaţiilor tehnice privind realizarea compoziţiei de regenerare, modul de dezvoltare şi starea fitosanitară;"],
+              ["d)","aprecieri asupra pierderilor înregistrate peste limitele tehnologice, cauzele, justificările şi modalităţile de recuperare a pagubelor;"],
+              ["e)","concluzii şi recomandări propuse, necesitatea aplicării acestora;"],
+              ["f)","regenerările care au realizat starea de masiv;"],
+              ["g)","regenerările care nu au realizat starea de masiv la termenul stabilit, însoţite de justificări şi măsuri pentru remedierea cauzelor;"],
+              ["h)","justificarea scoaterii din evidenţa controlului anual al regenerărilor a suprafeţelor regenerate;"],
+              ["i)","procesul-verbal întocmit."]
+            ]
+          },
+          {
+            "no": "Anexa 1",
+            "label": "Anexa nr. 1 – Suprafețele de control",
+            "items": [
+              ["","CRITERII de stabilire şi amplasare a suprafeţelor de control la lucrările de regenerări (naturale, mixte şi artificiale)"],
+              ["","Art. 1. -"],
+              ["(1)","Stabilirea situaţiei regenerărilor, a calităţii şi cantităţii lucrărilor executate, precum şi a celor ce trebuie efectuate în continuare se face anual pe baza unor analize tehnice. Pentru culegerea datelor de teren se utilizează suprafeţe de control care se amplasează şi delimitează după cum urmează:"],
+              ["–","în suprafeţele cu regenerare naturală sub adăpost (numai pentru arborete intrate în clasa de regenerare, exploatabile) se folosesc suprafeţe de control de formă dreptunghiulară de 5 mp - 5 m x 1 m - sau circulară - R = 1,26 m, numărul acestora fiind de:"],
+              ["(i)","10 pe hectar, în cazul suprafeţelor aflate în control sub 3 ha;"],
+              ["(ii)","5 pe hectar, în cazul suprafeţelor aflate în control între 3 şi 10 ha;"],
+              ["(iii)","2 pe hectar, în cazul suprafeţelor aflate în control peste 10 ha."],
+              ["(2)","Materializarea suprafeţelor de control pe teren, prin ţăruşi cu numere de ordine, este obligatorie numai pentru perioada executării şi verificării lucrărilor de control anual din anul respectiv."],
+              ["(3)","În cazul în care pe anumite suprafeţe se înregistrează starea de masiv cu specii principale corespunzătoare compoziţiei de regenerare stabilite de amenajament, atunci aceste suprafeţe se exclud din procesul controlului anual. Ele se trec în fişe ca regenerate. În cazul în care nu sunt îndeplinite aceste două condiţii, starea de masiv şi participarea speciilor principale din compoziţia de regenerare, suprafeţele vor fi menţinute în procesul de control al regenerării, etapa I."],
+              ["","Art. 2. -"],
+              ["(1)","În regenerările din etapa a II-a realizate pe toată suprafaţa parchetului, în urma tăierilor definitive, indiferent pe ce cale sunt obţinute, iniţial, mixtă sau artificială, se vor utiliza suprafeţe de control care, însumate, să reprezinte:"],
+              ["a)","8% din suprafaţa culturii aflată în control, pentru suprafeţe sub 5 ha;"],
+              ["b)","4% din suprafaţa culturii aflată în control, pentru suprafeţe cuprinse între 5 şi 10 ha;"],
+              ["c)","2% din suprafaţa culturii aflată în control, pentru suprafeţe peste 10 ha."],
+              ["(2)","Forma acestor suprafeţe de control va fi regulată, cerc, pătrat sau dreptunghi. Dimensiunile unei asemenea suprafeţe vor diferi în funcţie de panta terenului şi de mărimea suprafeţei regenerate aflate în control. Într-o suprafaţă regenerată se vor amplasa numai suprafeţe de control de acelaşi tip, ca formă şi mărime."],
+              ["(3)","În funcţie de suprafaţa regenerării se vor utiliza următoarele mărimi ale suprafeţelor de control:"],
+              ["a)","suprafeţele sub 0,25 ha se vor inventaria integral;"],
+              ["b)","100 m 2 pentru suprafeţe ale regenerării mai mici de 5 ha;"],
+              ["c)","100 sau 200 m 2 pentru suprafeţe ale regenerării mai mari de 5 ha."],
+              ["(4)","Suprafeţele de control se menţin permanent în amplasamentul iniţial, până la realizarea stării de masiv, fiind necesar ca acestea să fie materializate pe teren prin borne şi ţăruşi."],
+              ["(5)","La plantaţiile cu aceeaşi specie, executate la scheme mari - plopi e.a., salcie, nuc, precum şi la răchită, suprafeţele de control se pot constitui din rânduri întregi sau părţi de rând, distribuite uniform, materializarea făcându-se prin borne la capătul rândurilor."],
+              ["(6)","Suprafeţele de control se amplasează în teren la data încheierii acţiunii de împădurire, utilizându-se şi la recepţia tehnică a lucrărilor, pentru regenerările realizate pe cale artificială şi mixte, sau la data executării controlului anual, în cazul suprafeţelor regenerate natural."]
+            ]
+          },
+          {
+            "no": "Anexa 2A",
+            "label": "Anexa nr. 2A – Reușita regenerărilor naturale",
+            "items": [
+              ["","CRITERII pentru stabilirea reuşitei regenerărilor | PENTRU REGENERĂRI NATURALE | Nr. crt. | Specificări"],
+              ["","Reuşita regenerărilor naturale după numărul minim de puieţi (mii buc.) din speciile principale de bază şi de amestec existent la hectar | 1 an | 2-4 ani | La realizarea stării de masiv | Bună | Bună | 0 | 1 | 2 | 3 | 4"],
+              ["1.","Tăieri în arborete de răşinoase, de fag si de amestec"],
+              ["","10-15 | 10-15 | 10"],
+              ["2.","Tăieri în arborete de cvercinee, de alte specii foioase şi de amestec"],
+              ["","10-15 | 10-15 | 8"],
+              ["3.","Tăieri de conservare"],
+              ["","10-15 | 10-15 | 10"],
+              ["4.","Tăieri în regim de crâng - salcâm*)"],
+              ["","12-14 | 10-11 | 10"],
+              ["5.","Tăieri în renişuri"],
+              ["","10-20 | 10-15 | 10 | *)"],
+              ["","La fiecare cioată se vor inventaria numai 2 lăstari, indiferent de numărul acestora. | A.1. | PENTRU TĂIERILE ÎN SCAUN LA ZĂVOAIE | Tăieri în scaun la zăvoaie**)"],
+              ["","Reuşita regenerării naturale (nr. minim scaune viabile/ha) | Bună | peste 450 | **)"],
+              ["","Se vor lua în considerare numai scaunele care au minimum 5 lăstari."]
+            ]
+          },
+          {
+            "no": "Anexa 2B",
+            "label": "Anexa nr. 2B – Reușita regenerărilor artificiale",
+            "items": [
+              ["","B. | PENTRU REGENERĂRILE ARTIFICIALE | B.1."],
+              ["","PENTRU ÎMPĂDURIRILE ÎN TERENURI NORMALE DIN FOND FORESTIER | B.1.1."],
+              ["","REGIUNEA MONTANĂ ŞI PREMONTANĂ ŞI REGIUNEA DE DEALURI Etajul molidişurilor (FM3 II-I), amestecurilor de fag cu răşinoase (FM2), făgetelor montane (FM1) şi al făgetelor premontane (FD4), etajul complexurilor de făgete şi gorunete (FD3), al cvercetelor pure şi în amestec (FD1 şi FD2), grupele ecologice GE6-GE12, GE8A, GE14A, GE15-GE23, GE25-GE30, GE33A, GE34B, GE35-GE42, GE45-GE49, GE55-GE58, GE60-GE61, GE63, GE65-GE66 | Reuşita regenerării pe total (%)"],
+              ["","Reuşita regenerării pentru speciile principale de bază şi amestec (%)"],
+              ["","Cuantumul pierderilor tehnologice admise (din nr. de puieţi iniţial plantaţi) (%)"],
+              ["","Reuşita regenerării peste care nu se fac completări (%) | Reuşita regenerării (calificativ) | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 75 | ≥ 75 | 25 | 95 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 85 | ≥ 85 | 15 | 95 | bună | nesatisfăcătoare | B.1.2."],
+              ["","REGIUNEA DE DEAL - SILVOSTEPĂ (SsD), REGIUNEA DE CÂMPIE ZONA FORESTIERĂ DE CÂMPIE (FC) şi SILVOSTEPA DE CÂMPIE (SsC) Grupele ecologice GE68, GE70-GE76, GE75A, GE76A, GE78-GE86, GE82A, GE88-GE91 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 85 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 75 | ≥ 75 | 25 | 85 | bună | nesatisfăcătoare | B.1.3."],
+              ["","DUNE CONTINENTALE ŞI FLUVIOMARINE, Grupele ecologice GE92-GE96 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 90 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 80 | ≥ 80 | 20 | 90 | bună | nesatisfăcătoare | B.1.4."],
+              ["","LUNCA ŞI DELTA DUNĂRII ŞI LUNCILE INTERIOARE MARI Grupele ecologice GE97-GE100, GE100A, GE107A, GE102-GE114 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 80 | ≥ 80 | 20 | 100 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 85 | ≥ 85 | 15 | 100 | bună | nesatisfăcătoare | B.1.5."],
+              ["","SUPRAFEŢELE BUTĂŞITE CU RĂCHITĂ (numai pentru anul I) | Cuantumul pierderilor tehnologice admise"],
+              ["","Reuşita regenerărilor peste care nu se fac completări | 15 | 95 | B.2."],
+              ["","PENTRU ÎMPĂDURIRI ÎN TERENURI DEGRADATE (Din fond forestier sau preluate din sectorul agricol) | B.2.1."],
+              ["","TERENURI ERODATE DE APĂ ŞI RAVENATE Grupele staţionale GS1-GS38 | Reuşita regenerării pe total (%)"],
+              ["","Reuşita regenerării pentru speciile principale de bază şi amestec (%)"],
+              ["","Cuantumul pierderilor tehnologice admise (din nr. de puieţi iniţial plantaţi) (%)"],
+              ["","Reuşita regenerării peste care nu se fac completări (%) | Reuşita regenerării (calificativ) | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 95 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 80 | ≥ 80 | 20 | 90 | bună | nesatisfăcătoare | Pentru împăduririle din anul III | ≥ 80 | ≥ 80 | 20 | 85 | bună | nesatisfăcătoare | B.2.2."],
+              ["","DEPOZITE NATURALE DE MATERIALE DEPLASATE (DEPOZITE ALUVIALE, GROHOTIŞURI) Grupele staţionale GS39-GS47 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 90 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 80 | ≥ 80 | 20 | 85 | bună | nesatisfăcătoare | B.2.3."],
+              ["","TERENURI FUGITIVE AFECTATE DE ALUNECĂRI SAU CURGERI DE NOROI Grupele staţionale GS48-GS63 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 95 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 80 | ≥ 80 | 20 | 90 | bună | nesatisfăcătoare | B.2.4."],
+              ["","TERENURI CU EROZIUNE EOLIANĂ Grupele staţionale GS64-GS81 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 95 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 70 | ≥ 70 | 30 | 90 | bună | nesatisfăcătoare | Pentru împăduririle din anul III | ≥ 75 | ≥ 75 | 25 | 85 | bună | nesatisfăcătoare | B.2.5."],
+              ["","TERENURI SĂRĂTURATE Grupele staţionale GS82-GS87 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 95 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 70 | ≥ 70 | 30 | 90 | bună | nesatisfăcătoare | Pentru împăduririle din anul III | ≥ 75 | ≥ 75 | 25 | 85 | bună | nesatisfăcătoare | B.2.6."],
+              ["","TERENURI CU EXCES DE APĂ Grupele staţionale GS88-GS113 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 90 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 70 | ≥ 70 | 30 | 85 | bună | nesatisfăcătoare"],
+              ["","Pentru împăduririle din anul III (stepă şi silvostepă) | ≥ 70 | ≥ 70 | 30 | 85 | bună | nesatisfăcătoare | B.2.7."],
+              ["","TERENURI DEGRADATE ANTROPIC (HALDATE, DECOPERTATE, TALUZATE ŞI CU SOLURI DERANJATE SAU DESFUNDATE) Grupele staţionale GS114-GS143 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 95 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 70 | ≥ 70 | 30 | 90 | bună | nesatisfăcătoare | NOTĂ:"],
+              ["","Pentru terenurile degradate cuantumul pierderilor tehnologice admise şi reuşita regenerării peste care nu se fac completări au fost stabilite pe baza rezultatelor obţinute de către colectivele specializate în acest domeniu. | B.3. | PENTRU ÎMPĂDURIRILE ÎN STAŢIUNI EXTREME"],
+              ["","Prin staţiuni extreme se înţeleg cele în care unul sau mai mulţi factori staţionali (mai ales de natură edafică) sunt limitativi (săruri, lipsă sau exces de umiditate, nisipuri necoezive, soluri cu conţinut mare de pietrişuri, soluri cu eroziune de suprafaţă şi în adâncime pe cel puţin 50% din suprafaţă, terenuri în alunecare, puternic fragmentate, stâncării, prundişuri grosiere, scheletice sau superficiale, care au un volum fiziologic redus, pante mari, insolaţii etc.)."],
+              ["","Încadrarea terenurilor în categoria \"staţiuni extreme\" este confirmată de direcţia silvică şi se evidenţiază în documentaţia tehnico-economică întocmită pentru executarea lucrărilor de împăduriri. | B.3.1."],
+              ["","REGIUNEA MONTANĂ Etajul subalpin (FSa+FM3 III), grupele ecologice GE1-GE5 | Reuşita puieţilor pe total (%)"],
+              ["","Reuşita puieţilor din speciile principale de bază şi amestec (%)"],
+              ["","Cuantumul pierderilor tehnologice admise (din nr. de puieţi iniţial plantaţi) (%)"],
+              ["","Reuşita regenerării peste care nu se fac completări (%) | Reuşita împăduririlor | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 85 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 75 | ≥ 75 | 25 | 85 | bună | nesatisfăcătoare | B.3.2."],
+              ["","REGIUNEA MONTANĂ ŞI PREMONTANĂ ŞI REGIUNEA DE DEALURI Etajul molidişurilor (FM3 II-I), amestecurilor de fag cu răşinoase (FM2), făgetelor montane (FM1) şi al făgetelor premontane (FD4), etajul complexurilor de făgete şi gorunete (FD3), al cvercetelor pure şi în amestec (FD1 şi FD2), grupele ecologice GE13-GE14, GE14B, GE24, GE30A, GE31-GE34, GE34A, GE43-GE44, GE50-GE54, GE59, GE62, GE64 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 75 | ≥ 75 | 25 | 85 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 80 | ≥ 80 | 20 | 85 | bună | nesatisfăcătoare | B.3.3."],
+              ["","REGIUNEA DE DEAL - SILVOSTEPĂ (SsD), REGIUNEA DE CÂMPIE ZONA FORESTIERĂ DE CÂMPIE (FC) şi SILVOSTEPA DE CÂMPIE (SsC) Grupele ecologice GE67, GE69, GE76B, GE77, GE87 | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 85 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 70 | ≥ 70 | 30 | 85 | bună | nesatisfăcătoare | B.3.4."],
+              ["","LUNCA ŞI DELTA DUNĂRII ŞI LUNCILE INTERIOARE MARI Grupele ecologice GE101, GE107B, GE114A | 1 | 2 | 3 | 4 | 5 | Pentru împăduririle din anul I | ≥ 70 | ≥ 70 | 30 | 100 | bună | nesatisfăcătoare | Pentru împăduririle din anul II | ≥ 70 | ≥ 70 | 30 | 100 | bună | nesatisfăcătoare | B.3.5."],
+              ["","SUPRAFEŢELE BUTĂŞITE CU RĂCHITĂ (numai pentru anul I) | Cuantumul pierderilor tehnologice admise"],
+              ["","Reuşita regenerărilor peste care nu se fac completări | 15 | 95 | NOTĂ:"],
+              ["","Pentru anii următori (începând cu anul al III-lea după plantare, respectiv anul al IV-lea după plantare în cazul terenurilor degradate) pierderile tehnologice se pot majora cu câte 2% pentru fiecare an, cu condiţia ca până la închiderea stării de masiv majorările cumulate să nu depăşească 10%, să nu fie grupate şi să nu fie necesare lucrări de completări."]
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Ghid",
+        "name": "Ghidul de bune practici privind regenerarea pădurilor și controlul anual al regenerărilor (2022)",
+        "title": "Ghidul de bune practici privind regenerarea pădurilor și controlul anual al regenerărilor",
+        "note": "Publicat în M. Of. nr. 995 bis din 13 octombrie 2022. Anexele ghidului (fișe, termenele stării de masiv) nu sunt reproduse.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Pct. 1 – Scopul şi obiectul controlului anual al regenerărilor",
+            "items": [
+              ["","Controlul anual al regenerărilor este o lucrare tehnică complexă prin care se determină starea regenerărilor şi se stabilesc măsurile necesare pentru a asigura dezvoltarea normală a acestora, până la realizarea stării de masiv."],
+              ["","Scopul acestei activităţi este acela de a determina reuşita regenerărilor şi modul în care acestea s-au dezvoltat, precum şi de a stabili lucrările care trebuie executate în continuare, în vederea realizării compoziţiei de regenerare şi a compoziţiei ţel prevăzute prin documentaţiile tehnice."],
+              ["","Obiectul controlului anual al regenerărilor îl constituie toate suprafeţele regenerate pe cale naturală, mixtă sau artificială, care nu au realizat starea de masiv."],
+              ["","Starea de masiv reprezintă momentul (anul) din care o regenerare se poate dezvolta independent, exemplarele componente realizând o desime la care acestea interacţionează în creştere şi dezvoltare, fără a mai necesita lucrări ulterioare de completare sau întreţinere."],
+              ["","Perioada de urmărire a regenerărilor prin controlul anual este cuprinsă între momentul (anul) declanşării acestora şi momentul (anul) realizării stării de masiv. Ghidul privind regenerarea pădurilor si efectuarea controlului anual al regenerărilor se poate aplica atât în pădurile proprietate de stat, cât şi în pădurile proprietate privată (aparţinând unor persoane fizice şi/sau juridice)."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Pct. 2 – Organizarea executării lucrărilor de control anual",
+            "items": [
+              ["","Controlul regenerărilor se execută în fiecare an, în perioada 1 septembrie - 31 decembrie, şi are următoarele etape:"],
+              ["–","1 septembrie-15 octombrie, faza de teren şi centralizarea datelor la nivelul de bază al structurii organizatorice (ocol silvic, bază experimentală, persoane juridice, persoane fizice);"],
+              ["–","15 octombrie-15 noiembrie, verificarea, centralizarea şi analiza lucrărilor la nivelul superior al structurii organizatorice (direcţie silvică, alte structuri silvice de nivel superior de organizare ş.a.);"],
+              ["–","15 noiembrie-31 decembrie, depunerea şi susţinerea documentaţiei la Regia Naţională a Pădurilor - Romsilva, respectiv la instituţiile publice teritoriale aflate în subordinea autorităţii publice centrale care răspunde de silvicultură (pentru pădurile care nu se află în administrarea RNP)."],
+              ["","Faza de teren şi centralizarea datelor se execută de către echipe de cadre tehnice cu pregătire şi experienţă în domeniul silvic, în prezenţa gestionarului suprafeţei regenerate."],
+              ["","Numărul de echipe necesar se determină în funcţie de suprafaţa totală pe care se va efectua controlul anual al regenerărilor, astfel încât definitivarea lucrărilor de teren să nu depăşească data de 15 octombrie şi să fie asigurată precizia necesară în preluarea şi prelucrarea datelor."],
+              ["","Echipele constituite efectuează următoarele lucrări:"],
+              ["–","amplasează în teren suprafeţele de control, pe suprafeţele cu regenere naturală, artificială sau mixtă, conform criteriilor din anexa nr. 1;"],
+              ["–","verifică şi revizuiesc suprafeţele de control amplasate la recepţia tehnică a lucrărilor de împăduriri, în şantierele care s-au regenerat integral pe cale artificială sau mixtă;"],
+              ["–","inventariază puieţii din suprafeţele de control şi completează fişele de teren, conform precizărilor din anexa nr. 2;"],
+              ["–","controlează dacă lucrările executate pe parcursul anului sunt cele înscrise în documentaţiile tehnice, în bonurile de lucru-recepţie şi în fişele de evidenţă a lucrărilor de regenerare;"],
+              ["–","propun lucrările necesare în continuare pentru regenerarea suprafeţei respective pentru realizarea compoziţiei stabilite şi atingerea stării de masiv în termenul planificat."],
+              ["","În cadrul structurilor organizatorice de bază (ocol silvic de stat, ocol silvic de regim, bază experimentală etc.), lucrările de control anual al regenerărilor se efectuează de echipe numite prin ordin al şefului structurii organizatorice de bază şi sunt formate de regulă din minimum trei persoane:"],
+              ["–","şeful de district al districtului în care se desfăşoară controlul (şef de echipă);"],
+              ["–","pădurarul titular al cantonului controlat;"],
+              ["–","un pădurar dintr-un canton alăturat."],
+              ["","Pentru etapa de verificare, în cazul fondului forestier administrat/ în pază/ servicii silvice prin structuri silvice publice sau private (altele decât ocoalele silvice de stat din subordinea Regiei Naţionale a Pădurilor - Romsilva) se constituie o comisie de verificare la nivelul structurii silvice de bază, cu următoarea componenţă:"],
+              ["–","inginerul responsabil de activitatea de protecţie şi paza pădurilor;"],
+              ["–","inginerul responsabil de cultura şi refacerea pădurilor;"],
+              ["–","contabilul şef al ocolului silvic."],
+              ["","Unde există structuri silvice de nivel superior de organizare, ce au în subordine structuri organizatorice de bază, modul de organizare al etapei de verificare a lucrărilor de control anual se adaptează conform precizărilor făcute pentru unităţile şi subunităţile Regiei Naţionale a Pădurilor - Romsilva."],
+              ["","În cazul fondului forestier administrat/ în pază/ servicii silvice prin subunităţile din subordinea Regiei Naţionale a Pădurilor -Romsilva, în vederea desfăşurării controlului anual al regenerărilor, directorul direcţiei silvice numeşte prin decizie, pînă la data de 1 septembrie, următoarele comisii:"],
+              ["–","Comisia de verificare constituită la nivelul direcţiei silvice, cu următoarea componenţă:"],
+              ["","--"],
+              ["","directorul tehnic al direcţiei silvice/ şef birou tehnic din cadrul direcţiei silvice - preşedinte;"],
+              ["","--"],
+              ["","directorul economic al direcţiei silvice;"],
+              ["","--"],
+              ["","inginerul responsabil de activitatea de protecţie şi paza pădurilor;"],
+              ["","--"],
+              ["","inginerul responsabil de activitatea de cultura şi refacerea pădurilor;"],
+              ["","--"],
+              ["","inginerul responsabil de activitatea de fond forestier."],
+              ["–","Comisia de verificare la nivel de ocol silvic, cu următoarea componenţă:"],
+              ["","--"],
+              ["","delegatul direcţiei silvice - preşedintele comisiei;"],
+              ["","-- | şeful ocolului silvic; | --"],
+              ["","contabilul şef al ocolului silvic;"],
+              ["","--"],
+              ["","responsabilul cu activitatea de cultura şi refacerea pădurilor/ activitatea de fond forestier."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Pct. 3 – Efectuarea controlului anual",
+            "items": [
+              ["","Controlul anual al regenerărilor se execută, în funcţie de natura şi stadiul de dezvoltare al acestora, în două etape:"],
+              ["","Etapa I are ca obiectiv numai suprafeţele pe care se asigură regenerarea naturală a pădurilor gospodărite în regimul codrului, în perioada scursă de la declanşarea regenerării până la trecerea unui sezon de vegetaţie de la executarea tăierii definitive, în care seminţişul se află sub adăpostul arboretului matern."],
+              ["","Etapa II se execută în suprafeţele care se regenerează în totalitate pe cale naturală (exceptând suprafeţele pe care se aplică tratamentul tăierilor grădinărite), mixtă sau artificială, şi începe după trecerea unui sezon de vegetaţie:"],
+              ["–","de la executarea tăierii definitive, în cazul regenerării naturale integrale;"],
+              ["–","de la executarea completării regenerării naturale, pentru regenerarea mixtă;"],
+              ["–","de la executarea împăduririlor, pentru regenerarea artificială."]
+            ]
+          },
+          {
+            "no": "3.1",
+            "label": "Pct. 3.1 – Controlul anual al regenerărilor - etapa I",
+            "items": [
+              ["","În această etapă se urmăreşte modul în care evoluează seminţişul natural, se stabilesc măsuri pentru aplicarea corectă a tăierilor de regenerare, natura lucrărilor de ajutorare necesare în vederea dirijării regenerărilor naturale în direcţia dorită, precum şi momentul înlăturării complete a arboretului matern."],
+              ["","Pentru includerea corectă a tuturor suprafeţelor în etapa I, se precizează că instalarea seminţişului natural valoros se realizează, de regulă, în anul de după executarea primei tăieri de regenerare şi, în acest caz, suprafaţa ocupată de seminţişul utilizabil va determina momentul următoarei tăieri. Sunt însă şi situaţii în care regenerarea naturală utilizabilă se poate declanşa anterior primei tăieri de regenerare, din diverse cauze (uscare, doborâturi de vânt etc.), în acest caz rezultatele controlului din această etapă stau la baza stabilirii momentului optim şi al tipului de tăiere de regenerare care trebuie adoptat."],
+              ["","Culegerea datelor de teren se face pe baza suprafeţelor de control amplasate conform prevederilor din anexa nr.1. Modul de completare a fişei de teren este prezentat în anexa nr. 2."],
+              ["","La stabilirea seminţişului instalat se ia în considerare numai cel alcătuit din speciile prevăzute în compoziţia de regenerare."],
+              ["","Prin seminţiş se înţeleg exemplarele sau grupele de seminţiş care corespund scopului urmărit pentru regenerarea arboretului, aparţinând speciilor din compoziţia de regenerare, viguroase, sănătoase, fără răni sau cicatrici, bine conformate, indiferent de vârsta sau înălţimea pe care o au, capabile să se integreze în viitorul arboret."],
+              ["","Seminţiş neutilizabil se consideră cel format din exemplarele vătămate, rău conformate (închircite, cu coroane tabulare sau sub formă de umbrelă ş.a.) sau cu alte defecte şi caracteristici care nu corespund scopului urmărit, precum şi seminţişul alcătuit din specii care nu corespund compoziţiei de regenerare."],
+              ["","Determinarea suprafeţelor regenerate în urma aplicării tăierilor de transformare spre tratamentul codrului grădinărit sau cvasigrădinărit şi în urma aplicării tratamentelor tăierilor progresive, succesive (inclusiv la margine de masiv) şi de conservare, se va face anual prin inventarierea suprafeţei efective a nucleelor, punctelor sau ochiurilor de regenerare, a zonelor de lărgire a acestora, a celor de racordare şi a suprafeţei regenerate în urma tăierilor succesive, pe care s-a instalat seminţişul utilizabil."],
+              ["","Suprafeţele care intră în regenerare în urma executării tăierilor grădinărite reprezintă o situaţie aparte. În acest caz suprafeţele de control se stabilesc la nivelul de 8% din suprafaţa totală a cuponului, amplasate schematic conform prevederilor din anexa nr. 1, şi controlul se efectuează în ele în perioada care începe după trecerea unui sezon de vegetaţie de la executarea intervenţiei şi durează până la revenirea cu o nouă tăiere (10 ani). Suprafeţele de control se amplasează în porţiunile în care s-au instalat puieţi din specii corespunzătoare compoziţiei ţel."],
+              ["","Din suprafeţele care fac obiectul controlului din etapa I în cazul tratamentului tăierilor grădinărite, se înregistrează în evidenţe, ca realizări la regenerări naturale, următoarele:"],
+              ["–","Suprafaţa buchetelor, grupelor şi pâlcurilor de arbori aflate în stadii mai mari decât cel de seminţiş, care pot participa la realizarea structurii grădinărite. Înregistrarea acesteia se face o singură dată, în anul în care aceasta se identifică prin efectuarea controlului anual"],
+              ["–","Suprafaţa care a făcut obiectul controlului - etapa I, în momentul în care se revine cu o nouă tăiere în cadrul cuponului respectiv (după 10 ani). Se înregistrează ca regenerată maxim 8% din suprafaţa totală a cuponului"],
+              ["","Reuşita regenerărilor se stabileşte conform precizărilor din anexa nr. 3."]
+            ]
+          },
+          {
+            "no": "3.2",
+            "label": "Pct. 3.2 – Controlul anual al regenerărilor - etapa a II-a",
+            "items": [
+              ["","În această etapă a controlului obiectivul principal constă în inventarierea puieţilor viabili rezultaţi prin regenerare naturală din speciile care fac parte din compoziţia de regenerare, viguroşi, sănătoşi, fără răni sau cicatrici, bine conformaţi (inclusiv exemplarele care se pot reface prin lucrări silviculturale), capabili să formeze viitorul arboret, precum şi cei din regenerare artificială, conform prevederilor din anexa nr. 2. Forma, amplasarea şi materializarea pe teren a suprafeţelor de control, se prezintă în anexa nr. 1. Obiectivul secundar al acestei etape constă în stabilirea lucrărilor care trebuie executate în vederea realizării stării de masiv la termenele fixate pentru fiecare suprafaţă regenerată."],
+              ["","Reuşita regenerărilor se stabileşte conform precizărilor din anexa nr. 3, separat pentru regenerarea naturală şi pentru cea artificială."],
+              ["","Pentru înscrierea corectă a reuşitei, se menţionează următoarele:"],
+              ["–","în cazul regenerărilor naturale care nu întrunesc pe întreaga suprafaţă numărul minim de puieţi la hectar din speciile prevăzute în compoziţiile ţel (din sămânţă, drajoni sau lăstari) stabilit pentru categoria \"bună\" (în anexa nr. 3A), se iau în considerare şi se raportează la reuşita bună, numai suprafaţele care se încadrează în această categoria. Diferenţa va fi raportată la categoria regenerări artificiale (conform anexei nr. 3B);"],
+              ["–","determinarea reuşitei regenerării naturale rezultată din tăierile în crâng, se face în funcţie de numărul de lăstari (drajoni) la hectar, iar la tăierile în scaun, în funcţie de numărul minim de scaune viabile la hectar (conform anexei nr. 3A);"],
+              ["–","reuşita regenerărilor artificiale se determină prin raportare atât la numărul total de puieţi plantaţi, cât şi la numărul total de puieţi plantaţi din speciile principale de bază şi de amestec (conform anexei nr. 3B)."],
+              ["","În funcţie de numărul de puieţi viabili la hectar, reuşita regenerărilor artificiale se stabileşte pentru terenurile normale, terenurile degradate şi terenuri cu condiţii extreme, luând în considerare următoarele elemente:"],
+              ["–","favorabilitatea condiţiilor climatice din două grupe de etaje şi zone bioclimatice (regiunea montană-premontană şi de dealuri; regiunea de silvostepă de deal şi de câmpie), din zonele ocupate de dunele continentale şi fluviomarine şi din zonele de luncă, de condiţiile staţionale (corespunzătoare grupelor ecologice incluse) şi procentele de reuşită stabilite în mod diferenţiat pentru aceste condiţii, în cazul terenurilor normale din cea mai mare parte a fondului forestier şi pentru terenurile destinate perdelelor forestiere de protecţie;"],
+              ["–","favorabilitatea condiţiilor de mediu determinate de tipul degradării şi procentele de reuşită stabilite în mod diferenţiat pentru tipurile de degradare existente, în cazul terenurilor degradate din fondul forestier;"],
+              ["–","caracterul limitativ al unor condiţii de mediu, existente în cazul terenurilor cu condiţii extreme din fondul forestier, şi procentele de reuşită stabilite în mod diferenţiat pentru staţiunile extreme identificate în cazul celor trei categorii în care se încadrează şi terenurile normale."],
+              ["","Reuşita este condiţionată de volumul pierderilor ce se înregistrează cu ocazia inventarierii puieţilor la controlul anual al regenerărilor."],
+              ["","Se consideră pierderi puieţii dispăruţi pentru care există urme evidente că au fost plantaţi, puieţii uscaţi din diverse cauze, precum şi puieţii vătămaţi, zdreliţi, răniţi, roşi parţial sau total de vânat, tufăriţi, atacaţi de ciuperci sau alţi dăunători etc., care nu mai pot fi readuşi în stare normală de vegetaţie prin măsuri silviculturale şi care trebuie să fie înlocuiţi, nemaiputând contribui la realizarea compoziţiei de regenerare."],
+              ["","Pierderile pot fi uniform răspândite sau grupate."],
+              ["","Prin pierdere grupată se înţelege lipsa în acelaşi loc a cel puţin 4 puieţi pentru toate schemele sau desimile de plantare, cu excepţiile următoare:"],
+              ["–","răchitării, la care lipsa butaşilor viabili trebuie să fie pe o lungime de cel puţin 1 m;"],
+              ["–","plantaţii executate la scheme mari (nuc, plop, salcie), la care pierderea nu trebuie să fie mai mare de un puiet;"],
+              ["–","în regenerări naturale, în care suprafaţa goală (fără seminţiş viabil) depăşeşte minimum 4 puieţi conform unei scheme de regenerare artificială aplicată la specia respectivă."],
+              ["","În situaţia în care pierderile de puieţi sunt mari, reuşita culturilor fiind sub 20%, se consideră că pierderea este totală. În acest caz se prevede refacerea integrală a lucrării respective."],
+              ["","După cauze, pierderile se grupează astfel: pierderi tehnologice şi pierderi accidentale."],
+              ["","Pierderile tehnologice reprezintă pierderile care se înregistrează în perioada de până la realizarea stării de masiv, fiind generate de interacţiunea dintre puieţi şi mediu (şocul de transplantare), prin care se elimină exemplarele care sunt mai puţin adaptate. Mărimea acestor pierderi tehnologice (pierderi normale) a stat la baza fundamentării criteriilor de reuşită a regenerărilor înscrise în anexa nr. 3B."],
+              ["","Pierderile accidentale sunt acele pierderi care se înregistrează peste cele tehnologice, acestea fiind cauzate de factori obiectivi sau subiectivi."],
+              ["","Pentru pierderile accidentale, indiferent de cauzele care le-au provocat, se întocmesc documente justificative, potrivit reglementărilor în vigoare."],
+              ["","Pierderile accidentale cauzate de acţiunea negativă a unor factori obiectivi (calamităţi) sunt acele pierderi înregistrate în urma acţiunii unor factori naturali ale căror efecte nu pot fi evitate: ploi şi viituri torenţiale, inundaţii, grindină, secetă îndelungată, alunecări de teren, îngheţuri, atacuri de dăunători care nu se puteau preveni şi altele asemenea."],
+              ["","Pierderile accidentale cauzate de acţiunea negativă a unor factori subiectivi sunt pierderi imputabile cauzate de: deficienţe tehnico-organizatorice, neglijenţă, păşunat, materiale de împădurire necorespunzătoare, acţiunea distructivă a unor persoane fizice sau juridice, atacuri de dăunători care se puteau preveni etc."],
+              ["","Primăvara, în termen de 30 zile de la încetarea lucrărilor de plantare, se întocmeşte procesul verbal pentru stabilirea procentului de prindere în plantaţiile realizate si/sau refăcute în toamna anului anterior sau primăvara anului curent, proces verbal care va contribui la încadrarea cât mai corectă a pierderilor de puieţi în cele două categorii: tehnologice sau accidentale."],
+              ["","În baza situaţiei din teren, se prevăd lucrările necesare care să asigure realizarea stării de masiv până cel târziu la termenul stabilit: completarea şi refacerea pierderilor, revizuiri, mobilizări de sol, descopleşiri, recepări, rărirea puieţilor, curăţiri etc. În legătură cu aceste lucrări, în continuare se vor efectua unele precizări."],
+              ["","Completările se prevăd ca obligatorii în cazul pierderilor grupate, indiferent de reuşita regenerării şi de anul când apar aceste pierderi, până la realizarea stării de masiv. La realizarea completărilor se vor utiliza numai puieţi corespunzători, bine dezvoltaţi, care să poată ajunge la starea de masiv în cel mai scurt timp, odată cu puieţii plantaţi iniţial."],
+              ["","Completările se prevăd obligatoriu în primii doi ani de la plantare, numai în cazul când reuşita este sub cea prevăzută în anexa nr. 3B. Aceste completări vor trebui să asigure în momentul închiderii stării de masiv o reuşită bună, avându-se în vedere următoarele:"],
+              ["–","speciile care se introduc în culturile respective prin completări vor trebui să asigure proporţiile stabilite prin compoziţiile de regenerare;"],
+              ["–","lucrările de întreţinere care se propun, vor reprezenta o estimare a necesităţilor reale, în funcţie de încadrarea bioclimatică a culturii şi de experienţa locală privind natura şi frecvenţa acestor lucrări."],
+              ["","În regenerările artificiale cu reuşită nesatisfăcătoare, stabilită prin raportare atât la numărul total de puieţi plantaţi, cât şi la numărul total de puieţi plantaţi din speciile principale de bază şi amestec, se vor face completări cu numărul necesar de puieţi pentru realizarea unei reuşite bune."],
+              ["","Starea de masiv a regenerărilor se consideră realizată în următoarele situaţii:"],
+              ["–","pentru regenerări naturale:"],
+              ["a)","la foiase: când coroanele puieţilor se ating în proporţie de minimum 80%;"],
+              ["b)","la răşinoase: când înălţimea puieţilor este de 1.0-1.20 m în staţiuni normale şi de 0.6-0.7 m în staţiuni extreme."],
+              ["–","pentru regenerări artificiale:"],
+              ["a)","la foioase: când coroanele puieţilor se ating, pe rând sau în grupe, în proporţie de cel puţin 80%, iar pentru plopi e.a. şi nuc, când diametrul la 1.30 m este de minimum 8 cm;"],
+              ["b)","la răşinoase: când înălţimea puieţilor este de 1.2-1.4 m în staţiuni normale şi de 0.6-0.8 m în staţiuni extreme şi terenuri degradate."],
+              ["","Pentru culturile forestiere propriu-zise, termenele de realizare a stării de masiv sunt prezentate în anexa nr. 4. Numărul minim de puieţi la hectar în momentul declarării stării de masiv nu trebuie să fie mai mic decât cel corespunzător reuşitei bune pentru speciile principale de bază şi amestec, calculate prin diminuarea numărului de puieţi plantaţi cu pierderile tehnologice pe întreaga perioadă."],
+              ["","Starea de masiv se declară în momentul în care aceasta se realizează pe întreaga suprafaţă a regenerării analizate. În cazul unor goluri neregenerate mai mari de 2500 mp, acestea pot fi separate de restul suprafeţei regenerate (cu starea de masiv realizată), daca pierderile se datoreaza unor conditii stationale diferite de restul suprafetei regenerate. În acest caz se va demara procedura de modificare a prevederilor amenajamentului."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Pct. 4 – Centralizarea şi verificarea datelor de teren",
+            "items": [
+              ["","Datele de teren culese şi prelucrate pentru fiecare suprafaţă supusă controlului, se înregistrează în centralizatorul lucrărilor de control anual al regenerărilor (anexa nr. 5), care însoţit de un memoriu de prezentare se susţine în cursul lunii decembrie la Regia Naţională a Pădurilor sau la instituţiile publice teritoriale aflate în subordinea autorităţii publice centrale care răspunde de silvicultură (în cazul pădurilor care nu sunt administrate de R.N.P.)."],
+              ["","În cazul pădurilor administrate de Regia Naţională a Pădurilor (la nivelul fiecărei direcţii silvice), precum şi în cazul celor administrate de ocoale silvice de regim, se numeşte o comisie de verificare a lucrărilor de control anual al regenerărilor, care analizează şi verifică:"],
+              ["–","cel puţin 20% din numărul suprafeţelor de control, sub aspectul amplasării şi delimitării lor corecte;"],
+              ["–","prin sondaj, realitatea datelor culese din suprafeţele de control;"],
+              ["–","necesitatea lucrărilor executate în anul când se efectuează controlul anual, calitatea execuţiei şi perioada realizării lor;"],
+              ["–","eficacitatea lucrărilor executate, sub aspect tehnic şi economic;"],
+              ["–","temeinicia cauzelor prin care se justifică pierderile înregistrate în suprafeţele supuse controlului şi corectitudinea estimării acestor pagube;"],
+              ["–","dacă pierderile înregistrate la controlul anterior au fost refăcute, precum şi dacă eventualele ieşiri din fondul forestier sunt legale."],
+              ["","În perioada verificării, gestionarul suprafeţei regenerate aflate în control va fi la dispoziţia comisiei sus menţionate, pentru a participa şi a da lămuririle necesare referitoare la acest control."],
+              ["","Preşedintele comisiei de verificare, pe parcursul derulării lucrărilor de control anual, va îndruma şi controla activitatea echipelor de inventariere consemnând măsurile stabilite pe teren, precum şi deficienţele constatate în procese verbale (anexa nr. 6). Totodată va stabili măsurile şi lucrările necesare pentru ca suprafeţele regenerate analizate să realizeze starea de masiv în cel mai scurt timp."],
+              ["","La terminarea lucrărilor de inventariere, se întruneşte în plen comisia de verificare a controlului anual, care va prezenta următoarele:"],
+              ["–","aprecieri asupra desfăşurării controlului anual (respectarea îndrumărilor tehnice privind constituirea echipelor de control, numărul şi mărimea suprafeţelor de control şi procentul acestora din suprafaţa regenerată, modul de verificare pe teren a lucrărilor de control anual etc.;"],
+              ["–","realizarea şi eficacitatea completărilor, refacerilor şi lucrărilor de întreţinere propuse la controlul anterior;"],
+              ["–","calitatea regenerărilor executate (calitatea materialului de plantat folosit, calitatea lucrărilor executate, respectarea prevederilor documentaţiilor tehnice privind realizarea compoziţiei de regenerare, modul de dezvoltare şi starea fitosanitară;"],
+              ["–","aprecieri asupra pierderilor înregistrate peste limitele tehnologice, cauzele, justificările şi modalităţile de recuperare a pagubelor;"],
+              ["–","concluzii şi recomandări propuse, necesitatea aplicării acestora;"],
+              ["–","regenerările care au realizat starea de masiv (anexa nr. 7);"],
+              ["–","regenerările care n-au realizat starea de masiv la termenul stabilit (anexa nr. 8), însoţite de justificări şi măsuri pentru remedierea cauzelor;"],
+              ["–","justificarea scoaterii din evidenţa controlului anual al regenerărilor a suprafeţelor regenerate;"],
+              ["–","întocmeşte procesul verbal."],
+              ["","Comisia certifică în procesele verbale încheiate realizarea stării de masiv a regenerărilor, cât şi cauzele care au generat nerealizarea starea de masiv la termenele planificate în cazul unor regenerări."],
+              ["","Procesul verbal, împreună cu centralizatoarele pe ani ale lucrărilor de control, documentele de justificare a pierderilor şi un memoriu de prezentare se depun pentru verificare, la forul tutelar (R.N.P. sau instituţiile publice teritoriale aflate în subordinea autorităţii publice centrale care răspunde de silvicultură)."],
+              ["","Memoriul de prezentare va aborda în mod deosebit următoarele aspecte:"],
+              ["–","cauzele pentru care nu s-a realizat starea de masiv la termenele prevăzute pentru unele regenerări şi posibilităţile de normalizare a situaţiei, prin măsurile propuse;"],
+              ["–","aprecieri asupra volumului şi calităţii regenerărilor naturale instalate, precum şi asupra ponderii acestora faţă de volumul total al regenerărilor;"],
+              ["–","aprecieri asupra volumului pierderilor şi măsura în care completările propuse prin controlul anual acoperă întregul volum de pierderi;"],
+              ["–","concluzii generale asupra rezultatelor controlului anual al regenerărilor, cu referire la perspectivele de realizare a stării de masiv de către culturile cu reuşită provizorie, în timp cât mai scurt."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

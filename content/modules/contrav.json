@@ -1,0 +1,1838 @@
+{
+  "id": "contrav",
+  "title": "Contravenții silvice",
+  "act": "Legea 171/2010",
+  "version": "Consolidată la 29 octombrie 2026 (ultima modificare: Codul silvic 2024, în vigoare din 12 ianuarie 2025)",
+  "intro": "Faptele care nu ajung la pragul penal: amenzile pentru tăieri și furturi mici, foc, pășunat, deșeuri, exploatare, transport și depozite de lemn. Apoi procedura: cine constată, cum arată procesul-verbal, termenele de comunicare, plată și plângere, ce se întâmplă cu lemnul confiscat și punctele de penalizare.",
+  "lesson": [
+    {
+      "title": "1. Contravenția silvică și sancțiunile",
+      "paragraphs": [
+        {
+          "text": "Contravenția silvică e fapta săvârșită **cu vinovăție**, stabilită și sancționată de această lege, prin care se încalcă normele din domeniul silvic.",
+          "refs": ["L171 art. 1 alin. (1)"]
+        },
+        {
+          "text": "Sancțiunea **principală** este **amenda**; sancțiunile **complementare** sunt **confiscarea** bunurilor și **retragerea sau suspendarea** autorizației, atestatului sau acordului.",
+          "refs": ["L171 art. 1 alin. (2)"]
+        },
+        {
+          "text": "**Semnele amenajistice** = linii subparcelare și parcelare, limite de UP și de ocol, borne amenajistice. **Reținerea** = măsura asigurătorie pentru probarea provenienței lemnului.",
+          "refs": ["L171 art. 2 lit. d)","L171 art. 2 lit. f)"]
+        },
+        {
+          "text": "Lemnul transportat **nu are proveniență legală** dacă: nu are aviz; avizul nu are valabilitate sau a expirat; nu e câte un aviz pentru fiecare mijloc de transport; volumul diferă de cel din aviz (diferența); se încarcă sau descarcă în alt loc decât cel din SUMAL.",
+          "refs": ["L171 art. 2 lit. e^1)"]
+        },
+        {
+          "text": "Atenție: Legea 171 trimite încă la pragul de 10 m³ din vechiul Cod. Pragul penal actual e în **Codul silvic**: transportul fără proveniență legală devine infracțiune de la **5,01 m³**.",
+          "refs": ["L171 art. 2 lit. e^1)"]
+        }
+      ],
+      "keep": [
+        "Amenda = principală; confiscarea și retragerea atestatului = complementare",
+        "Fără proveniență legală: fără aviz, aviz expirat, câte un aviz pe vehicul, diferență de volum, alt loc de încărcare",
+        "Prag penal la transport (Codul silvic): de la 5,01 m³"
+      ],
+      "quiz": [
+        {
+          "q": "Contravenția silvică presupune:",
+          "options": ["Doar rezultatul", "Vinovăție", "Doar intenție", "Prejudiciu de peste 5×"],
+          "answer": 1,
+          "explain": "Fapta săvârșită cu vinovăție.",
+          "ref": "L171 art. 1 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "2. Administrare, posibilitate, amenajament",
+      "paragraphs": [
+        {
+          "text": "Contract de servicii silvice cu cineva care deține **doar masa lemnoasă**, fără teren: **10.000–20.000 lei**, iar contractul e **nul de drept**.",
+          "refs": ["L171 art. 3 alin. (1)"]
+        },
+        {
+          "text": "Proprietarul care nu asigură administrarea sau serviciile silvice ori nu materializează limitele proprietății: **1.000–5.000 lei**. Ocolul nominalizat care refuză contractul: **1.000–2.000 lei**.",
+          "refs": ["L171 art. 3 alin. (2)","L171 art. 4 lit. b)"]
+        },
+        {
+          "text": "**Depășirea posibilității** fără aprobare (sancțiunea o primește administratorul sau ocolul de regim): **avertisment** până la 3%; **5.000–10.000 lei** la 3,1–10%; **10.000–20.000 lei** la 10,1–25%; **20.000–30.000 lei** peste 25%. Aceleași trepte la depășirea volumului pentru lucrări de conservare.",
+          "refs": ["L171 art. 5 alin. (1)–(2)","L171 art. 5 alin. (8)"]
+        },
+        {
+          "text": "Depășirea cu **peste 50%** a procentului de extras la conservare, la nivel de arboret: **3.000–6.000 lei**. Erori de amenajare care schimbă măsurile de gospodărire, neîntocmirea amenajamentului: **3.000–7.000 lei**.",
+          "refs": ["L171 art. 5 alin. (9)","L171 art. 5 alin. (6)"]
+        },
+        {
+          "text": "Nematerializarea, neîntreținerea sau **mutarea semnelor amenajistice**: **1.000–2.000 lei**. Aprobarea produselor accidentale fără notificarea Gărzii sau încadrarea falsă ca accidentale/igienă: **2.000–5.000 lei**.",
+          "refs": ["L171 art. 6 lit. c)–d)","L171 art. 5^1"]
+        }
+      ],
+      "keep": [
+        "Contract doar pe masa lemnoasă: 10–20k lei, nul de drept",
+        "Depășirea posibilității: ≤ 3% avertisment / 5–10k / 10–20k / 20–30k",
+        "Semne amenajistice: 1–2k lei",
+        "Accidentale fără notificarea Gărzii: 2–5k lei"
+      ],
+      "quiz": [
+        {
+          "q": "Depășirea cu 60% a procentului de extras la conservare, la arboret:",
+          "options": ["Avertisment", "3.000–6.000 lei", "20.000–30.000 lei", "Nu se sancționează"],
+          "answer": 1,
+          "explain": "Peste 50%.",
+          "ref": "L171 art. 5 alin. (9)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Depășirea posibilității (art. 5)",
+        "levels": [
+          {"who": "≤ 3%", "does": ["avertisment"], "ref": "L171 art. 5 alin. (1) lit. a)"},
+          {"who": "3,1–10%", "does": ["5.000–10.000 lei"], "ref": "L171 art. 5 alin. (1) lit. b)"},
+          {"who": "10,1–25%", "does": ["10.000–20.000 lei"], "ref": "L171 art. 5 alin. (1) lit. c)"},
+          {"who": "> 25%", "does": ["20.000–30.000 lei"], "ref": "L171 art. 5 alin. (1) lit. d)"}
+        ]
+      }
+    },
+    {
+      "title": "3. Integritatea fondului forestier",
+      "paragraphs": [
+        {
+          "text": "Cu **5.000–10.000 lei**: schimbarea categoriei de folosință fără aprobare; trecerea pădurilor UAT din domeniul public în cel privat prin hotărâre; **includerea pădurilor în intravilan**; neredarea la termen a terenului ocupat temporar; exploatarea agregatelor minerale fără aprobări.",
+          "refs": ["L171 art. 7 alin. (1)"]
+        },
+        {
+          "text": "La trecerea în domeniul privat și la includerea în intravilan, amenda o primește **consiliul local sau județean**, iar hotărârea e **nulă de drept**.",
+          "refs": ["L171 art. 7 alin. (2)"]
+        },
+        {
+          "text": "La neredarea terenului, pe lângă amendă se plătește despăgubirea pentru lipsa de folosință, egală cu **dublul chiriei**: 50% în fondul de ameliorare, 50% la administrator sau proprietar.",
+          "refs": ["L171 art. 7 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "Folosință schimbată, intravilan, neredare teren, agregate: 5–10k lei",
+        "HCL de trecere în domeniul privat/intravilan: nulă de drept",
+        "Neredare: + dublul chiriei, 50/50"
+      ],
+      "quiz": [
+        {
+          "q": "Exploatarea de agregate minerale în FFN fără aprobări:",
+          "options": ["1.000–2.000 lei", "5.000–10.000 lei", "Permisă", "20.000 lei"],
+          "answer": 1,
+          "explain": "Art. 7 lit. e).",
+          "ref": "L171 art. 7 alin. (1) lit. e)"
+        }
+      ]
+    },
+    {
+      "title": "4. Tăieri și furturi sub pragul penal",
+      "paragraphs": [
+        {
+          "text": "Ruperea, distrugerea sau scoaterea din rădăcini în FFN și furtul de puieți sau lăstari, cu prejudiciu **până la 5×** prețul mediu al m³: **1.000–5.000 lei**. Dacă le comite un **operator atestat pentru exploatare**: **8.000–12.000 lei**.",
+          "refs": ["L171 art. 8 alin. (1)–(2)","L171 art. 8 alin. (4)"]
+        },
+        {
+          "text": "Tăierea fără drept în **vegetația forestieră din afara FFN**: amendă + confiscare, pe volum: **până la 10 m³** 1.000–5.000 lei; **10,01–30 m³** 5.000–10.000; **30,01–100 m³** 10.000–15.000; **100,01–500 m³** 15.000–30.000; **peste 500 m³** 30.000–50.000 lei.",
+          "refs": ["L171 art. 8 alin. (3)"]
+        },
+        {
+          "text": "Autorizarea exploatării în arborete **T.I** fără aprobări sau în păduri virgine/cvasivirgine notificate de Gardă: **20.000–30.000 lei**.",
+          "refs": ["L171 art. 8 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "FFN, prejudiciu ≤ 5× prețul mediu: 1–5k lei (operator atestat 8–12k)",
+        "În afara FFN, trepte de volum: 10 / 30 / 100 / 500 m³",
+        "T.I sau păduri virgine autorizate: 20–30k lei"
+      ],
+      "quiz": [
+        {
+          "q": "Autorizarea exploatării într-un arboret T.I fără aprobări:",
+          "options": ["5.000–10.000 lei", "20.000–30.000 lei", "Avertisment", "1.000 lei"],
+          "answer": 1,
+          "explain": "Art. 8 alin. (5).",
+          "ref": "L171 art. 8 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "5. Foc, pășunat, deșeuri, turism",
+      "paragraphs": [
+        {
+          "text": "Cu **2.000–5.000 lei**: inundarea terenurilor prin baraje; **focul** în afara locurilor amenajate sau la **mai puțin de 30 m** de pădure; deteriorarea drumurilor forestiere, a instalațiilor, **a camerelor video** de pe drumuri; ștergerea mărcilor sau numerelor de pe arbori și cioate; **accesul autovehiculelor** în FFN fără drept.",
+          "refs": ["L171 art. 9"]
+        },
+        {
+          "text": "Tot **2.000–5.000 lei**: încălcarea normelor de apărare împotriva incendiilor; nefinanțarea sau neefectuarea combaterii bolilor și dăunătorilor.",
+          "refs": ["L171 art. 10"]
+        },
+        {
+          "text": "Cu **600–1.000 lei**: luarea **humusului**, a solului fertil sau a brazdelor; **refuzul de a participa la stingerea incendiilor** la cererea personalului silvic, poliției, ISU, jandarmeriei; refuzul accesului pentru inventarul forestier; **pășunatul** interzis cu prejudiciu până la 5× prețul mediu.",
+          "refs": ["L171 art. 11"]
+        },
+        {
+          "text": "Cu **1.000–2.000 lei**: corturi, rulote, tonete în locuri neaprobate; stupi în alte locuri decât cele aprobate; animale pe vatra de stupină; împrejmuiri fără aprobare; **trecerea animalelor** prin pădure fără aprobare (amenda o primește însoțitorul sau, dacă animalele sunt neînsoțite, proprietarul).",
+          "refs": ["L171 art. 12 alin. (1)"]
+        },
+        {
+          "text": "Cu **10.000–20.000 lei**: **aruncarea deșeurilor** în FFN, cu obligația de a readuce terenul la starea inițială; nesalubrizarea pădurii de lângă obiective; **centre de colectare a ciupercilor și fructelor de pădure fără avizul ocolului**.",
+          "refs": ["L171 art. 12 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Foc < 30 m de pădure, camere video, mărci șterse, mașini în FFN: 2–5k lei",
+        "Humus, refuz la stingere, pășunat ≤ 5×: 600–1.000 lei",
+        "Corturi, stupi, împrejmuiri, animale: 1–2k lei",
+        "Deșeuri, centre de ciuperci fără aviz: 10–20k lei"
+      ],
+      "quiz": [
+        {
+          "q": "Deteriorarea camerelor video de pe drumurile forestiere:",
+          "options": ["600–1.000 lei", "2.000–5.000 lei", "10.000 lei", "Nu e prevăzută"],
+          "answer": 1,
+          "explain": "Art. 9 lit. c^1).",
+          "ref": "L171 art. 9 lit. c^1)"
+        }
+      ]
+    },
+    {
+      "title": "6. Punerea în valoare și exploatarea",
+      "paragraphs": [
+        {
+          "text": "APV întocmit sau modificat cu încălcarea normelor, **fără prejudiciu**; APV pentru proprietari fără contract de servicii silvice; autorizare fără amenajament: **4.000–8.000 lei**.",
+          "refs": ["L171 art. 14 alin. (1)"]
+        },
+        {
+          "text": "Cu **5.000–10.000 lei**: autorizarea partizilor cu restricții în **perioada interzisă**; **tăieri rase alăturate** ilegal; lipsa de transparență la vânzare; exploatare în păduri virgine notificate.",
+          "refs": ["L171 art. 15 alin. (1)"]
+        },
+        {
+          "text": "Cu **6.000–10.000 lei**: exploatarea **fără autorizație și fără proces-verbal de predare** a parchetului (plus retragerea atestatului și confiscarea lemnului); exploatarea **în afara termenelor**; curse feromonale amplasate greșit; **arbori marcați rămași netăiați** la reprimire, dacă sunt **peste 1%** din cei inventariați.",
+          "refs": ["L171 art. 16 alin. (1)"]
+        },
+        {
+          "text": "Cu **2.000–5.000 lei**: nerespectarea traseelor de scos-apropiat; scoaterea cioatelor fără aprobare; **produse nelemnoase fără acte** și fără acordul proprietarului sau ocolului; drumuri de tractor neautorizate; **necurățarea parchetului** la termen.",
+          "refs": ["L171 art. 17"]
+        },
+        {
+          "text": "Cu **1.000–3.000 lei**: necojirea **cioatelor de pin și molid** (celelalte rășinoase: curelare); lemn de rășinoase infestat și necojit lăsat în pădure între **1 mai și 1 octombrie**; lipsa **panoului** parchetului.",
+          "refs": ["L171 art. 18"]
+        }
+      ],
+      "keep": [
+        "APV greșit fără prejudiciu: 4–8k lei",
+        "Perioada interzisă, rase alăturate: 5–10k lei",
+        "Fără autorizație/predare, în afara termenului, > 1% arbori netăiați: 6–10k lei",
+        "Scos-apropiat, nelemnoase, curățire: 2–5k lei",
+        "Cojire cioate, lemn infestat 1 mai–1 oct., panou: 1–3k lei"
+      ],
+      "quiz": [
+        {
+          "q": "Lipsa panoului parchetului aflat în exploatare:",
+          "options": ["1.000–3.000 lei", "6.000–10.000 lei", "Avertisment", "Nu e contravenție"],
+          "answer": 0,
+          "explain": "Art. 18 lit. d).",
+          "ref": "L171 art. 18 lit. d)"
+        }
+      ]
+    },
+    {
+      "title": "7. Circulația și depozitarea lemnului",
+      "paragraphs": [
+        {
+          "text": "Depozite, platforme, târguri, instalații de prelucrare cu lemn **fără proveniență legală**: amendă + confiscare pe volum: **≤ 10 m³** 1.000–5.000 lei; **10,01–30** 5.000–10.000; **30,01–100** 10.000–15.000; **100,01–500** 15.000–30.000; **peste 500 m³** 30.000–50.000 lei.",
+          "refs": ["L171 art. 19 alin. (1)"]
+        },
+        {
+          "text": "Transport **fără documente**, 0,1–5 m³: **1.000–2.000** (≤ 1 m³), **2.000–4.000** (1,01–3 m³), **4.000–6.000 lei** (3,01–5 m³). Aceleași trepte la diferența față de aviz și la nepotrivirea specie/volum/număr de piese. Transport **fără proveniență legală** ≤ 5 m³: **5.000–10.000 lei**.",
+          "refs": ["L171 art. 19 alin. (2) lit. a)–d)"]
+        },
+        {
+          "text": "Diferențe de stoc în depozite, până la 20% și 10 m³: **5.000–10.000** (≤ 5%, ≤ 4 m³), **15.000–20.000** (≤ 10%, ≤ 8 m³), **30.000–50.000 lei** (≤ 20%, ≤ 10 m³).",
+          "refs": ["L171 art. 19 alin. (2) lit. e)–f)"]
+        },
+        {
+          "text": "Fotografii neclare sau lipsă, cerneală care se șterge: **avertisment sau 1.000–3.000 lei**. Transport fără date mobile sau **GPS pornit**: **2.000–3.000 lei**. Număr de înmatriculare greșit în aviz: **500–2.000 lei**. Același aviz folosit repetat: doar **primul transport** e considerat cu documente.",
+          "refs": [
+            "L171 art. 19 alin. (2^2)",
+            "L171 art. 19 alin. (2^3)",
+            "L171 art. 19 alin. (5)",
+            "L171 art. 19 alin. (2^4)"
+          ]
+        },
+        {
+          "text": "Cine plătește: **emitentul avizului** pentru diferențe și nepotriviri; **transportatorul profesionist** sau **șoferul** pentru lipsa documentelor și lipsa provenienței; **confiscarea** se aplică emitentului avizului.",
+          "refs": ["L171 art. 19 alin. (10)"]
+        }
+      ],
+      "keep": [
+        "Depozit fără proveniență: trepte 10 / 30 / 100 / 500 m³",
+        "Transport fără acte: 1–2k / 2–4k / 4–6k (≤ 1 / ≤ 3 / ≤ 5 m³)",
+        "Fără proveniență legală ≤ 5 m³: 5–10k lei",
+        "GPS sau date mobile oprite: 2–3k lei",
+        "Aviz refolosit: valabil doar primul transport",
+        "Confiscarea: la emitentul avizului"
+      ],
+      "quiz": [
+        {
+          "q": "Număr de înmatriculare greșit trecut în aviz:",
+          "options": ["500–2.000 lei", "5.000–10.000 lei", "Infracțiune", "Avertisment obligatoriu"],
+          "answer": 0,
+          "explain": "Alin. (5).",
+          "ref": "L171 art. 19 alin. (5)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Depozite fără proveniență legală (art. 19 alin. 1)",
+        "levels": [
+          {
+            "who": "≤ 10 m³",
+            "does": ["1.000–5.000 lei + confiscare"],
+            "ref": "L171 art. 19 alin. (1) lit. a)"
+          },
+          {"who": "10,01–30 m³", "does": ["5.000–10.000 lei"], "ref": "L171 art. 19 alin. (1) lit. b)"},
+          {"who": "30,01–100 m³", "does": ["10.000–15.000 lei"], "ref": "L171 art. 19 alin. (1) lit. c)"},
+          {
+            "who": "100,01–500 m³",
+            "does": ["15.000–30.000 lei"],
+            "ref": "L171 art. 19 alin. (1) lit. d)"
+          },
+          {"who": "> 500 m³", "does": ["30.000–50.000 lei"], "ref": "L171 art. 19 alin. (1) lit. e)"}
+        ]
+      }
+    },
+    {
+      "title": "8. Agenții constatatori",
+      "paragraphs": [
+        {
+          "text": "Constată și sancționează: personalul silvic al **Autorității și Gărzii**; personalul **Romsilva** în fondul pe care îl administrează și pentru circulația lemnului; personalul **ocoalelor de regim**; personalul **parcurilor naționale și naturale**.",
+          "refs": ["L171 art. 24 alin. (1) lit. a)–c)","L171 art. 24 alin. (1) lit. f)"]
+        },
+        {
+          "text": "**Poliția**, **Poliția de Frontieră** și **Jandarmeria** constată doar faptele enumerate pentru fiecare; **pompierii (ISU)** doar focul (art. 9 lit. b) și incendiile (art. 10 lit. a).",
+          "refs": ["L171 art. 24 alin. (1) lit. d)–e)","L171 art. 24 alin. (1) lit. g)"]
+        },
+        {
+          "text": "Pe **drumurile forestiere**, toți agenții pot opri vehiculele pentru controlul lemnului; pe **drumurile publice**, oprirea se face după regulile de circulație (OUG 195/2002).",
+          "refs": ["L171 art. 24 alin. (1^1)–(1^2)"]
+        },
+        {
+          "text": "Agenții silvici îndeplinesc o funcție care implică **exercițiul autorității de stat** și primesc **legitimație de control**; la polițiști și jandarmi, legitimația de serviciu ține loc de legitimație de control.",
+          "refs": ["L171 art. 24 alin. (2)–(3)"]
+        }
+      ],
+      "keep": [
+        "Agenți: Gardă, Romsilva (în fondul propriu + circulația lemnului), ocoale de regim, parcuri",
+        "Poliție, frontieră, jandarmerie: doar faptele enumerate",
+        "ISU: doar focul și incendiile",
+        "Drumuri forestiere: oprește orice agent",
+        "Legitimație de control"
+      ],
+      "quiz": [
+        {
+          "q": "Personalul Romsilva constată contravenții:",
+          "options": [
+            "Oriunde în țară",
+            "În fondul pe care îl administrează și pentru circulația lemnului",
+            "Doar în ariile protejate",
+            "Nu constată"
+          ],
+          "answer": 1,
+          "explain": "Lit. b).",
+          "ref": "L171 art. 24 alin. (1) lit. b)"
+        }
+      ]
+    },
+    {
+      "title": "9. Procesul-verbal și comunicarea",
+      "paragraphs": [
+        {
+          "text": "Agentul care aplică sancțiunea dispune și **reținerea sau confiscarea** bunurilor, le descrie în procesul-verbal și stabilește **proprietarul** lor.",
+          "refs": ["L171 art. 25"]
+        },
+        {
+          "text": "Agentul trebuie să-i spună contravenientului că are **dreptul la obiecțiuni**; obiecțiunile se trec la rubrica lor, **sub sancțiunea nulității**. Procesul-verbal se semnează **pe fiecare pagină**; dacă contravenientul lipsește sau refuză, se confirmă de **cel puțin un martor** (altfel se motivează lipsa martorului).",
+          "refs": ["L171 art. 26 alin. (2)–(4)"]
+        },
+        {
+          "text": "Procesul-verbal se comunică în **max. 30 de zile calendaristice** de la constatare, prin poștă cu confirmare sau prin afișare cu un martor, împreună cu înștiințarea de plată.",
+          "refs": ["L171 art. 27 alin. (2)–(3)"]
+        },
+        {
+          "text": "Amenda se plătește în **30 de zile de la comunicare** sau în **15 zile de la soluționarea plângerii**; altfel, debitul se trimite la fisc în 30 de zile.",
+          "refs": ["L171 art. 27 alin. (4)–(5)"]
+        },
+        {
+          "text": "Procesul-verbal se face pe formular tipizat în **3 exemplare**. La **reținerea lemnului**, agentul dă un termen de **max. 3 zile calendaristice** pentru dovedirea provenienței.",
+          "refs": ["L171 art. 42 alin. (1)","L171 art. 42 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "Obiecțiuni consemnate, altfel PV nul",
+        "Semnat pe fiecare pagină; martor dacă refuză",
+        "Comunicare: max. 30 zile calendaristice",
+        "Plata: 30 zile de la comunicare / 15 zile după plângere",
+        "3 exemplare; reținere: 3 zile pentru dovada provenienței"
+      ],
+      "quiz": [
+        {
+          "q": "Dacă nu există martor la refuzul semnării PV:",
+          "options": ["PV e nul", "Agentul precizează motivele", "Se amână", "Se cheamă poliția obligatoriu"],
+          "answer": 1,
+          "explain": "Alin. (4).",
+          "ref": "L171 art. 26 alin. (4)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "De la constatare la plată",
+        "steps": [
+          {
+            "title": "PV pe loc",
+            "text": "obiecțiuni consemnate; semnat pe fiecare pagină",
+            "ref": "L171 art. 26"
+          },
+          {"title": "Comunicare", "text": "max. 30 zile calendaristice", "ref": "L171 art. 27 alin. (2)"},
+          {"title": "Plângere", "text": "15 zile, judecătoria locului faptei", "ref": "L171 art. 32"},
+          {
+            "title": "Plata",
+            "text": "30 zile de la comunicare / 15 zile după plângere",
+            "ref": "L171 art. 27 alin. (4)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "10. Plângere, despăgubiri, lemnul confiscat",
+      "paragraphs": [
+        {
+          "text": "**Plângerea** se face în **15 zile** de la înmânare sau comunicare, la **judecătoria locului faptei**, și e **scutită de taxa de timbru**. Instanța poate da termen de plată de **30 de zile** sau eșalonare pe **3 luni**.",
+          "refs": ["L171 art. 32", "L171 art. 33", "L171 art. 38 alin. (1)"]
+        },
+        {
+          "text": "Despăgubirea o calculează **agentul**, dacă e silvic; altfel **ocolul**, în **5 zile lucrătoare** de la cerere. Pentru unele fapte (deșeuri, drumuri de tractor, pășunat, schimbarea folosinței) contravenientul trebuie și să **readucă terenul la starea inițială**.",
+          "refs": ["L171 art. 30 alin. (3)–(4)","L171 art. 30 alin. (6)"]
+        },
+        {
+          "text": "Lemnul reținut sau confiscat se dă în **custodie** ocolului cu depozitul **cel mai apropiat** (sau, cu acordul tuturor, chiar contravenientului). Dacă se confiscă mijlocul de transport, contravenientul îl duce pe cheltuiala lui.",
+          "refs": ["L171 art. 22 alin. (2)–(3)","L171 art. 22 alin. (4^1)"]
+        },
+        {
+          "text": "Lemnul confiscat se **donează**, în ordine: **grădinițe, creșe, case de copii → școli și licee → azile de bătrâni → primării → unități militare**. Ocolul anunță instituțiile în **3 zile lucrătoare**; ele răspund în **7 zile**. Ce rămâne se vinde la licitație în **30 de zile**.",
+          "refs": ["L171 art. 36 alin. (2)–(5)"]
+        },
+        {
+          "text": "Banii din vânzare: **15%** la instituția agentului constatator, **85%** în fondul de ameliorare (lemn de stat) sau la bugetele locale. Amenzile merg la **bugetul de stat** (operatori economici) sau la **bugetul local** (persoane fizice).",
+          "refs": ["L171 art. 36 alin. (7)","L171 art. 34 alin. (1)"]
+        },
+        {
+          "text": "**Puncte de penalizare** pentru operatori: la **25 de puncte** nu mai pot participa la licitațiile de masă lemnoasă de stat; punctele se **prescriu în 6 luni**. Dacă fapta pare infracțiune, agentul **sesizează organul de urmărire penală**. Legea se completează cu **OG 2/2001**.",
+          "refs": ["L171 anexa 5", "L171 art. 39 alin. (1)", "L171 art. 41"]
+        }
+      ],
+      "keep": [
+        "Plângere: 15 zile, judecătoria locului faptei, fără taxă",
+        "Despăgubirea: agentul silvic sau ocolul în 5 zile lucrătoare",
+        "Custodie: ocolul cu depozitul cel mai apropiat",
+        "Donație: copii → școli → bătrâni → primării → armată",
+        "Notificare 3 zile lucr.; cereri 7 zile; licitație 30 zile",
+        "Bani: 15% agent / 85% fond ameliorare",
+        "25 puncte = exclus de la licitații; prescriere 6 luni"
+      ],
+      "quiz": [
+        {
+          "q": "Instanța poate eșalona plata amenzii pe cel mult:",
+          "options": ["1 lună", "3 luni", "6 luni", "1 an"],
+          "answer": 1,
+          "explain": "3 luni (sau termen de 30 zile).",
+          "ref": "L171 art. 38 alin. (1)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Drumul lemnului confiscat",
+        "steps": [
+          {
+            "title": "Custodie",
+            "text": "ocolul cu depozitul cel mai apropiat",
+            "ref": "L171 art. 22 alin. (2)"
+          },
+          {
+            "title": "Notificare",
+            "text": "instituțiile publice, în 3 zile lucrătoare",
+            "ref": "L171 art. 36 alin. (2)"
+          },
+          {
+            "title": "Donație",
+            "text": "copii → școli → bătrâni → primării → armată",
+            "ref": "L171 art. 36 alin. (4)"
+          },
+          {
+            "title": "Licitație",
+            "text": "restul, în 30 zile; 15% / 85%",
+            "ref": "L171 art. 36 alin. (5)"
+          }
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Amenzi frecvente",
+      "rows": [
+        {
+          "what": "Tăiere/distrugere în FFN ≤ 5× prețul mediu",
+          "value": "1.000–5.000 lei",
+          "ref": "L171 art. 8 alin. (2)"
+        },
+        {
+          "what": "Aceeași faptă, operator atestat",
+          "value": "8.000–12.000 lei",
+          "ref": "L171 art. 8 alin. (4)"
+        },
+        {"what": "Foc < 30 m de pădure", "value": "2.000–5.000 lei", "ref": "L171 art. 9 lit. b)"},
+        {"what": "Humus, refuz la stingere, pășunat", "value": "600–1.000 lei", "ref": "L171 art. 11"},
+        {
+          "what": "Corturi, stupi, animale în pădure",
+          "value": "1.000–2.000 lei",
+          "ref": "L171 art. 12 alin. (1)"
+        },
+        {
+          "what": "Deșeuri în FFN",
+          "value": "10.000–20.000 lei + refacere",
+          "ref": "L171 art. 12 alin. (2) lit. a)"
+        },
+        {
+          "what": "Centre de ciuperci fără aviz",
+          "value": "10.000–20.000 lei",
+          "ref": "L171 art. 12 alin. (2) lit. c)"
+        },
+        {"what": "Semne amenajistice mutate", "value": "1.000–2.000 lei", "ref": "L171 art. 6 lit. d)"},
+        {
+          "what": "Depășirea posibilității ≤ 3%",
+          "value": "avertisment",
+          "ref": "L171 art. 5 alin. (1) lit. a)"
+        },
+        {
+          "what": "Depășirea posibilității > 25%",
+          "value": "20.000–30.000 lei",
+          "ref": "L171 art. 5 alin. (1) lit. d)"
+        }
+      ]
+    },
+    {
+      "title": "Exploatare și lemn",
+      "rows": [
+        {
+          "what": "Exploatare fără autorizație",
+          "value": "6.000–10.000 lei + confiscare",
+          "ref": "L171 art. 16 alin. (1) lit. a)"
+        },
+        {
+          "what": "Arbori marcați netăiați",
+          "value": "> 1% → 6.000–10.000 lei",
+          "ref": "L171 art. 16 alin. (1) lit. h)"
+        },
+        {"what": "Necurățarea parchetului", "value": "2.000–5.000 lei", "ref": "L171 art. 17 lit. e)"},
+        {
+          "what": "Lemn infestat necojit",
+          "value": "1 mai–1 oct.: 1.000–3.000 lei",
+          "ref": "L171 art. 18 lit. b)"
+        },
+        {
+          "what": "Transport fără acte ≤ 1 / ≤ 3 / ≤ 5 m³",
+          "value": "1–2k / 2–4k / 4–6k lei",
+          "ref": "L171 art. 19 alin. (2) lit. a)"
+        },
+        {
+          "what": "Fără proveniență legală ≤ 5 m³",
+          "value": "5.000–10.000 lei",
+          "ref": "L171 art. 19 alin. (2) lit. c)"
+        },
+        {
+          "what": "Depozit fără proveniență ≤ 10 m³",
+          "value": "1.000–5.000 lei",
+          "ref": "L171 art. 19 alin. (1)"
+        },
+        {
+          "what": "GPS oprit la transport",
+          "value": "2.000–3.000 lei",
+          "ref": "L171 art. 19 alin. (2^3)"
+        }
+      ]
+    },
+    {
+      "title": "Procedură",
+      "rows": [
+        {
+          "what": "Comunicarea PV",
+          "value": "max. 30 zile calendaristice",
+          "ref": "L171 art. 27 alin. (2)"
+        },
+        {
+          "what": "Plata amenzii",
+          "value": "30 zile / 15 zile după plângere",
+          "ref": "L171 art. 27 alin. (4)"
+        },
+        {"what": "Plângerea", "value": "15 zile, judecătoria locului faptei", "ref": "L171 art. 32"},
+        {
+          "what": "Dovada provenienței la reținere",
+          "value": "max. 3 zile calendaristice",
+          "ref": "L171 art. 42 alin. (5)"
+        },
+        {
+          "what": "Calculul despăgubirii de ocol",
+          "value": "5 zile lucrătoare",
+          "ref": "L171 art. 30 alin. (4)"
+        },
+        {"what": "Lemn confiscat: licitație", "value": "în 30 zile", "ref": "L171 art. 36 alin. (5)"},
+        {
+          "what": "Împărțirea banilor",
+          "value": "15% agent / 85% fond",
+          "ref": "L171 art. 36 alin. (7)"
+        },
+        {
+          "what": "Puncte de penalizare",
+          "value": "25 = interdicție; prescriere 6 luni",
+          "ref": "L171 anexa 5"
+        },
+        {"what": "Exemplare PV", "value": "3", "ref": "L171 art. 42 alin. (1)"}
+      ]
+    }
+  ],
+  "tricks": [
+    "Treptele de volum (afara FFN și depozite): 10 – 30 – 100 – 500 m³, cu amenzi 1–5k, 5–10k, 10–15k, 15–30k, 30–50k.",
+    "Transport: 1 – 3 – 5 m³ → 1–2k, 2–4k, 4–6k. Peste 5 m³ e infracțiune (Codul silvic).",
+    "Depășirea posibilității: 3 – 10 – 25%, cu avertisment, apoi 5–10k, 10–20k, 20–30k.",
+    "Termene: 30 de zile comunicare, 30 de zile plată, 15 zile plângere, 3 zile proveniență, 5 zile lucrătoare calcul ocol.",
+    "Donația lemnului urcă în vârstă: copiii, elevii, bătrânii, apoi primăriile și armata."
+  ],
+  "cards": [
+    {
+      "q": "Care e sancțiunea principală pentru contravențiile silvice?",
+      "a": "Amenda; complementare: confiscarea și retragerea/suspendarea autorizației sau atestatului.",
+      "ref": "L171 art. 1 alin. (2)"
+    },
+    {
+      "q": "Ce sunt semnele amenajistice?",
+      "a": "Linii subparcelare și parcelare, limite de UP și ocol, borne amenajistice.",
+      "ref": "L171 art. 2 lit. d)"
+    },
+    {
+      "q": "Când nu are lemnul transportat proveniență legală?",
+      "a": "Fără aviz; aviz fără valabilitate sau expirat; fără aviz pe fiecare vehicul; diferență de volum; încărcare/descărcare în alt loc decât cel din SUMAL.",
+      "ref": "L171 art. 2 lit. e^1)"
+    },
+    {
+      "q": "Ce e reținerea?",
+      "a": "Măsura asigurătorie pentru probarea provenienței lemnului.",
+      "ref": "L171 art. 2 lit. f)"
+    },
+    {
+      "q": "Ce amendă primește ocolul care face contract de servicii cu proprietarul doar al masei lemnoase?",
+      "a": "10.000–20.000 lei; contractul e nul de drept.",
+      "ref": "L171 art. 3 alin. (1)"
+    },
+    {
+      "q": "Cum se sancționează depășirea posibilității cu 2%?",
+      "a": "Cu avertisment.",
+      "ref": "L171 art. 5 alin. (1) lit. a)"
+    },
+    {"q": "Și cu 15%?", "a": "10.000–20.000 lei.", "ref": "L171 art. 5 alin. (1) lit. c)"},
+    {
+      "q": "Cine primește amenda pentru depășirea posibilității?",
+      "a": "Administratorul pădurilor statului sau ocolul de regim.",
+      "ref": "L171 art. 5 alin. (2)"
+    },
+    {
+      "q": "Ce amendă e pentru mutarea semnelor amenajistice?",
+      "a": "1.000–2.000 lei.",
+      "ref": "L171 art. 6 lit. d)"
+    },
+    {
+      "q": "Ce se întâmplă cu hotărârea consiliului local care include o pădure în intravilan?",
+      "a": "E nulă de drept, iar consiliul e amendat cu 5.000–10.000 lei.",
+      "ref": "L171 art. 7 alin. (2)"
+    },
+    {
+      "q": "Cât plătește beneficiarul care nu redă terenul ocupat temporar?",
+      "a": "Amendă 5.000–10.000 lei + dublul chiriei ca despăgubire.",
+      "ref": "L171 art. 7 alin. (3)"
+    },
+    {
+      "q": "Amenda pentru ruperea de puieți în FFN, prejudiciu 2× prețul mediu?",
+      "a": "1.000–5.000 lei.",
+      "ref": "L171 art. 8 alin. (2)"
+    },
+    {
+      "q": "Și dacă o face un operator atestat?",
+      "a": "8.000–12.000 lei.",
+      "ref": "L171 art. 8 alin. (4)"
+    },
+    {
+      "q": "Tăierea a 40 m³ din vegetația din afara FFN?",
+      "a": "10.000–15.000 lei + confiscarea lemnului.",
+      "ref": "L171 art. 8 alin. (3) lit. c)"
+    },
+    {
+      "q": "La ce distanță minimă de pădure se poate face foc?",
+      "a": "30 m (sau în locuri amenajate).",
+      "ref": "L171 art. 9 lit. b)"
+    },
+    {
+      "q": "Ce amendă e pentru ștergerea mărcilor de pe cioate?",
+      "a": "2.000–5.000 lei.",
+      "ref": "L171 art. 9 lit. e)"
+    },
+    {
+      "q": "Ce amendă e pentru luarea humusului din pădure?",
+      "a": "600–1.000 lei.",
+      "ref": "L171 art. 11 lit. a)"
+    },
+    {
+      "q": "Refuzul de a ajuta la stingerea unui incendiu?",
+      "a": "600–1.000 lei.",
+      "ref": "L171 art. 11 lit. b)"
+    },
+    {
+      "q": "Cine plătește amenda pentru animalele neînsoțite din pădure?",
+      "a": "Proprietarul animalelor (dacă sunt însoțite, însoțitorul).",
+      "ref": "L171 art. 12 alin. (1) lit. e)"
+    },
+    {
+      "q": "Amenda pentru aruncarea deșeurilor în pădure?",
+      "a": "10.000–20.000 lei + readucerea terenului la starea inițială.",
+      "ref": "L171 art. 12 alin. (2) lit. a)"
+    },
+    {
+      "q": "Ce aviz trebuie un centru de colectare a ciupercilor?",
+      "a": "Avizul ocolului silvic; altfel 10.000–20.000 lei.",
+      "ref": "L171 art. 12 alin. (2) lit. c)"
+    },
+    {
+      "q": "Exploatarea fără autorizație și fără predarea parchetului?",
+      "a": "6.000–10.000 lei, confiscarea lemnului și cererea de retragere a atestatului.",
+      "ref": "L171 art. 16 alin. (1) lit. a)"
+    },
+    {
+      "q": "Când se amendează arborii marcați rămași netăiați?",
+      "a": "Dacă sunt peste 1% din cei inventariați în APV.",
+      "ref": "L171 art. 16 alin. (1) lit. h)"
+    },
+    {
+      "q": "Ce amendă e pentru necurățarea parchetului la termen?",
+      "a": "2.000–5.000 lei.",
+      "ref": "L171 art. 17 lit. e)"
+    },
+    {
+      "q": "Ce cioate trebuie cojite integral?",
+      "a": "De pin și molid; la celelalte rășinoase, curelare.",
+      "ref": "L171 art. 18 lit. a)"
+    },
+    {
+      "q": "În ce perioadă e interzis lemnul de rășinoase infestat și necojit în pădure?",
+      "a": "1 mai–1 octombrie.",
+      "ref": "L171 art. 18 lit. b)"
+    },
+    {
+      "q": "Amenda pentru transportul a 2,5 m³ fără aviz?",
+      "a": "2.000–4.000 lei + confiscare.",
+      "ref": "L171 art. 19 alin. (2) lit. a)"
+    },
+    {
+      "q": "Amenda pentru transportul fără proveniență legală a 3 m³?",
+      "a": "5.000–10.000 lei.",
+      "ref": "L171 art. 19 alin. (2) lit. c)"
+    },
+    {
+      "q": "Ce se întâmplă dacă același aviz e folosit de mai multe ori?",
+      "a": "Doar primul transport e considerat cu documente; restul sunt fără documente.",
+      "ref": "L171 art. 19 alin. (2^4)"
+    },
+    {
+      "q": "Cui i se aplică confiscarea lemnului la transport?",
+      "a": "Emitentului avizului de însoțire.",
+      "ref": "L171 art. 19 alin. (10) lit. d)"
+    },
+    {
+      "q": "Ce fapte pot constata pompierii?",
+      "a": "Focul în pădure (art. 9 lit. b) și încălcarea normelor de incendiu (art. 10 lit. a).",
+      "ref": "L171 art. 24 alin. (1) lit. g)"
+    },
+    {
+      "q": "Cine poate opri vehiculele pe drumurile forestiere?",
+      "a": "Toți agenții constatatori de la art. 24 alin. (1).",
+      "ref": "L171 art. 24 alin. (1^2)"
+    },
+    {
+      "q": "Ce se întâmplă dacă obiecțiunile contravenientului nu sunt trecute în PV?",
+      "a": "Procesul-verbal e nul.",
+      "ref": "L171 art. 26 alin. (2)"
+    },
+    {
+      "q": "În cât timp se comunică PV de contravenție silvică?",
+      "a": "Max. 30 de zile calendaristice de la constatare.",
+      "ref": "L171 art. 27 alin. (2)"
+    },
+    {
+      "q": "În cât timp se plătește amenda?",
+      "a": "30 de zile de la comunicare sau 15 zile de la soluționarea plângerii.",
+      "ref": "L171 art. 27 alin. (4)"
+    },
+    {
+      "q": "În cât timp se face plângerea și unde?",
+      "a": "15 zile, la judecătoria în a cărei rază s-a săvârșit fapta.",
+      "ref": "L171 art. 32"
+    },
+    {
+      "q": "Cine calculează despăgubirea dacă agentul nu e silvic?",
+      "a": "Ocolul, în 5 zile lucrătoare de la cerere.",
+      "ref": "L171 art. 30 alin. (4)"
+    },
+    {
+      "q": "În ce ordine se donează lemnul confiscat?",
+      "a": "Grădinițe/creșe/case de copii, școli și licee, azile de bătrâni, primării, unități militare.",
+      "ref": "L171 art. 36 alin. (4)"
+    },
+    {
+      "q": "Cum se împart banii din lemnul confiscat vândut?",
+      "a": "15% instituția agentului, 85% fondul de ameliorare sau bugetele locale.",
+      "ref": "L171 art. 36 alin. (7)"
+    },
+    {
+      "q": "Câte zile are proprietarul să dovedească proveniența lemnului reținut?",
+      "a": "Max. 3 zile calendaristice.",
+      "ref": "L171 art. 42 alin. (5)"
+    },
+    {
+      "q": "Câte puncte de penalizare exclud un operator de la licitații?",
+      "a": "25; punctele se prescriu în 6 luni.",
+      "ref": "L171 anexa 5"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Confiscarea lemnului în contravențiile silvice este:",
+      "options": ["Sancțiune principală", "Sancțiune complementară", "Măsură penală", "Despăgubire"],
+      "answer": 1,
+      "explain": "Amenda e principală.",
+      "ref": "L171 art. 1 alin. (2)"
+    },
+    {
+      "q": "Lemnul încărcat din alt loc decât cel raportat în SUMAL:",
+      "options": [
+        "E legal dacă are aviz",
+        "Nu are proveniență legală",
+        "E doar o abatere de formă",
+        "Se avertizează"
+      ],
+      "answer": 1,
+      "explain": "Lit. e^1) pct. (v).",
+      "ref": "L171 art. 2 lit. e^1)"
+    },
+    {
+      "q": "Depășirea posibilității cu 8% se sancționează cu:",
+      "options": ["Avertisment", "5.000–10.000 lei", "10.000–20.000 lei", "20.000–30.000 lei"],
+      "answer": 1,
+      "explain": "3,1–10%.",
+      "ref": "L171 art. 5 alin. (1) lit. b)"
+    },
+    {
+      "q": "Amenda pentru depășirea posibilității se aplică:",
+      "options": [
+        "Pădurarului",
+        "Administratorului fondului de stat sau ocolului de regim",
+        "Exploatatorului",
+        "Proiectantului"
+      ],
+      "answer": 1,
+      "explain": "Alin. (2).",
+      "ref": "L171 art. 5 alin. (2)"
+    },
+    {
+      "q": "Includerea unei păduri în intravilan prin HCL:",
+      "options": [
+        "E legală",
+        "Contravenție 5.000–10.000 lei, hotărâre nulă de drept",
+        "Infracțiune",
+        "Doar avertisment"
+      ],
+      "answer": 1,
+      "explain": "Art. 7.",
+      "ref": "L171 art. 7 alin. (1) lit. c)"
+    },
+    {
+      "q": "Ruperea de puieți în FFN cu prejudiciu de 3× prețul mediu:",
+      "options": ["Infracțiune", "Contravenție 1.000–5.000 lei", "600–1.000 lei", "Nu se sancționează"],
+      "answer": 1,
+      "explain": "Sub 5×.",
+      "ref": "L171 art. 8 alin. (2)"
+    },
+    {
+      "q": "Aceeași faptă comisă de un operator atestat pentru exploatare:",
+      "options": ["1.000–5.000 lei", "8.000–12.000 lei", "20.000–30.000 lei", "Retragerea atestatului"],
+      "answer": 1,
+      "explain": "Alin. (4).",
+      "ref": "L171 art. 8 alin. (4)"
+    },
+    {
+      "q": "Tăierea a 150 m³ din perdele forestiere din afara FFN:",
+      "options": ["5.000–10.000 lei", "10.000–15.000 lei", "15.000–30.000 lei", "30.000–50.000 lei"],
+      "answer": 2,
+      "explain": "100,01–500 m³.",
+      "ref": "L171 art. 8 alin. (3) lit. d)"
+    },
+    {
+      "q": "Focul aprins la 20 m de pădure, în loc neamenajat:",
+      "options": ["Permis", "Contravenție 2.000–5.000 lei", "600–1.000 lei", "Infracțiune"],
+      "answer": 1,
+      "explain": "Sub 30 m.",
+      "ref": "L171 art. 9 lit. b)"
+    },
+    {
+      "q": "Pășunatul în pădure unde e interzis, prejudiciu sub 5× prețul mediu:",
+      "options": ["600–1.000 lei", "1.000–2.000 lei", "2.000–5.000 lei", "Infracțiune"],
+      "answer": 0,
+      "explain": "Art. 11 lit. d).",
+      "ref": "L171 art. 11 lit. d)"
+    },
+    {
+      "q": "Instalarea unui cort în pădure în loc neaprobat:",
+      "options": ["600–1.000 lei", "1.000–2.000 lei", "2.000–5.000 lei", "10.000–20.000 lei"],
+      "answer": 1,
+      "explain": "Art. 12 alin. (1).",
+      "ref": "L171 art. 12 alin. (1) lit. a)"
+    },
+    {
+      "q": "Aruncarea deșeurilor menajere în FFN:",
+      "options": [
+        "1.000–2.000 lei",
+        "2.000–5.000 lei",
+        "10.000–20.000 lei + readucerea la starea inițială",
+        "Avertisment"
+      ],
+      "answer": 2,
+      "explain": "Art. 12 alin. (2).",
+      "ref": "L171 art. 12 alin. (2) lit. a)"
+    },
+    {
+      "q": "Un APV întocmit cu încălcarea normelor, fără prejudiciu:",
+      "options": ["4.000–8.000 lei", "Infracțiune", "Nimic", "1.000 lei"],
+      "answer": 0,
+      "explain": "Art. 14.",
+      "ref": "L171 art. 14 alin. (1) lit. c)"
+    },
+    {
+      "q": "La reprimirea parchetului rămân netăiați 2% din arborii marcați:",
+      "options": ["Nu se sancționează", "6.000–10.000 lei", "2.000–5.000 lei", "Avertisment"],
+      "answer": 1,
+      "explain": "Peste 1%.",
+      "ref": "L171 art. 16 alin. (1) lit. h)"
+    },
+    {
+      "q": "Exploatarea după termenul din autorizație:",
+      "options": ["2.000–5.000 lei", "6.000–10.000 lei", "Permis cu acordul pădurarului", "Infracțiune"],
+      "answer": 1,
+      "explain": "Art. 16 lit. b).",
+      "ref": "L171 art. 16 alin. (1) lit. b)"
+    },
+    {
+      "q": "Recoltarea de ciuperci pentru vânzare fără acordul ocolului:",
+      "options": ["Permisă", "2.000–5.000 lei", "600–1.000 lei", "Infracțiune"],
+      "answer": 1,
+      "explain": "Produse nelemnoase fără documente.",
+      "ref": "L171 art. 17 lit. c)"
+    },
+    {
+      "q": "Lemnul de molid infestat poate rămâne necojit în pădure:",
+      "options": ["Oricând", "Nu între 1 mai și 1 octombrie (cu excepții)", "Doar iarna", "Max. 30 zile"],
+      "answer": 1,
+      "explain": "Art. 18 lit. b).",
+      "ref": "L171 art. 18 lit. b)"
+    },
+    {
+      "q": "Transportul a 0,5 m³ de lemne fără aviz:",
+      "options": ["1.000–2.000 lei", "2.000–4.000 lei", "5.000–10.000 lei", "Infracțiune"],
+      "answer": 0,
+      "explain": "≤ 1 m³.",
+      "ref": "L171 art. 19 alin. (2) lit. a)"
+    },
+    {
+      "q": "Un depozit cu 50 m³ lemn fără proveniență legală:",
+      "options": ["1.000–5.000 lei", "5.000–10.000 lei", "10.000–15.000 lei", "15.000–30.000 lei"],
+      "answer": 2,
+      "explain": "30,01–100 m³.",
+      "ref": "L171 art. 19 alin. (1) lit. c)"
+    },
+    {
+      "q": "Transport cu GPS-ul telefonului oprit, când normele îl cer:",
+      "options": ["Avertisment", "2.000–3.000 lei", "500–2.000 lei", "5.000 lei"],
+      "answer": 1,
+      "explain": "Alin. (2^3).",
+      "ref": "L171 art. 19 alin. (2^3)"
+    },
+    {
+      "q": "Pentru transportul fără documente, amenda o primește:",
+      "options": [
+        "Emitentul avizului",
+        "Transportatorul profesionist sau șoferul",
+        "Proprietarul pădurii",
+        "Ocolul"
+      ],
+      "answer": 1,
+      "explain": "Alin. (10) lit. b)–c).",
+      "ref": "L171 art. 19 alin. (10)"
+    },
+    {
+      "q": "Pompierii (ISU) pot constata:",
+      "options": [
+        "Toate contravențiile silvice",
+        "Doar focul și normele de incendiu",
+        "Transportul lemnului",
+        "Nimic"
+      ],
+      "answer": 1,
+      "explain": "Art. 9 lit. b) și art. 10 lit. a).",
+      "ref": "L171 art. 24 alin. (1) lit. g)"
+    },
+    {
+      "q": "Dacă obiecțiunile contravenientului nu sunt consemnate:",
+      "options": ["Nu contează", "Procesul-verbal e nul", "Amenda se dublează", "Se trimite la Gardă"],
+      "answer": 1,
+      "explain": "Sub sancțiunea nulității.",
+      "ref": "L171 art. 26 alin. (2)"
+    },
+    {
+      "q": "PV de contravenție silvică se comunică în cel mult:",
+      "options": ["15 zile", "30 de zile calendaristice", "60 de zile", "6 luni"],
+      "answer": 1,
+      "explain": "30 de zile.",
+      "ref": "L171 art. 27 alin. (2)"
+    },
+    {
+      "q": "Plângerea împotriva PV se face în:",
+      "options": ["5 zile", "15 zile", "30 de zile", "45 de zile"],
+      "answer": 1,
+      "explain": "15 zile, la judecătoria locului faptei.",
+      "ref": "L171 art. 32"
+    },
+    {
+      "q": "Plângerea contravențională silvică:",
+      "options": [
+        "Se taxează cu 20 lei",
+        "E scutită de taxa de timbru",
+        "Se depune la Gardă",
+        "Se depune la ocol"
+      ],
+      "answer": 1,
+      "explain": "Scutită.",
+      "ref": "L171 art. 33 alin. (2)"
+    },
+    {
+      "q": "Termenul pentru dovedirea provenienței lemnului reținut este de max.:",
+      "options": ["24 ore", "3 zile calendaristice", "10 zile", "30 zile"],
+      "answer": 1,
+      "explain": "3 zile.",
+      "ref": "L171 art. 42 alin. (5)"
+    },
+    {
+      "q": "Lemnul confiscat se donează primele către:",
+      "options": ["Primării", "Grădinițe, creșe și case de copii", "Unități militare", "Azile"],
+      "answer": 1,
+      "explain": "Ordinea de la alin. (4).",
+      "ref": "L171 art. 36 alin. (4)"
+    },
+    {
+      "q": "Din vânzarea lemnului confiscat, instituției agentului îi rămâne:",
+      "options": ["5%", "15%", "50%", "85%"],
+      "answer": 1,
+      "explain": "15%.",
+      "ref": "L171 art. 36 alin. (7)"
+    },
+    {
+      "q": "Un operator cu 25 de puncte de penalizare:",
+      "options": [
+        "Plătește dublu",
+        "Nu mai poate participa la licitațiile de masă lemnoasă de stat",
+        "Își pierde firma",
+        "Nimic"
+      ],
+      "answer": 1,
+      "explain": "Anexa 5.",
+      "ref": "L171 anexa 5"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Căruța cu lemne de foc",
+      "situation": "Oprești pe drumul forestier o căruță cu 2 m³ de lemne de fag, fără aviz. Căruțașul spune că sunt din pădurea lui.",
+      "steps": [
+        {
+          "q": "Ai dreptul să o oprești?",
+          "a": "Da, pe drumurile forestiere orice agent constatator poate opri vehiculele pentru controlul lemnului.",
+          "ref": "L171 art. 24 alin. (1^2)"
+        },
+        {
+          "q": "Ce faci cu lemnul?",
+          "a": "Îl reții și îi dai un termen de max. 3 zile calendaristice să dovedească proveniența.",
+          "ref": "L171 art. 42 alin. (5)"
+        },
+        {
+          "q": "Dacă nu o dovedește, ce amendă dai?",
+          "a": "Transport fără documente, 1,01–3 m³: 2.000–4.000 lei, plus confiscarea lemnului; amenda o primește conducătorul atelajului.",
+          "ref": "L171 art. 19 alin. (2) lit. a)"
+        },
+        {
+          "q": "Ce se întâmplă cu lemnul confiscat?",
+          "a": "Se dă în custodie ocolului cu depozitul cel mai apropiat, care îl donează (întâi grădinițelor, creșelor, caselor de copii) sau îl vinde la licitație în 30 de zile.",
+          "ref": "L171 art. 36 alin. (4)–(5)"
+        }
+      ]
+    },
+    {
+      "title": "Turiștii de la marginea pădurii",
+      "situation": "Un grup a făcut grătar la 15 m de liziera pădurii, în afara locului amenajat, și a lăsat gunoaie.",
+      "steps": [
+        {
+          "q": "Ce contravenție e focul?",
+          "a": "Aprinderea focului la mai puțin de 30 m de pădure: 2.000–5.000 lei.",
+          "ref": "L171 art. 9 lit. b)"
+        },
+        {
+          "q": "Și gunoaiele?",
+          "a": "Aruncarea deșeurilor în FFN: 10.000–20.000 lei și obligația de a readuce terenul la starea inițială.",
+          "ref": "L171 art. 12 alin. (2) lit. a)"
+        },
+        {
+          "q": "Ce trebuie să conțină PV?",
+          "a": "Rubrica de obiecțiuni (altfel e nul), semnăturile pe fiecare pagină și, dacă refuză semnarea, un martor.",
+          "ref": "L171 art. 26 alin. (2)–(3)"
+        },
+        {
+          "q": "În cât timp pot face plângere?",
+          "a": "15 zile de la înmânare, la judecătoria locului faptei, fără taxă de timbru.",
+          "ref": "L171 art. 32"
+        }
+      ]
+    },
+    {
+      "title": "Parchetul reprimit",
+      "situation": "La reprimirea unui parchet de 1.200 de arbori marcați găsești 18 arbori marcați netăiați și resturile de exploatare necurățate, deși termenul a expirat.",
+      "steps": [
+        {
+          "q": "Sunt sancționabili arborii netăiați?",
+          "a": "Da: 18 din 1.200 înseamnă 1,5%, peste pragul de 1%, deci 6.000–10.000 lei.",
+          "ref": "L171 art. 16 alin. (1) lit. h)"
+        },
+        {
+          "q": "Și necurățarea?",
+          "a": "Neexecutarea la termen a curățirii parchetului: 2.000–5.000 lei.",
+          "ref": "L171 art. 17 lit. e)"
+        },
+        {
+          "q": "Contează pentru licitațiile viitoare?",
+          "a": "Da, amenzile definitive se transformă în puncte de penalizare; la 25 de puncte operatorul nu mai poate licita lemn de stat.",
+          "ref": "L171 anexa 5"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "L171",
+        "name": "Legea 171/2010 privind contravențiile silvice",
+        "title": "Legea 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+        "note": "Consolidată la 29 octombrie 2026 (ultima modificare: Codul silvic 2024). Unele trimiteri sunt încă la Legea 46/2008 și OUG 85/2006, abrogate și înlocuite de Codul silvic 2024. Articolele abrogate nu sunt afișate; anexele 1–4 (formulare) sunt omise.",
+        "inText": true,
+        "chapters": [
+          {"title": "Capitolul I – Dispoziţii generale", "from": "1"},
+          {
+            "title": "Capitolul II – Asigurarea administrării fondului forestier sau a serviciilor silvice",
+            "from": "3"
+          },
+          {"title": "Capitolul III – Amenajarea pădurilor", "from": "5"},
+          {
+            "title": "Capitolul IV – Integritatea fondului forestier, paza şi protecţia pădurilor",
+            "from": "7"
+          },
+          {
+            "title": "Capitolul V – Regenerarea pădurilor şi punerea în valoare a masei lemnoase",
+            "from": "13"
+          },
+          {
+            "title": "Capitolul VI – Exploatarea masei lemnoase şi recoltarea produselor nelemnoase",
+            "from": "15"
+          },
+          {
+            "title": "Capitolul VII – Controlul aplicării normelor privind circulaţia materialelor lemnoase, al depozitelor şi instalaţiilor de prelucrare a lemnului",
+            "from": "19"
+          },
+          {
+            "title": "Capitolul VIII – Constatarea contravenţiilor silvice şi aplicarea sancţiunilor",
+            "from": "22"
+          },
+          {"title": "Capitolul IX – Dispoziţii finale", "from": "41"}
+        ],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["(1)","Constituie contravenţie silvică fapta săvârşită cu vinovăţie, stabilită şi sancţionată prin prezenta lege, pentru încălcarea obligaţiilor stabilite prin actele normative din domeniul silvic."],
+              ["(2)","Sancţiunile aplicabile pentru săvârşirea contravenţiilor silvice sunt:"],
+              ["a)","sancţiunea contravenţională principală este amenda contravenţională;"],
+              ["b)","sancţiunea contravenţională complementară - confiscarea bunurilor destinate, folosite sau rezultate din săvârşirea contravenţiei silvice şi/sau retragerea/suspendarea, după caz, a autorizaţiei/atestatului/acordului."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["","În înţelesul prezentei legi, termenii şi expresiile de mai jos au următoarele semnificaţii:"],
+              ["a)","marca - amprenta dispozitivului special de marcat imprimată în lemnul unui arbore prin lovire în locuri stabilite prin normele tehnice şi care conţine indicativul specific al dispozitivului special de marcat;"],
+              ["b)","norme privind circulaţia materialelor lemnoase - normele referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, la regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund, precum şi a celor privind provenienţa şi circulaţia materialelor lemnoase destinate consumului propriu al proprietarului şi a unor măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor care revin operatorilor care introduc pe piaţă lemn şi produse din lemn, emise în baza art. 73 din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările şi completările ulterioare;"],
+              ["c)","ocolul silvic nominalizat - ocolul silvic care administrează şi/sau asigură serviciile silvice în proximitatea unei suprafeţe de fond forestier proprietate publică sau proprietate privată a unei unităţi administrativ-teritoriale sau proprietate privată a persoanelor fizice sau juridice şi care are obligaţia să asigure, pe bază de contract, administrarea/serviciile silvice, la solicitarea scrisă a proprietarului/succesorului în drepturi/oricărei persoane care are calitatea de a beneficia de uzufruct şi demonstrează cu documente potrivit prevederilor Legii nr. 287/2009 privind Codul civil, republicată, cu modificările ulterioare, care are obligaţia materializării fizice a limitelor proprietăţii pe baza documentelor care atestă dreptul de proprietate asupra acestei suprafeţe. Responsabilitatea privind corectitudinea materializării limitelor de proprietate revine proprietarului/succesorului în drepturi/oricărei persoane care are calitatea de a beneficia de uzufruct şi demonstrează cu documente potrivit prevederilor Legii nr. 287/2009, republicată, cu modificările ulterioare;"],
+              ["d)","semne amenajistice - semne de delimitare în păduri, specifice amenajamentului silvic, care cuprind: linii subparcelare, linii parcelare, limite de unitate de producţie, limite de ocol silvic şi borne amenajistice."],
+              ["e)","produse extraordinare - masa lemnoasă care se exploatează de pe drumurile şi instalaţiile de scos-apropiat, de pe suprafaţa destinată realizării platformelor primare, de pe terenuri din fondul forestier naţional amplasate sub/peste reţelele de transport sau distribuţie a petrolului, a gazelor naturale sau a energiei electrice sau cea rezultată din exploatarea arborilor care periclitează circulaţia pe căile de transport, inclusiv de pe suprafeţele pentru care este suspendat serviciul silvic, la solicitarea scrisă a deţinătorului reţelei sau căii de transport, din interiorul şi/sau proximitatea obiectivelor militare în scopul menţinerii în stare de operativitate a acestora, pentru protecţia obiectivelor arheologice, culturale sau publice. Suprafaţa de pe care se exploatează produsele extraordinare este determinată de ocolul silvic. Actul de punere în valoare pentru produse extraordinare se aprobă de şeful ocolului silvic. Produsele extraordinare rezultate din exploatarea masei lemnoase de pe terenuri din fondul forestier proprietate publică aparţin administratorilor fondului forestier proprietate publică a statului sau proprietarilor în cazul fondului forestier proprietate publică a unităţilor administrativ-teritoriale şi se valorifică direct sau prin licitaţie, în condiţiile regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică, în vigoare, iar cele rezultate din exploatarea masei lemnoase de pe terenuri din fondul forestier proprietate privată aparţin proprietarilor. Produsele extraordinare se asimilează produselor accidentale şi se încadrează similar produselor accidentale I şi II, iar precomptarea produselor extraordinare asimilate produselor accidentale I se realizează similar produselor I, potrivit art. 59 alin. (7) şi (8) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Pentru suprafeţele de fond forestier pentru care este suspendat serviciul silvic, produsele extraordinare au regimul produselor accidentale, aşa cum este reglementat la art. 4 alin. (4) din Legea nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea şi completarea Legii fondului funciar nr. 18/1991, cu modificările şi completările ulterioare;"],
+              ["e¹)","transportul ilegal de materiale lemnoase - transportul materialelor lemnoase care nu sunt însoţite de documente specifice de transport sau din care nu rezultă cu certitudine legalitatea provenienţei acestora. În acest sens, materialele lemnoase transportate nu au provenienţă legală dacă:"],
+              ["(i)","nu sunt însoţite de aviz de însoţire, conform normelor în vigoare;"],
+              ["(ii)","sunt însoţite de aviz de însoţire al cărui termen de valabilitate nu a fost menţionat sau a expirat;"],
+              ["(iii)","nu sunt însoţite de avizele de însoţire emise pentru fiecare mijloc de transport în parte;"],
+              ["(iv)","între volumul măsurat al materialelor lemnoase transportate şi cel înscris în avizul de însoţire există o diferenţă, fiind considerată fără provenienţă legală diferenţa de material lemnos constatată; dacă se constată o diferenţă de cel mult 10 mc, inclusiv, cu luarea în considerare a toleranţelor admise, sunt aplicabile prevederile prezentei legi, iar dacă se constată o diferenţă mai mare de 10 mc, cu luarea în considerare a toleranţelor admise, sunt aplicabile dispoziţiile art. 68 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare;"],
+              ["(v)","încărcarea/descărcarea materialelor lemnoase se face dintr-o/într-o altă locaţie faţă de cea raportată în SUMAL 2.0/înscrisă în avizul de însoţire;"],
+              ["f)","reţinerea - măsura asigurătorie instituită în vederea probării provenienţei materialelor lemnoase."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["(1)","Constituie contravenţie silvică şi se sancţionează cu amendă de la 10.000 lei până la 20.000 lei administratorul/prestatorul de servicii silvice care încheie contracte de administrare/servicii silvice cu persoanele care dobândesc exclusiv dreptul de proprietate asupra masei lemnoase, fără a fi proprietar al terenului pe care este amplasată aceasta, cu excepţia persoanei care are calitatea de a beneficia de uzufruct şi demonstrează cu documente, potrivit prevederilor Legii nr. 287/2009, republicată, cu modificările ulterioare. Contractele încheiate sunt nule de drept."],
+              ["(2)","Constituie contravenţii silvice şi se sancţionează cu amendă de la 1.000 lei până la 5.000 lei următoarele fapte:"],
+              ["a)","neasigurarea administrării sau serviciilor silvice de către proprietarul/succesorul în drepturi/orice persoană care are calitatea de a beneficia de uzufruct şi demonstrează cu documente potrivit prevederilor Legii nr. 287/2009, republicată, cu modificările ulterioare, de fond forestier prin ocoale silvice autorizate, pe bază de contract;"],
+              ["b)","nematerializarea şi nedelimitarea în teren de către proprietari a limitelor terenurilor forestiere pe care le deţin, în conformitate cu actele de proprietate, cu ţăruşi, borne, vopsea, şi/sau neîntreţinerea/nemenţinerea în stare corespunzătoare/vizibile a semnelor de hotar ale proprietăţii, respectiv mutarea semnelor amenajistice şi/sau de hotar."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 1.000 lei până la 2.000 lei următoarele fapte:"],
+              ["a)","neasigurarea de către administratorii drumurilor şi ai căilor ferate forestiere a întreţinerii şi reparării acestora, conform normelor legale în vigoare;"],
+              ["b)","neîndeplinirea de către ocolul silvic nominalizat a obligaţiei de a asigura, pe bază de contract, la solicitarea scrisă a proprietarului/succesorului în drepturi/oricărei persoane care are calitatea de a beneficia de uzufruct şi demonstrează cu documente potrivit prevederilor Legii nr. 287/2009, republicată, cu modificările ulterioare, administrarea/serviciile silvice, pentru fondul forestier pentru care se face solicitarea conform art. 2 lit. c). Încheierea contractului este condiţionată în mod expres de existenţa documentelor de proprietate, precum şi de existenţa limitelor de proprietate materializate în teren. Fapta nu constituie contravenţie în situaţia în care limitele proprietăţii forestiere nu sunt materializate în teren sau nu corespund documentelor de proprietate din vina solicitantului."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","Constituie contravenţie silvică depăşirea posibilităţii, inclusiv ca urmare a recoltării produselor accidentale I şi fără existenţa aprobărilor legale în acest sens, şi se sancţionează după cum urmează:"],
+              ["a)","cu avertisment, dacă depăşirea reprezintă până la 3% din posibilitate;"],
+              ["b)","cu amendă de la 5.000 lei până la 10.000 lei, dacă depăşirea reprezintă 3,1%-10% din posibilitate;"],
+              ["c)","cu amendă de la 10.000 lei până la 20.000 lei, dacă depăşirea reprezintă 10,1%-25% din posibilitate;"],
+              ["d)","cu amendă de la 20.000 lei până la 30.000 lei, dacă depăşirea reprezintă peste 25% din posibilitate."],
+              ["(2)","Sancţiunea prevăzută la alin. (1) se aplică administratorului fondului forestier proprietate publică a statului sau ocolului silvic de regim, după caz."],
+              ["(3)","«abrogat»"],
+              ["(4)","«abrogat»"],
+              ["(5)","«abrogat»"],
+              ["(6)","Constituie contravenţii silvice şi se sancţionează cu amendă de la 3.000 lei până la 7.000 lei următoarele fapte:"],
+              ["a)","nerespectarea normelor tehnice de amenajare a pădurilor la culegerea datelor din teren, care determină modificarea măsurilor de gospodărire a pădurilor. Sancţiunea se aplică persoanei juridice atestate pentru lucrări de amenajare a pădurilor;"],
+              ["b)","depăşirea prin recoltare în alte condiţii decât cele prevăzute de art. 59 alin. (3) din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările şi completările ulterioare, fără aprobarea legală a volumului de produse principale posibil de recoltat; depăşirea se calculează ca diferenţă dintre suma volumelor recoltate în perioada de aplicare a amenajamentului silvic aprobat sau pentru care s-a organizat şedinţa de preavizare a soluţiilor tehnice - conferinţa a II-a de amenajare şi posibilitatea anuală cumulată de produse principale, rezultată ca produs dintre posibilitatea anuală de produse principale şi numărul de ani de aplicare a amenajamentului silvic;"],
+              ["c)","elaborarea unui amenajament silvic înainte de expirarea perioadei de valabilitate a celui existent cu încălcarea normelor tehnice elaborate conform prevederilor art. 20 alin. (4) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Sancţiunea se aplică fiecărei persoane semnatare a procesului-verbal al şedinţei de preavizare a temei de proiectare - conferinţa I de amenajare şi al şedinţei de preavizare a soluţiilor tehnice - conferinţa a II-a de amenajare."],
+              ["d)","neîntocmirea amenajamentelor silvice pentru suprafeţe de fond forestier pentru care există obligativitatea întocmirii amenajamentelor silvice în condiţiile art. 20 alin. (2) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Sancţiunea se aplică proprietarului de fond forestier."],
+              ["(7)","Dacă volumul recoltat anual dintr-o subunitate de gospodărire provenit din arborete în care este asigurată regenerarea naturală conform prevederilor legale depăşeşte cu cel mult 10% posibilitatea anuală stabilită la nivelul subunităţii respective, cu încadrarea în posibilitate, fapta nu constituie contravenţie aşa cum este prevăzută la alin. (6) lit. b); în situaţia în care volumul de recoltat conform prevederilor amenajamentului silvic este amplasat într-o singură unitate amenajistică, acesta poate fi recoltat integral, prin depăşirea posibilităţii anuale, situaţie în care nu se aplică sancţiunea silvică."],
+              ["(8)","Constituie contravenţie silvică recoltarea prin lucrări de conservare la nivelul de subunitate de gospodărire a unui volum mai mare decât volumul prevăzut pentru lucrări de conservare pe perioada de aplicare a amenajamentului silvic, fără existenţa unei aprobări legale în acest sens, şi se sancţionează după cum urmează:"],
+              ["a)","cu avertisment, dacă depăşirea reprezintă până la 3% din volumul prevăzut;"],
+              ["b)","cu amendă de la 5.000 lei până la 10.000 lei, dacă depăşirea reprezintă 3,1%-10% din volumul prevăzut;"],
+              ["c)","cu amendă de la 10.000 lei până la 20.000 lei, dacă depăşirea reprezintă 10,1%-25% din volumul prevăzut;"],
+              ["d)","cu amendă de la 20.000 lei până la 30.000 lei, dacă depăşirea reprezintă peste 25% din volumul prevăzut."],
+              ["(9)","Constituie contravenţie silvică şi se sancţionează cu amendă de la 3.000 lei până la 6.000 lei depăşirea cu peste 50% a procentului de extras prin lucrări de conservare stabilit prin amenajamentul silvic la nivel de arboret."]
+            ]
+          },
+          {
+            "no": "5^1",
+            "label": "Art. 5¹",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 2.000 lei până la 5.000 lei următoarele fapte:"],
+              ["a)","«abrogat»"],
+              ["b)","aprobarea sau autorizarea spre exploatare a actelor de punere în valoare de produse accidentale, altele decât cele rezultate din defrişările legal aprobate sau cele aferente instalaţiilor de scos-apropiat, fără notificarea structurii teritoriale de specialitate a autorităţii publice centrale care răspunde de silvicultură, cu/fără avizul acesteia, după caz;"],
+              ["c)","punerea în valoare, ca produse de igienă sau ca produse accidentale, a arborilor care nu îndeplinesc condiţiile de a fi încadraţi ca igienă sau produse accidentale, aşa cum sunt definite în Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Sancţiunea se aplică persoanelor care au pus în valoare astfel de produse lemnoase, în care o parte din arbori sau toţi arborii care fac obiectul actului de punere în valoare nu îndeplinesc condiţia de a fi încadraţi în categoria de produse accidentale/igienă."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 1.000 lei până la 2.000 lei următoarele fapte:"],
+              ["a)","«abrogat»"],
+              ["b)","nerespectarea de către şeful de proiect a prevederilor consemnate în şedinţa de preavizare a soluţiilor tehnice consemnate în procesul-verbal de stabilire a soluţiilor tehnice pentru amenajament de către echipa de teren, organizată pentru un ocol silvic sau pentru un proprietar;"],
+              ["c)","nematerializarea şi/sau neîntreţinerea semnelor amenajistice;"],
+              ["d)","mutarea semnelor amenajistice."],
+              ["e)","compensarea volumului de recoltat prevăzut de amenajamentul silvic din unităţi amenajistice inaccesibile cu volume echivalente din unităţi amenajistice accesibile, cu excepţia produselor accidentale I, de către ocoalele silvice care asigură administrarea sau serviciile silvice, din posibilitatea de produse principale, a volumului produselor accidentale I, a căror recoltare este avizată/aprobată în condiţiile legii, precum şi a volumului rezultat în urma tăierilor ilegale în anul precedent. Sancţiunea se aplică personalului cu atribuţii în acest sens conform fişei postului sau, în lipsa fişei postului, se aplică şefului ocolului silvic;"],
+              ["f)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["(1)","Constituie contravenţii silvice şi se sancţionează cu amendă de la 5.000 lei până la 10.000 lei următoarele fapte:"],
+              ["a)","schimbarea fără aprobare legală a categoriei de folosinţă a terenurilor din fondul forestier naţional, în măsura în care fapta nu constituie infracţiune; schimbarea categoriei de folosinţă se aprobă prin ordin al conducătorului autorităţii publice centrale care răspunde de silvicultură în perioada de aplicare a amenajamentului silvic sau prin intrarea în vigoare a unui nou amenajament silvic;"],
+              ["b)","trecerea terenurilor forestiere din domeniul public al unităţilor administrativ-teritoriale în domeniul privat al acestora prin hotărâre a consiliului local, a consiliului judeţean, respectiv a Consiliului General al Municipiului Bucureşti;"],
+              ["c)","includerea pădurilor în intravilan;"],
+              ["d)","neredarea terenurilor forestiere în circuitul silvic la termenul şi/sau în condiţiile prevăzute în aprobarea de ocupare temporară;"],
+              ["e)","exploatarea agregatelor minerale de pe terenuri din fondul forestier naţional fără aprobările legale;"],
+              ["f)","«abrogat»"],
+              ["(2)","Sancţiunile pentru faptele prevăzute la alin. (1) lit. b) şi c) se aplică consiliului local/consiliului judeţean sau Consiliului General al Municipiului Bucureşti, după caz. Hotărârea prin care s-a săvârşit fapta contravenţională este nulă de drept. Nulitatea se constată de instanţa de contencios administrativ competentă, la cererea oricărei persoane interesate sau, după caz, a instituţiei din care face parte agentul constatator."],
+              ["(3)","În cazul neredării terenurilor forestiere la termenul prevăzut în actul de aprobare, pe lângă achitarea amenzii, beneficiarul ocupării temporare a terenurilor din fondul forestier naţional are obligaţia achitării, cu titlul de despăgubiri pentru lipsa de folosinţă, a unei sume egale cu dublul chiriei calculate conform metodologiei specifice, până la data reprimirii terenurilor în fondul forestier naţional ori a obţinerii unei noi aprobări, în situaţia în care legea prevede o astfel de posibilitate; despăgubirea are următoarele destinaţii:"],
+              ["a)","50% din sumă se achită în Fondul de ameliorare a fondului funciar cu destinaţie silvică;"],
+              ["b)","50% din sumă se achită administratorului în cazul terenurilor proprietate publică a statului şi se repartizează similar chiriei achitate pentru ocuparea temporară a terenurilor din fondul forestier naţional sau se achită proprietarului pentru fondul forestier, altul decât cel proprietate publică a statului."],
+              ["(4)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["(1)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, următoarele fapte:"],
+              ["a)","ruperea, distrugerea, degradarea ori scoaterea din rădăcini, fără drept, de arbori, puieţi sau lăstari din fondul forestier naţional, indiferent de forma de proprietate, dacă valoarea prejudiciului produs este de până la 5 ori preţul mediu al unui metru cub de masă lemnoasă pe picior la data comiterii faptei. Se exceptează prejudiciile realizate prin lucrările de exploatare forestieră, aşa cum sunt definite în Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, care nu reprezintă tăieri ilegale."],
+              ["b)","tăierea, ruperea sau scoaterea din rădăcini a arborilor, fără drept, precum şi distrugerea ori vătămarea de arbori din vegetaţia forestieră din afara fondului forestier naţional."],
+              ["c)","furtul de puieţi sau lăstari care au fost tăiaţi ori scoşi din rădăcini, din păduri, perdele forestiere de protecţie, din terenuri degradate care au fost ameliorate prin lucrări de împădurire, dacă valoarea prejudiciului produs este de până la 5 ori preţul mediu al unui metru cub de masă lemnoasă pe picior la data comiterii faptei."],
+              ["(2)","Faptele prevăzute la alin. (1) lit. a) şi c) se sancţionează cu amendă de la 1.000 lei până la 5.000 lei."],
+              ["(3)","Faptele prevăzute la alin. (1) lit. b) se sancţionează cu amendă şi cu confiscarea materialelor lemnoase în cauză, după cum urmează:"],
+              ["a)","cu amendă de la 1.000 lei până la 5.000 lei, pentru un volum de până la 10,00 mc, inclusiv;"],
+              ["b)","cu amendă de la 5.000 lei până la 10.000 lei, pentru un volum cuprins între 10,01 şi 30,00 mc, inclusiv;"],
+              ["c)","cu amendă de la 10.000 lei până la 15.000 lei, pentru un volum cuprins între 30,01 şi 100 mc, inclusiv;"],
+              ["d)","cu amendă de la 15.000 lei până la 30.000 lei, pentru un volum cuprins între 100,01 şi 500 mc, inclusiv;"],
+              ["e)","cu amendă de la 30.000 lei până la 50.000 lei, pentru un volum de peste 500 mc."],
+              ["(4)","În cazul constatării săvârşirii de către operatorii atestaţi pentru lucrări de exploatare forestiere a faptelor prevăzute la alin. (1) lit. a) şi c) se sancţionează cu amendă de la 8.000 lei până la 12.000 lei."],
+              ["(5)","Constituie contravenţie silvică, dacă nu a fost săvârşită în astfel de condiţii încât să constituie infracţiune, şi se sancţionează cu amendă de la 20.000 lei până la 30.000 lei autorizarea spre exploatare a partizilor amplasate în arborete încadrate în tipul I funcţional - T I, fără aprobări legale, sau în arborete care îndeplinesc condiţiile de a fi încadrate ca păduri virgine sau cvasivirgine conform prevederilor în vigoare şi pentru care structura teritorială de specialitate a autorităţii publice centrale care răspunde de silvicultură, în urma verificărilor realizate potrivit ordinului emis în baza art. 26 alin. (3) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, a făcut notificare către ocolul silvic care asigură administrarea sau serviciile silvice, prin care solicită suspendarea recoltării de masă lemnoasă."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 2.000 lei la 5.000 lei următoarele fapte:"],
+              ["a)","inundarea terenurilor din fondul forestier naţional fără drept prin construirea de baraje, praguri sau altele asemenea, pe albiile pâraielor ori ale văilor;"],
+              ["b)","aprinderea focului în fondul forestier naţional în alte locuri decât cele special amenajate şi marcate ori la o distanţă mai mică de 30 metri de limita pădurii;"],
+              ["c)","deteriorarea drumurilor sau a căilor ferate forestiere, a lucrărilor de artă aferente acestora, a amenajărilor, instalaţiilor, construcţiilor civile, vânătoreşti, piscicole din apele de munte, a împrejmuirilor, a amenajărilor de propagandă silvică ori a celor pentru protecţia pădurilor, a barierelor sau a altor lucrări asemănătoare din fondul forestier naţional;"],
+              ["c¹)","deteriorarea sau indisponibilizarea, temporară ori definitivă, parţială sau totală a sistemelor tehnice de monitorizare/înregistrare video a drumurilor forestiere, dacă fapta nu întruneşte elementele constitutive ale unei infracţiuni;"],
+              ["d)","deteriorarea, distrugerea lucrărilor de ameliorare a terenurilor degradate şi/sau a lucrărilor de corectare a torentelor din fondul forestier naţional sau neîntocmirea documentaţiei în vederea lucrărilor de reabilitare a acestora;"],
+              ["e)","ştergerea sau deteriorarea în orice fel a mărcilor sau a numerelor curente de pe arborii marcaţi ori de pe cioate."],
+              ["f)","accesul oricărui autovehicul în fondul forestier naţional, cu încălcarea art. 54 alin. (2) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, cu excepţia autovehiculelor din dotarea personalului cu atribuţii de control prevăzut la art. 24 alin. (1), atunci când personalul se găseşte în misiune, a autovehiculelor destinate transportului masei lemnoase din exploatările autorizate, a celor din dotarea administratorilor de fond forestier şi a gestionarilor fondurilor de vânătoare."]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 2.000 lei la 5.000 lei următoarele fapte:"],
+              ["a)","încălcarea normelor de apărare împotriva incendiilor specifice fondului forestier, în zonele limitrofe acestuia, precum şi în vegetaţia forestieră din afara fondului forestier;"],
+              ["b)","neasigurarea sursei de finanţare de către proprietar/deţinător pentru efectuarea lucrărilor de prevenire şi combatere la sol a bolilor şi dăunătorilor pădurilor, la termenele şi în condiţiile stabilite prin normele tehnice;"],
+              ["c)","neefectuarea de către ocolul silvic a lucrărilor necesare pentru depistare şi prognoză, precum şi pentru prevenirea şi combaterea la sol a bolilor şi dăunătorilor pădurilor, la termenele şi în condiţiile stabilite prin normele tehnice, în limita resurselor financiare alocate."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 600 lei până la 1.000 lei următoarele fapte:"],
+              ["a)","prelevarea solului fertil, a humusului sau a brazdelor de iarbă din fondul forestier, prin orice mijloace;"],
+              ["b)","refuzul persoanelor care desfăşoară activităţi în fondul forestier naţional sau în vegetaţia forestieră din afara acestuia de a participa, la solicitarea personalului silvic, a personalului din cadrul Inspectoratului General al Poliţiei Române, al Inspectoratului General pentru Situaţii de Urgenţă, precum şi al Inspectoratului General al Jandarmeriei Române, la acţiunile de stingere a incendiilor;"],
+              ["c)","nepermiterea de către proprietarii şi/sau deţinătorii cu orice titlu de păduri a accesului în pădurile pe care le deţin a persoanelor împuternicite să efectueze observaţii şi măsurători necesare în vederea realizării Programului naţional de monitorizare sol-vegetaţie forestieră sau realizării inventarului forestier naţional şi a specialiştilor care elaborează studiile de includere în Catalogul naţional al pădurilor virgine şi cvasivirgine, personalului custozilor şi administratorilor ariilor naturale protejate, inclusiv cu autovehicule rutiere, cu condiţia notificării anterioare a proprietarului şi/sau a deţinătorului."],
+              ["d)","păşunatul în pădurile în care este interzis acesta, dacă valoarea prejudiciului adus pădurii, stabilită conform legii, este de până la 5 ori preţul mediu al unui metru cub de masă lemnoasă pe picior, la data constatării faptei."]
+            ]
+          },
+          {
+            "no": "12",
+            "label": "Art. 12",
+            "items": [
+              ["(1)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă de la 1.000 lei până la 2.000 lei următoarele fapte:"],
+              ["a)","instalarea în fondul forestier de corturi, tonete, rulote fără drept sau în alte locuri decât cele aprobate şi delimitate de deţinătorul terenului forestier respectiv;"],
+              ["b)","amplasarea stupilor sau stupinelor în fondul forestier proprietate publică în alte locuri şi în alte condiţii decât cele aprobate;"],
+              ["c)","aducerea şi menţinerea pe vetrele de stupină instalate în fondul forestier de animale domestice şi păsări;"],
+              ["d)","efectuarea de împrejmuiri în păduri fără aprobare legală;"],
+              ["e)","trecerea animalelor domestice însoţite sau neînsoţite prin fondul forestier, fără aprobare legală. Sancţiunea se aplică însoţitorului turmei, dacă animalele sunt însoţite, sau proprietarului, dacă animalele sunt neînsoţite;"],
+              ["(2)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă de la 10.000 lei până la 20.000 lei următoarele fapte:"],
+              ["a)","aruncarea sau depozitarea în fondul forestier naţional a reziduurilor menajere, industriale, petroliere sau rezultate din prelucrarea lemnului, a substanţelor chimice şi a apei sărate. În acest caz, se aplică şi sancţiunea complementară de obligare a contravenientului de a aduce terenul de îndată la starea iniţială, pe cheltuiala sa;"],
+              ["b)","neluarea de către proprietarii sau deţinătorii de obiective legal amplasate în fondul forestier sau limitrof acestuia a măsurilor privind salubrizarea şi igienizarea pădurilor limitrofe obiectivelor;"],
+              ["c)","înfiinţarea sau funcţionarea de centre sau puncte de colectare permanente sau volante de achiziţie a ciupercilor şi fructelor de pădure, precum şi a celorlalte produse nelemnoase specifice fondului forestier, fără avizul ocolului silvic care asigură administrarea sau serviciile silvice."]
+            ]
+          },
+          {
+            "no": "13",
+            "label": "Art. 13",
+            "items": [
+              ["(1)","Constituie contravenţii silvice şi se sancţionează cu amendă de la 2.000 lei până la 5.000 lei următoarele fapte:"],
+              ["a)","«abrogat»"],
+              ["b)","«abrogat»"],
+              ["c)","neîncadrarea proporţiei speciei/speciilor principale din compoziţiile de regenerare în intervalul prevăzut de normele tehnice privind regenerarea pădurilor sau în proiectele tehnice/studiile de specialitate aprobate;"],
+              ["d)","neachitarea anticipată predării-primirii terenului pentru care a fost aprobată scoaterea definitivă/ocuparea temporară din fondul forestier naţional a obligaţiilor băneşti prevăzute de Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. În cazul predării de către ocolul silvic către beneficiarul scoaterii definitive sau în cazul ocupării temporare din fondul forestier a suprafeţei aprobate, fără ca beneficiarul să achite anticipat toate obligaţiile băneşti prevăzute de legislaţia în vigoare, persoanele care au semnat procesul-verbal de predare- primire în calitate de predători au obligaţia să achite aceste obligaţii băneşti, în sume egale. Stabilirea sumelor pentru fiecare persoană se face prin decizie a conducătorului structurii teritoriale de specialitate a autorităţii publice centrale care răspunde de silvicultură. Achitarea obligaţiilor băneşti este direct executorie, fără alte formalităţi prealabile, depunerea sumelor făcându-se în conturile prevăzute de legislaţia în vigoare;"],
+              ["e)","nepredarea de către beneficiar şi/sau nepreluarea de către proprietar şi/sau ocolul silvic, după caz, a terenurilor oferite în compensarea terenurilor pentru care a fost emisă aprobarea de scoatere definitivă din fondul forestier naţional şi, respectiv, a terenurilor care fac obiectul compensării. Sancţiunea se aplică şefului ocolului silvic sau beneficiarului scoaterii definitive, după caz;"],
+              ["f)","neconstituirea şi/sau nealimentarea de către administratorul fondului forestier sau de către proprietarii de fond forestier a fondului de conservare şi regenerare a pădurilor. Sancţiunea se aplică administratorului pentru fondul forestier proprietate publică a statului sau proprietarului, în situaţia în care acesta are încheiat contract de servicii silvice."],
+              ["(2)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă de la 1.000 lei până la 3.000 lei nerespectarea obligaţiilor privind înscrierea în amenajamentele silvice, în situaţia în care legea obligă la elaborarea amenajamentelor silvice, a suprafeţelor preluate în compensare în situaţia în care au fost aprobate scoateri definitive fără a exista amenajament silvic în vigoare şi asigurarea administrării sau serviciilor silvice în cazul terenurilor oferite în compensarea terenurilor care au făcut obiectul aprobării de scoatere definitivă, în termen de 30 de zile de la data predării-primirii terenului pentru care s-a aprobat scoaterea definitivă din fondul forestier. Sancţiunea se aplică personalului silvic cu atribuţii în acest sens conform fişei postului sau, în lipsa fişei postului, se aplică şefului ocolului silvic."]
+            ]
+          },
+          {
+            "no": "14",
+            "label": "Art. 14",
+            "items": [
+              ["(1)","Constituie contravenţie silvică, dacă nu sunt întrunite elementele constitutive ale infracţiunii, şi se sancţionează cu amendă de la 4.000 lei până la 8.000 lei:"],
+              ["a)","modificarea sau casarea unui act de punere în valoare cu încălcarea normelor tehnice silvice în cazul în care prin aceasta nu s-a creat niciun prejudiciu;"],
+              ["b)","efectuarea serviciului public de punere în valoare a masei lemnoase de către ocoale silvice la proprietarii de fond forestier şi/sau vegetaţie forestieră din afara fondului forestier care nu au încheiat contracte de prestări servicii silvice/administrare/prestaţie silvică în condiţiile legii ori ale căror astfel de contracte au fost suspendate sau expiră anterior termenului de reprimire a parchetului;"],
+              ["c)","constituirea actului de punere în valoare a masei lemnoase cu încălcarea normelor tehnice specifice în vigoare, în cazul în care prin aceasta nu s-a creat niciun prejudiciu;"],
+              ["d)","«abrogat»"],
+              ["e)","aprobarea şi/sau autorizarea spre exploatare a actelor de punere în valoare a masei lemnoase fără amenajament silvic în vigoare, pentru suprafeţele de fond forestier pentru care legea obligă la existenţa unui amenajament silvic, cu excepţia prevederilor art. 20 alin. (3 1 ) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, în cazul în care prin aceasta nu s-a creat niciun prejudiciu."],
+              ["(2)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "15",
+            "label": "Art. 15",
+            "items": [
+              ["(1)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă de la 5.000 lei până la 10.000 lei următoarele fapte:"],
+              ["a)","autorizarea la exploatare a partizilor constituite din tăieri cu restricţie, în epocile în care exploatarea este interzisă prin normele tehnice în vigoare;"],
+              ["b)","realizarea tăierii rase prin alăturare cu altă tăiere rasă, cu încălcarea prevederilor legale în vigoare;"],
+              ["c)","neasigurarea transparenţei comercializării masei lemnoase în condiţiile Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică;"],
+              ["d)","autorizarea spre exploatare a masei lemnoase sau efectuarea de lucrări silvotehnice în suprafeţele pentru care este formulată notificare sau nu este emis aviz către ocoalele silvice/proprietari de către structurile teritoriale ale autorităţii publice centrale care răspunde de silvicultură cu privire la existenţa pădurilor care îndeplinesc criteriile de păduri virgine sau de păduri cvasivirgine, potrivit ordinului emis în baza art. 26 alin. (3) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, şi care nu sunt incluse în Catalogul naţional al pădurilor virgine şi cvasivirgine;"],
+              ["e)","aprobarea executării drumurilor de scos-apropiat cu încălcarea prevederilor Instrucţiunilor privind termenele, modalităţile şi perioadele de colectare, scoatere şi transport al materialului lemnos, aprobate în temeiul art. 62 alin. (1) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Sancţiunea se aplică şefului de ocol."],
+              ["f)","autorizarea la exploatare a partizilor prin care se depăşeşte durata maximă de exploatare a masei lemnoase, prevăzută de Instrucţiunile privind termenele, modalităţile şi perioadele de colectare, scoatere şi transport al materialului lemnos, aprobate în temeiul art. 62 alin. (1) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Sancţiunea se aplică şefului de ocol."],
+              ["(2)","Constituie contravenţie silvică şi se sancţionează cu amendă de la 10.000 lei până la 20.000 lei neprelucrarea masei lemnoase achiziţionate la nivelul prevăzut la art. 60 alin. (5) lit. c) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, sau depăşirea prin achiziţie/procesare a procentului prevăzut la art. 60 alin. (5) lit. f) din aceeaşi lege, de către un operator economic/grup de operatori economici. Operatorul economic/Grupul de operatori economici nu poate participa la licitaţiile/negocierile organizate în anul de producţie următor anului pentru care s-a constatat că nu s-a încadrat în procentul prevăzut la art. 60 alin. (5) lit. c) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, sau s-a depăşit procentul prevăzut la art. 60 alin. (5) lit. f) din aceeaşi lege."],
+              ["(3)","Volumul de materiale lemnoase sau contravaloarea acestora, dacă acestea nu pot fi identificate, achiziţionat/procesat sau neprocesat, după caz, anual de către operatorul economic/grupul de operatori economici cu care nu se realizează procentul prevăzut la art. 60 alin. (5) lit. c) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, sau cu care s-a depăşit procentul prevăzut la art. 60 alin. (5) lit. f) din aceeaşi lege, se confiscă."]
+            ]
+          },
+          {
+            "no": "16",
+            "label": "Art. 16",
+            "items": [
+              ["(1)","Constituie contravenţii silvice şi se sancţionează cu amendă de la 6.000 lei până la 10.000 lei următoarele fapte:"],
+              ["a)","exploatarea masei lemnoase din partizi contractate, fără autorizaţie de exploatare şi proces-verbal de predare-primire a parchetului. Dacă fapta contravenţională este săvârşită de către operatori economici atestaţi pentru exploatări forestiere, instituţia din care face parte agentul constatator care a constatat fapta solicită Comisiei de atestare a operatorilor economici pentru lucrări de exploatare forestieră sancţiunea retragerii certificatului de atestare, în condiţiile legii. Materialele lemnoase rezultate în urma exploatării se confiscă;"],
+              ["b)","exploatarea masei lemnoase din parchete în afara termenelor prevăzute în autorizaţia de exploatare sau în actul de constatare încheiat la expirarea termenului înscris în autorizaţia de exploatare;"],
+              ["c)","«abrogat»"],
+              ["d)","autorizarea spre exploatare de către ocoalele silvice a partizilor constituite în păduri ai căror proprietari nu au încheiat contracte de prestări servicii silvice/administrare în condiţiile legii ori ale căror astfel de contracte au fost suspendate sau au încetat fără asigurarea continuităţii;"],
+              ["e)","exploatarea masei lemnoase de către persoanele fizice în alte condiţii decât cele prevăzute la art. 62 alin. (3) şi (4) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare;"],
+              ["f)","cesionarea contractelor de vânzare-cumpărare a masei lemnoase, încheiate în urma licitaţiilor/negocierilor, în alte condiţii decât cele prevăzute în Regulamentul de valorificare a masei lemnoase din fondul forestier proprietate publică;"],
+              ["g)","amplasarea pe arbori a curselor feromonale echipate cu nade sau alţi atractanţi pentru inducerea atacului de gândaci de scoarţă, în alte condiţii decât cele prevăzute în instrucţiunile în vigoare."],
+              ["h)","lăsarea de arbori marcaţi şi netăiaţi în parchete, constataţi după întocmirea procesului-verbal de reprimire. Sancţiunea se aplică dacă numărul arborilor marcaţi şi netăiaţi în parchete, constataţi după întocmirea procesului-verbal de reprimire, este mai mare de 1% din numărul arborilor inventariaţi în cadrul actului de punere în valoare."],
+              ["i)","autorizarea la exploatare a partizilor prin care se depăşeşte durata maximă de exploatare a masei lemnoase, prevăzută de Instrucţiunile privind termenele, modalităţile şi perioadele de colectare, scoatere şi transport al materialului lemnos, emise în baza art. 62 alin. (1) din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Sancţiunea se aplică şefului de ocol."],
+              ["(2)","Constituie contravenţie silvică şi se sancţionează cu amendă de la 3.000 lei până la 6.000 lei, care se aplică membrilor comisiei de preselecţie, neluarea de către comisia de preselecţie a măsurii de respingere a participării pentru următoarele fapte ale operatorilor economici:"],
+              ["a)","nedepunerea documentelor prevăzute în Regulamentul de valorificare a masei lemnoase din fondul forestier proprietate publică sau dacă documentele depuse sunt incomplete ori nu sunt certificate pentru conformitate cu originalul;"],
+              ["b)","dacă au datorii restante faţă de administratorii fondului forestier proprietate publică a statului sau faţă de proprietarii/administratorii fondului forestier proprietate publică a unităţilor administrativ-teritoriale, atât operatorul economic, cât şi grupul de operatori economici din care face parte, după caz;"],
+              ["c)","dacă nu au capacitate de exploatare disponibilă, conform certificatului de atestare pentru lucrări de exploatare forestieră şi anexei la acesta;"],
+              ["d)","«abrogat»"],
+              ["e)","«abrogat»"],
+              ["f)","«abrogat»"],
+              ["g)","dacă producătorii din industria mobilei, care au drept de preempţiune la cumpărarea de masă lemnoasă, la oferta de preţ şi în condiţii egale de vânzare, nu deţin atestatul referitor la capacitatea de industrializare a lemnului fasonat provenit din fondul forestier proprietate publică a statului."],
+              ["(3)","Constituie contravenţie silvică şi se sancţionează cu amendă de la 1.000 lei până la 3.000 lei necompletarea anexei certificatului de atestare a operatorilor economici de către emitentul autorizaţiei de exploatare a masei lemnoase pe picior, la momentul emiterii autorizaţiei de exploatare."]
+            ]
+          },
+          {
+            "no": "17",
+            "label": "Art. 17",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 2.000 lei până la 5.000 lei următoarele fapte:"],
+              ["a)","nerespectarea tehnologiilor şi traseelor de scos-apropiat prevăzute în autorizaţia de exploatare;"],
+              ["b)","scoaterea din rădăcini sau ridicarea din fondul forestier naţional fără aprobare legală a cioatelor şi/sau a resturilor de exploatare nevalorificabile;"],
+              ["c)","recoltarea, deţinerea, transportul, comercializarea produselor nelemnoase specifice, fără documente legale şi fără acordul scris al proprietarului şi/sau al ocolului silvic care asigură administrarea/serviciile silvice pentru suprafaţa de pe care se recoltează acestea."],
+              ["d)","executarea neautorizată a drumurilor de tractor sau fără respectarea traseelor aprobate;"],
+              ["e)","neexecutarea la termen şi în condiţiile prevăzute în autorizaţia de exploatare a lucrărilor de curăţare a parchetelor."],
+              ["f)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "18",
+            "label": "Art. 18",
+            "items": [
+              ["","Constituie contravenţie silvică şi se sancţionează cu amendă de la 1.000 lei până la 3.000 lei:"],
+              ["a)","neîndeplinirea obligaţiei ca la exploatarea pădurilor de răşinoase să se cojească cioatele de pin şi molid, în întregime, iar la celelalte răşinoase, prin curelare;"],
+              ["b)","menţinerea în pădure, în intervalul 1 mai-1 octombrie, a lemnului de răşinoase infestat cu dăunători de scoarţă şi necojit, cu excepţia arborilor cursă folosiţi la combaterea dăunătorilor, a lemnului provenit din doborâturi şi rupturi de vânt sau zăpadă şi a lemnului aflat în curs de exploatare pe suprafaţa parchetului."],
+              ["c)","«abrogat»"],
+              ["d)","nerespectarea obligaţiei de a amplasa panoul cu principalele date referitoare la parchetul aflat în exploatare, de către titularul autorizaţiei de exploatare, conform prevederilor şi specificaţiilor prevăzute în instrucţiunile privind termenele, modalităţile şi perioadele de colectare, scoatere şi transport al materialului lemnos."]
+            ]
+          },
+          {
+            "no": "19",
+            "label": "Art. 19",
+            "items": [
+              ["(1)","Constituie contravenţie silvică, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă şi cu confiscarea materialelor lemnoase în cauză faptele privind expedierea, primirea, depozitarea, deţinerea şi/sau prelucrarea materialelor lemnoase de către deţinătorii depozitelor permanente/temporare, ai platformelor primare, pieţelor, târgurilor, oboarelor şi altele asemenea, ai altor spaţii destinate depozitării temporare, instalaţiilor de prelucrare a materialelor lemnoase, personalul operatorului de transport, al administratorului şi/sau gestionarului infrastructurii căii ferate, fără provenienţă legală potrivit art. 10 alin. (10) şi art. 12 din Normele referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, la regimul spaţiilor de depozitare a materialelor lemnoase şi a instalaţiilor de prelucrat lemn rotund, precum şi cele privind provenienţa şi circulaţia materialelor lemnoase destinate consumului propriu al proprietarului şi unele măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor care revin operatorilor care introduc pe piaţă lemn şi produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020, după cum urmează:"],
+              ["a)","1.000 lei până la 5.000 lei, pentru un volum de până la 10,00 mc, inclusiv;"],
+              ["b)","5.000 lei până la 10.000 lei, pentru un volum cuprins între 10,01 şi 30,00 mc, inclusiv;"],
+              ["c)","10.000 lei până la 15.000 lei, pentru un volum cuprins între 30,01 şi 100 mc, inclusiv;"],
+              ["d)","15.000 lei până la 30.000 lei, pentru un volum cuprins între 100,01 şi 500 mc, inclusiv;"],
+              ["e)","30.000 lei până la 50.000 lei, pentru un volum de peste 500 mc."],
+              ["(2)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă şi cu confiscarea materialelor lemnoase în cauză următoarele fapte:"],
+              ["a)","transportul cu orice mijloace de transport al materialelor lemnoase, cu un volum cuprins între 0,1 şi 5 metri cubi, neînsoţit de documentele specifice de transport, aşa cum sunt stabilite de normele privind circulaţia materialelor lemnoase."],
+              ["","Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","1.000 lei până la 2.000 lei, pentru un volum cuprins între 0,1 şi 1 metru cub inclusiv;"],
+              ["2.","2.000 lei până la 4.000 lei, pentru un volum cuprins între 1,01 şi 3,00 metri cubi inclusiv;"],
+              ["3.","4.000 lei până la 6.000 lei, pentru un volum cuprins între 3,01 şi 5,00 metri cubi inclusiv;"],
+              ["b)","transportul cu orice mijloace de transport al materialelor lemnoase, însoţit de documente specifice de transport, aşa cum sunt stabilite de normele privind circulaţia materialelor lemnoase, la care diferenţa dintre volumul constatat la momentul verificării şi cel înscris în avizul de însoţire este de cel mult 5 metri cubi inclusiv, cu luarea în considerare a toleranţelor legale şi a contragerilor specifice."],
+              ["","Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","1.000 lei până la 2.000 lei, pentru un volum cuprins între 0,1 şi 1 metru cub inclusiv;"],
+              ["2.","2.000 lei până la 4.000 lei, pentru un volum cuprins între 1,01 şi 3,00 metri cubi inclusiv;"],
+              ["3.","4.000 lei până la 6.000 lei, pentru un volum cuprins între 3,01 şi 5,00 metri cubi inclusiv;"],
+              ["c)","transportul cu orice mijloace de transport al materialelor lemnoase fără provenienţă legală, aşa cum sunt stabilite de normele privind circulaţia materialelor lemnoase."],
+              ["","Cuantumul amenzii care se aplică este cuprins între 5.000 lei până la 10.000 lei, pentru un volum cuprins între 0,1 şi 5 metri cubi inclusiv;"],
+              ["d)","transportul de materiale lemnoase ale căror caracteristici nu corespund cu cel puţin unul dintre elementele înscrise în avizul de însoţire referitoare la:"],
+              ["(i)","volum pe specii/grupe de specii, cu luarea în considerare a toleranţelor/contragerilor specifice;"],
+              ["(ii)","specie/grupe de specii;"],
+              ["(iii)","numărul de piese de lemn rotund cu diametrul la capătul subţire mai mare sau egal cu 24 centimetri sau numărul de bucăţi/colete de cherestele."],
+              ["","Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","1.000 lei până la 2.000 lei, pentru un volum cuprins între 0,1 şi 1 metru cub inclusiv;"],
+              ["2.","2.000 lei până la 4.000 lei, pentru un volum cuprins între 1,01 şi 3,00 metri cubi inclusiv;"],
+              ["3.","4.000 lei până la 6.000 lei, pentru un volum cuprins între 3,01 şi 5,00 metri cubi inclusiv."],
+              ["","Sancţiunea complementară de confiscare se aplică pentru diferenţa de volum în plus constatată faţă de volumul pe specii/grupe de specii înscris în avizul de însoţire, cu luarea în considerare a toleranţelor legale şi a contragerilor specifice;"],
+              ["e)","deţinerea materialelor lemnoase de către deţinătorii depozitelor, ai altor spaţii destinate depozitării temporare şi/sau ai instalaţiilor de prelucrare a materialelor lemnoase pe grupe de specii şi sortimente industriale, determinate ca diferenţe în plus dintre volumul stocului fizic şi volumul stocului scriptic înregistrat în aplicaţia SUMAL 2.0 este de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi la momentul constatării faptei;"],
+              ["","Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","5.000 lei până la 10.000 lei, pentru un volum de până la 5% din stocul scriptic, dar nu mai mult de 4 metri cubi inclusiv;"],
+              ["2.","15.000 lei până la 20.000 lei, pentru un volum de până la 10% din stocul scriptic, dar nu mai mult de 8 metri cubi inclusiv;"],
+              ["3.","30.000 lei până la 50.000 lei, pentru un volum de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi inclusiv;"],
+              ["f)","nedeţinerea materialelor lemnoase de către deţinătorii depozitelor, ai altor spaţii destinate depozitării temporare şi/sau ai instalaţiilor de prelucrare a materialelor lemnoase pe grupe de specii şi sortimente industriale, determinate ca diferenţe în minus dintre volumul stocului fizic şi volumul stocului scriptic înregistrat în aplicaţia SUMAL 2.0, este de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi la momentul constatării faptei;"],
+              ["","Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","5.000 lei până la 10.000 lei, pentru un volum de până la 5% din stocul scriptic, dar nu mai mult de 4 metri cubi inclusiv;"],
+              ["2.","15.000 lei până la 20.000 lei, pentru un volum de până la 10% din stocul scriptic, dar nu mai mult de 8 metri cubi inclusiv;"],
+              ["3.","30.000 lei până la 50.000 lei, pentru un volum de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi inclusiv."],
+              ["(2¹)","Confiscarea prevăzută la alin. (1) şi (2) se realizează fizic, dacă materialele lemnoase pot fi identificate, sau valoric, la preţul de referinţă calculat potrivit art. 22 alin. (7)."],
+              ["(2²)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu avertisment sau amendă de la 1.000 lei până la 3.000 lei următoarele fapte:"],
+              ["a)","efectuarea de fotografii ale mijlocului de transport încărcat cu materiale lemnoase, de către transportator, atunci când normele privind circulaţia materialelor lemnoase, aprobate în temeiul art. 73 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, creează această obligaţie, din care nu se poate distinge/focaliza încărcătura;"],
+              ["b)","transportul materialelor lemnoase fără fotografiile mijlocului de transport încărcat cu materiale lemnoase, atunci când normele privind circulaţia materialelor lemnoase, aprobate în temeiul art. 73 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, instituie această obligaţie;"],
+              ["c)","utilizarea tipurilor de pastă/cerneală termosensibilă sau care se poate şterge uşor prin mijloace mecanice, la completarea avizelor de însoţire în format letric."],
+              ["(2³)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă de la 2.000 lei până la 3.000 lei următoarele fapte:"],
+              ["a)","transportul materialelor lemnoase fără conexiune permanentă de date mobile active pe toată perioada transportului până la destinaţie, în baza informaţiilor preluate din SUMAL 2.0, în situaţia în care normele privind circulaţia materialelor lemnoase, aprobate în temeiul art. 73 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, instituie această obligaţie;"],
+              ["b)","transportul materialelor lemnoase fără receptorul GPS al dispozitivului mobil pornit pe toată perioada transportului până la destinaţie, în baza informaţiilor preluate din SUMAL 2.0, în situaţia în care normele privind circulaţia materialelor lemnoase, aprobate în temeiul art. 73 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, instituie această obligaţie."],
+              ["(2⁴)","În cazul transportului materialelor lemnoase, în mod repetat, în baza aceluiaşi aviz de însoţire, doar primul transport dintre cele identificate este considerat ca fiind însoţit de documente specifice de transport, cu îndeplinirea condiţiei ca materialele lemnoase/produsele din lemn să fie descărcate/recepţionate la destinaţie. Efectuarea transportului în mod repetat în baza aceluiaşi aviz de însoţire se dovedeşte fără documente specifice de transport. În situaţia identificării unuia sau mai multor transporturi efectuate în baza aceluiaşi aviz de însoţire, al căror volum cumulat depăşeşte 10mc, se aplică prevederile art. 68 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare. Repetabilitatea se demonstrează prin interogarea aplicaţiei SUMAL 2.0, cu fotografii şi/sau înregistrări video şi orice alte mijloace de probă."],
+              ["(3)","Constituie contravenţie şi se sancţionează cu amendă de la 3.000 lei până la 6.000 lei şi cu confiscarea materialelor lemnoase în cauză transportul realizat cu mijloace de transport feroviare şi navale, precum şi cele care au ca destinaţie exportul, în situaţia în care perioada de valabilitate a avizelor de însoţire care însoţesc transportul de materiale lemnoase depăşeşte perioada de executare a contractului de transport."],
+              ["(4)","Constituie contravenţii silvice şi se sancţionează cu amendă de la 4.000 lei până la 6.000 lei şi confiscarea materialelor lemnoase refuzul importatorului de a returna în ţara exportatoare cantitatea de mărfuri care depăşeşte cu mai mult de 10% volumul sau greutatea indicate în \"licenţa pe suport de hârtie\", precum şi \"licenţa electronică\", aşa cum sunt definite în art. 2 din Regulamentul (CE) nr. 1.024/2008 al Comisiei din 17 octombrie 2008 de stabilire a măsurilor detaliate de aplicare a Regulamentului (CE) nr. 2.173/2005 al Consiliului privind instituirea unui regim de licenţe FLEGT pentru importurile de lemn în Comunitatea Europeană, denumit în continuare licenţa FLEGT, sau, după caz, duplicatul sau substitutul licenţei FLEGT, emis şi validat de autoritatea de acordare a licenţelor, pe cheltuiala importatorului."],
+              ["(5)","Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă de la 500 lei până la 2.000 lei introducerea în aplicaţiile informatice din SUMAL 2.0 prevăzute de normele privind circulaţia materialelor lemnoase şi/sau înscrierea în avizul de însoţire a materialelor lemnoase a unui număr de înmatriculare diferit de cel al mijlocului de transport efectiv încărcat."],
+              ["(6)","Următoarele fapte constituie contravenţii silvice şi se sancţionează după cum urmează:"],
+              ["a)","«abrogat»"],
+              ["b)","introducerea pe piaţă a lemnului recoltat în mod ilegal sau a produselor din lemn derivate din acesta, aşa cum sunt definite în Regulamentul (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor ce revin operatorilor care introduc pe piaţă lemn sau produse din lemn, cu amendă de la 15.000 lei la 20.000 lei, cu confiscarea lemnului recoltat în mod ilegal sau a produselor din lemn derivate din acesta sau, după caz, cu interzicerea comercializării lemnului sau a produselor din lemn;"],
+              ["c)","importul, transportul, deţinerea şi/sau prelucrarea şi comercializarea produselor din lemn prevăzute în anexele II şi III la Regulamentul (CE) nr. 2.173/2005 al Consiliului din 20 decembrie 2005 privind instituirea unui regim de licenţe FLEGT pentru importurile de lemn în Comunitatea Europeană, exportate de ţările partenere stabilite conform regulamentului menţionat, în cazul în care transportul produselor respective nu este însoţit de o licenţă FLEGT sau, după caz, de duplicatul ori substitutul licenţei FLEGT, cu excepţia cazurilor prevăzute la art. 4 alin. (3) din regulamentul menţionat, cu amendă de la 15.000 lei la 20.000 lei şi cu confiscarea produselor din lemn;"],
+              ["d)","nerespectarea de către operatorii economici a obligaţiei de a utiliza un sistem \"due diligence\", astfel cum este prevăzut la art. 6 din Regulamentul (UE) nr. 995/2010, cu luarea în considerare a faptului că, la primul control efectuat asupra unui operator care nu a utilizat un sistem \"due diligence\", agentul constatator acordă un termen de maximum 45 de zile de la comunicarea constatării pentru încadrarea operatorului în prevederile Regulamentului (UE) nr. 995/2010, termen care se înscrie în actul de constatare a neregulilor, cu amendă de la 8.000 lei la 15.000 lei şi cu suspendarea pentru o perioadă de maximum 12 luni a acordului de distribuire şi utilizare a documentelor cu regim special;"],
+              ["e)","neîndeplinirea de către o organizaţie de monitorizare a obligaţiilor prevăzute pentru aceasta la art. 8 alin. (1) din Regulamentul (UE) nr. 995/2010, cu amendă de la 8.000 lei la 15.000 lei. Sancţiunea se aplică organizaţiei de monitorizare;"],
+              ["f)","«abrogat»"],
+              ["g)","«abrogat»"],
+              ["h)","implementarea de către operator a propriului sistem \"due diligence\" care nu îndeplineşte elementele prevăzute la art. 6 din Regulamentul (UE) nr. 995/2010, cu amendă de la 5.000 lei la 8.000 lei;"],
+              ["i)","neîndeplinirea de către operator a condiţiilor înscrise în sistemul \"due diligence\" pe care îl utilizează, cu amendă de la 5.000 lei la 8.000 lei;"],
+              ["j)","neîndeplinirea de către comercianţi a obligaţiilor prevăzute pentru aceştia la art. 5 din Regulamentul (UE) nr. 995/2010, cu amendă de la 5.000 lei la 8.000 lei;"],
+              ["k)","neîndeplinirea de către operatorii economici a obligaţiei de a utiliza un sistem \"due diligence\" la momentul exploatării masei lemnoase pe picior, cu excepţia situaţiei în care operatorul realizează activităţi de exploatare prin prestaţii silvice, conform reglementărilor în vigoare, cu amendă de la 3.000 lei la 5.000 lei;"],
+              ["l)","«abrogat»"],
+              ["m)","«abrogat»"],
+              ["n)","nedepunerea licenţei FLEGT pe suport hârtie sau în format electronic sau, după caz, a duplicatului ori substitutului licenţei FLEGT la autoritatea naţională competentă pentru primirea, verificarea şi acceptarea acesteia, cu amendă de la 1.000 lei la 3.000 lei;"],
+              ["o)","încălcarea prevederilor art. 5 din Regulamentul de punere în aplicare (UE) nr. 607/2012 al Comisiei din 6 iulie 2012 privind normele detaliate referitoare la sistemul \"due diligence\" şi la frecvenţa şi natura controalelor privind organizaţiile de monitorizare prevăzute în Regulamentul (UE) nr. 995/2010 al Parlamentului European şi al Consiliului de stabilire a obligaţiilor care revin operatorilor care introduc pe piaţă lemn şi produse din lemn, cu amendă de la 1.000 lei la 3.000 lei."],
+              ["(7)","În cazul neîndeplinirii/neimplementării de către operatorii economici a obligaţiilor prevăzute la alin. (6) lit. h) -k) într-un interval de 6 luni de la data constatării, cuantumul amenzii se dublează."],
+              ["(8)","Constatarea şi sancţionarea contravenţiilor prevăzute la alin. (6) se fac de către personalul silvic cu competenţă în acest sens din cadrul autorităţii publice centrale care răspunde de silvicultură şi al structurilor teritoriale de specialitate ale acesteia."],
+              ["(9)","«abrogat»"],
+              ["(10)","Pentru contravenţiile constatate în timpul transportului materialelor lemnoase sancţiunea principală se aplică:"],
+              ["a)","emitentului avizului de însoţire a materialelor lemnoase, dacă faptele sunt cele prevăzute la alin. (2) lit. b) -d) şi alin. (2 1 ) şi (2 2 );"],
+              ["b)","transportatorului profesionist, dacă faptele sunt cele prevăzute la alin. (2) lit. a) şi c) şi alin. (2 3 ;"],
+              ["c)","conducătorului vehiculului pe care este încărcat materialul lemnos sau care tractează orice părţi de vehicule distinct înmatriculate/neînmatriculate, pe care este încărcat materialul lemnos, conducătorului atelajului, care nu are calitatea de transportator profesionist, dacă faptele sunt cele prevăzute la alin. (2) lit. a) şi c) şi alin. (2 3 );"],
+              ["d)","sancţiunea complementară de confiscare a materialelor lemnoase se aplică emitentului avizului de însoţire a materialelor lemnoase."],
+              ["(10¹)","Agentul constatator are obligaţia să stabilească cine este proprietarul materialelor lemnoase confiscate şi dacă acestea aparţin unei alte persoane decât emitentul avizului de însoţire care are calitatea de contravenient. În procesul-verbal se vor menţiona datele de identificare a proprietarului sau se vor preciza motivele pentru care identificarea nu a fost posibilă."],
+              ["(11)","Persoanele juridice ai căror agenţi constatatori au competenţă în stabilirea şi sancţionarea contravenţiilor silvice au obligaţia de a nominaliza, la solicitare, persoane care să constate şi să aplice contravenţia silvică, inclusiv măsuri complementare, după caz, în echipe mixte împreună cu un agent constatator/agenţi constatatori din cadrul persoanei juridice care a făcut solicitarea. Solicitarea se poate face pentru fapte care implică evaluarea volumului materialelor lemnoase."]
+            ]
+          },
+          {
+            "no": "19^1",
+            "label": "Art. 19¹",
+            "items": [
+              ["(1)","Nu se sancţionează contravenţional primirea şi/sau depozitarea de către deţinătorii depozitelor, ai altor spaţii destinate depozitării temporare şi/sau ai instalaţiilor de prelucrare a materialelor lemnoase al căror volum depăşeşte volumul înscris în avizul de însoţire al materialelor lemnoase, care însoţeşte transportul, cu luarea în considerare a toleranţelor admise de reglementările în vigoare la transportul materialelor lemnoase, dacă aceştia notifică garda forestieră teritorială în termen de maximum 24 de ore de la primirea bunurilor în cauză."],
+              ["(2)","Notificarea se realizează prin adresă scrisă, înregistrată la registratura gărzii forestiere competente teritorial, în termenul prevăzut la alin. (1)."],
+              ["(3)","Materialele lemnoase al căror volum depăşeşte volumul determinat în condiţiile alin. (1) se depozitează separat de către primitor şi se predau, lunar, pe bază de proces-verbal de predare-primire, ocolului silvic de stat cu sediul social cel mai apropiat de depozitul în cauză."],
+              ["(4)","Ocolul silvic de stat are obligaţia valorificării potrivit legii a materialelor lemnoase primite în condiţiile alin. (3); sumele încasate din valorificarea materialelor lemnoase constituie venituri la bugetul de stat."],
+              ["(5)","Prevederile alin. (1) - (3) nu se aplică situaţiilor în care materialele lemnoase fără provenienţă legală sunt depistate de către autorităţile publice competente, în cursul exercitării atribuţiilor de control prevăzute de lege."]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21",
+            "items": [
+              ["","Constituie contravenţii silvice şi se sancţionează cu amendă de la 1.000 lei la 5.000 lei următoarele fapte:"],
+              ["a)","permiterea comercializării materialelor lemnoase şi/sau pomilor de Crăciun în pieţe, târguri, oboare, burse de mărfuri şi altele asemenea, neautorizate conform normelor referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, la regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund, în vigoare;"],
+              ["b)","neîmprejmuirea de către deţinători a depozitelor, a altor spaţii destinate depozitării temporare şi/sau a instalaţiilor de prelucrare a materialelor lemnoase;"],
+              ["c)","«abrogat»"],
+              ["d)","nerespectarea de către emitenţi a prevederilor legale privind modul de completare şi eliberare a avizelor de însoţire a materialelor lemnoase, în format electronic, numai dacă prin această faptă nu se pot stabili cantităţile transportate şi provenienţa acestora;"],
+              ["e)","prezentarea la autoritatea vamală a avizului de însoţire ori a documentului echivalent acestuia întocmit cu încălcarea prevederilor normelor privind circulaţia materialelor lemnoase sau conţinând neconcordanţe cu datele înscrise în declaraţia vamală ori în permisele vamale eliberate sau în documentele anexate la acestea;"],
+              ["f)","neprezentarea de către transportator a avizului de însoţire în vederea efectuării controlului vamal al materialelor lemnoase exportate;"],
+              ["g)","«abrogat»"],
+              ["h)","«abrogat»"],
+              ["i)","«abrogat»"],
+              ["j)","refuzul expeditorului/transportatorului de a transporta şi descărca materialele lemnoase reţinute în vederea confiscării/confiscate în condiţiile legii, la locul de păstrare/depozitare în custodie stabilit de agentul constatator;"],
+              ["k)","«abrogat»"],
+              ["l)","refuzul de către profesionişti de a permite agenţilor constatatori să realizeze activităţile de verificare şi/sau să inventarieze stocurile de material lemnos, să pună la dispoziţia acestora documentele necesare, precum şi neacordarea sprijinului necesar, în baza solicitării scrise a agenţilor constatatori."]
+            ]
+          },
+          {
+            "no": "22",
+            "label": "Art. 22",
+            "items": [
+              ["(1)","În cazul în care agenţii constatatori constată că în timpul transportului cu mijloace feroviare sau navale materialele lemnoase nu sunt însoţite de avizul de însoţire ori de documentul comunitar echivalent acestuia, prevăzut în normele privind circulaţia materialelor lemnoase, sau că nu au provenienţă legală, confiscarea materialelor lemnoase se realizează după sosirea lor în staţia/portul de destinaţie, la locul prevăzut pentru descărcare, cu anunţarea în scris a destinatarului despre confiscare, de către personalul autorizat al operatorului de transport feroviar, administratorului şi/sau gestionarului infrastructurii/căpitanul portului, după caz."],
+              ["(2)","Materialele lemnoase reţinute/confiscate în condiţiile legii de agenţi constatatori vor fi date în custodie ocolului silvic care deţine spaţiul de depozitare cel mai apropiat de locul reţinerii/confiscării."],
+              ["(3)","Darea în custodie a materialelor lemnoase reţinute/confiscate se poate face şi către operatorul economic căruia i s-a aplicat sancţiunea contravenţională, cu acordul scris al agentului constatator, al operatorului economic şi al ocolului silvic."],
+              ["(4)","«abrogat»"],
+              ["(4¹)","În cazul confiscării mijlocului de transport, contravenientul este obligat să transporte, pe cheltuiala sa, bunul care a făcut obiectul confiscării, la locul de predare în custodie stabilit de agentul constatator."],
+              ["(5)","Dacă materialele lemnoase reţinute/confiscate nu se află în mijloace de transport, agentul constatator va dispune cu privire la ridicarea, transportarea şi depozitarea acestora. Cheltuielile efectuate pentru ridicarea, transportarea şi depozitarea materialelor lemnoase reţinute/confiscate, precum şi cele efectuate pentru manipularea materialului lemnos inventariat se acoperă din sumele rezultate în urma valorificării materialelor lemnoase confiscate."],
+              ["(6)","Sancţiunea complementară a confiscării valorice, pentru materialele lemnoase care nu se găsesc sau care nu pot fi identificate, se aplică pentru diferenţa constatată dintre volumul materialelor lemnoase înscrise în documentele care fac dovada provenienţei, potrivit normelor privind circulaţia materialelor lemnoase, şi volumul materialelor lemnoase efectiv determinat cu ocazia controlului, pentru materialele lemnoase depozitate/prelucrate/sortate/comercializate."],
+              ["(7)","Calculul contravalorii materialelor lemnoase prevăzute la alin. (6) se face la preţuri de referinţă, pe specii şi sortimente, stabilite anual în raport cu valoarea de circulaţie a materialelor lemnoase, prin ordin al conducătorului autorităţii publice centrale care răspunde de silvicultură, pe baza preţului pieţei, rezultat prin calcularea mediei ultimelor preţuri de vânzare, comunicate de administratorii fondului forestier proprietate publică, care au vândut sortimentul respectiv în ultimele 6 luni."],
+              ["(8)","În cazul neachitării contravalorii materialelor lemnoase prevăzute la alin. (6), instituţia din care face parte agentul constatator comunică debitul la organul fiscal teritorial competent în vederea executării silite, în termen de 30 de zile de la expirarea termenului de contestare."]
+            ]
+          },
+          {
+            "no": "23^1",
+            "label": "Art. 23¹",
+            "items": [
+              ["","Constituie contravenţie silvică şi se sancţionează cu amendă de la 2.000 lei până la 5.000 lei neidentificarea de către structurile teritoriale de specialitate ale autorităţii publice centrale care răspunde de silvicultură a pădurilor care au făcut parte din categoria vegetaţie forestieră de pe terenuri din afara fondului forestier, pentru a fi incluse în fondul forestier. Identificarea pădurilor care au făcut parte din categoria vegetaţie forestieră de pe terenuri din afara fondului forestier şi nominalizarea agenţilor constatatori care stabilesc şi sancţionează contravenţia silvică se fac în baza metodologiei aprobate prin ordin al conducătorului autorităţii publice centrale care răspunde de silvicultură."]
+            ]
+          },
+          {
+            "no": "24",
+            "label": "Art. 24",
+            "items": [
+              ["(1)","Au obligaţia şi dreptul să efectueze controlul, să constate contravenţiile silvice şi să aplice sancţiunile prevăzute în prezenta lege următorii agenţi constatatori:"],
+              ["a)","personalul silvic din cadrul autorităţii publice centrale care răspunde de silvicultură şi al structurilor sale teritoriale cu specific silvic, împuternicit în acest scop;"],
+              ["b)","personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului - pentru contravenţiile silvice săvârşite în fondul forestier pe care îl administrează/prestează servicii silvice sau pe care îl preia în vederea administrării/asigurării serviciilor silvice, precum şi pentru exercitarea controlului aplicării normelor privind circulaţia materialelor lemnoase;"],
+              ["c)","personalul silvic din cadrul structurilor de rang superior şi al ocoalelor de regim - pentru contravenţiile silvice săvârşite în fondul forestier pe care îl administrează/prestează servicii silvice, precum şi pentru exercitarea controlului aplicării normelor privind circulaţia materialelor lemnoase;"],
+              ["d)","ofiţerii şi agenţii de poliţie din cadrul Poliţiei Române - pentru constatarea contravenţiilor şi aplicarea sancţiunilor pentru faptele prevăzute la art. 5 1 lit. b), art. 6 lit. c) şi d), art. 7 alin. (1) lit. a) -c) şi e), art. 8, art. 9, art. 11, art. 12, art. 15 alin. (1) lit. c) şi f), art. 16 alin. (1) lit. a), b) şi e), art. 17 lit. c) şi d), art. 18 lit. d), art. 19 alin. (1) - (5) şi art. 21;"],
+              ["d¹)","ofiţerii şi agenţii de poliţie din cadrul Poliţiei de Frontieră Române - pentru constatarea contravenţiilor şi aplicarea sancţiunilor pentru faptele prevăzute la art. 8 alin. (1) şi (2), art. 9 lit. b), art. 11 lit. d), art. 12 lit. f) şi h), art. 19 alin. (1) - (3) şi art. 21;"],
+              ["e)","ofiţerii şi subofiţerii din cadrul Jandarmeriei Române - pentru constatarea contravenţiilor şi aplicarea sancţiunilor pentru faptele prevăzute la art. 6 lit. d), art. 7 alin. (1) lit. e), art. 8 alin. (1) şi (2), art. 9, art. 11, art. 12, art. 17 lit. c), art. 19 alin. (1), alin. (2), alin. (2 1 ), alin (2 2 ), alin. (3) şi alin. (5) şi art. 21;"],
+              ["f)","personalul silvic din cadrul structurilor de administrare a parcurilor naţionale şi a parcurilor naturale, împuternicit în acest scop - pentru contravenţiile silvice săvârşite în parcul pe care îl administrează, precum şi pentru exercitarea controlului aplicării normelor privind circulaţia materialelor lemnoase;"],
+              ["g)","ofiţerii şi subofiţerii din cadrul serviciilor profesioniste - pentru situaţii de urgenţă, pentru constatarea contravenţiilor şi aplicarea sancţiunilor pentru faptele prevăzute la art. 9 lit. b) şi art. 10 lit. a);"],
+              ["(1¹)","Oprirea în trafic, pe drumurile publice, a autovehiculelor, în vederea exercitării controlului circulaţiei materialului lemnos, se efectuează cu respectarea competenţelor prevăzute de Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată, cu modificările şi completările ulterioare, şi de către agenţii constatatori prevăzuţi la art. 24 alin. (1) lit. a); oprirea în trafic, pe drumurile publice, a autovehiculelor, în vederea exercitării controlului circulaţiei materialului lemnos, de către agenţii constatatori prevăzuţi la art. 24 alin. (1) lit. a) se realizează în baza unei metodologii aprobate prin ordin comun al autorităţii publice centrale care răspunde de silvicultură şi al autorităţii publice centrale pentru afaceri interne."],
+              ["(1²)","Oprirea autovehiculelor pe drumurile forestiere, în vederea exercitării controlului circulaţiei materialului lemnos, se face de către agenţii constatatori prevăzuţi la alin. (1)."],
+              ["(2)","Agenţii constatatori prevăzuţi la alin. (1) lit. a) -c) şi f) îndeplinesc o funcţie care implică exerciţiul autorităţii de stat şi primesc o legitimaţie de control de la instituţia din care fac parte."],
+              ["(3)","Legitimaţia de serviciu a agenţilor constatatori prevăzuţi la alin. (1) lit. d), e) şi g) constituie legitimaţia de control, prevăzută de prezenta lege."]
+            ]
+          },
+          {
+            "no": "25",
+            "label": "Art. 25",
+            "items": [
+              ["(1)","Agentul constatator care aplică sancţiunea dispune şi reţinerea/confiscarea bunurilor destinate, folosite sau rezultate din contravenţiile silvice, în condiţiile legii. În toate situaţiile agentul constatator descrie în procesul-verbal de constatare a contravenţiei silvice bunurile supuse confiscării şi ia în privinţa lor măsurile de conservare sau de valorificare, făcând menţiunile corespunzătoare în procesul-verbal."],
+              ["(2)","Agentul constatator are obligaţia să stabilească cine este proprietarul bunurilor confiscate şi, dacă acestea aparţin unei alte persoane decât contravenientul, în procesul-verbal se vor menţiona, dacă este posibil, datele de identificare a proprietarului sau se vor preciza motivele pentru care identificarea nu a fost posibilă."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26",
+            "items": [
+              ["(1)","Contravenţia silvică se constată printr-un proces-verbal încheiat de agentul constatator."],
+              ["(2)","Agentul constatator este obligat să aducă la cunoştinţa contravenientului dreptul de a face obiecţiuni cu privire la conţinutul actului de constatare a contravenţiei silvice. Obiecţiunile contravenientului se consemnează distinct în procesul-verbal de constatare a contravenţiei silvice la rubrica \"Obiecţiuni\", sub sancţiunea nulităţii procesului-verbal."],
+              ["(3)","Procesul-verbal de constatare a contravenţiei silvice se semnează pe fiecare pagină de agentul constatator şi de contravenient. În cazul în care contravenientul nu este de faţă, refuză sau nu poate să semneze, agentul constatator face menţiune despre aceste împrejurări, care trebuie să fie confirmate de cel puţin un martor, sub semnătură."],
+              ["(4)","În lipsa unui martor, agentul constatator va preciza motivele care au condus la încheierea procesului-verbal de constatare a contravenţiei silvice în acest mod."]
+            ]
+          },
+          {
+            "no": "27",
+            "label": "Art. 27",
+            "items": [
+              ["(1)","Procesul-verbal de constatare a contravenţiei silvice se înmânează sau se comunică în copie contravenientului şi, dacă este cazul, părţii vătămate şi proprietarului bunurilor confiscate."],
+              ["(2)","Comunicarea se face de către instituţia din care face parte agentul constatator, în termen de cel mult 30 de zile calendaristice de la data constatării, prin poştă, cu aviz de primire, sau prin afişare la sediul contravenientului. Afişarea se consemnează într-un proces-verbal semnat de cel puţin un martor."],
+              ["(3)","În situaţia în care contravenientul a fost sancţionat cu amendă, precum şi dacă a fost obligat la plata despăgubirilor pentru prejudiciul adus pădurii, odată cu procesul-verbal i se înmânează/comunică şi înştiinţarea de plată."],
+              ["(4)","În înştiinţarea de plată se face menţiunea cu privire la obligativitatea achitării amenzii şi, după caz, a despăgubirilor, în termen de 30 de zile de la comunicare sau de 15 zile de la soluţionarea contestaţiei, în caz contrar urmând să se procedeze la executarea silită în condiţiile legii."],
+              ["(5)","În cazul neachitării amenzii, instituţia din care face parte agentul constatator comunică debitul la organul fiscal teritorial competent în vederea executării silite, în termen de 30 de zile de la expirarea termenului de contestare."],
+              ["(6)","În cazul neachitării despăgubirilor pentru pagube aduse pădurii, ocolul silvic care administrează/asigură serviciile silvice transmite, în vederea executării silite, titlul executoriu organelor fiscale competente subordonate Agenţiei Naţionale de Administrare Fiscală pentru despăgubirile stabilite în sarcina persoanelor juridice, sumele astfel realizate constituind venit la bugetul de stat, şi către organele fiscale ale unităţilor administrativ-teritoriale, pentru despăgubirile stabilite în sarcina persoanelor fizice, sumele astfel realizate constituind venit la bugetul local, în termen de 30 de zile de la expirarea termenului de contestare a procesului-verbal de constatare a contravenţiei."],
+              ["(7)","Punerea în executare a sancţiunii amenzii contravenţionale se face astfel:"],
+              ["a)","de către instituţia din care face parte agentul constatator, dacă nu se exercită calea de atac împotriva procesului-verbal de constatare a contravenţiei silvice în termenul prevăzut de lege;"],
+              ["b)","de către instanţa judecătorească, în celelalte cazuri."]
+            ]
+          },
+          {
+            "no": "28",
+            "label": "Art. 28",
+            "items": [
+              ["(1)","«abrogat»"],
+              ["","Potrivit art. 20 pct. 10 din Legea nr. 203/2018, art. 28 alin. (1) din OG nr. 2/2001 a fost modificat, termenul de plată a jumătate din minimul amenzii fiind majorat de la 48 de ore la 15 zile de la data înmânării sau comunicării procesului-verbal, acesta având în prezent o aplicabilitate generală. Conform expunerii de motive a proiectului de Lege privind măsuri de eficientizare a achitării amenzilor contravenţionale, termenul de plată de 48 de ore a fost considerat insuficient pentru a identifica rapid sume de bani, astfel că a fost propusă instituirea unei reguli generale (nu doar pentru situaţiile în care prin legi speciale se prevede această posibilitate) de plată a jumătate din minimul amenzii în termen de 15 zile de la data înmânării sau comunicării procesului-verbal. Excepţii de la această regulă, se precizeză în expunerea de motive, vor putea fi stabilite prin legi speciale numai dacă termenele de plată vor fi mai mari de 15 zile. În consecinţă, potrivit art. 25 alin. (1) din Legea nr. 203/2018 prevederea de la art. 28 alin. (1) din Legea nr. 171/2010 a fost abrogată întrucât stipula posibilitatea achitării a jumătate din minimul amenzii contravenţionale, într-un termen mai mic decât cel prevăzut la art. 28 alin. (1) din Ordonanţa Guvernului nr. 2/2001 cu modificările şi completările ulterioare."],
+              ["(2)","În procesele-verbale de constatare şi sancţionare a contravenţiilor silvice se indică atât contul de venituri al bugetului de stat, în care se virează suma, cât şi codul fiscal al persoanei juridice din care face parte agentul constatator."]
+            ]
+          },
+          {
+            "no": "29",
+            "label": "Art. 29",
+            "items": [
+              ["(1)","Prin derogare de la prevederile Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare, plata amenzii se face la unităţile Trezoreriei Statului în raza cărora contravenienţii îşi au sediul sau domiciliul fiscal ori la casieriile autorităţilor administraţiei publice, atât în numerar, cât şi prin virament."],
+              ["(2)","Contravenientul este obligat să depună la instituţia din care face parte agentul constatator chitanţa de plată a amenzii stabilite prin procesul-verbal de contravenţie silvică şi să plătească despăgubirile pentru prejudiciile produse prin săvârşirea contravenţiei silvice."]
+            ]
+          },
+          {
+            "no": "30",
+            "label": "Art. 30",
+            "items": [
+              ["(1)","Sancţiunea contravenţională se stabileşte şi se aplică de către agentul constatator."],
+              ["(2)","În situaţia în care prin contravenţia săvârşită s-a produs un prejudiciu, contravenientul este obligat la plata valorii despăgubirii."],
+              ["(3)","Valoarea despăgubirii se calculează de către:"],
+              ["a)","agentul constatator, dacă acesta este personal silvic;"],
+              ["b)","ocolul silvic pe al cărui teritoriu de competenţă a fost săvârşită fapta, în celelalte cazuri."],
+              ["(4)","În cazul prevăzut la alin. (3) lit. b), instituţia din care face parte agentul constatator solicită în scris ocolului silvic să efectueze calculul valorii despăgubirilor, care are obligaţia de a răspunde solicitării în termen de 5 zile lucrătoare de la primirea acesteia."],
+              ["(5)","Calculul despăgubirilor pentru prejudicii aduse pădurii se face potrivit prevederilor Ordonanţei de urgenţă a Guvernului nr. 85/2006 privind stabilirea modalităţilor de evaluare a pagubelor produse vegetaţiei forestiere din păduri şi din afara acestora, aprobată cu modificări şi completări prin Legea nr. 84/2007."],
+              ["(6)","Pe lângă sancţiunea aplicată şi plata valorii despăgubirilor, în cazul contravenţiilor silvice pentru faptele prevăzute la art. 6 lit. d), art. 7 alin. (1) lit. a), b), e) şi f), art. 9 lit. a), c) şi d), art. 11 lit. a) şi d), art. 12, art. 17 lit. a), d) şi e), contravenientul este obligat să realizeze lucrările necesare pentru readucerea la starea iniţială a fondului forestier, la starea prevăzută de reglementările în vigoare sau, după caz, să suporte costurile necesare pentru realizarea acestor lucrări."],
+              ["(7)","Lucrările necesare pentru readucerea la starea iniţială a fondului forestier şi valoarea estimată a acestora se stabilesc de către agentul constatator sau, după caz, de către ocolul silvic pe al cărui teritoriu de competenţă a fost săvârşită fapta."],
+              ["(8)","Agentul constatator care este personal silvic sau care este absolvent al învăţământului superior de lungă durată cu diplomă de licenţă şi completată, după caz, cu masterat/doctorat în ştiinţe inginereşti din domeniul silvicultură sau absolvent, cu diplomă, al învăţământului superior de scurtă durată, de profil tehnic cu calificări în domeniul silvicultură, pregătire de specialitate silvică atestată prin actul de absolvire a unei forme de învăţământ recunoscute în România, în cazul celorlalţi agenţi constatatori, are dreptul de a inventaria şi calcula volumul materialelor lemnoase expediate, primite, depozitate, deţinute şi/sau prelucrate de către deţinătorii depozitelor permanente/temporare, platformelor primare, pieţelor, târgurilor, oboarelor şi altele asemenea, ai altor spaţii destinate depozitării temporare, instalaţiilor de prelucrare a materialelor lemnoase, personalul operatorului de transport, al administratorului şi/sau gestionarului infrastructurii căii ferate."]
+            ]
+          },
+          {
+            "no": "31",
+            "label": "Art. 31",
+            "items": [
+              ["(1)","În caz de constatare a nulităţii procesului- verbal de constatare a contravenţiei silvice, bunurile confiscate se restituie de îndată celui în drept."],
+              ["(2)","În situaţia în care instanţa de judecată care a constatat nulitatea procesului-verbal de constatare a contravenţiei silvice dispune să se achite celui în drept o despăgubire, aceasta se achită de către entitatea care a beneficiat de contravaloarea materialului lemnos valorificat sau de către beneficiarul donaţiei, după caz. În situaţia în care despăgubirea dispusă de instanţa de judecată este mai mare decât contravaloarea materialului lemnos valorificat sau decât valoarea materialelor lemnoase supuse donaţiei, diferenţa în plus faţă de contravaloarea materialului lemnos valorificat sau faţă de valoarea materialelor lemnoase supuse donaţiei se suportă de la bugetul de stat prin bugetul autorităţii publice centrale în structura căreia este angajat agentul constatator care a aplicat sancţiunea complementară de confiscare, cu încadrarea în bugetul aprobat."]
+            ]
+          },
+          {
+            "no": "32",
+            "label": "Art. 32",
+            "items": [
+              ["","Împotriva procesului-verbal de constatare a contravenţiei silvice şi de aplicare a sancţiunii se poate face plângere în termen de 15 zile de la data înmânării sau comunicării acestuia."]
+            ]
+          },
+          {
+            "no": "33",
+            "label": "Art. 33",
+            "items": [
+              ["(1)","Plângerea, însoţită de copia procesului-verbal de constatare a contravenţiei silvice, se depune la judecătoria în a cărei circumscripţie a fost săvârşită fapta, în condiţiile legii."],
+              ["(2)","Plângerea şi celelalte acte de procedură privind soluţionarea acesteia sunt scutite de taxa judiciară de timbru şi timbru judiciar."]
+            ]
+          },
+          {
+            "no": "34",
+            "label": "Art. 34",
+            "items": [
+              ["(1)","Prin derogare de la prevederile Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare, sumele încasate din plata amenzilor la contravenţiile silvice se varsă la bugetul de stat, în cazul contravenţiilor săvârşite de către operatorii economici, sau, după caz, la bugetul local al unităţii administrativ-teritoriale, pentru contravenţiile săvârşite de către persoanele fizice."],
+              ["(2)","Autoritatea publică centrală care răspunde de silvicultură este obligată să asigure de la bugetul de stat, prin bugetul acesteia, sumele necesare decontării costurilor serviciilor de manipulare, încărcare-descărcare şi transport al materialelor lemnoase, solicitate de agentul/agenţii constatator/constatatori prevăzut/prevăzuţi la art. 24 alin. (1), care realizează acţiunea de control."],
+              ["(3)","Serviciile prevăzute la alin. (2) sunt asigurate de prestatori publici şi/sau privaţi, pe bază de contract, anual, încheiat cu structura teritorială de specialitate a autorităţii publice centrale care răspunde de silvicultură, în funcţie de competenţa teritorială a acesteia."],
+              ["(4)","Decontul prevăzut la alin. (2) se întocmeşte de către prestatorul de servicii, cu avizul agentului/agenţilor constatator/constatatori care a/au solicitat serviciile de manipulare, încărcare-descărcare şi transport al materialelor lemnoase şi se depune la structura teritorială de specialitate a autorităţii publice centrale care răspunde de silvicultură cu care a încheiat contractul de prestări servicii."],
+              ["(5)","Procedura privind decontarea costurilor serviciilor de manipulare, încărcare-descărcare şi transport al materialelor lemnoase prevăzute la alin. (2) se aprobă prin ordin al autorităţii publice centrale care răspunde de silvicultură."]
+            ]
+          },
+          {
+            "no": "35",
+            "label": "Art. 35",
+            "items": [
+              ["","Valorificarea bunurilor confiscate, cu excepţia materialelor lemnoase, se face conform reglementărilor privind modul şi condiţiile de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului."]
+            ]
+          },
+          {
+            "no": "36",
+            "label": "Art. 36",
+            "items": [
+              ["(1)","Ocolul silvic care asigură custodia materialelor lemnoase confiscate, precum şi a celor abandonate este obligat să doneze volumul confiscat, numai în cazul materialelor lemnoase care fac obiectul primei puneri pe piaţă, către instituţiile publice de pe raza unităţii administrativ-teritoriale unde s-a realizat custodia. . . . . . . . . . ."],
+              ["(2)","În termen de 3 zile lucrătoare de la confiscare, ocolul silvic care asigură custodia materialelor lemnoase confiscate notifică simultan instituţiile publice de pe raza unităţii administrativ-teritoriale unde s-a realizat custodia cu privire la volumul confiscat, specia/grupa de specii şi sortimentul dimensional şi solicită fiecărei instituţii volumul, specia şi sortimentul/sortimentele dimensionale necesare, cu încadrarea în specificaţiile transmise în notificare."],
+              ["(3)","Instituţiile prevăzute la alin. (1) pot solicita în scris ocolului silvic care asigură custodia materialelor lemnoase confiscate şi a celor abandonate volumul de materiale lemnoase pe specii/grupe de specii şi în sortimentul/sortimentele dimensionale necesare, în termen de maximum 7 zile de la data înregistrării notificării."],
+              ["(4)","Donaţia materialelor lemnoase confiscate şi a celor abandonate către instituţiile publice prevăzute la alin. (1) se face în următoarea ordine:"],
+              ["a)","grădiniţe, creşe şi case de copii;"],
+              ["b)","şcoli şi licee;"],
+              ["c)","case şi azile de bătrâni;"],
+              ["d)","primării;"],
+              ["e)","unităţi militare."],
+              ["(5)","Materialele lemnoase confiscate care nu pot fi valorificate prin donaţie în condiţiile alin. (1) - (4) se valorifică prin licitaţie, în termen de maximum 30 de zile calendaristice de la data confiscării, de către:"],
+              ["a)","unităţile Regiei Naţionale a Pădurilor - Romsilva sau de structurile de administrare pentru ceilalţi administratori ai fondului forestier proprietate publică a statului pe raza cărora s-au depozitat materialele lemnoase în custodie;"],
+              ["b)","ocolul silvic de regim pe raza căruia s-au depozitat materialele lemnoase în custodie."],
+              ["(6)","Pentru desfăşurarea licitaţiei, entităţile prevăzute la alin. (5) au obligaţia de a întocmi documentaţia de vânzare, de a încasa contravaloarea materialelor lemnoase şi de a distribui sumele încasate conform prevederilor prezentei legi. Licitaţia se anunţă pe site-urile nominalizate în Regulamentul de valorificare a masei lemnoase din fondul forestier proprietate publică şi prin afişare la sediile autorităţilor publice ale unităţilor administrativ- teritoriale şi la sediul ocolului silvic pe raza căruia s-au depozitat materialele lemnoase în custodie, într-un termen de maximum 3 zile lucrătoare de la data confiscării. Preţurile de pornire la licitaţie se aprobă de entităţile prevăzute la alin. (1), în funcţie de valoarea de piaţă a materialelor lemnoase confiscate. Licitaţia se organizează în termen de minimum 10 zile de la data anunţării, iar materialul lemnos confiscat care nu s-a vândut la o licitaţie se poate vinde prin negociere operatorilor economici sau direct persoanelor fizice, sub preţul de pornire la licitaţie cu cel mult 10%."],
+              ["(7)","Sumele încasate din vânzarea materialelor lemnoase confiscate care nu au făcut obiectul donaţiei, rămase după deducerea cheltuielilor de custodie, organizare a licitaţiei şi transport, după caz, precum şi sumele încasate din plata contravalorii materialelor lemnoase confiscate care nu se găsesc sau care nu pot fi identificate, prevăzute la art. 22 alin. (5), se distribuie astfel:"],
+              ["a)","15% din contravaloarea materialelor lemnoase confiscate rămân la dispoziţia persoanei juridice în structura căreia îşi desfăşoară activitatea agentul constatator care a realizat confiscarea;"],
+              ["b)","85% în fondul de ameliorare a fondului funciar cu destinaţie silvică, în cazul în care materialul lemnos provine din fondul forestier proprietate publică a statului, sau la bugetele locale, în cazul în care materialul lemnos provine din fondul forestier proprietate publică/privată a unităţilor administrativ-teritoriale ori din cel proprietate privată dacă proprietarul este contravenient, precum şi în cazul materialelor lemnoase abandonate a căror provenienţă nu poate fi stabilită."],
+              ["(8)","Sumele prevăzute la alin. (7) lit. a) se virează în contul instituţiilor din care fac parte agenţii constatatori prevăzuţi la art. 24 alin. (1) care au realizat confiscarea."]
+            ]
+          },
+          {
+            "no": "37",
+            "label": "Art. 37",
+            "items": [
+              ["(1)","Materialul lemnos confiscat a cărui provenienţă se identifică se pune la dispoziţia proprietarului de drept, dacă acesta nu este contravenient."],
+              ["(2)","Contravenientul este obligat la plata cheltuielilor de depozitare şi pază pe perioada custodiei pentru materialele lemnoase prevăzute la alin. (1)."]
+            ]
+          },
+          {
+            "no": "38",
+            "label": "Art. 38",
+            "items": [
+              ["(1)","Pentru motive temeinice instanţa poate acorda un termen de plată a amenzii de cel mult 30 de zile sau poate dispune eşalonarea plăţii într-un termen de cel mult 3 luni."],
+              ["(2)","Hotărârea instanţei este definitivă şi executorie."]
+            ]
+          },
+          {
+            "no": "39",
+            "label": "Art. 39",
+            "items": [
+              ["(1)","Dacă agentul constatator apreciază că fapta a fost săvârşită în astfel de condiţii încât, potrivit legii penale, constituie infracţiune, sesizează organul de urmărire penală competent."],
+              ["(2)","În cazul în care fapta a fost urmărită ca infracţiune şi ulterior s-a stabilit de către procuror sau de către instanţă că ea constituie contravenţie, actul de sesizare ori de constatare a faptei, împreună cu o copie de pe rezoluţia, ordonanţa sau, după caz, de pe hotărârea judecătorească, se trimite de îndată organului în drept să constate contravenţia silvică, pentru a lua măsurile ce se impun conform legii."],
+              ["(3)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "41",
+            "label": "Art. 41",
+            "items": [
+              ["","Prevederile prezentei legi se completează cu cele ale Ordonanţei Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare, în măsura în care prezenta lege nu dispune altfel."]
+            ]
+          },
+          {
+            "no": "42",
+            "label": "Art. 42",
+            "items": [
+              ["(1)","Contravenţiile silvice se constată de agenţii constatatori prin procese-verbale de constatare a contravenţiei silvice, încheiate în 3 exemplare pe formulare tipizate cu regim special, care circulă astfel: exemplarul 1 la instituţia din care face parte agentul constatator, exemplarul 2 la contravenient, iar exemplarul 3 rămâne la instituţia din care face parte agentul constatator. Instituţia din care face parte agentul constatator transmite exemplarul 1 al procesului-verbal de constatare a contravenţiei silvice organului fiscal central competent, în situaţia neachitării în termenul legal a amenzii."],
+              ["(2)","Modelul şi conţinutul formularului tipizat de proces-verbal de constatare a contravenţiei silvice sunt prevăzute în anexa nr. 1."],
+              ["(3)","Modelul şi conţinutul formularului de înştiinţare de plată sunt prevăzute în anexa nr. 2."],
+              ["(4)","În cazul reţinerii în vederea stabilirii provenienţei şi/sau confiscării materialelor lemnoase sau altor produse nelemnoase, precum şi în cazul dării în custodie a materialelor lemnoase reţinute/confiscate, agentul constatator încheie procesul-verbal de reţinere/confiscare/dare în custodie, după caz, pe formular tipizat."],
+              ["(5)","Pentru probarea provenienţei materialelor lemnoase reţinute, agentul constatator stabileşte un termen care nu poate fi mai mare de 3 zile calendaristice de la data încheierii procesului-verbal de reţinere."],
+              ["(6)","Modelul şi conţinutul formularului tipizat de proces-verbal de reţinere/confiscare/dare în custodie este prevăzut în anexa nr. 3."],
+              ["(7)","Tipărirea formularelor prevăzute la alin. (2), (3) şi (6) se realizează de către Compania Naţională \"Imprimeria Naţională\" - S.A. care va asigura distribuirea acestora contra cost instituţiilor din care fac parte agenţii constatatori prevăzuţi la art. 24 alin. (1)."],
+              ["(8)","Până la confecţionarea şi distribuirea formularelor prevăzute la alin. (7), agenţii constatatori folosesc în activitatea de constatare a contravenţiilor silvice formularele tipizate utilizate anterior intrării în vigoare a prezentei legi de către instituţiile din care fac parte agenţii constatatori."],
+              ["(9)","Modelul şi conţinutul legitimaţiei de control prevăzute la art. 24 alin. (2) sunt prevăzute în anexa nr. 4."]
+            ]
+          },
+          {
+            "no": "43",
+            "label": "Art. 43",
+            "items": [
+              ["(1)","În scopul urmăririi modului de soluţionare a contravenţiilor silvice şi pentru a asigura posibilitatea identificării de către agenţii constatatori prevăzuţi la art. 24 alin. (1) a situaţiilor de repetare a aceleiaşi fapte de către contravenient, pentru aplicarea sancţiunilor majorate/complementare, după caz, autoritatea publică centrală care răspunde de silvicultură asigură, în cadrul SUMAL, realizarea şi funcţionarea Sistemului naţional de evidenţă informatizată a contravenţiilor silvice, denumit în continuare SNEICS."],
+              ["(1¹)","Agenţii constatatori prevăzuţi la art. 24 alin. (1) au drept de interogare a SNEICS."],
+              ["(1²)","Implementarea datelor referitoare la contravenţiile constatate şi sancţionate se face de către reprezentanţii instituţiilor din care fac parte agenţii constatatori prevăzuţi la art. 24 alin. (1); sancţiunile de natură contravenţională se transpun în puncte de penalizare; punctele de penalizare stabilite în funcţie de cuantumul cu care se sancţionează fapta şi procedura de calcul al acestora sunt prevăzute în anexa nr. 5."],
+              ["(2)","Elementele necesare constituirii bazei de date prevăzute la alin. (1), competenţele de acces la această bază de date, precum şi orice alte proceduri referitoare la gestionarea ei se stabilesc prin protocoale încheiate între autoritatea publică centrală care răspunde de silvicultură şi instituţiile din care fac parte agenţii constatatori, în termen de 30 de zile de la data intrării în vigoare a prezentei legi."],
+              ["(3)","Furnizarea datelor cu caracter personal în cazul persoanelor fizice sancţionate în temeiul prezentei legi se asigură prin grija serviciilor publice comunitare locale de evidenţă a persoanelor, la cererea agenţilor constatatori, în scopul exercitării atribuţiilor legale, fără plata vreunei taxe sau a vreunui tarif şi cu respectarea prevederilor Legii nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "44",
+            "label": "Art. 44",
+            "items": [["", "Anexele nr. 1-5 fac parte integrantă din prezenta lege."]]
+          },
+          {
+            "no": "45",
+            "label": "Art. 45",
+            "items": [
+              ["","Prezenta lege intră în vigoare la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I."]
+            ]
+          },
+          {
+            "no": "46",
+            "label": "Art. 46",
+            "items": [
+              ["","La data intrării în vigoare a prezentei legi, se abrogă Legea nr. 31/2000 privind stabilirea şi sancţionarea contravenţiilor silvice, publicată în Monitorul Oficial al României, Partea I, nr. 144 din 6 aprilie 2000, cu modificările şi completările ulterioare, precum şi orice alte dispoziţii contrare."]
+            ]
+          }
+        ]
+      }
+    ],
+    "annexes": {
+      "title": "Anexa nr. 5 la Legea 171/2010",
+      "items": [
+        {
+          "no": "5",
+          "items": [
+            ["","Punctele de penalizare stabilite în funcție de cuantumul amenzii și procedura de calcul (valori fără TVA)."],
+            ["1.","Sancțiune contravențională definitivă aplicată unui angajat/administrator/asociat/acționar al operatorului: amendă sub 1.000 lei – 2 puncte; 1.001–5.000 lei – 4 puncte; peste 5.000 lei – 7 puncte."],
+            ["2.","Sancțiune contravențională definitivă aplicată operatorului economic/grupului: amendă sub 5.000 lei – 4 puncte; 5.001–25.000 lei – 8 puncte; peste 25.000 lei – 14 puncte."],
+            ["3.","Sancțiune definitivă pentru o infracțiune privind exploatarea masei lemnoase, aplicată unui angajat/administrator/asociat/acționar: 25 de puncte."],
+            ["4.","Operatorii atestați pentru exploatare care au acumulat 25 de puncte nu pot participa la licitațiile/negocierile de masă lemnoasă din fondul forestier proprietate publică, pe perioada de la pct. 5."],
+            ["5.","Punctele de penalizare se prescriu la 6 luni de la data emiterii documentului care le-a generat."],
+            ["6.","Organizatorul licitației interzice participarea operatorului cu 25 de puncte; sancțiunile contestate nu se iau în calcul."]
+          ]
+        }
+      ]
+    }
+  }
+}

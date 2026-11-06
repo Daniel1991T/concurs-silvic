@@ -1,0 +1,1211 @@
+{
+  "id": "n2533",
+  "title": "Compoziții, scheme și tehnologii de împădurire",
+  "act": "Ordinul 2533/2022 – norme tehnice și ghid",
+  "version": "Normele și ghidul din 28 septembrie 2022, valabile la 29 octombrie 2026",
+  "intro": "Cum alegi speciile și compoziția de regenerare, ce sunt grupele ecologice, cum arată schemele de plantare, cum pregătești solul, când faci semănături directe și când plantezi, cum completezi regenerările naturale și cum codifici terenurile degradate. Ghidul are peste o sută de grupe ecologice; aici sunt regulile generale care se cer la examen.",
+  "lesson": [
+    {
+      "title": "1. Modalitățile de regenerare",
+      "paragraphs": [
+        {
+          "text": "Regenerarea în terenuri normale se face **natural** (prin tratamente), **artificial** (plantații, semănături directe, butășiri) sau **mixt**.",
+          "refs": ["NT art. 1 alin. (2)"]
+        },
+        {
+          "text": "Modalități de realizare a compoziției de regenerare: **împăduriri propriu-zise** (teren fără pădure sau despădurit de mult, de regulă de o perioadă de amenajare de 5/10 ani: poieni, goluri, terenuri erodate, nisipuri, perdele); **reîmpăduriri** (după tăieri rase, calamități, ocupări temporare, substituiri, refaceri); **completarea regenerărilor naturale** (sub masiv sau după exploatare).",
+          "refs": ["NT art. 2"]
+        },
+        {
+          "text": "Ghidul: suprafața împădurită integral reprezintă de regulă **70–100%** din suprafața parcursă la tăierile rase de rășinoase și refaceri la munte și deal; **10–40%** la completarea regenerărilor naturale după tratamente sub adăpost; **până la 30%** la completarea regenerărilor din crâng.",
+          "refs": ["Ghid pct. 1.3"]
+        },
+        {
+          "text": "La raportare, suprafața se repartizează **doar pe speciile principale**: de exemplu, compoziția stejar brumăriu 60%, tei 20%, arbuști 20% se raportează ca stejar brumăriu 75% și tei 25%.",
+          "refs": ["Ghid pct. 1.3"]
+        }
+      ],
+      "keep": [
+        "Împăduriri propriu-zise / reîmpăduriri / completări",
+        "Suprafață împădurită integral: 70–100% (rase), 10–40% (completări), ≤ 30% (crâng)",
+        "Raportarea: doar pe speciile principale"
+      ],
+      "quiz": [
+        {
+          "q": "La completarea regenerărilor naturale după tratamente sub adăpost, suprafața împădurită integral e de regulă:",
+          "options": ["100%", "10–40%", "70–100%", "Nimic"],
+          "answer": 1,
+          "explain": "Ghid.",
+          "ref": "Ghid pct. 1.3"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Cele trei modalități",
+        "items": [
+          {
+            "title": "Împăduriri propriu-zise",
+            "text": "teren fără pădure de mult: poieni, goluri, erodate, nisipuri, perdele",
+            "ref": "NT art. 2 lit. a)"
+          },
+          {
+            "title": "Reîmpăduriri",
+            "text": "după rase, calamități, ocupări temporare, substituiri",
+            "ref": "NT art. 2 lit. b)"
+          },
+          {
+            "title": "Completări",
+            "text": "sub masiv sau după exploatare; goluri, seminiș vătămat",
+            "ref": "NT art. 2 lit. c)"
+          },
+          {
+            "title": "Suprafață împădurită integral",
+            "text": "70–100% / 10–40% / ≤ 30% (crâng)",
+            "ref": "Ghid pct. 1.3"
+          }
+        ]
+      }
+    },
+    {
+      "title": "2. Alegerea speciilor",
+      "paragraphs": [
+        {
+          "text": "Speciile se aleg după **compoziția-țel optimă** = asocierea și proporția speciilor corespunzătoare **tipului natural fundamental de pădure**, care îmbină exigențele ecologice cu cerințele social-economice.",
+          "refs": ["NT art. 3 alin. (1)–(2)"]
+        },
+        {
+          "text": "**Compoziția de regenerare** = ponderea speciilor principale, naturale și introduse; se stabilește după o analiză a stației, cu **fișa stațională**. Asocierea depinde de stație, biologia speciilor și destinația culturii.",
+          "refs": ["NT art. 3 alin. (3)–(4)"]
+        },
+        {
+          "text": "Speciile și ecotipurile trebuie să fie **rezistente la climă**, fără impact negativ asupra biodiversității, adecvate **climei viitoare**.",
+          "refs": ["NT art. 3 alin. (6)–(7)"]
+        },
+        {
+          "text": "Este **interzisă** împădurirea pe terenuri agricole cu **valoare naturală mare, pajiști sau zone umede**, afară de refacerea habitatelor; și pe terenurile agricole cartate în ariile protejate ca ecosisteme valoroase (rarişti, stâncării, mlaștini, păduri aluviale).",
+          "refs": ["NT art. 3 alin. (8)","NT art. 11 alin. (3)"]
+        },
+        {
+          "text": "Ghidul: se promovează **zâmbrul și laricele** spre limita pădurii, **bradul** în amestecuri și făgete montane, gorunul reintrodus în goruneto-făgete, **reinstalarea șleaurilor de luncă** (interzisă substituirea lor cu plopi euramericani); se evită arboretele pure de gorun, stejar, cer, frasin.",
+          "refs": ["Ghid pct. 2.1"]
+        }
+      ],
+      "keep": [
+        "Compoziția-țel optimă = tipul natural fundamental",
+        "Fișa stațională obligatorie",
+        "Specii adaptate climei viitoare",
+        "Interzis pe pajiști, zone umede, terenuri cu valoare naturală mare",
+        "Șleaurile de luncă nu se înlocuiesc cu plopi euramericani"
+      ],
+      "quiz": [
+        {
+          "q": "Speciile folosite la împădurire trebuie să fie adecvate:",
+          "options": ["Doar climei actuale", "Condițiilor climatice viitoare", "Pieței", "Modei"],
+          "answer": 1,
+          "explain": "Art. 3 alin. (7).",
+          "ref": "NT art. 3 alin. (7)"
+        }
+      ]
+    },
+    {
+      "title": "3. Culturi pure și amestecate",
+      "paragraphs": [
+        {
+          "text": "O cultură poate fi **pură** (monocultură) sau **amestecată**; amestecul poate fi **intim, grupat sau mixt**.",
+          "refs": ["NT art. 3 alin. (5)"]
+        },
+        {
+          "text": "Ghidul: culturile pure, mai ales de **molid** în afara arealului, se evită (doborâturi, rupturi, incendii, insecte, sărăcirea solului); excepție fac **salcâmul, plopii euramericani, salcia**, care se fac pure.",
+          "refs": ["Ghid pct. 2.2"]
+        },
+        {
+          "text": "Se recomandă **amestecurile grupate**, în biogrupe: **buchete (20–100 m²)**, **grupe (100–1.000 m²)** – cele mai indicate – sau benzi. Amestecurile pot fi **permanente** sau **temporare**.",
+          "refs": ["Ghid pct. 2.2"]
+        },
+        {
+          "text": "Se evită amestecurile intime **molid-gorun, stejar-salcâm, stejar-frasin** și amestecul intim al cvercineelor cu specii repede crescătoare în tinerețe (frasin, paltin, tei, jugastru, cireș, arțar). Laricele se plantează în **benzi pure** pe culmi, zâmbrul pur în benzi spre golurile de munte.",
+          "refs": ["Ghid pct. 3","Ghid pct. 4.2"]
+        }
+      ],
+      "keep": [
+        "Pure doar: salcâm, plopi euramericani, salcie",
+        "Buchete 20–100 m²; grupe 100–1.000 m² (cele mai indicate)",
+        "Fără amestec intim molid-gorun, stejar-salcâm, stejar-frasin",
+        "Larice și zâmbru: benzi pure"
+      ],
+      "quiz": [
+        {
+          "q": "Laricele se plantează, de regulă:",
+          "options": [
+            "În amestec intim cu molidul",
+            "În benzi pure pe culmi",
+            "Doar la câmpie",
+            "Nu se plantează"
+          ],
+          "answer": 1,
+          "explain": "Ghid.",
+          "ref": "Ghid pct. 4.2"
+        }
+      ]
+    },
+    {
+      "title": "4. Grupele ecologice",
+      "paragraphs": [
+        {
+          "text": "Compozițiile de regenerare sunt fundamentate pe **grupe ecologice** = grupe de tipuri de stațiune și de pădure ecologic echivalente, omogene ca climă, relief, substrat, sol, ape, care permit aceleași măsuri de regenerare.",
+          "refs": ["NT art. 4 alin. (2)–(3)"]
+        },
+        {
+          "text": "Grupa ecologică se determină după **etajul sau zona bioclimatică** și datele din amenajament; **tipul de stațiune**, din fișa stațională, flora indicatoare, factorii limitativi; **tipul natural fundamental de pădure**, din amenajament, vegetația existentă, arboretele vecine.",
+          "refs": ["NT art. 4 alin. (4)"]
+        },
+        {
+          "text": "Ghidul stabilește pentru fiecare grupă două–trei compoziții-țel (**a1** – regenerare naturală normală; **a2** – terenuri goale, degradate, regenerate natural sub 30–40%; **a3** – refacere la câmpie și luncă, cu sol arat) și compozițiile de regenerare corespunzătoare **b1, b2, b3**, date ca **intervale**, nu proporții fixe.",
+          "refs": ["Ghid pct. 3"]
+        },
+        {
+          "text": "Dacă regenerarea naturală e insuficientă: la munte și în FD4 diferența se completează cu **rășinoase** (molid, brad, larice) și foioase; în FD3–FD1 și câmpie, cu **cvercinee** și specii de amestec valoroase.",
+          "refs": ["Ghid pct. 3"]
+        }
+      ],
+      "keep": [
+        "Grupa ecologică = stațiuni + tipuri de pădure echivalente",
+        "Compoziții-țel a1/a2/a3 ↔ compoziții de regenerare b1/b2/b3",
+        "Proporțiile sunt intervale",
+        "Completare: rășinoase la munte, cvercinee la deal–câmpie"
+      ],
+      "quiz": [
+        {
+          "q": "Compozițiile de regenerare din ghid sunt date ca:",
+          "options": ["Proporții fixe", "Intervale", "Doar nume de specii", "Număr de puieți"],
+          "answer": 1,
+          "explain": "Ghid.",
+          "ref": "Ghid pct. 3"
+        }
+      ]
+    },
+    {
+      "title": "5. Schemele de împădurire",
+      "paragraphs": [
+        {
+          "text": "**Schema** = dispozitivul de amplasare a speciilor și **numărul de puieți la hectar**. La specii repede crescătoare și stațiuni bune, **mai puțini** puieți; la specii cu creștere lentă și stațiuni slabe, **mai mulți**.",
+          "refs": ["NT art. 5"]
+        },
+        {
+          "text": "Ghidul: distanța **între rânduri** e mai mare decât **pe rând** (ex. **2,0 × 1,0**; 2,0 × 1,25; 1,75 × 1,0; 1,75 × 0,75 m) – permite mecanizarea întreținerii, golurile sunt mai mici, accesul mai bun.",
+          "refs": ["Ghid pct. 4.1"]
+        },
+        {
+          "text": "La cvercinee, după refaceri-substituiri unde speciile de ajutor se regenerează ușor: rânduri la **4,0 × 0,5–0,6 m** (puieți normali), 3 × 1,5 / 4 × 1,5 / 3 × 2 m (puieți repicați) sau tăblii 4 × 4 m cu câte 3 puieți.",
+          "refs": ["Ghid pct. 4.1"]
+        },
+        {
+          "text": "La deal și munte, unde terenul nu permite scheme regulate, puieții se plantează cât mai uniform, la adăpostul cioatelor, pietrelor și martoanelor, iar speciile de amestec în biogrupe.",
+          "refs": ["Ghid pct. 4.2"]
+        }
+      ],
+      "keep": [
+        "Repede crescătoare / stațiuni bune → mai puțini puieți",
+        "Între rânduri > pe rând (2 × 1 m)",
+        "Cvercinee: 4 × 0,5–0,6 m sau tăblii 4 × 4 m",
+        "Munte: plantare la adăpostul cioatelor"
+      ],
+      "quiz": [
+        {
+          "q": "La cvercinee după refaceri, o schemă recomandată este:",
+          "options": ["1 × 1 m", "4,0 × 0,5 m", "10 × 10 m", "0,5 × 0,5 m"],
+          "answer": 1,
+          "explain": "Ghid.",
+          "ref": "Ghid pct. 4.1"
+        }
+      ]
+    },
+    {
+      "title": "6. Pregătirea solului și tehnicile de împădurire",
+      "paragraphs": [
+        {
+          "text": "Ghidul: pregătirea **integrală**, mecanizată, la **25–35 cm** (40–45 cm pe soluri compacte), pe pante **până la 12°**, la câmpie și silvostepă; pregătirea **parțială** (vetre, fâșii, terase), la **15–20 cm**, pe pante **peste 12°**.",
+          "refs": ["Ghid pct. 5.1"]
+        },
+        {
+          "text": "Împădurirea se face prin **semănături directe**, **plantații** (majoritatea culturilor) și mai rar **butășiri** (răchită, sade). Semănături directe: **brad, molid, cvercinee, pin negru, mesteacăn**.",
+          "refs": ["NT art. 6 alin. (1)–(4)"]
+        },
+        {
+          "text": "**Bradul**: semănături sub masiv rărit la consistența **0,5** (expoziții umbrite) sau **0,6**, nu pe pante peste **30°**; arboretul matur se scoate după 5–7 ani. **Molidul**: doar în arealul lui, pante sub **20°**. **Cvercineele**: sub masiv sau pe teren descoperit; maturul se scoate în 2–3 ani. **Pinul negru**: pe dolomite și calcare. **Mesteacănul**: soluri scheletice, pante mari.",
+          "refs": ["Ghid pct. 5.2"]
+        },
+        {
+          "text": "Lipsurile grupate (**peste 4 puieți** la un loc) sau pierderile din calamități se completează sau refac în **maximum un an** de la constatare (la refaceri, de la înlăturarea factorului vătămător). Completarea lipsurilor are prioritate.",
+          "refs": ["NT art. 6 alin. (5)","Ghid pct. 5.2"]
+        },
+        {
+          "text": "Lucrări de întreținere până la starea de masiv: **retezarea puieților**, **revizuiri**, **mobilizarea solului**, **descopleșiri-degajări**.",
+          "refs": ["NT art. 7"]
+        }
+      ],
+      "keep": [
+        "Integral: 25–35 cm, pante ≤ 12°; parțial: 15–20 cm, pante > 12°",
+        "Semănături directe: brad, molid, cvercinee, pin negru, mesteacăn",
+        "Brad: sub masiv 0,5–0,6; pante ≤ 30°",
+        "Lipsuri grupate (> 4 puieți): completate în max. 1 an",
+        "Întreținere: retezare, revizuiri, mobilizare, descopleșiri"
+      ],
+      "quiz": [
+        {
+          "q": "Semănăturile directe de molid se fac pe pante de cel mult:",
+          "options": ["10°", "20°", "30°", "40°"],
+          "answer": 1,
+          "explain": "Ghid.",
+          "ref": "Ghid pct. 5.2"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Pregătirea solului după pantă",
+        "levels": [
+          {
+            "who": "Pante ≤ 12° (câmpie, silvostepă)",
+            "does": ["integral, mecanizat, 25–35 cm (40–45 cm pe soluri compacte)"],
+            "ref": "Ghid pct. 5.1"
+          },
+          {
+            "who": "Pante > 12° (deal, munte)",
+            "does": ["parțial: vetre, fâșii, terase, 15–20 cm"],
+            "ref": "Ghid pct. 5.1"
+          }
+        ]
+      }
+    },
+    {
+      "title": "7. Completarea regenerărilor naturale",
+      "paragraphs": [
+        {
+          "text": "Compoziția de regenerare privește **toată suprafața**; prin împădurire se introduc speciile care nu s-au regenerat natural. Întâi se determină desimea, compoziția și viabilitatea seminișului; completările se fac cu **puieți bine dezvoltați**.",
+          "refs": ["NT art. 8"]
+        },
+        {
+          "text": "Ghidul: speciile lipsă se introduc în golurile în care încap **cel puțin patru puieți**; lângă seminișul de fag se plantează mai des; în seminișurile **prea dese de fag nu se introduc alte specii**.",
+          "refs": ["Ghid pct. 5.4"]
+        },
+        {
+          "text": "În cvercinete, făgete și amestecuri de fag cu rășinoase, completarea se face de regulă prin plantații, în **maximum două sezoane de vegetație** de la tăierea definitivă.",
+          "refs": ["Ghid pct. 5.4"]
+        }
+      ],
+      "keep": [
+        "Întâi evaluezi seminișul, apoi completezi",
+        "Goluri de minimum 4 puieți",
+        "Nu introduci specii în seminișul prea des de fag",
+        "Completare în max. 2 sezoane de la definitivă"
+      ],
+      "quiz": [
+        {
+          "q": "Golurile din seminiș în care se introduc speciile lipsă trebuie să permită cel puțin:",
+          "options": ["1 puiet", "4 puieți", "10 puieți", "100 m²"],
+          "answer": 1,
+          "explain": "Ghid.",
+          "ref": "Ghid pct. 5.4"
+        }
+      ]
+    },
+    {
+      "title": "8. Terenurile degradate",
+      "paragraphs": [
+        {
+          "text": "Împădurirea terenurilor degradate e o problemă de **importanță strategică națională** (reconstrucție ecologică).",
+          "refs": ["NT art. 9"]
+        },
+        {
+          "text": "Terenurile se **cartează stațional** după: natura degradării, poziția fitoclimatică, forma terenului degradat, tipul de sol. Fiecare unitate primește o **formulă stațională** din **trei litere mari și o cifră**; unitățile cu aceeași formulă formează un **tip stațional**, unitatea operativă pentru care se stabilește tehnologia.",
+          "refs": ["NT art. 10 alin. (2)–(4)"]
+        },
+        {
+          "text": "Natura degradării: **E** erodate, **R** râpi, **D** depozite, **F** fugitive (alunecătoare), **N** nisipoase, **H** sărăturate, **M** mlăștinoase, **T** turboase, **W** excavate, **X** deranjate, **Y** haldate. Poziția fitoclimatică: **C** (silvostepă, câmpie), **D** (deal, FD1–FD3), **M** (muncele, FD4–FM2), **A** (munți înalți, FM3, subalpin).",
+          "refs": ["NT art. 10 alin. (5)"]
+        },
+        {
+          "text": "Terenurile agricole se împăduresc după soluțiile pentru terenuri slab degradate, pe bază de studii de teren.",
+          "refs": ["NT art. 11 alin. (1)–(2)"]
+        }
+      ],
+      "keep": [
+        "Formula stațională: 3 litere mari + o cifră",
+        "Tipul stațional = unitatea operativă",
+        "E erodate · F fugitive · N nisipuri · H sărături · M mlaștini · Y halde",
+        "C câmpie · D deal · M muncele · A munți înalți"
+      ],
+      "quiz": [
+        {
+          "q": "Unitatea operativă pentru care se stabilește tehnologia la terenuri degradate:",
+          "options": ["Grupa ecologică", "Tipul stațional", "Parcela", "U.P."],
+          "answer": 1,
+          "explain": "Art. 10 alin. (4).",
+          "ref": "NT art. 10 alin. (4)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Codificarea terenurilor degradate",
+        "items": [
+          {
+            "title": "Natura degradării",
+            "text": "E, R, D, F, N, H, M, T, W, X, Y",
+            "ref": "NT art. 10 alin. (5)"
+          },
+          {
+            "title": "Poziția fitoclimatică",
+            "text": "C câmpie · D deal · M muncele · A munți înalți",
+            "ref": "NT art. 10 alin. (5)"
+          },
+          {"title": "Forma terenului", "text": "cifră: 1, 2, 3…", "ref": "NT art. 10 alin. (5)"},
+          {"title": "Solul", "text": "literă mare: A, B, C…", "ref": "NT art. 10 alin. (5)"}
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Cifre utile",
+      "rows": [
+        {
+          "what": "Împăduriri propriu-zise",
+          "value": "teren despădurit de o perioadă de amenajare (5/10 ani)",
+          "ref": "NT art. 2 lit. a)"
+        },
+        {
+          "what": "Suprafață împădurită integral",
+          "value": "rase 70–100% · completări 10–40% · crâng ≤ 30%",
+          "ref": "Ghid pct. 1.3"
+        },
+        {"what": "Buchete / grupe", "value": "20–100 m² / 100–1.000 m²", "ref": "Ghid pct. 2.2"},
+        {
+          "what": "Schemă tipică",
+          "value": "2,0 × 1,0 m (între rânduri > pe rând)",
+          "ref": "Ghid pct. 4.1"
+        },
+        {
+          "what": "Cvercinee după refaceri",
+          "value": "4,0 × 0,5–0,6 m; tăblii 4 × 4 m",
+          "ref": "Ghid pct. 4.1"
+        },
+        {"what": "Pregătire integrală", "value": "25–35 cm; pante ≤ 12°", "ref": "Ghid pct. 5.1"},
+        {"what": "Pregătire parțială", "value": "15–20 cm; pante > 12°", "ref": "Ghid pct. 5.1"},
+        {
+          "what": "Semănături de brad",
+          "value": "sub masiv 0,5–0,6; pante ≤ 30°",
+          "ref": "Ghid pct. 5.2"
+        },
+        {"what": "Semănături de molid", "value": "în areal; pante ≤ 20°", "ref": "Ghid pct. 5.2"},
+        {
+          "what": "Lipsuri grupate",
+          "value": "> 4 puieți; completate în max. 1 an",
+          "ref": "NT art. 6 alin. (5)"
+        },
+        {
+          "what": "Completarea regenerării naturale",
+          "value": "max. 2 sezoane de la definitivă",
+          "ref": "Ghid pct. 5.4"
+        }
+      ]
+    },
+    {
+      "title": "Coduri pentru terenuri degradate",
+      "rows": [
+        {"what": "E / R / D", "value": "erodate / râpi / depozite", "ref": "NT art. 10 alin. (5)"},
+        {
+          "what": "F / N / H",
+          "value": "fugitive / nisipoase / sărăturate",
+          "ref": "NT art. 10 alin. (5)"
+        },
+        {"what": "M / T", "value": "mlăștinoase / turboase", "ref": "NT art. 10 alin. (5)"},
+        {"what": "W / X / Y", "value": "excavate / deranjate / haldate", "ref": "NT art. 10 alin. (5)"},
+        {
+          "what": "C / D / M / A",
+          "value": "câmpie / deal / muncele / munți înalți",
+          "ref": "NT art. 10 alin. (5)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "„Pure doar SPS”: salcâm, plopi euramericani, salcie. Restul în amestec.",
+    "Pantele la pregătirea solului: 12° desparte integralul (mecanizat) de parțial (vetre, terase).",
+    "Semănături directe: „B-M-C-P-M”: brad, molid, cvercinee, pin negru, mesteacăn.",
+    "„4” apare peste tot: lipsă grupată = peste 4 puieți; golul de completat = cel puțin 4 puieți; schemă cvercinee 4 m între rânduri.",
+    "Formula stațională: degradare + fitoclimat + formă (cifră) + sol, de pildă E-D-2-B."
+  ],
+  "cards": [
+    {
+      "q": "Care sunt modalitățile de realizare a compoziției de regenerare?",
+      "a": "Împăduriri propriu-zise, reîmpăduriri, completarea regenerărilor naturale.",
+      "ref": "NT art. 2"
+    },
+    {
+      "q": "Ce sunt reîmpăduririle?",
+      "a": "Reinstalarea pădurii pe terenuri de curând despădurite: după tăieri rase, calamități, ocupări temporare, substituiri, refaceri.",
+      "ref": "NT art. 2 lit. b)"
+    },
+    {
+      "q": "Ce e compoziția-țel optimă?",
+      "a": "Asocierea și proporția speciilor corespunzătoare tipului natural fundamental de pădure, care îmbină exigențele ecologice cu cerințele social-economice.",
+      "ref": "NT art. 3 alin. (2)"
+    },
+    {
+      "q": "Ce document se întocmește la stabilirea compoziției de regenerare?",
+      "a": "Fișa stațională.",
+      "ref": "NT art. 3 alin. (3)"
+    },
+    {
+      "q": "Unde e interzisă împădurirea?",
+      "a": "Pe terenuri agricole cu valoare naturală mare, pajiști, zone umede (afară de refacerea habitatelor).",
+      "ref": "NT art. 3 alin. (8)"
+    },
+    {
+      "q": "Cum poate fi amestecul de specii?",
+      "a": "Intim, grupat sau mixt.",
+      "ref": "NT art. 3 alin. (5)"
+    },
+    {
+      "q": "Ce culturi se fac de regulă pure?",
+      "a": "Salcâm, plopi euramericani, salcie.",
+      "ref": "Ghid pct. 2.2"
+    },
+    {
+      "q": "Ce suprafață are o grupă în amestecul grupat?",
+      "a": "100–1.000 m² (buchetele 20–100 m²).",
+      "ref": "Ghid pct. 2.2"
+    },
+    {
+      "q": "Ce amestecuri intime se evită?",
+      "a": "Molid-gorun, stejar-salcâm, stejar-frasin.",
+      "ref": "Ghid pct. 3"
+    },
+    {
+      "q": "Ce e grupa ecologică?",
+      "a": "Grupă de tipuri de stațiune și de pădure ecologic echivalente, care permit aceleași măsuri de regenerare.",
+      "ref": "NT art. 4 alin. (2)"
+    },
+    {
+      "q": "Ce sunt compozițiile a1, a2, a3?",
+      "a": "Compoziții-țel: a1 regenerare naturală normală; a2 terenuri goale/degradate; a3 refaceri la câmpie și luncă.",
+      "ref": "Ghid pct. 3"
+    },
+    {
+      "q": "Ce e schema de împădurire?",
+      "a": "Dispozitivul de amplasare a speciilor și numărul de puieți la hectar.",
+      "ref": "NT art. 5 alin. (1)"
+    },
+    {
+      "q": "Când se folosesc mai puțini puieți la hectar?",
+      "a": "La speciile repede crescătoare și în stațiunile de bonitate superioară.",
+      "ref": "NT art. 5 alin. (2)"
+    },
+    {
+      "q": "De ce distanța între rânduri e mai mare decât pe rând?",
+      "a": "Permite mecanizarea, golurile sunt mai mici, accesul e mai bun.",
+      "ref": "Ghid pct. 4.1"
+    },
+    {
+      "q": "Până la ce pantă se pregătește solul integral?",
+      "a": "12°, mecanizat, la 25–35 cm.",
+      "ref": "Ghid pct. 5.1"
+    },
+    {
+      "q": "Cum se pregătește solul pe pante mari?",
+      "a": "Parțial (vetre, fâșii, terase), la 15–20 cm.",
+      "ref": "Ghid pct. 5.1"
+    },
+    {
+      "q": "La ce specii se fac semănături directe?",
+      "a": "Brad, molid, cvercinee, pin negru, mesteacăn.",
+      "ref": "NT art. 6 alin. (2)"
+    },
+    {
+      "q": "Când se folosesc butășirile directe?",
+      "a": "La culturile de răchită și la sade.",
+      "ref": "NT art. 6 alin. (4)"
+    },
+    {"q": "Pe ce pante nu se seamănă bradul?", "a": "Peste 30°.", "ref": "Ghid pct. 5.2"},
+    {"q": "Unde se seamănă pinul negru?", "a": "Pe dolomite și calcare.", "ref": "Ghid pct. 5.2"},
+    {
+      "q": "În cât timp se completează lipsurile grupate?",
+      "a": "Max. 1 an de la constatare.",
+      "ref": "NT art. 6 alin. (5)"
+    },
+    {
+      "q": "Care sunt lucrările de întreținere a culturilor?",
+      "a": "Retezarea puieților, revizuiri, mobilizarea solului, descopleșiri-degajări.",
+      "ref": "NT art. 7"
+    },
+    {
+      "q": "Ce verifici înainte de a completa o regenerare naturală?",
+      "a": "Desimea, compoziția și viabilitatea seminișului.",
+      "ref": "NT art. 8 alin. (2)"
+    },
+    {
+      "q": "Introduci alte specii în seminișul foarte des de fag?",
+      "a": "Nu.",
+      "ref": "Ghid pct. 5.4"
+    },
+    {
+      "q": "În cât timp se completează regenerarea naturală după definitivă?",
+      "a": "Max. două sezoane de vegetație.",
+      "ref": "Ghid pct. 5.4"
+    },
+    {
+      "q": "Din ce e formată formula stațională a unui teren degradat?",
+      "a": "Trei litere mari și o cifră.",
+      "ref": "NT art. 10 alin. (3)"
+    },
+    {
+      "q": "Ce înseamnă litera F la terenurile degradate?",
+      "a": "Terenuri fugitive (alunecătoare).",
+      "ref": "NT art. 10 alin. (5)"
+    },
+    {
+      "q": "Ce înseamnă poziția fitoclimatică „M”?",
+      "a": "Muncele: FD4, FM1, FM2.",
+      "ref": "NT art. 10 alin. (5)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Împădurirea unei poieni neîmpădurite de 15 ani este:",
+      "options": ["Reîmpădurire", "Împădurire propriu-zisă", "Completare", "Substituire"],
+      "answer": 1,
+      "explain": "Art. 2 lit. a).",
+      "ref": "NT art. 2 lit. a)"
+    },
+    {
+      "q": "Plantarea după o tăiere rasă de molid este:",
+      "options": ["Împădurire propriu-zisă", "Reîmpădurire", "Completare", "Butășire"],
+      "answer": 1,
+      "explain": "Art. 2 lit. b).",
+      "ref": "NT art. 2 lit. b)"
+    },
+    {
+      "q": "Compoziția-țel optimă corespunde:",
+      "options": [
+        "Celei mai productive specii",
+        "Tipului natural fundamental de pădure",
+        "Cererii pieței",
+        "Speciei celei mai ieftine"
+      ],
+      "answer": 1,
+      "explain": "Art. 3 alin. (2).",
+      "ref": "NT art. 3 alin. (2)"
+    },
+    {
+      "q": "Este interzisă împădurirea pe:",
+      "options": [
+        "Terenuri degradate",
+        "Pajiști și zone umede (cu excepția refacerii habitatelor)",
+        "Poieni din pădure",
+        "Terenuri erodate"
+      ],
+      "answer": 1,
+      "explain": "Art. 3 alin. (8).",
+      "ref": "NT art. 3 alin. (8)"
+    },
+    {
+      "q": "Culturile care se fac de regulă pure sunt:",
+      "options": ["Molid", "Salcâm, plopi euramericani, salcie", "Gorun", "Fag"],
+      "answer": 1,
+      "explain": "Ghid.",
+      "ref": "Ghid pct. 2.2"
+    },
+    {
+      "q": "Amestecul recomandat în practică este:",
+      "options": ["Intim", "Grupat (buchete, grupe, benzi)", "Pe rânduri alternante", "Pur"],
+      "answer": 1,
+      "explain": "Ghid.",
+      "ref": "Ghid pct. 2.2"
+    },
+    {
+      "q": "Grupele în amestecul grupat au:",
+      "options": ["1–10 m²", "20–100 m²", "100–1.000 m²", "peste 1 ha"],
+      "answer": 2,
+      "explain": "Buchetele 20–100 m².",
+      "ref": "Ghid pct. 2.2"
+    },
+    {
+      "q": "Grupa ecologică reprezintă:",
+      "options": [
+        "O grupă de specii",
+        "Grupe de tipuri de stațiune și de pădure ecologic echivalente",
+        "O unitate de gospodărire",
+        "O clasă de producție"
+      ],
+      "answer": 1,
+      "explain": "Art. 4.",
+      "ref": "NT art. 4 alin. (2)"
+    },
+    {
+      "q": "Numărul de puieți la hectar e mai mic:",
+      "options": [
+        "La specii cu creștere lentă",
+        "La specii repede crescătoare și stațiuni bune",
+        "Pe terenuri degradate",
+        "La munte"
+      ],
+      "answer": 1,
+      "explain": "Art. 5.",
+      "ref": "NT art. 5 alin. (2)"
+    },
+    {
+      "q": "În schemele de împădurire, distanța între rânduri este, de regulă:",
+      "options": ["Mai mică decât pe rând", "Mai mare decât pe rând", "Egală", "Variabilă aleator"],
+      "answer": 1,
+      "explain": "Ghid.",
+      "ref": "Ghid pct. 4.1"
+    },
+    {
+      "q": "Pregătirea integrală a solului se face pe pante de până la:",
+      "options": ["5°", "12°", "20°", "30°"],
+      "answer": 1,
+      "explain": "Ghid.",
+      "ref": "Ghid pct. 5.1"
+    },
+    {
+      "q": "Adâncimea pregătirii integrale a solului:",
+      "options": ["10 cm", "15–20 cm", "25–35 cm", "60 cm"],
+      "answer": 2,
+      "explain": "40–45 cm pe soluri compacte.",
+      "ref": "Ghid pct. 5.1"
+    },
+    {
+      "q": "Care specie NU e menționată pentru semănături directe?",
+      "options": ["Brad", "Cvercinee", "Plop euramerican", "Mesteacăn"],
+      "answer": 2,
+      "explain": "Art. 6 alin. (2).",
+      "ref": "NT art. 6 alin. (2)"
+    },
+    {
+      "q": "Semănăturile directe de brad se fac sub masiv rărit la consistența:",
+      "options": ["0,2–0,3", "0,5–0,6", "0,8", "Teren descoperit"],
+      "answer": 1,
+      "explain": "Ghid.",
+      "ref": "Ghid pct. 5.2"
+    },
+    {
+      "q": "Lipsurile grupate se completează în maximum:",
+      "options": ["3 luni", "1 an", "2 ani", "5 ani"],
+      "answer": 1,
+      "explain": "Art. 6 alin. (5).",
+      "ref": "NT art. 6 alin. (5)"
+    },
+    {
+      "q": "Lipsa grupată înseamnă, după norme, mai mult de:",
+      "options": ["2 puieți", "4 puieți", "10 puieți", "1% din total"],
+      "answer": 1,
+      "explain": "Art. 6 alin. (5).",
+      "ref": "NT art. 6 alin. (5)"
+    },
+    {
+      "q": "Care NU e lucrare de întreținere a culturilor?",
+      "options": ["Revizuirea", "Mobilizarea solului", "Răritura", "Descopleșirea"],
+      "answer": 2,
+      "explain": "Răritura e lucrare de îngrijire a arboretelor.",
+      "ref": "NT art. 7"
+    },
+    {
+      "q": "În seminișurile prea dese de fag:",
+      "options": [
+        "Se introduc rășinoase",
+        "Nu se introduc alte specii",
+        "Se plantează gorun",
+        "Se seamănă brad"
+      ],
+      "answer": 1,
+      "explain": "Ghid.",
+      "ref": "Ghid pct. 5.4"
+    },
+    {
+      "q": "Formula stațională pentru terenuri degradate are:",
+      "options": ["O cifră", "Trei litere mari și o cifră", "Două cifre", "Numele grupei ecologice"],
+      "answer": 1,
+      "explain": "Art. 10 alin. (3).",
+      "ref": "NT art. 10 alin. (3)"
+    },
+    {
+      "q": "Litera „H” în codificarea terenurilor degradate înseamnă:",
+      "options": ["Halde", "Sărături", "Humus", "Hidromorfe"],
+      "answer": 1,
+      "explain": "Haldele sunt Y.",
+      "ref": "NT art. 10 alin. (5)"
+    },
+    {
+      "q": "Poziția fitoclimatică „C” corespunde:",
+      "options": ["Etajelor de munte", "Silvostepei și câmpiei", "Dealurilor", "Subalpinului"],
+      "answer": 1,
+      "explain": "Art. 10 alin. (5).",
+      "ref": "NT art. 10 alin. (5)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Parchetul de molid ras la 1.200 m",
+      "situation": "Ai de reîmpădurit un parchet de 3 ha, ras, de molid, pe pantă de 25°, într-o zonă de amestecuri de fag cu rășinoase (FM2).",
+      "steps": [
+        {
+          "q": "Ce modalitate de regenerare e?",
+          "a": "Reîmpădurire după tăiere rasă.",
+          "ref": "NT art. 2 lit. b)"
+        },
+        {
+          "q": "Plantezi molid pur?",
+          "a": "Nu, culturile pure de molid se evită; faci amestec grupat cu brad, larice, fag, paltin, în biogrupe.",
+          "ref": "Ghid pct. 2.2"
+        },
+        {
+          "q": "Cum pregătești solul?",
+          "a": "Parțial, în vetre, la 15–20 cm, fiind pantă peste 12°; plantezi la adăpostul cioatelor și martoanelor.",
+          "ref": "Ghid pct. 5.1"
+        },
+        {
+          "q": "Dacă după un an lipsesc 6 puieți alăturați?",
+          "a": "E lipsă grupată (peste 4 puieți); o completezi în maximum un an de la constatare.",
+          "ref": "NT art. 6 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "Făgetul după tăierea definitivă",
+      "situation": "Într-un făget s-a făcut tăierea definitivă. Regenerarea naturală de fag e foarte deasă în partea de sus, iar jos sunt goluri de câte 30–50 m².",
+      "steps": [
+        {
+          "q": "Ce faci întâi?",
+          "a": "Determini desimea, compoziția și viabilitatea seminișului natural.",
+          "ref": "NT art. 8 alin. (2)"
+        },
+        {
+          "q": "Introduci specii în partea deasă?",
+          "a": "Nu, în seminișurile prea dese de fag nu se introduc alte specii.",
+          "ref": "Ghid pct. 5.4"
+        },
+        {
+          "q": "Ce pui în goluri și până când?",
+          "a": "Specii principale de amestec potrivite stației (sau rășinoase în biogrupe), prin plantații, în maximum două sezoane de vegetație de la definitivă.",
+          "ref": "Ghid pct. 5.4"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "NT",
+        "name": "Normele tehnice privind compoziții, scheme și tehnologii de regenerare și împădurire (Ordinul 2533/2022)",
+        "title": "Normele tehnice privind compoziții, scheme și tehnologii de regenerare a pădurilor și de împădurire a terenurilor degradate",
+        "note": "Aprobate prin Ordinul MMAP nr. 2.533/2022, în vigoare din 14 octombrie 2022; rămân valabile până la noile norme (Codul silvic art. 164 alin. (16)).",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["(1)","Normele tehnice privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate stabilesc compoziţii, scheme şi tehnologii de regenerare a pădurilor pentru terenuri normale staţional sau puţin modificate antropic şi pentru terenuri degradate."],
+              ["(2)","Regenerarea arboretelor în terenuri normale staţional sau puţin modificate antropic se realizează pe cale naturală, în cazul aplicării tratamentelor care favorizează instalarea şi dezvoltarea seminţişului, pe cale artificială prin plantaţii, semănături directe, butăşiri sau mixt."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["","Modalităţile de realizare a compoziţiilor de regenerare sunt următoarele:"],
+              ["a)","împăduriri propriu-zise - în cazul instalării culturilor forestiere pe terenuri pe care pădurea nu a existat anterior sau de pe care a fost înlăturată de multă vreme, de regulă, o perioadă de amenajare de 5/10 ani - poieni, goluri, terenuri erodate, nisipuri mobile, terenuri neforestiere destinate înfiinţărilor perdelelor forestiere de protecţie;"],
+              ["b)","reîmpăduriri - în cazul reinstalării vegetaţiei forestiere pe terenuri de curând despădurite, după tăieri rase, pe cele dezgolite în urma calamităţilor şi pe cele care au fost ocupate temporar din fondul forestier naţional, precum şi împăduriri care se execută în scopul substituirii, refacerii sau ameliorării arboretelor necorespunzătoare staţional;"],
+              ["c)","completarea regenerărilor naturale - respectiv plantaţii şi semănături directe care se execută sub masivul pădurii sau după exploatarea acesteia, în scopul completării suprafeţelor neregenerate, înlocuirii seminţişului vătămat sau a celui alcătuit din specii nedorite, promovării unor specii valoroase, insuficient reprezentate în arboretul matern."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["(1)","Alegerea speciilor în vederea realizării unor culturi forestiere corespunzătoare condiţiilor staţionale şi funcţiilor social-economice atribuite se stabileşte în funcţie de compoziţia-ţel optimă pentru fiecare suprafaţă destinată lucrărilor de regenerare."],
+              ["(2)","Prin compoziţia-ţel optimă se înţelege asocierea şi proporţia speciilor din cadrul unui arboret, corespunzătoare tipului natural fundamental de pădure, care îmbină în modul cel mai favorabil exigenţele ecologice ale speciilor din cele mai valoroase provenienţe cu cerinţele social-economice, în momentul final al existenţei lui."],
+              ["(3)","Compoziţiile de regenerare reprezintă ponderea speciilor principale provenite din regenerarea naturală şi a celor introduse artificial, în culturile create. Stabilirea corespunzătoare a speciilor propuse la înlocuirea arboretelor prezintă o importanţă fundamentală în silvicultură şi trebuie să se facă în urma unei analize temeinice ecosistemice a condiţiilor staţionale, în special de sol şi de climă, a vegetaţiei existente, naturală sau introdusă, şi chiar a vegetaţiei erbacee, întocmindu-se fişa staţională."],
+              ["(4)","Asocierea speciilor forestiere în culturi se va face în funcţie de:"],
+              ["a)","specificul staţional;"],
+              ["b)","caracteristicile biologice ale speciilor;"],
+              ["c)","destinaţia culturii."],
+              ["(5)","În raport cu caracteristicile menţionate, o cultură silvică poate fi constituită dintr-o singură specie - cultură pură sau monocultură - sau din mai multe specii - cultură amestecată. Amestecul poate fi intim, grupat sau mixt."],
+              ["(6)","Speciile şi ecotipurile utilizate la împădurire trebuie să fie rezistente la climă şi fără impact negativ asupra biodiversităţii."],
+              ["(7)","La împăduriri se vor utiliza materiale forestiere de reproducere din speciile şi ecotipurile de arbori care sunt adecvate condiţiilor climatice viitoare ale României."],
+              ["(8)","Se interzice împădurirea sau reîmpădurirea pe terenuri agricole cu valoare naturală mare, pajişti sau zone umede, cu excepţia refacerii habitatului, care să contribuie în mod pozitiv la obiectivele de conservare a biodiversităţii, managementul apei şi protecţia solului."],
+              ["(9)","Împădurirea urbană se realizează printr-o abordare la nivel de peisaj care să contribuie la consolidarea conectivităţii cu zone naturale sau seminaturale, cu accent pe conectarea habitatelor cu infrastructura verde şi coridoarele ecologice."],
+              ["(10)","Pentru proiectele de împădurire şi reîmpădurire care urmează să fie realizate în zonele expuse şi vulnerabile la pericolele climatice, în special la secetă şi inundaţii, s-au stabilit cerinţe speciale, inclusiv la nivel regional, care sunt prezentate detaliat în Ghidul privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","La alegerea speciilor pentru împădurire se are în vedere corelarea funcţiilor pe care trebuie să le îndeplinească culturile respective cu cerinţele speciilor şi specificul condiţiilor naturale."],
+              ["(2)","Condiţiile fizico-geografice şi vegetaţia forestieră reprezintă indicatori semnificativi ai condiţiilor ecologice, iar compoziţiile de regenerare s-au fundamentat pe ansambluri de staţiuni - vegetaţie, care reprezintă grupe de tipuri de staţiuni şi de tipuri de pădure ecologic echivalente, denumite convenţional grupe ecologice."],
+              ["(3)","La constituirea grupelor ecologice s-au avut în vedere în primul rând condiţiile de climă, relief, substrat, sol, ape supra şi subterane, care este necesar să prezinte în cadrul aceleiaşi grupe ecologice un grad înaintat de omogenitate, dar şi coexistenţa unor tipuri naturale de pădure apropiate ca specific în cadrul grupei ecologice respective, care să permită aplicarea aceloraşi măsuri silviculturale, în primul rând de regenerare."],
+              ["(4)","Grupa ecologică se determină în funcţie de etajul sau zona bioclimatică şi de datele din amenajamentul silvic, astfel:"],
+              ["a)","tipul de staţiune (TS) se determină pe baza:"],
+              ["(i)","elementelor obţinute prin întocmirea fişei staţionale şi eventual prin cartare staţională specială;"],
+              ["(ii)","indicaţiilor oferite de vegetaţia lemnoasă şi erbacee - tip de pădure, tip de floră indicatoare;"],
+              ["(iii)","factorilor staţionali care se manifestă limitativ pentru creştere;"],
+              ["b)","tipul natural fundamental de pădure (TP) se determină pe baza:"],
+              ["(i)","datelor din amenajamente sau alte documente/studii;"],
+              ["(ii)","elementelor de caracterizare a vegetaţiei naturale existente;"],
+              ["(iii)","investigaţiilor efectuate în arborete vecine, cu condiţii staţionale asemănătoare;"],
+              ["(iv)","elementelor de caracterizare a florei indicatoare specifice tipului natural fundamental de pădure;"],
+              ["(v)","altor informaţii."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","Schemele de împădurire reprezintă dispozitivul de amplasare pe teren a speciilor din compoziţia de împădurire şi numărul de puieţi pe unitatea de suprafaţă."],
+              ["(2)","Factorii care influenţează alegerea unei scheme de împădurire pot fi de natură silvobiologică, ecologică, tehnico-economică, iar numărul de puieţi sau de vetre la hectar variază în funcţie de caracteristicile speciei principale, de etajul sau zona de vegetaţie, de bonitatea staţiunii, de tipul de cultură şi de categoria de teren. De regulă, în cazul speciilor repede crescătoare şi în staţiunile de bonitate superioară se va utiliza un număr mai mic de puieţi la hectar, în timp ce în cazul speciilor cu creştere mai înceată în tinereţe şi în staţiunile de bonitate inferioară se va utiliza un număr mai mare de puieţi."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["(1)","Împăduririle se execută prin semănături directe, plantaţii, mai rar prin butăşiri directe."],
+              ["(2)","Semănăturile directe se realizează în special la brad, molid, cvercinee, pin negru şi mesteacăn, iar modalitatea de realizare diferă în funcţie de temperamentul speciilor, de expoziţie, de înclinarea terenului, de condiţiile pedostaţionale."],
+              ["(3)","Plantarea este tehnica de împădurire prin care se instalează majoritatea culturilor forestiere. Criteriile de stabilire a dimensiunilor şi calităţii puieţilor sunt cele prevăzute de standardele în vigoare."],
+              ["(4)","Butăşirile directe se utilizează la înfiinţarea culturilor de răchită şi în cazul folosirii sadelor."],
+              ["(5)","Indiferent de metoda de împădurire, lipsurile grupate - mai mari de 4 puieţi la un loc - sau pierderile din cauza calamităţilor vor fi completate sau refăcute în maximum 1 an de la constatare. În cazul refacerilor, completările se vor efectua în maximum un an de la înlăturarea factorului vătămător."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["","Principalele lucrări de întreţinere a culturilor sunt: retezarea puieţilor, revizuiri, mobilizarea solului, îndepărtarea vegetaţiei copleşitoare prin descopleşiri - degajări. Aceste lucrări se vor efectua de la instalarea culturii şi până la încheierea stării de masiv."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["(1)","Compoziţia de regenerare se referă la întreaga suprafaţă a unităţii staţionale, prin împădurire urmând să se introducă speciile care nu s-au regenerat natural sau cele care se recomandă a fi utilizate, în scopul creşterii productivităţii arboretelor din grupa ecologică respectivă."],
+              ["(2)","În toate cazurile este necesar ca să se procedeze mai întâi la determinarea desimii, compoziţiei şi viabilităţii seminţişului instalat în mod natural, a modului de răspândire şi a posibilităţilor de utilizare a acestora în compoziţia viitorului arboret. Completările se vor face, de regulă, cu puieţi bine dezvoltaţi."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9",
+            "items": [
+              ["","Problema împăduririi terenurilor degradate este de importanţă deosebită, având în vedere condiţiile grele de vegetaţie oferite de aceste terenuri, extinderea acestor terenuri, consecinţele ecologice şi economice negative ale proceselor de degradare. Prin urmare, problema reconstrucţiei ecologice prin împădurire a acestor terenuri este o problemă de importanţă strategică naţională."]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["(1)","Terenurile degradate destinate împăduririi sunt cartate staţional, scopul fiind de a caracteriza, clasifica şi separa pe teren şi pe hărţi unităţi staţionale cât mai omogene, care se diferenţiază între ele, în anumite limite de variaţie ale condiţiilor staţionale. Cartarea în scop silvoameliorativ a acestor terenuri presupune ca fiecare unitate delimitată să prezinte caracteristici staţionale care să reclame măsuri distincte de consolidare, ameliorare şi punere în valoare, prin culturi forestiere, a terenului luat în considerare."],
+              ["(2)","Criteriile de cartare ale metodei staţionale unitare sunt următoarele:"],
+              ["a)","natura degradării şi, respectiv, categoria de teren degradat;"],
+              ["b)","poziţia fitoclimatică a locului;"],
+              ["c)","forma de teren degradat, dată de fizionomia terenului respectiv;"],
+              ["d)","tipul de sol şi caracteristica lui de bază."],
+              ["(3)","Metoda de cartare are la bază o schemă generală de clasificare staţională a terenurilor degradate. Pentru identificarea unităţilor staţionale în funcţie de aspectul lor exterior şi de caracterele solului, acestea vor fi separate pe teren, separate şi numerotate pe materialul cartografic, iar apoi descrise şi caracterizate. Descrierea se va face arătându-se, rând pe rând, natura degradării şi categoria de teren degradat, etajul fitoclimatic, forma de teren degradat, altitudinea, panta, expoziţia, tipul de sol, profunzimea şi textura solului, gradul de înierbare, roca subiacentă, iar caracterizarea se va realiza cu ajutorul notaţiilor prezentate, stabilind pentru fiecare unitate staţională câte o formulă staţională, formată din trei litere mari şi o cifră referitoare la criteriile metodei, care arată specificul ecologic şi potenţialul productiv al terenului respectiv."],
+              ["(4)","Unităţile staţionale se încadrează în tipuri staţionale, în funcţie de formulele staţionale. Tipul staţional cuprinde unităţile staţionale cu aceeaşi formulă staţională şi reprezintă unitatea operativă de lucru, pentru care se stabileşte tehnologia de ameliorare."],
+              ["(5)","Codificarea tipurilor de staţiune de terenuri degradate (TSD) se face utilizând următoarele simboluri:"],
+              ["a)","natura degradării şi, respectiv, categoria de teren degradat vor fi notate cu:"],
+              ["","E - terenuri erodate;"],
+              ["","R - râpi şi taluzuri naturale;"],
+              ["","D - depozite naturale de materiale deplasate;"],
+              ["","F - terenuri fugitive (alunecătoare);"],
+              ["","N - terenuri nisipoase;"],
+              ["","H - terenuri sărăturate;"],
+              ["","M - terenuri mlăştinoase;"],
+              ["","T - terenuri turboase;"],
+              ["","W - terenuri excavate;"],
+              ["","X - terenuri deranjate;"],
+              ["","Y - terenuri haldate;"],
+              ["b)","poziţia fitoclimatică a locului se va nota cu:"],
+              ["","C - etajele Ss şi CF;"],
+              ["","D - regiunea de deal - FD1, FD2 şi FD3;"],
+              ["","M - staţiuni din regiunea de muncele - FD4, FM1 şi FM2;"],
+              ["","A - staţiuni din regiunea munţilor înalţi - FM3 şi Sa;"],
+              ["c)","forma de teren degradat, dată de fizionomia terenului respectiv, reprezintă intensitatea, forma degradării sau a terenului şi va fi notat cu o cifră (1, 2, 3 . . . . . . . . . .);"],
+              ["d)","tipul de sol şi caracteristica lui de bază sau alte caracteristici ale degradării vor fi notate cu o literă mare (A, B, C . . .)."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["(1)","Terenurile cu destinaţie agricolă, care chiar dacă nu sunt vizibil afectate de degradare, prezintă condiţii staţionale diferite de condiţiile terenurilor din fondul forestier naţional, acestea fiind apropiate de specificul terenurilor degradate."],
+              ["(2)","Soluţiile de împădurire a terenurilor cu destinaţie agricolă se stabilesc în baza studiilor de teren şi au în vedere soluţiile de împădurire specifice terenurilor slab erodate sau a altor categorii de terenuri afectate slab de degradare, în funcţie de factorii limitativi identificaţi, cuprinse în Ghidul privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate, în vigoare."],
+              ["(3)","Este interzisă împădurirea terenurilor cu destinaţie agricolă care au fost cartate prin planurile de management ale ariilor naturale protejate ca ecosisteme cu valoare conservativă ridicată, precum rariştile naturale, stâncăriile, mlaştinile, grohotişurile, tufărişurile, pădurile aluviale, ecosistemele edificate de plante ierboase."]
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Ghid",
+        "name": "Ghidul de bune practici privind compoziții, scheme și tehnologii de regenerare și împădurire (2022)",
+        "title": "Ghidul de bune practici privind compoziții, scheme și tehnologii de regenerare și împădurire",
+        "note": "Publicat în M. Of. nr. 1000 bis din 14 octombrie 2022. Este inclus doar capitolul I (principii, scheme, tehnologii); capitolul II, cu compozițiile pe cele peste 100 de grupe ecologice, și anexele sunt prea mari pentru aplicație.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Pct. 1 – Referitor la specificul lucrărilor de regenerare a pădurilor în terenuri normale (staţiuni naturale sau puţin modificate antropic)",
+            "items": [
+              ["","Regenerarea pădurilor (arboretelor) în terenuri normale (staţiuni,,naturale\") sau puţin modificate antropic se realizează pe cale naturală (în cazul aplicării tratamentelor care favorizează instalarea şi dezvoltarea seminţişului) şi pe cale artificială (prin plantaţii, semănături directe, butăşiri) şi mixt."],
+              ["","Prin \"Ghidul privind alegerea şi aplicarea tratamentelor\" se stabilesc modalităţile de lucru în toate situaţiile în care se urmăreşte promovarea şi realizarea în proporţie ridicată a regenerării pădurilor pe cale naturală. Prin Ghidul privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate se stabilesc compoziţiile- ţel optime (de referinţă) şi compoziţiile de regenerare (pe cale naturală sau artificială), având în vedere condiţiile staţionale concrete şi tipul natural fundamental de pădure, ca indicator al acestor condiţii (în cazul în care nu a suferit modificări). Atunci când în ceea ce priveşte vegetaţia forestieră s-au produs modificări importante şi nu se mai poate reconstitui tipul natural fundamental de pădure, pentru determinarea compoziţiilor ţel şi de regenerare, accentul trebuie să fie pus pe cunoaşterea condiţiilor staţionale."]
+            ]
+          },
+          {
+            "no": "1.1",
+            "label": "Pct. 1.1 – Modalităţile de realizare a compoziţiilor de regenerare",
+            "items": [
+              ["","În acest sens se deosebesc: | –"],
+              ["","Împăduriri propriu-zise - în cazul instalării culturilor forestiere pe terenuri pe care pădurea nu a existat anterior sau de pe care a fost înlăturată de multă vreme (de regulă, o perioadă de amenajare de 5/10 ani, după caz) (poieni, goluri, terenuri erodate, nisipuri mobile, terenuri neforestiere destinate înfiinţărilor perdelelor forestiere de protecţie etc.);"],
+              ["","–"],
+              ["","Reîmpăduriri - în cazul reinstalării vegetaţiei forestiere pe terenuri de curând despădurite, în care se încadrează:"],
+              ["–","reîmpădurirea suprafeţelor (parchetelor) exploatate prin tăieri rase (la molid, pin, plopi euramericani), a celor dezgolite prin calamităţi (incendii, doborâturi de vânt, uscări în masă etc.) şi a celor care au fost scoase temporar din fondul forestier (drumuri dezafectate, terenuri de sub liniile electrice aeriene, organizări de şantier etc.);"],
+              ["–","împăduriri care se execută în scopul înlocuirii (substituirii), refacerii sau ameliorării arboretelor necorespunzătoare."],
+              ["","–"],
+              ["","Completarea regenerărilor naturale - respectiv plantaţii şi semănături directe care se execută sub masivul pădurii sau după exploatarea acesteia, în scopul completării porţiunilor neregenerate, înlocuirii seminţişului vătămat sau a celui alcătuit din specii nedorite, promovării unor specii valoroase, insuficient reprezentate în arboretul matern etc."]
+            ]
+          },
+          {
+            "no": "1.2",
+            "label": "Pct. 1.2 – Categoriile de terenuri de împădurit (reîmpădurit)",
+            "items": [
+              ["","Terenurile de împădurit care constituie obiectivul Ghidului se clasifică astfel:"],
+              ["","–"],
+              ["","Terenuri goale sau practic lipsite de seminţiş utilizabil, care cuprind:"],
+              ["–","poieni şi goluri neregenerate din cuprinsul pădurii, terenuri preluate în fondul forestier, destinate împăduririi;"],
+              ["–","terenuri dezgolite în urma unor calamităţi (incendii, doborâturi şi rupturi de vânt, uscări în masă etc.);"],
+              ["–","terenuri (parchete) rezultate în urma exploatării prin tăieri rase prevăzute a se regenera pe cale artificială;"],
+              ["–","terenuri aflate în folosinţă temporară la alţi deţinători şi reprimite pentru a fi împădurite."],
+              ["","–"],
+              ["","Terenuri (parchete) rezultate în urma exploatării arboretelor necorespunzătoare:"],
+              ["–","arborete derivate provizorii (mestecănişuri, plopişuri de plop tremurător, arţărete, cărpinete ş.a.);"],
+              ["–","arborete slab productive care nu se pot regenera pe cale naturală;"],
+              ["–","arborete în care se execută lucrări de ameliorare în scopul îmbunătăţirii compoziţiei şi consistenţei."],
+              ["","–"],
+              ["","Terenuri incomplet regenerate pe cale naturală:"],
+              ["–","arborete parcurse cu tăieri de regenerare sub adăpost (cu porţiuni goale neregenerate, incomplet regenerate sau regenerate cu specii neindicate în compoziţia de regenerare, cu seminţiş neutilizabil sau vătămat etc.);"],
+              ["–","arborete parcurse cu tăieri de crâng simplu cu porţiuni goale şi neregenerate, în care este posibilă şi indicată introducerea unor specii valoroase."],
+              ["","–"],
+              ["","Alte terenuri, în care se execută completări în plantaţii, semănături directe;"]
+            ]
+          },
+          {
+            "no": "1.3",
+            "label": "Pct. 1.3 – Modul de stabilire şi de înregistrare a lucrărilor de regenerare",
+            "items": [
+              ["","Din suprafaţa totală regenerată, suprafaţa împădurită reprezintă contribuţia efectivă a lucrărilor de împăduriri la realizarea compoziţiei de regenerare pe suprafaţa respectivă."],
+              ["","În practică, se pot întâlni următoarele situaţii:"],
+              ["–","Împădurirea terenurilor fără vegetaţie forestieră şi a celor rezultate în urma tăierilor rase (substituiri de plopi euramericani, refaceri etc.), în care pregătirea terenului şi a solului se recomandă a se efectua pe toată suprafaţa (la câmpie şi parţial la coline). În aceste cazuri, suprafaţa parcursă cu lucrări este egală cu suprafaţa efectiv împădurită. Se asimilează aceastei categorii şi împăduririle efectuate prin introducerea în totalitate a speciilor principale, în suprafeţele în care elemente de subarboret existente se integrează în compoziţia de regenerare."],
+              ["–","Împădurirea terenurilor rezultate în urma tăierilor rase a arboretelor de răşinoase sau în urma tăierilor de refaceri - substituiri din zonele de munte şi deal, în care nu este indicată pregătirea terenului şi a solului pe toată suprafaţa. În acest caz suprafaţa împădurită integral reprezintă de regulă 70 - 100% din suprafaţa parcursă cu lucrări de împăduriri şi se stabileşte în funcţie de suprafaţa acoperită de seminţişuri utilizabile din specii principale."],
+              ["–","Împăduriri în completarea regenerărilor naturale, care se execută în urma aplicării tratamentelor cu regenerare sub adăpost şi pentru ameliorarea arboretelor, în acest caz suprafaţa împădurită integral reprezentând de regulă 10-40% din suprafaţa parcursă. Aceasta se determină în funcţie de mărimea suprafeţelor goale şi incomplet regenerate sau regenerate cu specii provizorii (care în majoritatea cazurilor se substituie, nefiind indicate în compoziţia de regenerare) şi de numărul de puieţi folosiţi. În cazurile în care împădurirea se execută pe suprafeţe compacte mai mari de 0.5 ha, acestea se vor constitui ca unităţi amenajistice separate."],
+              ["–","Împăduriri executate în completarea regenerărilor naturale rezultate în urma aplicării tratamentului de crâng. În acest caz suprafaţa împădurită integral reprezintă până la 30% din suprafaţa parcursă şi se stabileşte în funcţie de porţiunile goale şi neregenerate în care este posibilă şi indicată completarea regenerărilor naturale."],
+              ["","Repartizarea pe specii a suprafeţelor împădurite integral se va face în funcţie de proporţia de participare a speciilor principale în compoziţia de împădurire aplicată. Suprafeţele aferente speciilor de ajutor şi arbuştilor nu se vor evidenţia decât în cazul în care acestea vor avea rol de specii principale pe suprafaţa respectivă (culturi de arbuşti fructiferi, terenuri degradate cu versanţi foarte înclinaţi, pe care nu se vor planta specii principale cu port înalt din cauza pericolului de dezrădăcinare la vârste mai mari, terenuri cu condiţii extreme în care în primul ciclu nu este posibilă folosirea speciilor principale etc.)."],
+              ["","În legătură cu cele menţionate se mai fac următoarele precizări:"],
+              ["–","în cazul compoziţiilor de regenerare în care se folosesc numai specii principale, suprafeţele împădurite pe specii se vor determina în raport cu proporţia de participare a acestora;"],
+              ["–","în cazul compoziţiilor de regenerare care cuprind şi specii de ajutor şi arbuşti sau numai una din aceste categorii, repartizarea suprafeţelor împădurite pe specii se va face numai între speciile principale (de exemplu, în cazul aplicării compoziţiei de împădurire stejar brumăriu 60%, tei 20% şi arbuşti 20%, întreaga suprafaţă se repartizează pe specii astfel: stejar brumăriu 75% şi tei 25%; în cazul formulei de împădurire 70% pin şi 30% specii de ajutor şi arbuşti, se raportează 100% pin)."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Pct. 2 – Criterii privind alegerea şi asocierea speciilor în compoziţiile de regenerare",
+            "items": []
+          },
+          {
+            "no": "2.1",
+            "label": "Pct. 2.1 – Alegerea speciilor",
+            "items": [
+              ["","În ceea ce priveşte alegerea speciilor în vederea realizării unor culturi forestiere corespunzătoare condiţiilor staţionale şi funcţiilor social-economice atribuite, în prealabil se stabileşte compoziţia-ţel optimă (de referinţă) pentru fiecare suprafaţă destinată lucrărilor de regenerare."],
+              ["","Prin compoziţia-ţel optimă (de referinţă) se înţelege asocierea şi proporţia speciilor din cadrul unui arboret, corespunzătoare tipului natural fundamental de pădure, care îmbină în modul cel mai favorabil exigenţele ecologice ale speciilor din cele mai valoroase provenienţe, cu cerinţele social-economice, în momentul final al existenţei lui."],
+              ["","Prin actuala pocedură se prezintă în primul rând compoziţiile-ţel care trebuie realizate prin măsuri lege silviculturale întreprinse de la întemeierea arboretelor şi până la vârsta exploatabilităţii acestora."],
+              ["","Compoziţiile de regenerare, care reprezintă ponderea speciilor principale provenite din regenerarea naturală şi a celor introduse artificial, în culturile create. Acesta este primul şi cel mai important pas pe calea stabilirii compoziţiilor-ţel. Stabilirea corespunzătoare a speciilor cu care se porneşte la înlocuirea arboretelor (a compoziţiilor de regenerare), prezintă o importanţă fundamentală în silvicultură. Greşelile care se pot face la întemeierea arboretelor (la stabilirea compoziţiilor de regenerare), de regulă nu mai pot fi eliminate prin alte măsuri silviculturale care să conducă la realizarea compoziţiilor-ţel."],
+              ["","De aceea, încă din această fază de întemeiere a arboretelor, trebuie să se facă o temeinică analiză ecosistemică (a condiţiilor staţionale, în special de sol şi de climă, a vegetaţiei existente, naturală sau introdusă, şi chiar a vegetaţiei erbacee), întocmindu-se fişa staţională (Anexa nr. 1). Întrucât în prezent regenerarea pădurilor se desfăşoară în cadrul unor biocenoze forestiere cel puţin parţial modificate de către om (arborete cvasinaturale, degradate, derivate, artificiale), creşte importanţa cunoaşterii condiţiilor staţionale în stabilirea speciilor ce urmează să facă parte din compoziţia viitorului arboret. De aceea, mai ales în astfel de cazuri, este absolut necesar ca pe lângă întocmirea fişei staţionale, să se realizeze şi cartarea staţională la scară mare a suprafeţelor respective."],
+              ["","Ca regulă generală, silvicultura ecologică promovează în condiţii staţionale normale speciile din provenienţele valoroase locale care au compus biocenoza naturală climax (care au constituit tipul natural fundamental de pădure), din considerentul că aceste specii sunt adaptate cel mai bine la condiţiile staţionale şi la convieţuirea în condiţiile respective. Sunt însă şi situaţii în care alte specii, indigene sau exotice cu valoare genetică deosebită, pot realiza producţii de lemn mai mari şi de calitate mai bună sau servicii de protecţie mai performante într-o anumită staţiune. Dar, în acest caz, trebuie să existe certitudinea unor culturi experimentale de lungă durată care să confirme performanţele aşteptate, deoarece în practică există suficiente exemple de promovare a unor specii şi clone fără a avea fundamentarea necesară, care în multe situaţii nu au dat rezultatele aşteptate (cazul extinderii pinului silvestru şi a molidului în afara arealului lor natural, a duglasului în regiuni ecologice climatic neadecvate, a salcâmului pe soluri grele sau cu conţinut ridicat de carbonat de calciu, a plopilor euramericani în lunci interioare cu regim hidrologic oscilant ş.a.)."],
+              ["","În legătură cu aspectele menţionate şi în mod concret, referitor la unele specii forestiere de interes deosebit, se fac următoarele precizări:"],
+              ["–","începând de la limita superioară a pădurii şi până în zona amestecurilor de fag cu răşinoase (FM 2 ) se va urmări promovarea zâmbrului şi a laricelui, evident prin folosirea provenienţelor corespunzătoare;"],
+              ["–","în zona amestecurilor ca şi în făgetele montane (FM 1 ), mai ales în staţiunile de bonitate mijlocie şi inferioară, o atenţie deosebită se va acorda extinderii bradului (îndeosebi prin regenerare naturală) şi molidului, menţinându-se în proporţie însemnată şi fagul (în arboretele cu rol de protecţie deosebită se va promova cu prioritate fagul prin regenerări naturale);"],
+              ["–","în făgetele premontane (FD 4 ) şi parţial şi în cele de dealuri (FD 3 ) regenerate pe cale naturală, în porţiunile neregenerate sau incomplet regenerate se vor introduce răşinoasele, în grupe (pure sau în amestec cu paltin, frasin, tei, cireş etc.);"],
+              ["–","în goruneto-făgetele în care se înregistrează fenomenul de înlocuire a gorunului prin fag (deosebit de activ în nordul ţării), în staţiuni de bonitate superioară şi mijlocie, se recomandă reintroducerea gorunului în porţiunile neregenerate, în scopul obţinerii unor amestecuri valoroase de gorun-fag;"],
+              ["–","în arboretele de cer şi gârniţă în care au existat stejar sau gorun, în staţiuni de bonitate superioară, se va urmări extinderea acestor specii în scopul obţinerii unor arborete de amestec cu stejar, gorun, gârniţă, cer de valoare economică mai ridicată;"],
+              ["–","se va urmări pe cât posibil reinstalarea şleaurilor de luncă în arealele pe care le-au ocupat, în viitor fiind interzisă substituirea lor prin culturi de plopi euramericani;"],
+              ["–","se va pune accent deosebit pe extinderea speciilor principale de amestec cu valoare economică ridicată (paltin, frasin, tei, cireş, anin ş.a.), în staţiuni corespunzătoare exigenţelor ecologice, ţinându-se seama de particularităţile ecologice regionale şi locale;"],
+              ["–","se va evita crearea de arborete pure, îndeosebi de gorun, stejar, cer, frasin, care de regulă nu se pot conduce la vârste înaintate."],
+              ["","În staţiunile extreme accentul se va pune în mod deosebit pe regenerarea naturală. În astfel de staţiuni se vor menţine speciile instalate natural, chiar dacă ele nu corespund compoziţiei-ţel, urmând ca introducerea speciilor mai valoroase, care să îndeplinească mai eficient în special funcţiile de protecţie, să se facă treptat."]
+            ]
+          },
+          {
+            "no": "2.2",
+            "label": "Pct. 2.2 – Referitor la modul de asociere a speciilor",
+            "items": [
+              ["","Asocierea speciilor forestiere în culturi se va face în funcţie de: specificul staţional, caracteristicile biologice ale speciilor şi destinaţia culturii."],
+              ["","În raport cu caracteristicile menţionate, o cultură silvică poate fi constituită dintr-o singură specie (cultură pură sau monocultură) sau din mai multe specii (cultură amestecată)."],
+              ["","Culturile pure, în special cele de molid (din FM 3 inferior, dar şi cele din FM 2 sau cele din FM 1 şi FD 4 , deci din afara arealului natural), datorită faptului că prezintă o serie de neajunsuri (sunt foarte expuse doborâturilor de vânt şi rupturilor de zăpadă, incendiilor şi atacurilor de insecte, sărăcesc mai repede solul etc.), vor fi evitate în aproape toate situaţiile. Fac excepţie culturile de salcâm, plopi euramericani sau salcie, care se realizează de regulă pure."],
+              ["","Culturile amestecate sunt mai stabile, utilizează mai bine spaţiul aerian şi edafic, menţin fertilitatea solului, sunt mai rezistente la acţiunea negativă a factorilor biotici şi abiotici, îndeplinind în măsură ridicată funcţiile de protecţie."],
+              ["","Amestecul poate fi intim, grupat sau mixt."],
+              ["","Pentru practică se recomandă amestecurile grupate, în acest caz speciile principale instalîndu-se în biogrupe, sub forma unor buchete (pe 20-100 m 2 ), grupe (pe 100-1000 m 2 ) - care sunt şi cele mai indicate, sau benzi."],
+              ["","Sub aspectul duratei de convieţuire se disting amestecuri permanente (speciile asociate convieţuiesc până la exploatabilitate) şi amestecuri temporare (unele specii principale de amestec se extrag în cadrul lucrărilor de îngrijire şi conducere)."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Pct. 3 – Stabilirea compoziţiilor de regenerare",
+            "items": [
+              ["","Conform celor menţionate la alegerea speciilor pentru împădurire (subpunctul 2.1.), este deosebit de important ca, pe lângă luarea în considerare a funcţiilor pe care trebuie să le îndeplinească culturile respective, să se asigure şi o corespondenţă strânsă între cerinţele speciilor şi specificul condiţiilor naturale."],
+              ["","Întrucât condiţiile fizico-geografice şi vegetaţia forestieră (cu toate modificările suferite de aceasta) reprezintă indicatori deosebit de preţioşi ai condiţiilor ecologice, la elaborarea compoziţiilor de regenerare s-a ţinut seama în primul rând de marile unităţi de relief şi de etajele, zonele (subzonele) naturale de vegetaţie. În continuare, în cadrul etajelor şi zonelor de vegetaţie s-au diferenţiat ansambluri de staţiuni - vegetaţie, care reprezintă grupe de tipuri de staţiuni şi de tipuri de pădure ecologic echivalente, denumite convenţional grupe ecologice."],
+              ["","La constituirea grupelor ecologice s-au avut în vedere în primul rând condiţiile de climă, relief, substrat, sol, ape supra şi subterane, care este necesar să prezinte în cadrul aceleiaşi grupe ecologice un grad înaintat de omogenitate, dar şi coexistenţa unor tipuri naturale de pădure apropiate ca specific în cadrul grupei ecologice respective, care să permită aplicarea aceloraşi măsuri silviculturale, în primul rând de regenerare (împădurire). Gradul relativ înaintat de omogenitate al grupelor ecologice a dat posibilitatea diversificării măsurilor de gospodărire propuse, atât prin stabilirea unor compoziţii-ţel şi de regenerare cât mai apropiate de potenţialul natural al tipurilor naturale fundamentale de pădure, cât şi prin recomandarea unor tehnologii de împădurire îmbunătăţite. În afară de aceasta, constituirea grupelor ecologice permite:"],
+              ["–","diferenţierea zonală şi în mare măsură şi regională a compoziţiilor-ţel şi compoziţiilor de regenerare;"],
+              ["–","adoptarea soluţiilor ţinând seama în mai mare măsură de tendinţele de succesiune a speciilor forestiere, fapt deosebit de evident în unele tipuri naturale de pădure;"],
+              ["–","stabilirea unor compoziţii de regenerare bazate pe uşurinţa sau dificultatea regenerării naturale a unor specii forestiere principale;"],
+              ["–","aplicarea ultimelor rezultate ale cercetărilor realizate în suprafeţe experimentale cu caracter permanent."],
+              ["","Numărul relativ mare de grupe ecologice reflectă variabilitatea pronunţată a condiţiilor naturale din ţara noastră şi înlesneşte totodată încadrarea numeroaselor situaţii întâlnite pe teren."],
+              ["","Specificul regional generat de această variabilitate se reflectă, fie în constituirea unor grupe ecologice distincte, fie în menţiuni privind alegerea speciilor şi a tehnologiilor de lucru, făcute la unele dintre grupele ecologice. Modalitatea menţiunilor efectuate la rubrica \"notă\" a grupelor ecologice a fost impusă de faptul că unele tipuri de staţiune şi de pădure nu sunt încă în suficientă măsură diferenţiate regional."],
+              ["","O atenţie deosebită a fost acordată caracterizării staţionale în regiunile în care vegetaţia naturală a fost puternic modificată (în special în regiunile de câmpie, de coline, în luncile râurilor interioare şi în Lunca Dunării )."],
+              ["","Pentru fiecare grupă ecologică s-au stabilit mai întâi compoziţii-ţel, care iau în considerare atât specificul ecologic al grupei, cât şi funcţiile atribuite arboretelor. După caz, în raport de starea arboretelor şi posibilităţile de regenerare (naturală sau artificială), s-au stabilit două până la trei compoziţii-ţel, astfel:"],
+              ["","a 1 - compoziţii-ţel pentru arboretele care se regenerează natural în condiţii normale;"],
+              ["","a 2 - compoziţii-ţel pentru terenuri goale, arborete degradate, brăcuite, slab productive, tipuri privizorii etc., care se regenerează natural în proporţie redusă (de până la 30-40%) sau nu se regenerează natural şi în care se reconstituie numai parţial compoziţia tipurilor naturale fundamentale de pădure sau aceasta se modifică;"],
+              ["","a 3 - compoziţii-ţel pentru refacerea arboretelor slab productive din zonele de câmpie şi de luncă, cu solul înţelenit, fără regenerări naturale şi unde solul se pregăteşte înainte de împădurire prin arături şi, după caz, se reconstituie compoziţia tipului fundamental de pădure sau se introduc alte specii mai valoroase."],
+              ["","În acelaşi mod s-a procedat şi cu compoziţiile de regenerare, stabilindu-se pentru fiecare grupă ecologică două până la trei compoziţii de regenerare (b 1 , b 2 şi b 3 ), corespunzătoare compoziţiilor-ţel menţionate anterior, respectiv compoziţiei-ţel a 1 îi corespunde compoziţia de regenerare b 1 , compoziţiei a 2 îi corespunde compoziţia-ţel b 2 şi compoziţiei a 3 îi corespunde compoziţia-ţel b 3 ."],
+              ["","Atât pentru compoziţia-ţel, cât şi pentru compoziţia de regenerare, nu se prezintă proporţii fixe ale speciilor, ci intervale ale acestora, în limitele cărora în practică se vor stabili soluţii concrete, în raport cu particularităţile staţionale şi funcţiile atribuite fiecărui arboret. Compoziţia de regenerare este, de regulă, mai bogată în specii, urmând ca proporţia acestora să fie modificată pe parcurs în raport cu nevoile silviculturale şi în sensul obţinerii compoziţiei-ţel care constituie obiectivul final al gospodăririi."],
+              ["","Speciile care se introduc se vor evidenţia cu ocazia întocmirii documentaţiilor tehnice pentru efectuarea lucrărilor de împădurire."],
+              ["","În cazul completării regenerărilor naturale, procentele de participare ale speciilor principale prevăzute variază între limite mai largi decît în cazul împăduririi terenurilor goale sau neregenerate, întrucât gradul de regenerare naturală pe specii care se obţine în practică în cadrul aceleiaşi grupe ecologice poate să difere sensibil."],
+              ["","În legătură cu nerealizarea limitelor respective, se fac următoarele precizări în cazul în care gradul de regenerare, atât pe ansamblu, cât şi pe specii, nu este asigurat:"],
+              ["–","în FM 3 , FM 2 , FM 1 , FD 4 şi parţial şi în FD 3 (în special în staţiuni de bonitate inferioară) diferenţa se completează cu specii răşinoase (molid, brad, larice) şi cu specii de foioase (fag, paltin, frasin etc.);"],
+              ["–","în restul staţiunilor din FD 3 şi în cele din FD 2 , FD 1 şi FC, cvercineele se introduc până la realizarea proporţiilor în compoziţia de regenerare, diferenţa completându-se cu specii principale de amestec valoroase (paltin, frasin, cireş, tei etc.)."],
+              ["","În cazul în care gradul de regenerare pe ansamblu este asigurat, dar nu este realizată proporţia pe specii sau grupe de specii (fag, cvercinee, foioase de amestec), se vor completa numai porţiunile goale şi neregenerate, precum şi cele ocupate cu specii provizorii (plop tremurător, salcie căprească, mesteacăn) sau cu lăstari de tei şi alte specii copleşitoare şi cu seminţişuri vătămate, inutilizabile. În acest scop se vor folosi răşinoase (molid, brad, larice, pin silvestru, eventual duglas) în FM 2 , FM 1 şi FD 4 , precum şi specii de foioase corespunzătoare, insuficient regenerate pe cale naturală."],
+              ["","În cazul în care proporţia unor specii, cum sunt mesteacănul, plopul tremurător, arţarul tătărăsc, arţarul american, carpenul etc. şi arbuştii, depăşeşte limitele prevăzute se vor introduce speciile principale de bază şi de amestec, în limitele prevăzute în compoziţia de regenerare."],
+              ["","Concepţia care a stat la baza elaborării compoziţiilor de regenerare şi ponderea acordată unor specii din fiecare grupă ecologică reflectă intenţia de a menţine pe cât posibil ecosistemele naturale sau cvasinaturale, precum şi de a crea ecosisteme cât mai stabile, cu funcţii complexe, ceea ce înseamnă în primul rând respectare principiului biodiversităţii."],
+              ["","În acest scop s-au avut în vedere următoarele principii:"],
+              ["–","menţinerea şi extinderea speciilor autohtone de valoare economică ridicată şi repede crescătoare, în staţiuni de bonitate superioară şi mijlocie;"],
+              ["–","folosirea speciilor principale în primul rând în arealul lor natural, urmând ca extinderea lor în afara arealului să se facă cu mult discernământ;"],
+              ["–","crearea unor amestecuri stabile între specii, evitându-se amestecurile intime, neindicate, de tipul molid-gorun, stejar-salcâm, stejar-frasin etc;"],
+              ["–","evitarea introducerii plopilor euramericani în staţiuni corespunzătoare şleaurilor de luncă;"],
+              ["–","intensificarea funcţiilor de protecţie a pădurilor (hidrologice-antierozionale etc.), prin introducerea unor specii adecvate, menţinerea elementelor naturale mai rustice, promovarea speciilor rezistente, utilizarea unui număr corespunzător de puieţi la hectar etc.;"],
+              ["–","extinderea laricelui, a zâmbrului şi a unor foioase (fag, paltin, anin, scoruş), pentru întărirea rezistenţei răşinoaselor la doborâturi de vânt şi rupturi de zăpadă, polei etc.;"],
+              ["–","introducerea în compoziţia de regenerare în mai mare măsură a speciilor de ajutor şi arbuşti, atât în scop silvicultural, cât şi şi pentru evitarea înierbării solului şi grăbirea elagajului natural (în special în zona forestieră de cîmpie şi silvostepă);"],
+              ["–","utilizarea într-o proporţie mai mare a unor specii forestiere producătoare de fructe şi seminţe preferate de vânat (scoruş, cireş, castan comestiobil, stejar roşu, păr, corcoduş, mălin. etc) şi a unor specii pentru frunzare (salcie căprească, plop tremurător, mesteacăn * ş.a.) ."],
+              ["","*"],
+              ["","În unităţile silvo-cinegetice, lucrările de împădurire se vor efectua pe bază de studii speciale."],
+              ["","Grupa ecologică (GE) se identifică pe baza:"],
+              ["–","determinării etajului sau zonei bioclimatice (în acest scop folosindu-se harta vegetaţiei forestiere din amenajament, tabelul sintetic diagnostic şi de identificare a grupelor ecologice - Anexa nr. 6A, precum şi date specificate în capitolul II privind tipul de staţiune şi tipul de pădure);"],
+              ["–","datelor din amenajament (descrierea parcelară)."],
+              ["","Tipul de staţiune (TS) se determină pe baza:"],
+              ["–","elementelor obţinute prin întocmirea fişei staţionale şi eventual prin cartare staţională specială;"],
+              ["–","indicaţiilor oferite de vegetaţia lemnoasă şi erbacee (tip de pădure, tip de floră indicatoare);"],
+              ["–","factorilor staţionali care se manifestă limitativ pentru creştere."],
+              ["","Tipul natural fundamental de pădure (TP) se determină pe baza:"],
+              ["–","datelor din amenajamente sau alte documente/studii;"],
+              ["–","elementelor de caracterizare a vegetaţiei naturale existente;"],
+              ["–","investigaţiilor efectuate în arborete vecine, cu condiţii staţionale asemănătoare;"],
+              ["–","elementelor de caracterizare a florei indicatoare specifice tipului natural fundamental de pădure;"],
+              ["–","alte informaţii."],
+              ["","La determinarea tipurilor de staţiune şi a celor de pădure se vor folosi îndrumările existente (cheile de determinare din literatura de specialitate şi informaţiile din amenajamentele avizate etc.) iar încadrarea lor se va face în sistematicile existente, actualizate prin Ghidul privind amenajarea pădurilor şi Ghidul privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate."],
+              ["","După stabilirea grupei ecologice şi a factorilor limitativi, se trece la stabilirea compoziţiei şi schemei de regenerare."],
+              ["","În situaţii cu totul speciale, care nu şi-au găsit soluţionarea optimă prin compoziţiile de regenerare prezentate în lucrarea de faţă, pe baza experienţei locale, unităţile silvice teritorale pot face propuneri de derogare, care se vor analiza de către autoritatea silvică ierarhic superioară."],
+              ["","În ceea ce priveşte semnificaţia unora din abrevierile utilizate în lucrare pentru aprecierea bonităţii (productivităţii) tipurilor de staţiune şi a tipurilor de pădure, în afara celor uzuale (Pi, Pm, Ps), se fac următoarele precizări:"],
+              ["","Pi-m - productivitate inferioară până la mijlocie"],
+              ["","Pi/m - productivitate inferioară spre mijlocie"],
+              ["","Pi(m) - productivitate inferioară pentru una sau două specii principale şi mijlocie pentru altă specie principală"],
+              ["","Pi(m) - productivitate fie inferioară (într-o anumită regiune), fie mijlocie (într-o altă regiune), situaţie care nu ar mai apărea dacă sistematica ar avea caracter regional"],
+              ["","Pentru eliminarea neajunsurilor constatate până în prezent în ceea ce priveşte încadrarea neconformă (necorelată) a unor suprafeţe forestiere sub aspectul grupei ecologice, tipului de staţiune şi tipului de pădure, se impune ca la elaborarea proiectelor de amenajarea pădurilor în Planul lucrărilor de regenerare să fie introdusă grupa ecologică şi să fie corelate grupa ecologică, tipul de staţiune şi tipul de pădure conform prevederilor prezentului ghid."],
+              ["","În cazul pădurilor proprietate privată de mici dimensiuni (cu suprafaţa mai mică de 10 ha, care nu constituie obiectivul activităţii de amenajarea pădurilor), încadrarea în grupa ecologică va fi realizată pe baza prevederilor prezentului ghid, dar aplicarea compoziţiilor de regenerare va fi simplificată conform unor specificări mai detaliate precizate în Normele tehnice nr. 1 (care vor apărea ulterior), în sensul restrângerii acesteia la speciile forestiere de bază specifice zonei."]
+            ]
+          },
+          {"no": "4", "label": "Pct. 4 – Scheme de împădurire", "items": []},
+          {
+            "no": "4.1",
+            "label": "Pct. 4.1 – Caracteristicile schemelor de împădurire",
+            "items": [
+              ["","Schemele de împădurire reprezintă dispozitivul de amplasare pe teren a speciilor din compoziţia de împădurire şi numărul de puieţi pe unitatea de suprafaţă (la ha)."],
+              ["","Factorii care influenţează alegerea unei scheme de împădurire pot fi de natură silvobiologică, ecologică, tehnico-economică etc. În general, numărul de puieţi sau de cuiburi (vetre) la hectar, variază în funcţie de caracteristicile speciei principale, de etajul sau zona de vegetaţie, de bonitatea staţiunii, de tipul de cultură şi de categoria de teren (terenuri goale, parţial regenerate natural ş.a.)."],
+              ["","De regulă, în cazul speciilor repede crescătoare şi în staţiunile de bonitate superioară se va utiliza un număr mai mic de puieţi la hectar, în timp ce în cazul speciilor cu creştere mai înceată în tinereţe şi în staţiunile de bonitate inferioară se va utiliza un număr mai mare de puieţi."],
+              ["","Numărul de puieţi la hectar şi distanţele dintre aceştia, în funcţie de specia principală de bază şi amestec, se prezintă în anexa nr. 3."],
+              ["","La adoptarea schemelor de împădurire s-a urmărit ca distanţele dintre rândurile de puieţi să fie mai mari decât cele de pe rând (exemplu: 2,0 x 1,0; 2,0 x 1,25; 1,75 x 1,0; 1,75 x 0,75 m), întrucât acest lucru prezintă o serie de avantaje: se creează condiţii pentru mecanizarea lucrărilor de întreţinere, lipsurile înregistrate în culturi creează spaţii goale mai reduse, se asigură încă de la instalare o acesibilitate mai bună în arboret (care se menţine şi în fazele de scoatere a materialului lemnos din lucrările de îngrijire a arboretelor), lucrările se urmăresc mai uşor ş.a."],
+              ["","La împăduririle cu cvercinee, în urma tăierilor de refacere-substituire a arboretelor slab productive şi a celor de tip derivat, în condiţii staţionale specifice, în care speciile de ajutor şi de arbuşti se regenerează cu uşurinţă pe cale naturală (din sămânţă sau chiar din lăstari), plantaţiile se vor executa în rânduri, la scheme de 4,0 x 0,50 m sau 4,0 x 0,60 m, în cazul folosirii puieţilor de talie normală, în rânduri, la scheme de 3 x 1,5 m, 4 x 1,5 m sau 3 x 2 m, în cazul folosirii puieţilor repicaţi de talie mijlocie, sau în tăblii, la scheme de 4 x 4 m (cîte 3 puieţi la tăblie), în cazul folosirii puieţilor repicaţi de talie mare. În cadrul rândurilor, plantaţiile se vor executa în terenuri pregătite în fâşii late de 0,75 - 1,00 m sau în vetre de 60 x 80 cm, iar în cazul tăbliilor solul se va pregăti pe o suprafaţă de 2,25 - 4 m 2 (1,5 x 1,5 m sau 2 x 2 m). Folosirea acestor scheme prezintă avantajul pregătirii şi întreţinerii solului pe numai cel mult 25% din suprafaţă, promovării în noul arboret a unor exemplare din speciile principale şi de ajutor, regenerării pe cale naturală în zona dintre rânduri sau dintre tăblii şi urmăririi mai uşoare a culturilor instalate pe cale artificială."],
+              ["","În cazul folosirii metodelor menţionate, este recomandabil ca înainte de plantare să se efectueze şi deschiderea liniilor de acces necesare pentru efectuarea lucrărilor de intervenţii silviculturale."]
+            ]
+          },
+          {
+            "no": "4.2",
+            "label": "Pct. 4.2 – Aplicarea schemelor de împădurire",
+            "items": [
+              ["","Pentru aplicarea schemelor de împădurire se fac următoarele precizări:"],
+              ["–","În regiunile de deal şi de munte, unde datorită configuraţiei terenului nu este posibilă realizarea unor dispozitive regulate de plantare sau semănare, se va urmări ca prin folosirea numărului de puieţi prevăzut la hectar să se asigure împădurirea întregii suprafeţe, speciile principale de amestec introducându-se în biogrupe în microstaţiunile corespunzătoare acestora. În aceste situaţii, locurile de plantare se vor amplasa cât mai uniform, în primul rând la adăposturile oferite de cioate, pietre etc., dar şi mai aproape de resturile de exploatare adunate în şiruri (martoane). În aceste regiuni plantaţiile se mai pot executa şi în rânduri, pe terase amplasate pe curbele de nivel. Amestecul intim se va realiza numai în mod excepţional, ca de exemplu în plantaţiile de duglas cu foioase sau în cazul altor specii a căror introducere în compoziţie s-a făcut în scop ameliorativ."],
+              ["–","În compoziţiile molid în amestec cu larice, brad şi paltin, brad în amestec cu molid şi foioase, molid în amestec cu foioase etc., amestecul se realizează în biogrupe de diferite mărimi, corespunzător condiţiilor microstaţionale şi exigenţei diferitelor specii; fac excepţie laricele, care se plantează în benzi pure pe culmi şi în careuri amplasate pe curba de nivel şi pe linia de cea mai mare pantă pentru consolidarea culturilor de molid, şi zâmbrul, care se va introduce de asemenea pur, în benzi, spre golurile de munte."],
+              ["–","În compoziţiile cu răşinoase şi foioase, unde foioasele sunt majoritare, răşinoasele se vor planta în biogrupe (în completarea regenerărilor naturale)."],
+              ["–","În zona forestieră de câmpie şi în silvostepă speciile principale de bază şi de amestec se vor introduce de regulă în biogrupe."],
+              ["–","Se va evita amestecul intim între speciile de cvercinee şi speciile cu creştere rapidă în tinereţe (frasinul, paltinul, teiul, jugastrul, cireşul, arţarul), care în această perioadă pot copleşi uşor cvercineele."],
+              ["–","Plopii euramericanii, plopul alb, salcia se vor cultiva în culturi pure."],
+              ["–","Salcâmul se va putea cultiva în amestec cu mălin, glădiţă, soforă şi, în unele staţiuni (cu soluri reavene, bogate în humus), cu soc sau păducel."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Pct. 5 – Metode şi tehnologii de împădurire",
+            "items": [
+              ["","În Capitolul II al lucrării s-au prevăzut pentru fiecare grupă ecologică tehnologiile de lucru pentru pregătirea terenului, pregătirea solului şi împăduriri. Tehnologiile de împădurire sunt sistematizate şi codificate conform celor specificate în anexa nr. 4."]
+            ]
+          },
+          {
+            "no": "5.1",
+            "label": "Pct. 5.1 – Precizări referitoare la lucrările de pregătire a terenului şi a solului",
+            "items": [
+              ["","Pregătirea integrală (pe toată suprafaţa) se execută mecanizat la 25-35 cm adâncime pe terenurile cu pantă de până la 12°, situate în silvostepă şi în zona forestieră de câmpie şi coline, cu soluri înţelenite, dar normal dezvoltate. În cazul solurilor îndesate, compacte, este indicat ca arătura să se facă mai adînc, la 40-45 cm. Pe terenurile din zona forestieră de câmpie şi de coline joase, cu suficiente elemente viabile din speciile locale, pregătirea terenului şi a solului se va face în benzi sau coridoare. În cazul pregătirii solului pe toată suprafaţa sau în benzi, lucrările constau în: defrişare, scosul cioatelor, scarificarea solului, curăţirea de rădăcini, nivelarea gropilor, arături şi discuiri."],
+              ["","Pregătirea parţială se execută pe terenurile cu pantă de peste 12°, situate îndeosebi în regiunile de deal şi munte, în vetre, fâşii sau terease, la adâncimea de 15-20 cm."]
+            ]
+          },
+          {
+            "no": "5.2",
+            "label": "Pct. 5.2 – Tehnici de împădurire (semănături directe, plantaţii, butăşiri)",
+            "items": [
+              ["","În practică împăduririle se execută prin semănături directe, plantaţii, mai rar prin butăşiri directe."],
+              ["","Referitor la semănăturile directe se precizează următoarele:"],
+              ["–","semănăturile directe de brad se recomandă a se executa (pe suprafeţe reduse) numai în teren neînierbat, fără seminţişuri sau cu seminţişuri slab reprezentate, sub masivul rărit uniform în jurul consistenţei de 0,5 pe expoziţii umbrite şi de 0,6 pe celelalte expoziţii; nu se vor face semănături de brad pe terenuri cu înclinare mai mare de 30°, pe terenuri cu forme concave, precum şi pe cele situate în treimea inferioară a versanţilor; pe măsura dezvoltării seminţişurilor se vor lua măsuri pentru exploatarea şi evacuarea arboretului matur după 5-7 ani;"],
+              ["–","semănăturile directe de molid se vor limita la arealul natural al molidului, recomandându-se pe suprafeţe reduse, în teren deschis, cu evitarea terenurilor înierbate, a celor cu pante de peste 20°, precum şi a celor din treimea inferioară a versanţilor, unde există pericolul de acoperire prin acumularea de materiale de pe versanţi;"],
+              ["–","semănăturile directe de cvercinee se recomandă a se executa atât sub masiv, cât şi pe teren descoperit, pe toată suprafaţa sau în fâşii, rânduri, tăblii, cuiburi. Pe măsura dezvoltării seminţişurilor instalate, se vor lua măsuri de exploatare şi evacuare a arboretelui matur în următorii 2-3 ani;"],
+              ["–","semănăturile directe cu pin negru se vor face limitat, pe substrate din dolomite şi calcare;"],
+              ["–","semănăturile directe cu mesteacăn se recomandă pe soluri scheletice şi pante mari (grupa I de protecţie), mai ales în zona montană şi premontană."],
+              ["","Plantarea este tehnica de împădurire prin care se instalează majoritatea culturilor forestiere. Criteriile de stabilire a dimensiunilor şi calităţii puieţilor sunt cele prevăzute în STAS-urile în vigoare. În anumite situaţii se recomandă efectuarea plantaţiilor de cvercinee cu puieţi de talie mijlocie obţinuţi special prin repicaj (metoda inginer Octav Rusu - Dorohoi). Reuşita acestei metode - indicată în staţiuni de bonitate mijlocie - superioară, în care cad cel puţin 600 mm precipitaţii anuale în ultimii 10-15 ani (din care jumătate în perioada estivală) - este asigurată de utilizarea puieţilor bine conformaţi (de 4-5 ani), de executarea plantaţilor de primăvară, de menţinerea permanentă a mediului de pădure, prin utilizarea elementelor ajutătoare din regenerări naturale (carpen, arţar, jugastru, alte specii, arbuşti). În cazuri deosebite (mai ales în staţiuni cu condiţii extreme de vegetaţie) este indicat să se utilizeze puieţi cu rădăcinile protejate."],
+              ["","Butăşirile directe se utilizează la înfiinţarea culturilor de răchită şi în cazul folosirii sadelor."],
+              ["","Indiferent de metoda de împădurire, lipsurile grupate (mai mari de 4 puieţi la un loc) sau pierderile din cauza calamităţilor, vor fi completate sau refăcute în maximum 1 an de la constatare. În cazul refacerilor, completările se vor efectua în maximum un an de la înlăturarea factorului vătămator."],
+              ["","În cazul lipsurilor care sunt uniform răspândite pe toată suprafaţa regenerată şi al căror cuantum, corelat cu numărul de ani de la plantare, conduce la încadrarea regenerării în procentul de reuşită indicat în Anexa nr. 3B col. 4, din Ghidul privind regenerarea pădurilor si efectuarea controlului anual al regenerărilor, nu se vor efectua completări deoarece numărul de puieţi rămaşi asigură buna reuşită a regenerărilor."],
+              ["","În ordinea executării lucrărilor au prioritate completarea lipsurilor din plantaţii."]
+            ]
+          },
+          {
+            "no": "5.3",
+            "label": "Pct. 5.3 – Principalele lucrări de întreţinere a culturilor",
+            "items": [
+              ["","Acestea constau în: retezarea puieţilor, revizuiri, mobilizarea solului, îndepărtarea vegetaţiei copleşitoare (ierburi, lăstari, rugi etc.) prin descopleşiri - degajări şi alte lucrări indicate în Anexele nr. 4 şi 4A. Aceste lucrări se vor efectua de la instalarea culturii şi pînă la încheierea stării de masiv."],
+              ["","Pentru a facilita executarea lucrărilor de întreţinere, se vor păstra drumurile de pământ existente sau alte căi de acces, în măsura în care ele sunt necesare şi nu provoacă degradări ale terenului (în cazul în care lipsesc acestea se vor crea)."]
+            ]
+          },
+          {
+            "no": "5.4",
+            "label": "Pct. 5.4 – Completarea regenerărilor naturale",
+            "items": [
+              ["","Compoziţia de regenerare se referă la întreaga suprafaţă a unităţii staţionale, prin împădurire urmând să se introducă speciile care nu s-au regenerat natural sau cele care se recomandă a fi utilizat, în scopul creşterii productivităţii arboretelor din grupa ecologică respectivă."],
+              ["","În toate cazurile, este necesar ca să se procedeze mai întâi la determinarea desimii, compoziţiei şi viabilităţii seminţişului instalat în mod natural, a modului de răspândire (uniform pe toată suprafaţa sau neuniform, în grupe de diferite mărimi etc.) şi a posibilităţilor de utilizare a acestora în compoziţia viitorului arboret."],
+              ["","Completările se vor face de regulă cu puieţi bine dezvoltaţi."],
+              ["","Referitor la regenerările naturale se fac următoarele precizări:"],
+              ["–","specia sau speciile insuficient regenerate natural se vor introduce în golurile de diferite mărimi existente în seminţiş, în care se pot instala cel puţin patru puieţi corespunzator schemei şi compoziţiei stabilite;"],
+              ["–","puieţii din speciile repede crescătoare în tinereţe şi de valoare economică deosebită se vor putea introduce de regulă uniform răspândiţi în porţiunile cu desime mică a seminţişului utilizabil provenit din regenerarea naturală;"],
+              ["–","în vecinătatea imediată a seminţişului natural constituit în principal din fag, răşinoasele sau foioasele ce urmează a fi introduse se vor planta într-un dispozitiv mai strâns, pentru asigurarea menţinerii lor;"],
+              ["–","în seminţişurile naturale prea dese de fag nu se vor introduce alte specii, pentru a se evita eliminarea lor;"],
+              ["–","completarea regenerării naturale în pădurile de cvercinee, pădurile de fag şi cele de amestecuri de fag cu răşinoase, se va face de regulă prin plantaţii, în termen de maximum două sezoane de vegetaţie de la exploatarea arboretului matern (tăierea definitivă); se vor respecta prevederile Art. 30 din Codul silvic, cu modificările ulterioare, referitoare la excepţiile de la cazul general;"],
+              ["–","în regenerările de fag, ca şi în cele de amestec de fag cu răşinoase, completarea regenerării naturale se va face de regulă cu specii principale de amestec corespunzătoare condiţiilor staţionale."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1828 @@
+{
+  "id": "n2536",
+  "title": "Amenajarea pădurilor",
+  "act": "Ordinul 2536/2022 – norme tehnice",
+  "version": "Normele din 28 septembrie 2022, valabile la 29 octombrie 2026",
+  "intro": "Cum se organizează teritoriul (UP, parcelă, subparcelă, UG), cum se inventariază fondul de producție, cum se atribuie funcțiile și tipurile funcționale, care sunt bazele de amenajare și cum se calculează posibilitatea pe tipuri de structură. Formulele nu se cer pe de rost; se cer suprafețele minime, toleranțele, codurile UG, ordinea funcțiilor și regulile planului decenal.",
+  "lesson": [
+    {
+      "title": "1. Principii și fondul forestier",
+      "paragraphs": [
+        {
+          "text": "Amenajarea pădurilor se bazează pe **gestionarea durabilă** și respectă patru principii: **continuității**, **eficacității funcționale**, **conservării și ameliorării biodiversității** (genetică, specii, ecosisteme, peisaje) și **principiul economic**.",
+          "refs": ["NT art. 1 alin. (2)"]
+        },
+        {
+          "text": "**Pădure** = teren din FFN acoperit cu vegetație forestieră de **cel puțin 0,25 ha**, cu arbori care pot atinge **5 m** la maturitate.",
+          "refs": ["NT art. 2 alin. (2)"]
+        },
+        {
+          "text": "Modificările de suprafață (corecturi de limite, eroziuni, aluviuni, măsurători mai precise) le operează **șeful de ocol** în **Tabelul 1E – Evidența mișcărilor de suprafață**, iar reamenajarea le preia.",
+          "refs": ["NT art. 2 alin. (1)"]
+        },
+        {
+          "text": "Categorii de folosință în amenajament: **A** – păduri și terenuri de împădurit (A.1 cu produse principale, TIII–TVI; A.2 fără, TI–TII); **B** – terenuri cu alte destinații (linii, drumuri, pepiniere etc.); **C** – neproductive; **D** – ocupate temporar; **E** – statut juridic incert.",
+          "refs": ["NT art. 3 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Principii: continuitate, eficacitate funcțională, biodiversitate, economic",
+        "Pădure: ≥ 0,25 ha, arbori ≥ 5 m",
+        "Mișcări de suprafață: Tabelul 1E, de șeful de ocol",
+        "A păduri · B alte destinații · C neproductive · D ocupate temporar · E statut incert"
+      ],
+      "quiz": [
+        {
+          "q": "Terenurile cu statut juridic incert sunt în categoria:",
+          "options": ["A", "C", "D", "E"],
+          "answer": 3,
+          "explain": "Art. 3.",
+          "ref": "NT art. 3 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "2. Unitățile teritoriale",
+      "paragraphs": [
+        {
+          "text": "**Unitatea de producție/protecție (U.P.)** = unitatea pentru care se face un amenajament; are indicativ în **cifre romane** și denumire proprie, păstrate de la o amenajare la alta.",
+          "refs": ["NT art. 4 alin. (2)"]
+        },
+        {
+          "text": "**Parcela** = diviziune **permanentă**, separată prin linii parcelare; liniile deschise neconstituite ca parcele se pichetează.",
+          "refs": ["NT art. 4 alin. (3)"]
+        },
+        {
+          "text": "**Unitatea amenajistică (u.a.)** = subparcela sau parcela nedivizată; subparcela e omogenă stațional, biometric, funcțional, cu aceleași măsuri. Suprafața minimă: **0,5 ha** (terenuri goale, ocupate, neproductive: **0,01–0,5 ha**).",
+          "refs": ["NT art. 4 alin. (4)"]
+        },
+        {
+          "text": "**Unitatea de gospodărire (U.G.)** are țeluri distincte și reglementare separată. Suprafețe minime: **300 ha** la codru regulat (și cvasigrădinărit), **150 ha** la codru grădinărit, **100 ha** la crâng (și plopi euramericani, sălcii selecționate). Pădurile ocrotite și sursele de semințe formează unități distincte **indiferent de suprafață**.",
+          "refs": ["NT art. 5"]
+        }
+      ],
+      "keep": [
+        "U.P.: cifre romane; unitatea amenajamentului",
+        "Parcela: permanentă",
+        "U.a. = subparcelă; min. 0,5 ha (0,01 ha la terenuri speciale)",
+        "U.G.: 300 ha regulat · 150 ha grădinărit · 100 ha crâng"
+      ],
+      "quiz": [
+        {
+          "q": "Sursele de semințe se constituie în U.G. distincte:",
+          "options": ["Doar peste 100 ha", "Indiferent de suprafață", "Doar la stat", "Nu se constituie"],
+          "answer": 1,
+          "explain": "Art. 5 alin. (3).",
+          "ref": "NT art. 5 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Organizarea teritoriului",
+        "steps": [
+          {
+            "title": "Ocol / proprietate",
+            "text": "unitate teritorială de amenajament",
+            "ref": "NT art. 4 alin. (1)"
+          },
+          {"title": "U.P.", "text": "amenajamentul; cifre romane", "ref": "NT art. 4 alin. (2)"},
+          {"title": "Parcelă", "text": "diviziune permanentă", "ref": "NT art. 4 alin. (3)"},
+          {"title": "Subparcelă (u.a.)", "text": "omogenă; min. 0,5 ha", "ref": "NT art. 4 alin. (4)"}
+        ]
+      }
+    },
+    {
+      "title": "3. Inventarierea fondului de producție",
+      "paragraphs": [
+        {
+          "text": "Inventarierea determină mărimea, structura și creșterea fondului; unitatea de inventariat e **arboretul (u.a.)**. **Nu** servește la constituirea gestiunilor, fiind mai puțin precisă decât actele de evaluare a lemnului.",
+          "refs": ["NT art. 7 alin. (1)"]
+        },
+        {
+          "text": "Se bazează pe statistica matematică, în special pe **metoda selectivă**, cu suprafețe de probă circulare sau relascopice; la arboretele pluriene, pe **suprafețe de probă permanente**.",
+          "refs": ["NT art. 7 alin. (2)–(3)"]
+        },
+        {
+          "text": "Toleranțe și probabilități: arborete grădinărite sau în transformare **7% / 95%**; arborete care intră în rând de tăiere în deceniul următor **10% / 90%**; celelalte (suprafața de bază) **15% / 80%**.",
+          "refs": ["NT art. 7 alin. (4)"]
+        },
+        {
+          "text": "Volumele din amenajament, determinate statistic, **nu pot fi folosite la calculul prejudiciilor**.",
+          "refs": ["NT art. 7 alin. (7)"]
+        }
+      ],
+      "keep": [
+        "Unitatea de inventariat: arboretul",
+        "Metoda selectivă",
+        "Toleranțe: 7%/95 · 10%/90 · 15%/80",
+        "Volumele din amenajament nu se folosesc la prejudicii"
+      ],
+      "quiz": [
+        {
+          "q": "Unitatea de inventariat în amenajare este:",
+          "options": ["Parcela", "Arboretul (u.a.)", "U.P.", "Ocolul"],
+          "answer": 1,
+          "explain": "Art. 7 alin. (1).",
+          "ref": "NT art. 7 alin. (1)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Toleranțe la inventariere",
+        "items": [
+          {
+            "title": "Grădinărit / transformare",
+            "text": "7% · probabilitate 95%",
+            "ref": "NT art. 7 alin. (4)"
+          },
+          {
+            "title": "Intră la tăiere în deceniul următor",
+            "text": "10% · 90%",
+            "ref": "NT art. 7 alin. (4)"
+          },
+          {
+            "title": "Celelalte arborete",
+            "text": "15% · 80% (suprafața de bază)",
+            "ref": "NT art. 7 alin. (4)"
+          },
+          {"title": "Atenție", "text": "volumele nu servesc la prejudicii", "ref": "NT art. 7 alin. (7)"}
+        ]
+      }
+    },
+    {
+      "title": "4. Funcții și tipuri funcționale",
+      "paragraphs": [
+        {
+          "text": "Funcțiile se atribuie fiecărui arboret prin **zonare funcțională**, pe grupe, subgrupe și categorii, după funcția prioritară.",
+          "refs": ["NT art. 8 alin. (3)"]
+        },
+        {
+          "text": "În grupa I, ordinea orientativă a funcției prioritare: **1)** interes științific și ocrotirea genofondului; **2)** conservarea biodiversității; **3)** protecția terenurilor și solurilor; **4)** funcții predominant sociale; **5)** protecția apelor; **6)** protecția contra factorilor climatici.",
+          "refs": ["NT art. 8 alin. (4)"]
+        },
+        {
+          "text": "Șase tipuri funcționale: **TI** – exploatare interzisă fără aprobări de mediu; **TII** – fără produse principale, doar lucrări speciale de conservare; **TIII–TIV** – funcții speciale, cu produse principale, tratamente cu regenerare naturală; **TV** – producție de lemn de calitate superioară; **TVI** – toată gama de tratamente.",
+          "refs": ["NT art. 8 alin. (6)–(7)"]
+        },
+        {
+          "text": "În **TII–TVI** sunt permise lucrări de îngrijire, de regenerare și tăieri de igienă. Funcțiile se stabilesc **de comun acord** cu proprietarii și administratorii, ascultând toți factorii interesați.",
+          "refs": ["NT art. 8 alin. (8)–(9)"]
+        }
+      ],
+      "keep": [
+        "Ordinea priorității: științific → biodiversitate → soluri → social → ape → climatic",
+        "TI interzis · TII conservare · TIII–IV restricții · TV calitate · TVI toată gama",
+        "TII–TVI: îngrijiri, regenerare, igienă permise"
+      ],
+      "quiz": [
+        {
+          "q": "Funcțiile pădurii se stabilesc:",
+          "options": [
+            "Doar de proiectant",
+            "De comun acord cu proprietarii și administratorii",
+            "De Gardă",
+            "De primărie"
+          ],
+          "answer": 1,
+          "explain": "Art. 8 alin. (9).",
+          "ref": "NT art. 8 alin. (9)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Tipurile funcționale",
+        "levels": [
+          {
+            "who": "TI",
+            "does": ["exploatare interzisă fără aprobări de mediu","MR I: evoluție naturală"],
+            "ref": "NT art. 8 alin. (7)"
+          },
+          {
+            "who": "TII",
+            "does": ["fără produse principale; lucrări speciale de conservare","MR II"],
+            "ref": "NT art. 8 alin. (7)"
+          },
+          {
+            "who": "TIII · TIV",
+            "does": ["funcții speciale, cu produse principale, regenerare naturală"],
+            "ref": "NT art. 8 alin. (7)"
+          },
+          {"who": "TV", "does": ["lemn de calitate superioară"], "ref": "NT art. 8 alin. (7)"},
+          {"who": "TVI", "does": ["întreaga gamă de tratamente"], "ref": "NT art. 8 alin. (7)"}
+        ]
+      }
+    },
+    {
+      "title": "5. Bazele de amenajare",
+      "paragraphs": [
+        {
+          "text": "Bazele de amenajare: **regim**, **compoziție-țel**, **tratament**, **exploatabilitate**, **ciclu**.",
+          "refs": ["NT art. 9 alin. (1)"]
+        },
+        {
+          "text": "**Regimul**: prioritate codrul; **crângul doar la salcâm, anin, plopi indigeni și sălcii**; plopii euramericani sunt în **codru convențional**, asimilat codrului.",
+          "refs": ["NT art. 9 alin. (2)"]
+        },
+        {
+          "text": "**Compoziția-țel**: **la exploatabilitate** (arborete neexploatabile) și **de regenerare** (terenuri de împădurit și arborete exploatabile în prima perioadă). La grădinărit se stabilește doar **compoziția-țel optimă**. Se promovează compoziția **tipului natural fundamental**.",
+          "refs": ["NT art. 9 alin. (3)","NT art. 9 alin. (5)–(6)"]
+        },
+        {
+          "text": "**Exploatabilitatea**: **diametru-limită** la grădinărit (minimum **1 arbore/ha** în acea categorie) și **vârsta exploatabilității** la regulat, cvasigrădinărit, crâng. Vârsta **tehnică** (grupa II) = momentul maximului **creșterii medii** a sortimentului-țel; vârsta **de protecție** (grupa I, TIII–IV) = momentul scăderii efectului protector.",
+          "refs": ["NT art. 9 alin. (11)–(12)","NT art. 9 alin. (14)"]
+        },
+        {
+          "text": "**Ciclul** e principala bază la codru regulat, cvasigrădinărit și crâng; ține cont de formații, funcții, media vârstelor exploatabilității.",
+          "refs": ["NT art. 9 alin. (15)"]
+        }
+      ],
+      "keep": [
+        "Regim · compoziție-țel · tratament · exploatabilitate · ciclu",
+        "Crâng doar: salcâm, anin, plopi indigeni, sălcii",
+        "Grădinărit: diametru-limită (≥ 1 arbore/ha) și compoziție-țel optimă",
+        "Vârsta tehnică = maximul creșterii medii a sortimentului-țel"
+      ],
+      "quiz": [
+        {
+          "q": "Compoziția-țel de regenerare se stabilește pentru:",
+          "options": [
+            "Arboretele tinere",
+            "Terenuri de împădurit și arborete exploatabile în prima perioadă",
+            "Toate arboretele",
+            "Doar grădinărit"
+          ],
+          "answer": 1,
+          "explain": "Art. 9 alin. (3).",
+          "ref": "NT art. 9 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "6. Modalitățile de reglementare și codurile U.G.",
+      "paragraphs": [
+        {
+          "text": "Reglementarea = stabilirea **posibilității**, a planului de recoltare, a planului de îngrijire și a celui de regenerare, la nivel de **arboret** și de **fond de producție**.",
+          "refs": ["NT art. 10 alin. (1)–(2)"]
+        },
+        {
+          "text": "**MR I** (TI): evoluție naturală, fără posibilitate și fără lucrări. **MR II** (TII): evoluție dirijată prin intervenții reduse, fără posibilitate, cu planuri de conservare și cultură (U.G. M, K). **MR III** (TIII–TVI): reglementare clasică, cu posibilitate.",
+          "refs": ["NT art. 10 alin. (3)–(4)"]
+        },
+        {
+          "text": "Coduri U.G.: **A** – codru regulat, sortimente obișnuite; **B** – sortimente superioare (furnir, rezonanță); **D, I** – codru regulat cu obiective de protecție; **G** – grădinărit; **J** – cvasigrădinărit; **Q** – crâng de salcâm; **Y** – crâng în scaun; **V/U** – interes cinegetic (codru/crâng); **X** – zăvoaie; **Z/W** – plopi și sălcii selecționate pentru celuloză-cherestea / furnire; **M** – conservare; **K** – surse de semințe și resurse genetice; **E** – ocrotire integrală.",
+          "refs": ["NT art. 10 alin. (6)"]
+        },
+        {
+          "text": "Crângul se reglementează pe clase de vârstă de **10 ani** la salcâm și de **5 ani** la plopi și sălcii; plopii euramericani tot pe 5 ani. Conversiunea (prin îmbătrânire sau refacere) intră în U.G. de codru regulat.",
+          "refs": ["NT art. 10 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "MR I = TI (nimic) · MR II = TII (conservare) · MR III = TIII–VI (clasic)",
+        "A obișnuit · B superior · G grădinărit · J cvasi · Q salcâm · M conservare · K semințe · E integrală",
+        "Salcâm: clase de 10 ani; plopi/sălcii: 5 ani"
+      ],
+      "quiz": [
+        {
+          "q": "Salcâmetele se reglementează pe clase de vârstă de:",
+          "options": ["5 ani", "10 ani", "20 ani", "40 ani"],
+          "answer": 1,
+          "explain": "Art. 10 alin. (5).",
+          "ref": "NT art. 10 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "7. Calculul posibilității",
+      "paragraphs": [
+        {
+          "text": "**Grădinărit**: structura normală = număr de arbori descrescând în **progresie geometrică** pe categorii de diametre. Clase de grosimi: **subțiri 16–24**, **mijlocii 28–36**, **groși 40–48**, **foarte groși ≥ 52 cm**. Inventarierea pe categorii de 2 cm de la **12 cm**; creșterea, la prima inventariere, din ultimii **10 ani** la **20–30 de arbori**; posibilitatea = creșterea pe rotație corectată după diferența fond real – fond normal.",
+          "refs": ["NT art. 11 alin. (1)–(2)","NT art. 11 alin. (5)"]
+        },
+        {
+          "text": "Arboretele echiene din U.G. grădinărite: până la **80 de ani**, posibilitatea vine din îngrijiri de transformare; peste 80 de ani, după criterii silviculturale.",
+          "refs": ["NT art. 11 alin. (6)"]
+        },
+        {
+          "text": "**Cvasigrădinărit (J)**: procedeul **suprafeței periodice revocabile** (perioadă 40–60 de ani), comparat cu creșterea indicatoare; posibilitatea nu scade sub **o zecime** din volumul arboretelor de exploatat integral în primul deceniu.",
+          "refs": ["NT art. 12 alin. (1)–(2)","NT art. 12 alin. (6)"]
+        },
+        {
+          "text": "**Codru regulat**: **creșterea indicatoare** (P = m·CI), **metoda claselor de vârstă adaptată** și, pentru control pe suprafață, **mediile succesive**; continuitatea recoltelor se verifică pe **60 de ani**. Perioada de amenajare: **20 de ani** la cvercinee și șleauri, **30 de ani** la făgete, brădete, amestecuri de rășinoase cu fag (dacă au minimum 25%).",
+          "refs": ["NT art. 13 alin. (1)–(2)","NT art. 14 alin. (3)"]
+        },
+        {
+          "text": "Cu structură apropiată de cea normală, posibilitatea = **creșterea indicatoare**. Propunerea se aprobă la **conferința a II-a** (preavizarea soluțiilor tehnice), iar răspunderea revine participanților.",
+          "refs": ["NT art. 16 alin. (2)","NT art. 16 alin. (4)"]
+        },
+        {
+          "text": "**Crâng**: metoda afectațiilor (perioade de 10 ani, 5 la plopi și sălcii) și mediile succesive; la volume se adaugă creșterea pe **jumătate** din perioadă. Proprietățile de **max. 100 ha** se reglementează la nivel de arboret.",
+          "refs": ["NT art. 20 alin. (2)", "NT art. 20 alin. (5)", "NT art. 24 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Grădinărit: progresie geometrică; clase 16–24 / 28–36 / 40–48 / ≥ 52",
+        "Cvasi: suprafața periodică revocabilă + creșterea indicatoare",
+        "Regulat: creșterea indicatoare, clase de vârstă, medii succesive",
+        "Perioada de amenajare: 20 ani cvercinee, 30 ani făgete/brădete",
+        "Adoptare la conferința a II-a",
+        "Proprietăți ≤ 100 ha: la nivel de arboret"
+      ],
+      "quiz": [
+        {
+          "q": "La prima inventariere a unui arboret grădinărit, creșterea se stabilește pe baza creșterii în diametru din ultimii:",
+          "options": ["5 ani", "10 ani", "20 ani", "30 ani"],
+          "answer": 1,
+          "explain": "La 20–30 de arbori.",
+          "ref": "NT art. 11 alin. (5)"
+        }
+      ]
+    },
+    {
+      "title": "8. Planurile decenale",
+      "paragraphs": [
+        {
+          "text": "Arboretele pentru produse principale se aleg după **cartarea pe urgențe de regenerare**. În planul decenal, suma volumelor de extras = **10 posibilități anuale**.",
+          "refs": ["NT art. 17 alin. (1)–(2)"]
+        },
+        {
+          "text": "Volumele din plan sunt **orientative**; se recoltează ce se stabilește pe teren, fără a depăși intensitățile tratamentului. Volumul recoltat într-un an **nu poate depăși posibilitatea anuală**.",
+          "refs": ["NT art. 17 alin. (3)"]
+        },
+        {
+          "text": "Suprafața tăiată în primul deceniu cu tăieri unice, definitive sau de racordare nu depășește, de regulă, **10 posibilități pe suprafață** (mediile succesive). Arboretele în **urgența I** (calamitate), indiferent de vârstă, intră în plan.",
+          "refs": ["NT art. 17 alin. (4)","NT art. 17 alin. (6)"]
+        },
+        {
+          "text": "**Produsele secundare** se stabilesc **separat pentru rărituri și curățări**, cu indici de recoltare medii; posibilitatea anuală = suma pe deceniu / 10. Volumul din deschiderea tehnologică intră în curățarea sau răritura concomitentă.",
+          "refs": ["NT art. 18 alin. (2)–(5)"]
+        },
+        {
+          "text": "**Planul de regenerare**: naturală, artificială sau mixtă; se păstrează **1–3 exemplare/ha** din specii rare, preexistenți excepționali, arbori cu scorburi.",
+          "refs": ["NT art. 19 alin. (4)–(5)"]
+        }
+      ],
+      "keep": [
+        "Plan decenal = 10 posibilități anuale",
+        "Volume orientative; anual nu peste posibilitate",
+        "Tăieri unice/definitive pe deceniu ≤ 10 posibilități pe suprafață",
+        "Urgența I intră în plan, indiferent de vârstă",
+        "Produse secundare: rărituri și curățări separat",
+        "1–3 arbori/ha pentru biodiversitate"
+      ],
+      "quiz": [
+        {
+          "q": "Volumul de extras din planul decenal are caracter:",
+          "options": ["Obligatoriu exact", "Orientativ", "Maximal absolut", "Facultativ"],
+          "answer": 1,
+          "explain": "Art. 17 alin. (3).",
+          "ref": "NT art. 17 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "9. Conservare, arii protejate, biodiversitate",
+      "paragraphs": [
+        {
+          "text": "În **TI** (protecție integrală) recoltările sunt interzise. În **TII** se ține evidența lucrărilor speciale de conservare; extragerile de peste **10%** din volum (la densitate 1,0) se justifică temeinic; la salcâm, plopi euramericani și zăvoaie se extrage de regulă **100%**.",
+          "refs": ["NT art. 25"]
+        },
+        {
+          "text": "Ariile protejate: de interes național (rezervații științifice, parcuri naționale, monumente ale naturii, rezervații naturale, parcuri naturale), internațional și Natura 2000. În zonele de **protecție strictă** e interzisă orice activitate în afară de cercetare și educație; în cele de **protecție integrală** (categoriile **1.6.B și 1.6.G**), orice exploatare.",
+          "refs": ["NT art. 26 alin. (2)–(4)"]
+        },
+        {
+          "text": "La suprapunerea unui sit Natura 2000 cu o arie mai restrictivă se aplică **regimul mai restrictiv**.",
+          "refs": ["NT art. 26 alin. (10)"]
+        },
+        {
+          "text": "Măsuri generale pentru biodiversitate: regenerare naturală, material genetic local, amestec bogat de specii, extragerea speciilor alohtone invazive, păstrarea subarboretului, a poienilor, a **arborilor morți** și a **„arborilor pentru biodiversitate”**, structură echilibrată pe clase de vârstă. Se face și **Harta biodiversității**.",
+          "refs": ["NT art. 27 alin. (3)–(4)"]
+        }
+      ],
+      "keep": [
+        "TI: recoltări interzise",
+        "TII: > 10% din volum justificat; salcâm, plopi, zăvoaie 100%",
+        "Protecție integrală: 1.6.B și 1.6.G",
+        "Suprapunere: regimul mai restrictiv",
+        "Arbori morți, arbori pentru biodiversitate, Harta biodiversității"
+      ],
+      "quiz": [
+        {
+          "q": "La salcâm, plopi euramericani și zăvoaie din TII, procentul de extras e de regulă:",
+          "options": ["10%", "50%", "100%", "0%"],
+          "answer": 2,
+          "explain": "Art. 25.",
+          "ref": "NT art. 25 alin. (2)"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Cifre de organizare",
+      "rows": [
+        {
+          "what": "Pădure (definiție)",
+          "value": "≥ 0,25 ha; arbori ≥ 5 m",
+          "ref": "NT art. 2 alin. (2)"
+        },
+        {
+          "what": "Subparcelă minimă",
+          "value": "0,5 ha (terenuri speciale 0,01 ha)",
+          "ref": "NT art. 4 alin. (4)"
+        },
+        {
+          "what": "U.G. codru regulat/cvasigrădinărit",
+          "value": "min. 300 ha",
+          "ref": "NT art. 5 alin. (3)"
+        },
+        {"what": "U.G. codru grădinărit", "value": "min. 150 ha", "ref": "NT art. 5 alin. (3)"},
+        {"what": "U.G. crâng, plopi, sălcii", "value": "min. 100 ha", "ref": "NT art. 5 alin. (3)"},
+        {"what": "Toleranță grădinărit", "value": "7% / 95%", "ref": "NT art. 7 alin. (4)"},
+        {
+          "what": "Toleranță arborete în rând de tăiere",
+          "value": "10% / 90%",
+          "ref": "NT art. 7 alin. (4)"
+        },
+        {"what": "Toleranță celelalte arborete", "value": "15% / 80%", "ref": "NT art. 7 alin. (4)"},
+        {
+          "what": "Proprietăți reglementate pe arboret",
+          "value": "≤ 100 ha",
+          "ref": "NT art. 24 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "Reglementare",
+      "rows": [
+        {
+          "what": "MR I / MR II / MR III",
+          "value": "TI / TII / TIII–TVI",
+          "ref": "NT art. 10 alin. (3)"
+        },
+        {
+          "what": "Diametru-limită (grădinărit)",
+          "value": "min. 1 arbore/ha în categorie",
+          "ref": "NT art. 9 alin. (12)"
+        },
+        {
+          "what": "Clase de grosimi",
+          "value": "16–24 / 28–36 / 40–48 / ≥ 52 cm",
+          "ref": "NT art. 11 alin. (2)"
+        },
+        {
+          "what": "Echiene în U.G. grădinărite",
+          "value": "< 80 ani: îngrijiri de transformare",
+          "ref": "NT art. 11 alin. (6)"
+        },
+        {"what": "Perioada cvasigrădinărit", "value": "40–60 ani", "ref": "NT art. 12 alin. (2)"},
+        {
+          "what": "Perioada de amenajare",
+          "value": "20 ani cvercinee · 30 ani făgete/brădete",
+          "ref": "NT art. 14 alin. (3)"
+        },
+        {
+          "what": "Continuitatea recoltelor",
+          "value": "verificată pe 60 ani",
+          "ref": "NT art. 13 alin. (5)"
+        },
+        {"what": "Plan decenal", "value": "10 posibilități anuale", "ref": "NT art. 17 alin. (2)"},
+        {
+          "what": "Tăieri unice/definitive în deceniu",
+          "value": "≤ 10 posibilități pe suprafață",
+          "ref": "NT art. 17 alin. (4)"
+        },
+        {
+          "what": "Perioade la crâng",
+          "value": "10 ani (plopi/sălcii 5 ani)",
+          "ref": "NT art. 20 alin. (2)"
+        },
+        {"what": "Conservare TII", "value": "> 10% justificat", "ref": "NT art. 25 alin. (2)"}
+      ]
+    }
+  ],
+  "tricks": [
+    "U.G. minime: „300 – 150 – 100” (regulat – grădinărit – crâng).",
+    "Toleranțele scad cu importanța: 15% (restul), 10% (intră la tăiere), 7% (grădinărit); probabilitățile cresc 80 – 90 – 95%.",
+    "Ordinea funcțiilor în grupa I: „Ș-B-S-S-A-C”: științific, biodiversitate, soluri, social, ape, climatic.",
+    "Codurile U.G.: A obișnuit, B bun (superior), G grădinărit, J jardinatoriu (cvasi), Q salcâm, M conservare, K semințe, E integrală.",
+    "Crângul e permis doar la „SAPS”: salcâm, anin, plopi indigeni, sălcii."
+  ],
+  "cards": [
+    {
+      "q": "Care sunt principiile amenajării pădurilor?",
+      "a": "Continuității, eficacității funcționale, conservării și ameliorării biodiversității, economic.",
+      "ref": "NT art. 1 alin. (2)"
+    },
+    {
+      "q": "Ce suprafață minimă are o pădure după norme?",
+      "a": "0,25 ha, cu arbori care pot atinge 5 m.",
+      "ref": "NT art. 2 alin. (2)"
+    },
+    {
+      "q": "Cine operează mișcările de suprafață și unde?",
+      "a": "Șeful de ocol, în Tabelul 1E din amenajament.",
+      "ref": "NT art. 2 alin. (1)"
+    },
+    {
+      "q": "Ce înseamnă categoria de folosință D?",
+      "a": "Terenuri ocupate temporar din fondul forestier.",
+      "ref": "NT art. 3 alin. (2)"
+    },
+    {
+      "q": "Cum se notează unitățile de producție?",
+      "a": "Cu cifre romane și denumiri proprii.",
+      "ref": "NT art. 4 alin. (2)"
+    },
+    {
+      "q": "Ce e unitatea amenajistică?",
+      "a": "Subparcela sau parcela nedivizată.",
+      "ref": "NT art. 4 alin. (4)"
+    },
+    {
+      "q": "Care e suprafața minimă a unei subparcele?",
+      "a": "De regulă 0,5 ha (0,01–0,5 ha pentru terenuri goale, ocupate, neproductive).",
+      "ref": "NT art. 4 alin. (4)"
+    },
+    {
+      "q": "Ce suprafață minimă are o U.G. de codru grădinărit?",
+      "a": "150 ha.",
+      "ref": "NT art. 5 alin. (3)"
+    },
+    {"q": "Și una de codru regulat?", "a": "300 ha.", "ref": "NT art. 5 alin. (3)"},
+    {"q": "Și una de crâng?", "a": "100 ha.", "ref": "NT art. 5 alin. (3)"},
+    {
+      "q": "Pe ce metodă statistică se bazează inventarierea?",
+      "a": "Metoda selectivă.",
+      "ref": "NT art. 7 alin. (2)"
+    },
+    {
+      "q": "Ce toleranță are inventarierea arboretelor care intră la tăiere în deceniul următor?",
+      "a": "10%, cu probabilitate de 90%.",
+      "ref": "NT art. 7 alin. (4)"
+    },
+    {
+      "q": "Se pot folosi volumele din amenajament la calculul prejudiciilor?",
+      "a": "Nu.",
+      "ref": "NT art. 7 alin. (7)"
+    },
+    {
+      "q": "Care funcție are prima prioritate în grupa I?",
+      "a": "Interesul științific și ocrotirea genofondului și ecofondului.",
+      "ref": "NT art. 8 alin. (4)"
+    },
+    {"q": "Câte tipuri funcționale sunt?", "a": "Șase: TI–TVI.", "ref": "NT art. 8 alin. (6)"},
+    {
+      "q": "Ce se permite în TII?",
+      "a": "Lucrări speciale de conservare (fără produse principale).",
+      "ref": "NT art. 8 alin. (7)"
+    },
+    {
+      "q": "Care sunt bazele de amenajare?",
+      "a": "Regim, compoziție-țel, tratament, exploatabilitate, ciclu.",
+      "ref": "NT art. 9 alin. (1)"
+    },
+    {
+      "q": "La ce specii e admis regimul crâng?",
+      "a": "Salcâm, anin, plopi indigeni, sălcii.",
+      "ref": "NT art. 9 alin. (2)"
+    },
+    {
+      "q": "În ce regim sunt plopii euramericani?",
+      "a": "Codru convențional, asimilat codrului.",
+      "ref": "NT art. 9 alin. (2)"
+    },
+    {
+      "q": "Ce compoziție-țel se stabilește la grădinărit?",
+      "a": "Doar compoziția-țel optimă.",
+      "ref": "NT art. 9 alin. (5)"
+    },
+    {
+      "q": "Ce e diametrul-limită?",
+      "a": "Diametrul maxim al distribuției într-un arboret grădinărit; minimum 1 arbore/ha în acea categorie.",
+      "ref": "NT art. 9 alin. (12)"
+    },
+    {
+      "q": "Cum se definește vârsta exploatabilității tehnice?",
+      "a": "Momentul maximului creșterii medii a volumului sortimentului-țel.",
+      "ref": "NT art. 9 alin. (14)"
+    },
+    {
+      "q": "Ce înseamnă MR II?",
+      "a": "Reglementare restrânsă pentru TII: fără posibilitate, cu planuri de conservare și cultură.",
+      "ref": "NT art. 10 alin. (3)"
+    },
+    {
+      "q": "Ce înseamnă codul U.G. „B”?",
+      "a": "Codru regulat pentru sortimente superioare (furnir, rezonanță, claviatură).",
+      "ref": "NT art. 10 alin. (6)"
+    },
+    {
+      "q": "Ce înseamnă codul U.G. „K”?",
+      "a": "Surse de semințe și arborete pentru conservarea resurselor genetice.",
+      "ref": "NT art. 10 alin. (6)"
+    },
+    {"q": "Ce înseamnă codul „J”?", "a": "Codru cvasigrădinărit.", "ref": "NT art. 10 alin. (6)"},
+    {
+      "q": "Care sunt clasele de grosimi la grădinărit?",
+      "a": "Subțiri 16–24, mijlocii 28–36, groși 40–48, foarte groși ≥ 52 cm.",
+      "ref": "NT art. 11 alin. (2)"
+    },
+    {
+      "q": "Cum se calculează posibilitatea la cvasigrădinărit?",
+      "a": "Prin procedeul suprafeței periodice revocabile, comparat cu creșterea indicatoare.",
+      "ref": "NT art. 12 alin. (1)"
+    },
+    {
+      "q": "Ce procedee se folosesc la codru regulat?",
+      "a": "Creșterea indicatoare, metoda claselor de vârstă adaptată, mediile succesive (control pe suprafață).",
+      "ref": "NT art. 13 alin. (1)"
+    },
+    {
+      "q": "Ce perioadă de amenajare se recomandă pentru făgete?",
+      "a": "30 de ani (cvercinee: 20 de ani).",
+      "ref": "NT art. 14 alin. (3)"
+    },
+    {
+      "q": "Cine răspunde de posibilitatea adoptată?",
+      "a": "Participanții la conferința a II-a de amenajare (preavizarea soluțiilor tehnice).",
+      "ref": "NT art. 16 alin. (4)"
+    },
+    {
+      "q": "Cât trebuie să însumeze volumele din planul decenal?",
+      "a": "10 posibilități anuale.",
+      "ref": "NT art. 17 alin. (2)"
+    },
+    {
+      "q": "Poate recoltarea anuală depăși posibilitatea anuală?",
+      "a": "Nu.",
+      "ref": "NT art. 17 alin. (3)"
+    },
+    {
+      "q": "Ce arborete intră în planul decenal indiferent de vârstă?",
+      "a": "Cele în urgența I de regenerare, afectate de factori biotici/abiotici.",
+      "ref": "NT art. 17 alin. (6)"
+    },
+    {
+      "q": "Cum se stabilește posibilitatea de produse secundare?",
+      "a": "Separat pentru rărituri și curățări; suma pe deceniu împărțită la 10.",
+      "ref": "NT art. 18 alin. (2)–(5)"
+    },
+    {
+      "q": "Cum se reglementează proprietățile de până la 100 ha?",
+      "a": "La nivel de arboret, asigurând continuitatea.",
+      "ref": "NT art. 24 alin. (2)"
+    },
+    {
+      "q": "Ce extrageri trebuie justificate în TII?",
+      "a": "Cele de peste 10% din volumul arboretului (la densitate 1,0).",
+      "ref": "NT art. 25 alin. (2)"
+    },
+    {
+      "q": "Ce regim se aplică la suprapunerea unui sit Natura 2000 cu o arie mai strictă?",
+      "a": "Regimul mai restrictiv.",
+      "ref": "NT art. 26 alin. (10)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Pădurea, după normele de amenajare, are o suprafață de cel puțin:",
+      "options": ["0,1 ha", "0,25 ha", "0,5 ha", "1 ha"],
+      "answer": 1,
+      "explain": "Și arbori de min. 5 m.",
+      "ref": "NT art. 2 alin. (2)"
+    },
+    {
+      "q": "Mișcările de suprafață din fondul forestier se înregistrează în:",
+      "options": [
+        "Tabelul 1E, de șeful de ocol",
+        "Registrul Gărzii",
+        "Cartea funciară doar",
+        "Planul decenal"
+      ],
+      "answer": 0,
+      "explain": "Art. 2 alin. (1).",
+      "ref": "NT art. 2 alin. (1)"
+    },
+    {
+      "q": "Categoria de folosință C reprezintă:",
+      "options": ["Păduri", "Terenuri neproductive", "Terenuri ocupate temporar", "Statut incert"],
+      "answer": 1,
+      "explain": "Stâncării, grohotișuri etc.",
+      "ref": "NT art. 3 alin. (2)"
+    },
+    {
+      "q": "Diviziunea permanentă a fondului forestier dintr-o U.P. este:",
+      "options": ["Subparcela", "Parcela", "U.G.", "Cuponul"],
+      "answer": 1,
+      "explain": "Art. 4 alin. (3).",
+      "ref": "NT art. 4 alin. (3)"
+    },
+    {
+      "q": "Suprafața minimă a unei subparcele este, de regulă:",
+      "options": ["0,1 ha", "0,5 ha", "1 ha", "5 ha"],
+      "answer": 1,
+      "explain": "Art. 4 alin. (4).",
+      "ref": "NT art. 4 alin. (4)"
+    },
+    {
+      "q": "Suprafața minimă a unei U.G. de codru regulat este:",
+      "options": ["100 ha", "150 ha", "300 ha", "500 ha"],
+      "answer": 2,
+      "explain": "Art. 5.",
+      "ref": "NT art. 5 alin. (3)"
+    },
+    {
+      "q": "Suprafața minimă a unei U.G. de codru grădinărit:",
+      "options": ["100 ha", "150 ha", "300 ha", "50 ha"],
+      "answer": 1,
+      "explain": "Art. 5.",
+      "ref": "NT art. 5 alin. (3)"
+    },
+    {
+      "q": "Toleranța la inventarierea arboretelor grădinărite este:",
+      "options": ["7%, probabilitate 95%", "10%, 90%", "15%, 80%", "20%, 70%"],
+      "answer": 0,
+      "explain": "Art. 7.",
+      "ref": "NT art. 7 alin. (4)"
+    },
+    {
+      "q": "Volumele din amenajament pot fi folosite pentru calculul prejudiciilor?",
+      "options": ["Da", "Nu", "Doar la TII", "Doar cu aviz"],
+      "answer": 1,
+      "explain": "Art. 7 alin. (7).",
+      "ref": "NT art. 7 alin. (7)"
+    },
+    {
+      "q": "În grupa I, care funcție are prioritate față de protecția apelor?",
+      "options": [
+        "Protecția contra factorilor climatici",
+        "Protecția terenurilor și solurilor",
+        "Niciuna",
+        "Producția"
+      ],
+      "answer": 1,
+      "explain": "Ordinea de la art. 8 alin. (4).",
+      "ref": "NT art. 8 alin. (4)"
+    },
+    {
+      "q": "Tipul funcțional în care se poate aplica întreaga gamă de tratamente:",
+      "options": ["TI", "TII", "TIV", "TVI"],
+      "answer": 3,
+      "explain": "Art. 8 alin. (7).",
+      "ref": "NT art. 8 alin. (7)"
+    },
+    {
+      "q": "În TII se permit:",
+      "options": ["Tăieri rase", "Lucrări speciale de conservare", "Nicio lucrare", "Produse principale"],
+      "answer": 1,
+      "explain": "Art. 8 alin. (7).",
+      "ref": "NT art. 8 alin. (7)"
+    },
+    {
+      "q": "Care NU e bază de amenajare?",
+      "options": ["Regimul", "Ciclul", "Posibilitatea", "Compoziția-țel"],
+      "answer": 2,
+      "explain": "Posibilitatea e rezultatul reglementării.",
+      "ref": "NT art. 9 alin. (1)"
+    },
+    {
+      "q": "Regimul crângului este admis la:",
+      "options": ["Fag", "Salcâm, anin, plopi indigeni, sălcii", "Gorun", "Molid"],
+      "answer": 1,
+      "explain": "Art. 9 alin. (2).",
+      "ref": "NT art. 9 alin. (2)"
+    },
+    {
+      "q": "Exploatabilitatea la codrul grădinărit se exprimă prin:",
+      "options": ["Vârstă", "Diametrul-limită", "Ciclu", "Volum"],
+      "answer": 1,
+      "explain": "Art. 9 alin. (11).",
+      "ref": "NT art. 9 alin. (11)"
+    },
+    {
+      "q": "Vârsta exploatabilității tehnice corespunde maximului:",
+      "options": ["Creșterii curente", "Creșterii medii a sortimentului-țel", "Volumului total", "Înălțimii"],
+      "answer": 1,
+      "explain": "Art. 9 alin. (14).",
+      "ref": "NT art. 9 alin. (14)"
+    },
+    {
+      "q": "MR I corespunde tipului funcțional:",
+      "options": ["TI", "TII", "TIII", "TVI"],
+      "answer": 0,
+      "explain": "Evoluție naturală.",
+      "ref": "NT art. 10 alin. (3)"
+    },
+    {
+      "q": "Codul U.G. „G” înseamnă:",
+      "options": ["Gorunete", "Codru grădinărit", "Garanție", "Grupa I"],
+      "answer": 1,
+      "explain": "Art. 10 alin. (6).",
+      "ref": "NT art. 10 alin. (6)"
+    },
+    {
+      "q": "Codul U.G. „M” înseamnă:",
+      "options": ["Molidișuri", "Arborete supuse regimului de conservare", "Monumente", "Mixte"],
+      "answer": 1,
+      "explain": "Art. 10 alin. (6).",
+      "ref": "NT art. 10 alin. (6)"
+    },
+    {
+      "q": "Arborii „mijlocii” la grădinărit au categoriile de diametre:",
+      "options": ["16–24 cm", "28–36 cm", "40–48 cm", "≥ 52 cm"],
+      "answer": 1,
+      "explain": "Art. 11 alin. (2).",
+      "ref": "NT art. 11 alin. (2)"
+    },
+    {
+      "q": "Posibilitatea la cvasigrădinărit se stabilește prin:",
+      "options": [
+        "Metoda controlului",
+        "Suprafața periodică revocabilă comparată cu creșterea indicatoare",
+        "Afectații",
+        "Medii succesive doar"
+      ],
+      "answer": 1,
+      "explain": "Art. 12.",
+      "ref": "NT art. 12 alin. (1)"
+    },
+    {
+      "q": "Perioada de amenajare recomandată pentru U.G. de cvercinee:",
+      "options": ["10 ani", "20 de ani", "30 de ani", "40 de ani"],
+      "answer": 1,
+      "explain": "Făgete 30.",
+      "ref": "NT art. 14 alin. (3)"
+    },
+    {
+      "q": "Posibilitatea adoptată se analizează și se aprobă la:",
+      "options": ["Conferința I", "Conferința a II-a de amenajare", "Garda", "Ocol, anual"],
+      "answer": 1,
+      "explain": "Art. 16 alin. (4).",
+      "ref": "NT art. 16 alin. (4)"
+    },
+    {
+      "q": "Volumul cumulat de produse principale recoltat într-un an:",
+      "options": [
+        "Poate depăși posibilitatea cu 10%",
+        "Nu poate depăși posibilitatea anuală",
+        "E liber",
+        "Se stabilește de Gardă"
+      ],
+      "answer": 1,
+      "explain": "Art. 17 alin. (3).",
+      "ref": "NT art. 17 alin. (3)"
+    },
+    {
+      "q": "Suprafața cu tăieri unice/definitive în primul deceniu nu depășește, de regulă:",
+      "options": ["5 posibilități pe suprafață", "10 posibilități pe suprafață", "20%", "Nelimitat"],
+      "answer": 1,
+      "explain": "Art. 17 alin. (4).",
+      "ref": "NT art. 17 alin. (4)"
+    },
+    {
+      "q": "Posibilitatea de produse secundare se stabilește:",
+      "options": [
+        "Global",
+        "Separat pentru rărituri și curățări",
+        "Doar pentru rărituri",
+        "Doar pe suprafață"
+      ],
+      "answer": 1,
+      "explain": "Art. 18.",
+      "ref": "NT art. 18 alin. (2)"
+    },
+    {
+      "q": "Proprietățile de până la ce suprafață se reglementează la nivel de arboret?",
+      "options": ["10 ha", "50 ha", "100 ha", "300 ha"],
+      "answer": 2,
+      "explain": "Art. 24 alin. (2).",
+      "ref": "NT art. 24 alin. (2)"
+    },
+    {
+      "q": "Pădurile din protecție integrală sunt încadrate în categoriile:",
+      "options": ["1.5.A și 1.5.E", "1.6.B și 1.6.G", "1.2.a", "5.Q"],
+      "answer": 1,
+      "explain": "Art. 26 alin. (3)–(4).",
+      "ref": "NT art. 26 alin. (4)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Pădurea privată de 60 ha",
+      "situation": "Un proprietar privat are 60 ha de făget și vrea amenajament. Pe o parte, o eroziune de mal a luat 0,3 ha.",
+      "steps": [
+        {
+          "q": "Cum se reglementează producția?",
+          "a": "La nivel de arboret, proprietatea având sub 100 ha, cu asigurarea continuității și tratamente adecvate.",
+          "ref": "NT art. 24 alin. (2)"
+        },
+        {
+          "q": "Cine operează pierderea de suprafață?",
+          "a": "Șeful de ocol, în Tabelul 1E – Evidența mișcărilor de suprafață; reamenajarea o preia.",
+          "ref": "NT art. 2 alin. (1)"
+        },
+        {
+          "q": "Poate fi o U.G. separată?",
+          "a": "Ca regulă nu, U.G. de codru regulat are minimum 300 ha; în cazuri justificate se pot constitui subunități mai mici.",
+          "ref": "NT art. 5 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "Planul decenal depășit",
+      "situation": "La jumătatea deceniului, un ocol a recoltat dintr-o U.G. mai mult decât posibilitatea anuală într-un an, motivând că în planul decenal volumul arboretului era subestimat.",
+      "steps": [
+        {
+          "q": "E permis?",
+          "a": "Nu: volumele din plan sunt orientative, dar volumul recoltat într-un an nu poate depăși posibilitatea anuală.",
+          "ref": "NT art. 17 alin. (3)"
+        },
+        {
+          "q": "Ce sancțiune ar fi?",
+          "a": "Depășirea posibilității e contravenție (Legea 171/2010, art. 5), cu sancțiuni pe trepte după procent.",
+          "ref": "NT art. 17 alin. (3)"
+        },
+        {
+          "q": "Ce se întâmplă dacă un arboret e doborât de vânt?",
+          "a": "Arboretele în urgența I de regenerare intră în planul decenal, indiferent de vârstă.",
+          "ref": "NT art. 17 alin. (6)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "NT",
+        "name": "Normele tehnice privind amenajarea pădurilor (Ordinul 2536/2022)",
+        "title": "Normele tehnice privind amenajarea pădurilor",
+        "note": "Aprobate prin Ordinul MMAP nr. 2.536/2022, în vigoare din 14 octombrie 2022; rămân valabile până la noile norme (Codul silvic art. 164 alin. (19)). Formulele matematice din original nu sunt reproduse. Ghidul de bune practici privind amenajarea nu e inclus (nu se află printre fișierele tale).",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["(1)","Amenajarea pădurilor, ca ştiinţă şi practică a organizării şi conducerii structurale a pădurilor în scopul realizării obiectivelor complexe ecologice, sociale şi economice urmărite prin gospodărirea pădurilor, se bazează pe conceptul gestionării durabile. Prin gestionarea durabilă a pădurilor se înţelege administrarea şi utilizarea ecosistemelor forestiere, astfel încât să li se menţină şi amelioreze biodiversitatea, productivitatea, capacitatea de regenerare, vitalitatea, sănătatea şi să li se asigure pentru prezent şi viitor capacitatea de a exercita funcţiile multiple ecologice, economice şi sociale, la nivel local, regional şi mondial, fără a genera prejudicii altor ecosisteme."],
+              ["(2)","În vederea realizării gestionării durabile, amenajarea pădurilor respectă următoarele principii:"],
+              ["a)","principiul continuităţii, care reflectă preocuparea permanentă de a asigura prin amenajament condiţiile necesare pentru gestionarea durabilă a pădurilor, astfel încât acestea să ofere societăţii - în mod continuu - produse lemnoase şi de altă natură, precum şi servicii de protecţie şi sociale cât mai mari şi de calitate superioară. Acesta se referă, deci, atât la continuitatea în sens progresiv a funcţiilor de producţie, cât şi la permanenţa şi ameliorarea funcţiilor de protecţie şi sociale, urmărind atât interesele generaţiei actuale, cât şi pe cele de perspectivă ale societăţii;"],
+              ["b)","principiul eficacităţii funcţionale, care exprimă preocuparea permanentă atât pentru creşterea productivităţii şi calităţii pădurilor, cât şi pentru sporirea capacităţii lor de a proteja factorii de mediu în condiţiile unei maxime eficienţe economice şi stabilităţii ecologice;"],
+              ["c)","principiul conservării şi ameliorării biodiversităţii prin care se urmăreşte conservarea şi ameliorarea biodiversităţii la cele patru niveluri ale acesteia (diversitatea genetică intraspecifică, diversitatea speciilor, ecosistemelor şi peisajelor), în condiţiile maximizării stabilităţii şi potenţialului polifuncţional al pădurilor;"],
+              ["d)","principiul economic - prin produsele pe care pădurile le oferă şi prin serviciile ecosistemice pe care le realizează, pădurile reprezintă un bun economic de importanţă naţională. Prin organizarea procesului de producţie trebuie să se creeze condiţii favorabile realizării cu continuitate a funcţiilor de producţie şi de protecţie în condiţii cât mai avantajoase sub raport economic."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["(1)","Pădurile, terenurile destinate împăduririi, cele care servesc nevoilor de cultură, producţie ori administraţie silvică, iazurile, albiile pâraielor, precum şi terenurile neproductive şi terenurile ocupate temporar şi cele aflate în litigiu incluse în amenajamentele silvice, în condiţiile legii constituie, indiferent de natura proprietăţii, fondul forestier naţional. În situaţiile în care se identifică modificări de suprafeţe şi amplasament în baza documentelor legale sau ca urmare a corectării limitelor fondului forestier pe hotarele materializate în teren de administratorul/proprietarul acestuia, a corectării cursurilor de apă - eroziuni de maluri sau depuneri de aluviuni -, a determinării cu precizie mai ridicată a suprafeţelor, a corectării unor amplasamente şi suprafeţe incluse eronat sau omise din fondul forestier naţional pentru care proprietarul/administratorul deţine documente legale sau are justificări dovedite cu măsurători, acestea se vor opera de şeful de ocol silvic/bază experimentală în Tabelul 1E - Evidenţa mişcărilor de suprafaţă din fondul forestier din amenajamentul silvic şi se vor prelua cu prilejul reamenajării fondului forestier care face obiectul amenajamentului silvic."],
+              ["(2)","Sunt considerate păduri terenurile cuprinse în fondul forestier naţional, acoperite cu vegetaţie forestieră cu o suprafaţă de cel puţin 0,25 ha şi în care arborii pot să atingă o înălţime minimă de 5 m la maturitate, în condiţii normale de vegetaţie."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["(1)","Fondul forestier naţional este o componentă a fondului funciar. Normele tehnice pentru introducerea cadastrului general precizează că fondul forestier naţional cuprinde terenurile cu destinaţie forestieră incluse în amenajamentele silvice (TDF). Potrivit acestor norme, terenurile respective au următoarele folosinţe: păduri şi terenuri destinate împăduririi; terenuri care servesc nevoilor de cultură, producţie şi administraţie silvică; perdele de protecţie şi tufărişurimărăcinişuri."],
+              ["(2)","În amenajamentul silvic se foloseşte clasificarea utilizată în evidenţele silvice, caracterizată prin următoarele categorii de folosinţe:"],
+              ["A.","Păduri şi terenuri destinate împăduririi sau reîmpăduririi"],
+              ["A.1.","Păduri şi terenuri destinate împăduririi sau reîmpăduririi pentru care se reglementează recoltarea de produse principale (TIII-TVI)"],
+              ["A.1.1.0.","Păduri, inclusiv plantaţiile cu reuşită definitivă."],
+              ["A.1.2.0.","Regenerări artificiale fără reuşită definitivă (C"],
+              ["A.1.3.0.","Regenerări naturale sau mixte cu reuşită parţială obţinute în urma tăierilor definitive (C"],
+              ["A.1.4.1.","Terenuri de reîmpădurit în urma tăierilor rase"],
+              ["A.1.4.2.","Terenuri de reîmpădurit în urma doborâturilor de vânt"],
+              ["A.1.4.3.","Terenuri de reîmpădurit în urma altor cauze"],
+              ["A.1.5.2.","Poieni destinate împăduririlor."],
+              ["A.2.","Păduri şi terenuri destinate împăduririi sau reîmpăduririi pentru care nu se reglementează recoltarea de produse principale (T I şi T II)"],
+              ["A.2.1.0.","Păduri, inclusiv plantaţii cu reuşită definitivă"],
+              ["A.2.2.0.","Regenerări naturale cu reuşită parţială (C"],
+              ["A.2.2.2.","Regenerări artificiale cu reuşită parţială (C"],
+              ["A.2.2.3.","Regenerări mixte cu reuşită parţială (C"],
+              ["A.2.3.0.","Jnepenişuri"],
+              ["A.2.4.0.","Perdele forestiere"],
+              ["A.2.5.0.","Teren (fâşie) frontieră cu vegetaţie forestieră"],
+              ["A.2.6.0.","Terenuri degradate cu vegetaţie arbustivă din fondul forestier"],
+              ["A.2.7.1.","Terenuri de reîmpădurit în urma doborâturilor de vânt"],
+              ["A.2.7.2.","Terenuri de reîmpădurit în urma altor cauze"],
+              ["A.2.8.2.","Poieni destinate împăduririi"],
+              ["A.2.8.3.","Terenuri degradate intrate în fondul forestier şi destinate împăduririi."],
+              ["B.","Terenuri cu alte destinaţii"],
+              ["B.3.1.1.","Linii parcelare principale (L)"],
+              ["B.3.1.2.","Linii de vânătoare (V)"],
+              ["B.3.2.0.","Terenuri de hrană pentru vânat (V)"],
+              ["B.3.3.1.","Instalaţii de transport forestiere - drumuri (D)"],
+              ["B.3.3.2.","Instalaţii de transport forestiere - căi ferate (D)"],
+              ["B.3.3.3.","Instalaţii de transport forestiere - funiculare permanente (D)"],
+              ["B.3.3.4.","Căi de acces şi alte amenajări aferente diverselor obiective (drumuri de pământ etc.)"],
+              ["B.3.4.1.","Clădiri (C)"],
+              ["B.3.4.2.","Curţi (C)"],
+              ["B.3.4.3.","Depozite permanente (C)"],
+              ["B.3.5.0.","Pepiniere (P)"],
+              ["B.3.6.1.","Plantaţii semincere (P)"],
+              ["B.3.6.2.","Culturi de plantă-mamă (P)"],
+              ["B.3.6.3.","Colecţii dendrologice (P)"],
+              ["B.3.7.1.","Răchitării naturale"],
+              ["B.3.7.2.","Răchitării create prin culturi"],
+              ["B.3.7.3.","Culturi de arbuşti fructiferi (Z)"],
+              ["B.3.7.4.","Culturi de plante medicinale (Z)"],
+              ["B.3.7.5.","Culturi de plante melifere etc. (Z)"],
+              ["B.3.8.1.","Terenuri pentru alte nevoi ale administraţiei (A)"],
+              ["B.3.8.2.","Terenuri cu fazanerii (S)"],
+              ["B.3.8.3.","Terenuri cu păstrăvării (S)"],
+              ["B.3.8.4.","Terenuri cu centre de prelucrare a fructelor de pădure (S)"],
+              ["B.3.8.5.","Terenuri cu uscătorii de seminţe etc. (S)"],
+              ["B.3.9.1.","Culoare pentru linii electrice de înaltă tensiune (R)"],
+              ["B.3.9.2.","Culoare pentru linii electrice de medie tensiune (R)"],
+              ["B.3.9.3.","Ape care fac parte din fondul forestier - curgătoare (T)"],
+              ["B.3.9.4.","Ape care fac parte din fondul forestier - stătătoare (T)"],
+              ["B.3.9.5.","Teren (fâşie) frontieră fără vegetaţie forestieră."],
+              ["C.","Terenuri neproductive"],
+              ["C.4.1.1.","Terenuri neproductive - stâncării (N)"],
+              ["C.4.1.2.","Terenuri neproductive - abrupturi (N)"],
+              ["C.4.1.3.","Terenuri neproductive - grohotişuri (N)"],
+              ["C.4.1.4.","Terenuri neproductive - nisipuri (N)"],
+              ["C.4.1.5.","Terenuri neproductive - sărături (N)"],
+              ["C.4.1.6.","Terenuri neproductive - mlaştini (N)"],
+              ["C.4.1.7.","Terenuri neproductive - râpe, ravene etc. (N)"],
+              ["C.4.1.8.","Terenuri neproductive - gropi de împrumut (N)"],
+              ["C.4.1.9.","Terenuri neproductive - halde de steril (N)"],
+              ["C.4.2.1.","Terenuri neproductive - japşe (N)"],
+              ["D.","Terenuri ocupate temporar din fondul forestier"],
+              ["D.5.1.1.","Transmise prin acte normative în folosinţă temporară pentru instalaţii electrice (F)"],
+              ["D.5.1.2.","Transmise prin acte normative în folosinţă temporară pentru instalaţii petroliere (F)"],
+              ["D.5.1.3.","Transmise prin acte normative în folosinţă temporară pentru instalaţii hidroenergetice (F)"],
+              ["D.5.1.4.","Transmise prin acte normative în folosinţă temporară pentru cariere (F)"],
+              ["D.5.1.5.","Transmise prin acte normative în folosinţă temporară pentru depozite (F)"],
+              ["D.5.1.6.","Transmise prin acte normative în folosinţă temporară pentru alte scopuri (F)"],
+              ["D.5.1.7.","Terenuri concesionate (F)"],
+              ["D.5.2.1.","Deţinute de persoane juridice fără aprobări legale necesare - ocupaţii (M)"],
+              ["D.5.2.2.","Deţinute de persoane fizice fără aprobări legale necesare - ocupaţii (M)"],
+              ["D.5.2.3.","Deţinute de persoane juridice fără aprobări legale necesare - litigii (M)"],
+              ["D.5.2.4.","Deţinute de persoane fizice fără aprobări legale necesare - litigii (M)"],
+              ["E.","Terenuri cu statut juridic incert"],
+              ["E.6.1.1.","Terenuri care la data amenajării au statut juridic incert"],
+              ["(3)","Evidenţa fondului forestier pe categorii utilizate în evidenţa fondului funciar se prezintă astfel:"],
+              ["","Nr. crt."],
+              ["","Simbol"],
+              ["","Denumirea indicatorului"],
+              ["1","P – Fond forestier total"],
+              ["1.1.","PD – Terenuri acoperite cu pădure"],
+              ["1.1.1","PDr – Răşinoase"],
+              ["1.1.2","PDf – Foioase"],
+              ["1.1.3","PDs – Răchitării (cultivate şi naturale)"],
+              ["1.2.","PC – Terenuri care servesc nevoilor de cultură"],
+              ["1.2.1","PCp – Pepiniere"],
+              ["1.2.2","PCj – Plantaje"],
+              ["1.2.3","PCd – Colecţii dendrologice"],
+              ["1.3.","PS – Terenuri care servesc nevoilor de producţie silvică"],
+              ["1.3.1","PSz – Arbuşti fructiferi (culturi specializate)"],
+              ["1.3.2","PSv – Terenuri pentru hrana vânatului"],
+              ["1.3.3","PSr – Ape curgătoare"],
+              ["1.3.4","PSl – Ape stătătoare"],
+              ["1.3.5","PSp – Păstrăvării"],
+              ["1.3.6","PSf – Fazanerii"],
+              ["1.3.7","PSb – Crescătorii de animale cu blană fină"],
+              ["1.3.8","PSd – Centre de fructe de pădure"],
+              ["1.3.9","PSu – Puncte de achiziţie fructe, ciuperci"],
+              ["1.3.10","PSi – Ateliere de împletituri"],
+              ["1.3.11","PSa – Secţii şi puncte apicole"],
+              ["1.3.12","PSs – Uscătorii şi depozite de seminţe"],
+              ["1.3.13","PSc – Ciupercării"],
+              ["1.4.","PA – Terenuri care servesc nevoilor de administrare forestieră"],
+              ["1.4.1","PAs – Spaţii de producţie silvică şi cazare personal silvic"],
+              ["1.4.2","PAf – Căi ferate forestiere"],
+              ["1.4.3","PAd – Drumuri forestiere"],
+              ["1.4.4","PAp – Linii de pază contra incendiilor"],
+              ["1.4.5","PAz – Depozite forestiere"],
+              ["1.4.6","PAg – Diguri"],
+              ["1.4.7","PAc – Canale"],
+              ["1.4.8","PAa – Alte terenuri"],
+              ["1.5.","PI – Terenuri afectate împăduririi"],
+              ["1.5.1","PIr – Clasa de regenerare"],
+              ["1.5.2","PIf – Terenuri intrate cu acte legale în fondul forestier"],
+              ["1.6.","PN – Terenuri neproductive"],
+              ["1.6.1","PNs – Stâncării, abrupturi"],
+              ["1.6.2","PNp – Bolovănişuri, pietrişuri"],
+              ["1.6.3","PNn – Nisipuri (zburătoare marine)"],
+              ["1.6.4","PNr – Râpe, ravene"],
+              ["1.6.5","PNc – Sărături cu crustă"],
+              ["1.6.6","PNm – Mocirle, smârcuri"],
+              ["1.6.7","PNg – Gropi de împrumut şi depuneri sterile"],
+              ["1.7.","PE – Fâşie frontieră"],
+              ["1.8.","PT – Terenuri ocupate temporar"],
+              ["1.9.","PO – Ocupaţii, litigii"],
+              ["1.10.","PJI – Terenuri cu statut juridic incert"]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","Ocolul silvic/Baza experimentală, proprietatea, unitatea administrativ-teritorială sau asociaţia de proprietari constituie unităţi teritoriale de amenajament la nivelul contractării, organizării şi desfăşurării lucrărilor de amenajare a pădurilor."],
+              ["(2)","Unitatea de producţie/protecţie - U.P. - este unitatea teritorială pentru care se elaborează un amenajament silvic. Unitatea de producţie/protecţie se constituie la nivelul fondului forestier proprietate publică a statului precum şi al fondului forestier aparţinând unui proprietar, asociaţii de proprietari sau unităţi teritorial-administrative. În cadrul ocolului silvic/bazei experimentale, al proprietăţii, al asociaţiei de proprietari sau unităţii administrativ-teritoriale, unităţile de producţie/protecţie vor purta indicative numerice - cifre romane - şi denumiri proprii care se vor păstra, pe cât posibil, nemodificate de la o amenajare la alta."],
+              ["(3)","Parcela este diviziunea cu caracter permanent a fondului forestier formată în cadrul unei unităţi de producţie/protecţie cu ocazia amenajării pădurilor, în vederea organizării teritoriale a acesteia. Parcelele se separă între ele prin linii parcelare care pot fi sau nu deschise şi pichetate. Liniile parcelare deschise, neconstituite ca parcele, se pichetează."],
+              ["(4)","Unitatea teritorială elementară pentru studiul arboretelor şi pentru planificarea şi executarea lucrărilor silvice, denumită convenţional unitate amenajistică - u.a., este subparcela sau parcela nedivizată în subparcele. Subparcela reprezintă o porţiune din parcelă, omogenă din punct de vedere staţional, biometric, funcţional şi al folosinţei şi care - în consecinţă - reclamă aceleaşi măsuri de gospodărire. Suprafaţa minimă a subparcelei este, de regulă, 0,5 ha. Terenurile afectate gospodăririi silvice, terenurile goale şi cele degradate, terenurile ocupate temporar din fondul forestier, terenurile neproductive etc. se pot constitui în subparcele şi dacă au suprafeţe cuprinse între 0,01 şi 0,5 ha. Dacă măsurile de gospodărire sunt aceleaşi, suprafeţele respective pot fi grupate în aceeaşi subparcelă."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","Unitatea de gospodărire - U.G. - este unitatea pentru care se stabilesc ţeluri de gospodărire distincte şi pentru care se reglementează separat fie procesul de producţie lemnoasă - cu luarea în considerare a necesităţii promovării şi a altor funcţii atribuite arboretelor-, fie acţiuni/măsuri speciale de ocrotire/conservare a unor ecosisteme forestiere de interes deosebit. Unităţi de gospodărire pot fi organizate la nivelul unităţilor de producţie şi la nivelul ocolului silvic/bazei experimentale. Tipurile de unităţi de gospodărire ce se pot constitui sunt prezentate în Ghidul de bune practici privind amenajarea pădurilor, prevăzut în anexa nr. 2 la ordin."],
+              ["(2)","Mărimea unităţilor de gospodărire se stabileşte în raport cu necesitatea exercitării cu continuitate a funcţiilor de protecţie şi/sau de producţie."],
+              ["(3)","Suprafaţa minimă a unei unităţi de gospodărire în vederea realizării cu continuitate a ţelurilor stabilite este, de regulă, de: 300 ha la codru regulat (inclusiv codru cvasigrădinărit); 150 ha la codru grădinărit; 100 ha la crâng, inclusiv la culturile de plopi euramericani şi sălcii selecţionate. În cazuri bine justificate se pot constitui şi subunităţi de întinderi mai mici. Pădurile supuse regimului de ocrotire şi conservare deosebită, inclusiv materialele de bază - surse de seminţe şi arboretele destinate conservării resurselor genetice, se constituie în unităţi distincte, indiferent de suprafaţa lor."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["(1)","Sistemul de informaţii geografice pentru amenajarea pădurilor se va elabora în conformitate cu standardul precizat în Ghidul de bune practici privind amenajarea pădurilor, prevăzut în anexa nr. 2 la ordin. Standardul pentru elaborarea GIS-ului în amenajarea pădurilor este structurat în:"],
+              ["a)","structura bazei de date GIS (punct, linie, poligon), care poate fi creată şi utilizată şi cu alte softuri dedicate GIS-ului (de exemplu, QGIS) decât cele prezentate în standard;"],
+              ["b)","elementele standardizate pentru hărţile amenajistice, care au fost create pentru ArcGIS Desktop, iar pentru utilizarea altor softuri trebuie concepute simboluri cartografice similare."],
+              ["(2)","Baza de date geografice are două componente: baza de date cartografică, care cuprinde planurile topografice scanate, georeferenţiate şi vectorizate, şi baza de date descriptivă, reprezentată de informaţiile ce caracterizează staţiunile şi vegetaţia forestieră, centralizate şi procesate cu ajutorul programelor informatice specifice. Tot ca parte a bazei de date geografice sunt şi elementele de tip annotation - etichete, toponimii, nume de localităţi."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["(1)","Prin inventarierea fondului de producţie se urmăreşte determinarea mărimii, structurii şi creşterii acestuia, pornind de la stabilirea caracteristicilor dendrometrice ale fiecăruia dintre arboretele componente. Această inventariere se face atât în scopul reglementării procesului de producţie, cât şi în cel de supraveghere a stării pădurilor. Aceasta nu se face pentru a constitui gestiuni ale proprietarilor/administratorilor, întrucât preciziile de determinare a volumelor sunt mai mici decât cele în baza cărora se întocmesc actele de evaluare a volumului de lemn destinat valorificării. Unitatea de inventariat este arboretul - unitatea amenajistică."],
+              ["(2)","Metodologia de inventariere se bazează pe aplicarea metodelor statisticii matematice şi cu deosebire pe aplicarea metodei selective."],
+              ["(3)","Datele urmărite vor fi utilizate la determinarea principalelor caracteristici ale arboretelor: compoziţia specifică, diametrul mediu, înălţimea medie, numărul de arbori la hectar (desimea), indicele de densitate, clasa de producţie, volumul pe specii, creşterea curentă pe specii, clasele de diametre şi clasele de calitate. În acest scop se va amplasa o reţea de suprafeţe de probă circulare sau relascopice. În cazul arboretelor pluriene, tratate în grădinărit sau în curs de transformare la grădinărit, se vor face inventarieri în suprafeţe de probă permanente, în vederea unui control mai riguros al evoluţiei structurii şi pentru determinarea corectă a creşterilor."],
+              ["(4)","La inventarierea fondului de producţie se au în vedere următoarele toleranţe şi probabilităţi de acoperire pentru volume sau suprafeţe de bază, după caz:"],
+              ["","Natura arboretelor"],
+              ["","Toleranţe (%)"],
+              ["","Probabilitatea de acoperire (%)"],
+              ["","- Arborete cu structură grădinărită sau în curs de transformare la codru grădinărit"],
+              ["","7"],
+              ["","95"],
+              ["","- Arborete care intră în rând de tăiere în următorul deceniu"],
+              ["","10"],
+              ["","90"],
+              ["","- Celelalte arborete (suprafaţa de bază - G)"],
+              ["","15"],
+              ["","80"],
+              ["(5)","Toleranţele prevăzute la alin. (4) se pot realiza numai în cazul arboretelor pure, echiene şi al celor pluriene cu structură echilibrată. Erorile pot depăşi aceste limite şi în cazul evaluării volumelor arboretelor prin tabele de producţie simplificate, pe baza indicelui de acoperire estimat de proiectant - volume calculate prin programele dedicate de prelucrare a datelor amenajistice."],
+              ["(6)","În raport cu suprafaţa, consistenţa şi clasa de omogenitate ale arboretelor se pot efectua inventarieri integrale."],
+              ["(7)","Având în vedere preciziile de determinare scăzute, volumele cuprinse în amenajamentul silvic, determinate pe bază statistică, nu pot fi luate în considerare la calculul prejudiciilor."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["(1)","Obiectivele ecologice, economice şi sociale se exprimă prin natura produselor şi a serviciilor ecosistemice ale pădurii şi se definesc în raport cu cerinţele societăţii şi decurg din:"],
+              ["a)","strategiile de dezvoltare a silviculturii; programele forestiere întocmite la nivel naţional, zonal sau local;"],
+              ["b)","studiile şi proiectele referitoare la sistematizarea şi organizarea teritoriului şi la amenajarea bazinelor hidrografice;"],
+              ["c)","documentaţiile privind noi obiective ecologice, economice, social-culturale şi ştiinţifice care pot beneficia de serviciile sau produsele pădurii."],
+              ["(2)","Obiectivele avute în vedere trebuie să se reflecte în ţelurile de producţie ori de protecţie, la nivelul unităţilor de amenajament. Ţelurile respective sunt evidenţiate şi în expresia funcţiilor atribuite arboretelor, cu luarea în considerare a unor diferenţieri ce se impun sub raportul efectelor de protecţie şi de producţie urmărite."],
+              ["(3)","Corespunzător obiectivelor ecologice, economice şi sociale, amenajamentul precizează funcţiile pe care trebuie să le îndeplinească pădurile. Funcţiile se atribuie fiecărui arboret în raport cu ţelurile de protecţie ori de producţie stabilite. Încadrarea arboretelor pe grupe, subgrupe şi categorii funcţionale este realizată prin zonare, ţinând seama de funcţia prioritară."],
+              ["(4)","În cazul arboretelor încadrate în grupa I funcţională care îndeplinesc două sau mai multe funcţii, la stabilirea funcţiei prioritare se va avea în vedere următoarea ordine de importanţă:"],
+              ["a)","funcţia de interes ştiinţific, de ocrotire a genofondului şi ecofondului forestier şi a altor ecosisteme cu elemente naturale de valoare deosebită;"],
+              ["b)","funcţia specială pentru conservarea şi ocrotirea biodiversităţii;"],
+              ["c)","funcţia de protecţie a terenurilor şi solurilor, funcţii predominant pedologice;"],
+              ["d)","funcţia de protecţie, funcţii predominant sociale;"],
+              ["e)","funcţia de protecţie a apelor, funcţii predominant hidrologice;"],
+              ["f)","funcţia de protecţie contra factorilor climatici naturali sau antropici, funcţii predominant climatice. Această ordine este orientativă, în fiecare caz concret funcţia stabilindu-se cu luarea în considerare a complexului de factori de influenţă."],
+              ["(5)","În amenajamentul silvic, pe lângă funcţia prioritară, se vor menţiona şi celelalte funcţii rezultate din aplicarea criteriilor de zonare funcţională. Aceste funcţii, împreună cu cea prioritară, vor fi luate în considerare la constituirea unităţilor de gospodărire şi la stabilirea măsurilor propuse."],
+              ["(6)","În scopul diferenţierii măsurilor de gospodărire şi al reglementării lor prin amenajament, categoriile funcţionale se grupează în 6 tipuri funcţionale. În fiecare din aceste tipuri se includ categorii funcţionale cu grad similar de intensitate a funcţiilor atribuite arboretelor componente."],
+              ["(7)","Definirea tipurilor funcţionale se face astfel:"],
+              ["a)","tipul I (TI): păduri cu funcţii speciale de protecţie în care este interzisă, prin reglementări, exploatarea de masă lemnoasă sau de alte produse, fără aprobări emise în baza actelor administrative privind protecţia mediului şi/sau acordul administratorului ariei naturale protejate;"],
+              ["b)","tipul II (TII): păduri cu funcţii speciale de protecţie în care nu este permisă reglementarea procesului de producţie lemnoasă - produse principale. În acest tip funcţional sunt admise lucrări speciale de conservare;"],
+              ["c)","tipul III; IV (TIII; TIV): păduri cu funcţii speciale de protecţie pentru care se reglementează procesul de producţie lemnoasă - produse principale, fiind admise, de regulă, tratamente care promovează regenerarea naturală;"],
+              ["d)","tipul V (TV): păduri cu funcţii de producţie şi protecţie destinate producţiei de lemn de calitate superioară, în care sunt admise tratamentele adecvate ţelurilor urmărite;"],
+              ["e)","tipul VI (TVI): păduri cu funcţii de producţie şi protecţie în care se poate aplica întreaga gamă a tratamentelor silviculturale."],
+              ["(8)","În arboretele încadrate în tipurile funcţionale TII-TVI sunt permise lucrări de îngrijire şi conducere a arboretelor, luându-se în considerare intensitatea funcţiilor atribuite fiecărui arboret. De asemenea, în aceste tipuri funcţionale, sunt permise lucrări de regenerare şi tăieri de igienă."],
+              ["(9)","Cu ocazia revizuirii amenajamentului silvic se reanalizează încadrarea arboretelor pe grupe şi subgrupe funcţionale, în raport cu noile obiective social-economice şi ecologice. Stabilirea obiectivelor ecologice, economice şi sociale şi a funcţiilor pădurii se face de comun acord cu reprezentanţii proprietarilor şi administratorilor de păduri, cu luarea în considerare a punctelor de vedere ale tuturor factorilor interesaţi, inclusiv cele ale beneficiarilor diverselor funcţii de protecţie ale pădurilor."]
+            ]
+          },
+          {
+            "no": "9",
+            "label": "Art. 9",
+            "items": [
+              ["(1)","Pentru a îndeplini, în condiţii corespunzătoare, funcţiile atribuite, atât arboretele luate individual, cât şi pădurea în ansamblul ei trebuie să îndeplinească anumite condiţii de structură. Structura arboretelor şi a pădurii, atât cea normală, cât şi cea corespunzătoare diferitelor etape intermediare, se defineşte prin bazele de amenajare:"],
+              ["a)","regim;"],
+              ["b)","compoziţie-ţel;"],
+              ["c)","tratament;"],
+              ["d)","exploatabilitate, exprimată prin vârsta exploatabilităţii la codru şi crâng şi prin diametrul limită la codrul grădinărit;"],
+              ["e)","ciclu."],
+              ["(2)","Regimul sau modul general în care se asigură regenerarea unei păduri - din sămânţă sau pe cale vegetativă - defineşte structura pădurii din acest punct de vedere. La regenerarea pădurilor se va da prioritate regimului codru cu regenerare din sămânţă, urmărindu-se realizarea obiectivelor stabilite şi exercitarea cu continuitate a funcţiilor atribuite. Regimul crângului, cu regenerare din lăstari şi drajoni, este admis, indiferent de natura proprietăţii, numai în arboretele de salcâm, anin, plopi indigeni şi sălcii. Regimul specific plantaţiilor de plop euramerican este regimul codrului convenţional, asimilat codrului."],
+              ["(3)","Compoziţia-ţel reprezintă combinaţia de specii din cadrul unui arboret care îmbină, în orice moment al existenţei lui, în modul cel mai favorabil, prin proporţia şi gruparea lor, exigenţele biologice ale pădurii cu cerinţele ecologice, economice şi sociale. Compoziţia-ţel, ca bază de amenajare, se exprimă astfel:"],
+              ["a)","compoziţia-ţel la exploatabilitate care se stabileşte pentru arboretele neexploatabile. Ea reprezintă cea mai favorabilă compoziţie la care ajung arboretele la vârsta exploatabilităţii în raport cu compoziţia lor actuală şi cu posibilităţile de ameliorare a acesteia, prin intervenţiile ce se fac în direcţia realizării compoziţiei optime;"],
+              ["b)","compoziţia-ţel de regenerare care se stabileşte pentru terenurile de împădurit, pentru arboretele exploatabile în prezent şi pentru cele care devin exploatabile în cursul primei perioade de amenajament, ţinându-se seama de compoziţia-ţel optimă şi de sistemul de cultură adoptat."],
+              ["(4)","La fixarea compoziţiei-ţel a fiecărui arboret vor fi avute în vedere: compoziţia corespunzătoare tipului natural fundamental de pădure; conservarea biodiversităţii; condiţiile staţionale determinate; funcţiile ecologice, economice şi sociale atribuite arboretelor; starea actuală a acestora."],
+              ["(5)","În cazul structurii grădinărite nu se mai stabileşte o compoziţie-ţel la exploatabilitate şi o compoziţie-ţel de regenerare, ci numai compoziţia-ţel optimă."],
+              ["(6)","Prin amenajament se vor promova cu precădere compoziţiile-ţel corespunzătoare tipului natural fundamental de pădure. Unele modificări se pot aduce prin promovarea de specii valoroase economic, estetic şi cultural, urmărind creşterea eficacităţii funcţionale a arboretului."],
+              ["(7)","În sens larg, tratamentul reprezintă ansamblul de măsuri silviculturale la care este supus un arboret, de-a lungul întregii lui vieţi, pentru a se asigura condiţiile ecologice şi structurale corespunzătoare funcţiilor social-ecologice şi economice atribuite. Ca bază de amenajare, tratamentul defineşte structura arboretului din punctul de vedere al repartiţiei arborilor pe categorii dimensionale şi al distribuţiei lor spaţiale."],
+              ["(8)","Din punct de vedere silvicultural, tratamentul indică numai metoda de regenerare a arboretului, care nu este un scop în sine, ci doar un mijloc de realizare a structurii-ţel, corespunzătoare funcţiei atribuite. Între structura unui arboret şi capacitatea lui de a îndeplini anumite funcţii social-economice există o strânsă legătură. În primul rând, trebuie stabilit tipul de structură (grădinărit, regulat, cvasigrădinărit sau etajat) ce urmează a se realiza şi care constituie, din acest punct de vedere, ţel de gospodărire. Evident, realizarea acestui ţel necesită alegerea şi aplicarea unui anumit tratament."],
+              ["(9)","Alegerea tratamentului se face odată cu realizarea amenajamentelor, în raport cu tipurile de categorii funcţionale, avându-se în vedere condiţiile staţionale şi formaţiile mari de păduri - cu diferenţieri pe categorii de productivitate şi de structură a arboretelor, ţinându-se cont şi de înclinarea terenului, pentru fiecare arboret de regenerat, luându-se în considerare:"],
+              ["a)","condiţiile ecologice date;"],
+              ["b)","funcţiile atribuite arboretului respectiv;"],
+              ["c)","cerinţele sociale, economice şi ecologice."],
+              ["(10)","Condiţiile naturale şi cerinţele ecologice, economice şi sociale impun ca majoritatea pădurilor să fie conduse spre structuri diversificate, amestecate - pluriene, relativ pluriene, naturale sau de tip natural - capabile a îndeplini funcţii multiple de protecţie şi de producţie. Prin amenajament se va promova cu precădere regenerarea naturală, tratamentele stabilindu-se în aşa fel încât să se asigure şi conservarea în condiţii optime a biodiversităţii ecosistemelor forestiere."],
+              ["(11)","Exploatabilitatea este calitatea de a fi exploatabil atribuită arborilor sau arboretelor, atunci când eficienţa acestora, oricare ar fi funcţia pe care o îndeplinesc, începe să scadă. Exploatabilitatea defineşte structura arboretelor sub raport dimensional şi se exprimă prin diametre-limită, în cazul structurilor de codru grădinărit, şi prin diametrele medii de realizat, respectiv prin vârsta exploatabilităţii, în cazul structurilor de codru regulat, cvasigrădinărit şi de crâng, din tipurile III-VI de categorii funcţionale."],
+              ["(12)","Diametrul-limită reprezintă diametrul de bază al arborilor de o anumită specie dintr-un arboret grădinărit, care constituie limita superioară a distribuţiei arborilor pe categorii de diametre. Numărul de arbori din categoria respectivă trebuie să fie de minimum un arbore la hectar. Diametrul-limită condiţionează structura de realizat în cazul arboretelor de tip grădinărit. Acesta se stabileşte pe bază de măsurători şi prin comparaţii periodice, în spiritul metodei controlului."],
+              ["(13)","Vârsta exploatabilităţii se stabileşte pentru fiecare arboret, în raport cu:"],
+              ["a)","funcţiile atribuite;"],
+              ["b)","specia preponderentă, corespunzătoare compoziţiei-ţel la exploatabilitate;"],
+              ["c)","clasa de producţie;"],
+              ["d)","sortimentul-ţel principal:"],
+              ["e)","modul de regenerare;"],
+              ["f)","starea arboretului (urgenţa de regenerare)."],
+              ["(14)","În funcţie de criteriile de la alin. (13) se stabilesc:"],
+              ["a)","vârsta exploatabilităţii tehnice, pentru pădurile din grupa a II-a funcţională, se calculează după criteriul creşterii medii a volumului corespunzător sortimentului sau grupei de sortimente fixate ca ţel de producţie, fiind definită de momentul când această creştere este maximă;"],
+              ["b)","vârsta exploatabilităţii de protecţie, pentru pădurile din grupa I funcţională, tipurile III-IV de categorii funcţionale, care corespunde momentului scăderii mediei maximului efectului protector al arboretului. Se stabileşte pentru toate arboretele destinate să îndeplinească funcţii speciale de protecţie şi care sunt luate în considerare la reglementarea procesului de producţie lemnoasă."],
+              ["(15)","Ca principală bază de amenajare în cazul pădurilor de codru cvasigrădinărit, codru regulat şi crâng, ciclul determină mărimea şi structura pădurii în ansamblul ei, în raport cu vârsta arboretelor componente. La stabilirea ciclului vor fi luate în considerare:"],
+              ["a)","formaţiile şi speciile forestiere care compun pădurea;"],
+              ["b)","funcţiile ecologice, economice şi sociale atribuite arboretelor respective;"],
+              ["c)","media vârstei exploatabilităţii;"],
+              ["d)","posibilităţile de creştere a eficacităţii funcţionale a arboretelor şi a pădurii în ansamblul ei."]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["(1)","Reglementarea procesului de producţie lemnoasă se realizează prin stabilirea volumului de lemn ce poate fi recoltat în perioada de aplicare a amenajamentului - a posibilităţii -, elaborarea planului de recoltare, a planului lucrărilor de îngrijire şi conducere şi a planului lucrărilor de regenerare."],
+              ["(2)","Această reglementare reprezintă o concretizare a deciziilor de conducere structurală, decizii diferenţiate pe două nivele:"],
+              ["a)","un nivel inferior, de arboret, în care se urmăreşte crearea unor structuri care să asigure stabilitatea ecologică şi creşterea eficacităţii funcţiilor atribuite;"],
+              ["b)","un nivel superior, de fond de producţie, în care se urmăreşte crearea unei structuri de ansamblu capabile să asigure continuitatea, în timp şi spaţiu, a satisfacerii cerinţelor social-economice."],
+              ["(3)","Modalităţile concrete de reglementare a procesului de producţie lemnoasă sunt diferenţiate în raport cu regimul, tipul de structură şi intensitatea funcţiilor atribuite arboretelor. Din considerente practice, ansamblul funcţiilor potenţiale pe care le poate îndeplini un arboret - structurate în grupe, subgrupe şi categorii funcţionale - a fost regrupat în 6 tipuri funcţionale, astfel încât fiecare tip -T - a inclus categorii funcţionale cu grad similar de intensitate a funcţiei. O regrupare a celor 6 tipuri de intensităţi funcţionale, realizată în concordanţă cu caracteristicile reglementării procesului de producţie lemnoasă, permite constituirea următoarelor modalităţi, denumite în continuare MR:"],
+              ["a)","MR I (include T-I) - evoluţie naturală a structurii reale; nu se stabilesc decizii de conducere; nu se stabileşte posibilitatea şi nu se planifică lucrări de recoltare şi de cultură;"],
+              ["b)","MR II (include T-II) - evoluţie dirijată, caracterizată prin intervenţii de intensitate redusă, a structurii reale; se stabilesc decizii de conducere structurală la nivel inferior, de arboret; reglementare restrânsă, fără stabilirea posibilităţii şi cu planuri de conservare şi cultură;"],
+              ["c)","MR III (include T-III - T-VI) - evoluţie dirijată, cu intensităţi variate, adecvate tipului funcţional, a structurii reale; se stabilesc decizii de conducere structurală la nivel inferior, de arboret şi superior, de fond de producţie; reglementare clasică, cu stabilire de posibilitate, planuri de recoltare şi cultură."],
+              ["(4)","Pentru pădurile încadrate în MR II, reglementarea are în vedere asigurarea permanenţei pădurii şi a continuităţii funcţiei atribuite, de protecţie, şi cuprinde:"],
+              ["a)","plan de lucrări de conservare, pentru arborete ce au atins vârste adecvate: intensitatea tăierilor este stabilită în raport cu starea reală a fiecărui arboret şi se elaborează la nivel de unitate de gospodărire - M, K;"],
+              ["b)","plan de lucrări de îngrijire şi de regenerare care se elaborează la nivelul unităţii de producţie."],
+              ["(5)","Pentru pădurile încadrate în MR III, luând în considerare criteriile de regim şi structură, se pot diferenţia următoarele tipuri de reglementare ale procesului de producţie lemnoasă:"],
+              ["","A."],
+              ["","Codru"],
+              ["","A1."],
+              ["","Grădinărit ⇒ unităţi de gospodărire cu structuri grădinărite - G;"],
+              ["","A2."],
+              ["","Cvasigrădinărit ⇒ unităţi de gospodărire cu structuri cvasigrădinărite - J;"],
+              ["","A3."],
+              ["","Regulat ⇒ unităţi de gospodărire cu structuri regulate, echiene - A, B, D, I, V."],
+              ["","B."],
+              ["","Crâng"],
+              ["","B1."],
+              ["","Clase de vârstă 10 ani ⇒ unităţi de gospodărire cu arborete de salcâm - Q, U;"],
+              ["","B2."],
+              ["","Clase de vârstă 5 ani ⇒ unităţi de gospodărire cu arborete de plopi şi sălcii indigene - X, Y."],
+              ["","C."],
+              ["","Codru convenţional."],
+              ["","Clase de vârstă 5 ani ⇒ unităţi de gospodărire cu arborete de plopi euramericani şi sălcii selecţionate - W, Z."],
+              ["","D."],
+              ["","Conversiune"],
+              ["","D1."],
+              ["","Prin îmbătrânire ⇒ Se includ în unităţile de gospodărire descrise în A3;"],
+              ["","D2."],
+              ["","Prin refacere ⇒ Se includ în unităţile de gospodărire descrise în A3."],
+              ["(6)","Codurile unităţilor de gospodărire indicate în paranteze au următoarea semnificaţie:"],
+              ["","A - codru regulat: sortimente obişnuite: lemn pentru cherestea, construcţii, celuloză etc.;"],
+              ["","B - codru regulat: sortimente superioare: lemn pentru furnire, rezonanţă, claviatură;"],
+              ["","D, I - codru regulat: obiective de protecţie;"],
+              ["","G - codru grădinărit: obiective de protecţie şi producţie;"],
+              ["","J - codru cvasigrădinărit: obiective de protecţie şi producţie (furnire, cherestea);"],
+              ["","Q - crâng simplu - salcâm: obiective de protecţie şi producţie;"],
+              ["","Y - crâng cu tăieri în scaun;"],
+              ["","V - unităţi de interes cinegetic - regim codru;"],
+              ["","U - unităţi de interes cinegetic - regim crâng;"],
+              ["","X - unităţi cu zăvoaie de plopi şi sălcii;"],
+              ["","Z - unităţi cu plopi şi sălcii selecţionate pentru celuloză şi cherestea;"],
+              ["","W - unităţi cu plopi şi sălcii selecţionate pentru furnire;"],
+              ["","M - unităţi cu arborete supuse regimului de conservare;"],
+              ["","K - unităţi cu materiale de bază - surse de seminţe şi arborete destinate conservării resurselor genetice;"],
+              ["","E - unităţi cu arborete supuse ocrotirii integrale: obiective de ocrotire genofond şi ecofond forestier."],
+              ["(7)","Diferenţierea modului de reglementare în raport cu regimul, structura arboretelor şi intensitatea funcţiilor atribuite se prezintă în anexa la prezentele norme."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["(1)","Principala caracteristică a arboretelor de codru grădinărit este structura plurienă, reflectată în descreşterea continuă a numărului de arbori pe categorii de diametre, de la cele mai mici către cele mai mari. Cu cât repartiţia numărului de arbori pe categorii de diametre se apropie mai mult de o progresie geometrică descrescătoare, cu atât sunt îndeplinite mai bine condiţiile continuităţii. La această structură se ajunge printr-un îndelungat proces de transformare, mai scurt la arboretele pluriene şi mai lung la arboretele relativ echiene şi echiene supuse transformării spre grădinărit."],
+              ["(2)","Analiza structurii fondului de producţie în raport cu grosimea arborilor se face pe baza distribuirii acestora pe clase de grosimi şi categorii de diametre, astfel:"],
+              ["","Clase de grosimi"],
+              ["","Categorii de diametre cm"],
+              ["","Limitele efective ale claselor de diametre cm"],
+              ["","Arbori foarte subţiri (numai la amenajări experimentale)"],
+              ["","4, 8, 12"],
+              ["","1.1-14,0"],
+              ["","Arbori subţiri"],
+              ["","16, 20, 24"],
+              ["","14,1-26,0"],
+              ["","Arbori mijlocii"],
+              ["","28, 32, 36"],
+              ["","26,1-38,0"],
+              ["","Arbori groşi"],
+              ["","40, 44, 48"],
+              ["","38,1-50,0"],
+              ["","Arbori foarte groşi"],
+              ["","52 şi peste"],
+              ["","peste 50,0"],
+              ["(3)","Structura caracterizată prin descreşterea în progresie geometrică a numărului de arbori pe categorii de diametre şi care asigură o eficienţă maximă în raport cu obiectivele stabilite se consideră normală. Unei asemenea structuri îi corespunde o anumită mărime a fondului de producţie, care se consideră optimă pentru condiţiile date. Atât structura, cât şi mărimea fondului normal de producţie se stabilesc pe cale experimentală, prin inventarieri reprezentative succesive, în suprafeţe de probă permanente."],
+              ["(4)","Structura normală se stabileşte în raport cu situaţia reală, din aproape în aproape, în cursul procesului de producţie, distinct pentru fiecare arboret gospodărit în codru grădinărit, întrucât distribuţia numărului de arbori pe categorii de diametre şi compoziţia arboretelor variază în funcţie de condiţiile staţionale. Fondul normal şi fondul real de producţie, stabilite cum s-a arătat mai sus, servesc în continuare la calculul posibilităţii."],
+              ["(5)","La arboretele cu structuri pluriene şi relativ pluriene posibilitatea se va stabili în mod diferit pentru fiecare arboret în parte, parcurgând următoarele etape:"],
+              ["a)","determinarea caracteristicilor fondului de producţie normal. Fondul de producţie normal se exprimă prin distribuţia pe specii a volumului la hectar şi prin repartiţia numărului de arbori şi a volumului acestora pe categorii de diametre;"],
+              ["b)","determinarea caracteristicilor fondului de producţie real. Caracteristicile fondului de producţie real se determină prin inventariere, pe categorii de diametre de 2 cm, începând de la 12 cm. Diametrul arborilor se măsoară întotdeauna în acelaşi loc, marcat corespunzător pe trunchiul fiecărui arbore inventariat. La fiecare inventariere se va utiliza acelaşi procedeu pentru determinarea volumului;"],
+              ["c)","determinarea creşterii în volum. La prima inventariere, creşterea curentă în volum se stabileşte pe baza creşterii în diametru pe ultimii 10 ani, prin sondaj, la un număr de 20-30 de arbori reprezentativi, aleşi din categoria diametrului central pentru fiecare specie identificată în compoziţia arboretului. Creşterea curentă periodică în volum pentru fiecare specie se determină prin procedeul înălţimilor medii reduse şi al tabelelor biometrice corespunzătoare. Procentul creşterii în volum se poate obţine şi direct din tabele, în funcţie de diametru şi mărimea creşterii radiale. Pe baza procentelor creşterii în volum, pentru fiecare categorie de diametre se calculează creşterea în volum (i v ) cu ajutorul relaţiei:"],
+              ["","unde:"],
+              ["","V reprezintă volumul categoriei."],
+              ["","Prin însumarea creşterilor obţinute la nivelul tuturor categoriilor de diametre se obţine creşterea totală."],
+              ["","La a doua inventariere, creşterea se determină prin diferenţa de volume, calculată prin procedeele dendrometrice specifice;"],
+              ["d)","stabilirea posibilităţii şi rotaţiei. Posibilitatea rezultă din compararea fondului de producţie real cu cel normal ţinând cont de creştere. Ea se calculează pentru fiecare arboret cu ajutorul relaţiei:"],
+              ["","unde:"],
+              ["","C v reprezintă creşterea în volum a arboretului pe o perioadă egală cu rotaţia (R);"],
+              ["","Q - o cantitate determinată în funcţie de diferenţa dintre fondul real şi fondul normal."],
+              ["","Creşterea în volum (C v ) se determină ca bilanţ al diferenţelor dintre volumele la începutul şi sfârşitul rotaţiei, ţinând cont şi de volumul extras în această perioadă:"],
+              ["","C v = V 2 + V r - V 1 ,"],
+              ["","unde: V 1 , V 2 şi V r reprezintă volumul arboretului la începutul, sfârşitul rotaţiei şi, respectiv, volumul recoltat în această perioadă."],
+              ["","Cota de corecţie a creşterii Q se determină în funcţie de raportul dintre F r şi F n şi de intensitatea maximă admisibilă a tăierilor:"],
+              ["","unde: T reprezintă intervalul de timp, exprimat ca multiplu de rotaţii, necesar pentru normalizarea mărimii fondului de producţie; valoarea T se stabileşte în funcţie de diferenţa exprimată procentual dintre fondul de producţie real şi cel normal, astfel:"],
+              ["(6)","La arboretele echiene şi relativ echiene incluse în unităţi de gospodărire de codru grădinărit, posibilitatea se stabileşte astfel:"],
+              ["a)","cu vârste până la 80 ani, posibilitatea va fi constituită din masa lemnoasă ce rezultă din lucrări de îngrijire cu caracter de transformare. Stabilirea cuantumului de extras se va face conform indicaţiilor date în Ghidul de bune practici privind îngrijirea şi conducerea arboretelor, ţinându-se seama de caracterul special al intervenţiilor, care trebuie să pregătească trecerea treptată a arboretelor spre grădinărit;"],
+              ["b)","cu vârste mai mari de 80 ani, posibilitatea se va stabili pentru fiecare arboret în parte după criterii silviculturale, prin aplicarea procentului de recoltare corespunzător intensităţii intervenţiei preconizate. Se va urmări ca prin stabilirea volumelor de extras să nu se afecteze calitatea fondului de producţie ori să se declanşeze regenerarea pe suprafeţe mari. Lucrările ce se vor executa vor avea caracter de transformare a structurii echiene (relativ echiene) în structură relativ plurienă şi plurienă, proces ce se desfăşoară pe o perioadă îndelungată."]
+            ]
+          },
+          {
+            "no": "12",
+            "label": "Art. 12",
+            "items": [
+              ["(1)","Posibilitatea unităţilor în care se aplică tăieri cvasigrădinărite, de tip J, se determină în urma comparării posibilităţii stabilită prin procedeul suprafeţei periodice revocabile cu valoarea creşterii indicatoare."],
+              ["(2)","În cadrul procedeului, în raport cu ciclul şi cu perioada de regenerare adoptată (40-60 ani), se constituie prima suprafaţă periodică, respectiv suprafaţa periodică în rând. Se urmăreşte ca, în limita sacrificiilor de exploatabilitate admise, suprafaţa respectivă (s r ) să nu depăşească suprafaţa periodică normală (s n ), dar să fie, pe cât posibil, egală cu aceasta. Valoare lui s n se obţine cu ajutorul relaţiei:"],
+              ["","formulă\u0006"],
+              ["","unde:"],
+              ["","S reprezintă suprafaţa unităţii de gospodărire;"],
+              ["","r - ciclul;"],
+              ["","N - numărul de ani ai perioadei adoptate (de regulă 40 sau 60 ani)."],
+              ["(3)","Posibilitatea prin intermediul procedeului suprafeţei periodice revocabile se obţine prin însumarea volumelor medii de extras anual din arboretele încadrate în prima suprafaţă periodică, ţinând seama că, în principiu, vârsta arboretelor noucreate trebuie să varieze între 1 an şi n ani, n fiind numărul anilor corespunzător perioadei adoptate. Practic, se aplică următoarele modalităţi de stabilire a posibilităţii:"],
+              ["a)","cu ajutorul relaţiei prevăzute la procedeul claselor de vârstă, adaptat pentru perioade de regenerare de 40-60 ani, urmărind parcurgerea aceleiaşi proceduri:"],
+              ["","în care:"],
+              ["","V i reprezintă volumul arboretelor incluse în suprafaţa periodică în rând majorat cu creşterea lor pe următorii cinci ani; i = 1. . .m;"],
+              ["","m - numărul arboretelor încadrate în suprafaţa periodică în rând;"],
+              ["","n i - numărul de ani în care ar urma să se recolteze volumul lemnos existent, respectiv numărul anilor rămaşi din perioada de regenerare corespunzătoare fiecărui arboret; restricţie: 10 ≤ n i ≤ n, în care n reprezintă numărul de ani corespunzători perioadei de regenerare normale a arboretului luat în considerare;"],
+              ["b)","prin însumarea volumelor de extras stabilite pe cale inductivă în baza indicilor procentuali de recoltare pentru fiecare arboret exploatabil în parte, cu luarea în considerare a mărimii perioadei de regenerare specifice arboretului, a periodicităţii şi numărului intervenţiilor, a necesităţii diversificării vârstelor."],
+              ["(4)","Indicatorul de posibilitate prin intermediul suprafeţei periodice revocabile se stabileşte prin analiza atentă a rezultatelor obţinute prin cele două modalităţi, cu justificarea valorii adoptate."],
+              ["(5)","Indicatorul de posibilitate stabilit prin intermediul suprafeţei periodice revocabile se va compara cu valoarea creşterii indicatoare."],
+              ["(6)","Posibilitatea care se va adopta pe baza acestei comparaţii trebuie să îndeplinească următoarele condiţii:"],
+              ["a)","să nu depăşească, decât în cazuri bine justificate, volumul obţinut prin aplicarea relaţiei prevăzute la alin. (3) lit. a);"],
+              ["b)","să nu fie mai mică decât o zecime din volumul arboretelor care, potrivit stării şi urgenţelor de regenerare/refacere corespunzătoare, trebuie să fie exploatate integral în primul deceniu;"],
+              ["c)","în cazul unităţilor de gospodărire cu structură echilibrată sub raportul vârstelor şi în cazul celor cu excedent de arborete exploatabile, să fie egală sau apropiată de volumul creşterii indicatoare."]
+            ]
+          },
+          {
+            "no": "13",
+            "label": "Art. 13",
+            "items": [
+              ["(1)","Stabilirea posibilităţii în codru regulat se face atât prin intermediul volumelor, cât şi prin intermediul suprafeţelor, aplicându-se în principal procedee specifice metodei creşterii indicatoare şi metodei claselor de vârstă adaptată. În vederea unui control pe suprafaţă se utilizează, în paralel, şi procedeul mediilor succesive."],
+              ["(2)","Mărimea posibilităţii prin metoda creşterii indicatoare se stabileşte cu ajutorul relaţiei:"],
+              ["","P CI = m ⋅ CI,"],
+              ["","unde:"],
+              ["","CI reprezintă creşterea indicatoare, respectiv creşterea curentă a producţiei principale a fondului de producţie, calculată în raport cu compoziţia, clasele de producţie şi consistenţele (densităţile) reale ale arboretelor componente şi cu luarea în considerare a unei structuri caracterizate prin clase de vârstă egale ca mărime;"],
+              ["","m - un factor modificator stabilit în mod diferenţiat, în funcţie de mărimea volumului de lemn al arboretelor exploatabile existent în fondul de producţie."],
+              ["(3)","Creşterea indicatoare este egală cu creşterea medie a producţiei principale la o vârstă a arboretelor egală cu mărimea ciclului adoptat, calculată prin luarea în considerare a compoziţiilor, a claselor de producţie şi a consistenţelor reale. Creşterea medie a producţiei principale - creşterea medie a arboretului după intervenţii - se obţine din tabelele de producţie, utilizând ca elemente de intrare specia, clasa de producţie şi vârsta egală cu mărimea ciclului."],
+              ["(4)","Relaţia de calcul a creşterii indicatoare are următoarea expresie:"],
+              ["","unde:"],
+              ["","CI reprezintă creşterea indicatoare a fondului de producţie aferent unităţii de gospodărire;"],
+              ["","V jk - volumul la hectar, după intervenţie, identificat în tabela de producţie al unui arboret pur din specia \"j\", clasa de producţie \"k\" şi vârsta egală cu valoarea ciclului adoptat (r);"],
+              ["","j - indicele specie; j = 1 . . . s; s - numărul de specii identificate în descrierea parcelară a unităţii de gospodărire;"],
+              ["","k - indicele clasei de producţie; k = 1 . . . 5;"],
+              ["","SR jk - suprafaţa redusă totală a speciei \"j\", calculată în funcţie de suprafaţa unităţilor amenajistice (S i ), proporţia de participare a speciei \"j\" în compoziţia arboretului \"i\" (P ij ) şi consistenţa calculată conform precizărilor anterioare (D i );"],
+              ["(5)","Determinarea factorului modificator \"m\", stabilit în mod diferenţiat în funcţie de mărimea excedentului de arborete exploatabile existent în fondul de producţie, se face prin intermediul relaţiei:"],
+              ["","unde:"],
+              ["","Q reprezintă indicatorul existenţei în fondul de producţie a excedentului de arborete exploatabile calculat prin intermediul relaţiei:"],
+              ["","unde:"],
+              ["","DM = min {V k - 10⋅k⋅CI} k = 1,6;"],
+              ["","Vk reprezintă volumul de material lemnos care ar putea fi recoltat, în limita sacrificiilor de exploatabilitate admise, în primii (10⋅k) ani, ţinând seama de arboretele care pot fi exploatate în intervalele de timp respective, de volumul lor la începutul intervalului în care devin exploatabile, precum şi de perioadele de regenerare adoptate în cadrul tratamentelor alese. Corespunzător principiului de asigurare a continuităţii mărimii recoltelor pe cel puţin 60 de ani, V k se stabileşte prin relaţia:"],
+              ["","unde: VD i reprezintă volumul de material lemnos care ar putea fi recoltat, în condiţiile precizate la V k , în deceniul i _i = 1, 6; deceniul 1 se consideră a fi deceniul de aplicare al amenajamentului în curs de elaborare."],
+              ["","Astfel, pentru k = 1 se obţine V 1 = VD 1 , volumul de material lemnos ce se poate recolta din arboretele exploatabile în primii 10 ani, iar pentru k = 6 se obţine V 6 = VD 1 + VD 2 + VD 3 + VD 4 + VD 5 + VD 6 , volumul de material lemnos ce se poate recolta din arboretele exploatabile în primii 60 de ani;"],
+              ["","Q' - indicator al mărimii corectate a excedentului de arborete exploatabile, calculat prin intermediul relaţiei:"],
+              ["","unde: VD 1 ' reprezintă volumul de material lemnos ce s-ar putea recolta din arboretele exploatabile în primii 10 ani, cu structura stabilă (plurienă sau relativ plurienă), stare de vegetaţie cel puţin normală şi consistenţa plină, iar VDi are semnificaţia şi modul de calcul prezentate anterior."],
+              ["(6)","Coeficienţii ecuaţiei de regresie - a, b -, diferenţiaţi în raport cu mărimea ciclului au următoarele valori:"],
+              ["","Coeficient"],
+              ["","Valori pentru ciclurile de . . ."],
+              ["","80 de ani"],
+              ["","90 de ani"],
+              ["","100 de ani"],
+              ["","110 ani"],
+              ["","120 de ani"],
+              ["","130 de ani"],
+              ["","140 de ani"],
+              ["","150 de ani"],
+              ["","160 de ani"],
+              ["","a"],
+              ["","0,651"],
+              ["","0,756"],
+              ["","0,825"],
+              ["","0,867"],
+              ["","0,895"],
+              ["","0,916"],
+              ["","0,931"],
+              ["","0,942"],
+              ["","0,951"],
+              ["","b"],
+              ["","0,349"],
+              ["","0,244"],
+              ["","0,175"],
+              ["","0,133"],
+              ["","0,105"],
+              ["","0,084"],
+              ["","0,069"],
+              ["","0,058"],
+              ["","0,049"],
+              ["(7)","În vederea stabilirii mărimii celor 6 valori ale indicatorului VDi, se identifică arboretele ce devin exploatabile, în limita sacrificiilor admise, în următoarele 6 decenii. Încadrarea unui arboret în una dintre cele 6 mulţimi se rezumă la stabilirea valorii indicelui i (numărul deceniului în care un arboret devine exploatabil) şi va fi egală cu cea mai mică dintre valorile j pentru care este adevărată relaţia:"],
+              ["","unde: TA, TE şi PRM reprezintă vârsta actuală, vârsta exploatabilităţii şi, respectiv, mărimea, în ani, a perioadei de regenerare determinată în raport cu stadiul de aplicare a tratamentului adoptat."],
+              ["(8)","Arboretele exploatabile în decursul fiecărui deceniu din cele 6 identificate anterior se diferenţiază în următoarele trei categorii:"],
+              ["","N 1i - mulţimea arboretelor ce devin exploatabile în deceniul i şi al căror volum se impune a fi recoltat, în raport cu stadiul de aplicare a tratamentelor adoptate, într-o perioadă de 10 ani (i = 1, 6; N 11 , N 12 , . . ., N 16 reprezintă mulţimea arboretelor exploatabile în deceniul 1, 2 şi, respectiv, 6). Notând cu m i - card N 1i , atunci m 1 , m 2 , . . ., m 6 reprezintă numărul de arborete exploatabile, incluse în mulţimile N 11 , N 12 , şi, respectiv, N 16 ;"],
+              ["","N 2i - mulţimea arboretelor ce devin exploatabile în deceniul i şi al căror volum se impune a fi recoltat, în raport cu stadiul de aplicare a tratamentelor adoptate, într-o perioadă de 20 de ani (i = 1, 6; N 21 , N 22 , . . ., N 26 reprezintă mulţimea arboretelor exploatabile în deceniul 1, 2 şi, respectiv, 6). Notând cu n i - card N 2i , atunci n 1 , n 2 , . . ., n 6 reprezintă numărul de arborete exploatabile, incluse în mulţimile N 21 , N 22 şi, respectiv, N 26 ;"],
+              ["","N 3i - mulţimea arboretelor ce devin exploatabile în deceniul i şi al căror volum se impune a fi recoltat, în raport cu stadiul de aplicare a tratamentelor adoptate, într-o perioadă de 30 de ani (i = 1, 6; N 31 , N 32 , . . ., N 36 reprezintă mulţimea arboretelor exploatabile în deceniul 1, 2 şi, respectiv, 6). Notând cu r i - card N 3i , atunci r 1 , r 2 , . . ., r 6 reprezintă numărul de arborete exploatabile, incluse în mulţimile N 31 , N 32 şi, respectiv, N 36 ."],
+              ["(9)","În aceste condiţii cele 6 valori ale indicatorului VD i se determină cu relaţia:"],
+              ["","unde:"],
+              ["","J i , K i , L i reprezintă indicii arboretelor exploatabile în deceniul i, ale căror volume se impun a fi recoltate într-o perioadă de 10, 20 şi, respectiv, 30 ani. (J i = 1, m i ; m i = 1, n i ; L i = 1, r i ; evident, mulţimile arboretelor exploatabile corespunzătoare indicilor K 0 , L 0 şi L -1 din ultimele trei acolade ale relaţiei (7.4.1.1.12) sunt vide - n 0 = 0, r 0 = 0, r -1 = 0);"],
+              ["","V R (TA)Ji , V R (TA)Ki , V R (TA)Li - volumele reale (R) stabilite pe bază de măsurători în teren, la vârsta actuală (TA), ale arboretelor exploatabile în deceniul i, ce se impun a fi recoltate într-o perioadă de 10, 20, respectiv 30 de ani;"],
+              ["","V C (TA)Ji , V C (TA)Ki , V C (TA)Li - volumele calculate (C) prin intermediul unor ecuaţii de regresie ca expresie a tabelelor de producţie, la vârsta actuală TA, ale arboretelor exploatabile în deceniul i, ce se impun a fi recoltate într-o perioadă de 10, 20, respectiv 30 de ani;"],
+              ["","V C [TA + 10(i-1)]Ji , V C [TA + 10(i-1)]Ki , V C [TA + 10(i-1)]Li - volumele calculate (C) prin modalitatea precizată anterior, la vârsta [TA + 10 (i - 1)], ale arboretelor exploatabile în deceniul i, ce se impun a fi recoltate într-o perioadă de 10, 20, respectiv 30 de ani;"],
+              ["","V C [TA + 10i]Ji , V C [TA + 10(i+1)]Ki , V C [TA + 10(i+2)]Li - volumele calculate (C) prin modalitatea precizată anterior, la vârstele [TA + 10i], [TA + 10 (i + 1)], [TA + 10 (i + 2)], ale arboretelor exploatabile în deceniul i, ce se impun a fi recoltate într-o perioadă de 10, 20, respectiv 30 de ani."],
+              ["(10)","Pentru unităţile de gospodărire cu o structură caracterizată prin existenţa, într-o proporţie ridicată, a arboretelor încadrate în urgenţa I şi în categoriile de urgenţe II.1-II.3 şi a căror stare de sănătate impune exploatarea lor, integrală sau parţială, într-un ritm mai accelerat decât cel corespunzător cerinţelor privind normalizarea fondului de producţie, valoarea indicatorului (P 1 ) se obţine prin relaţia:"],
+              ["","unde:"],
+              ["","P CI reprezintă valoarea obţinută prin aplicarea relaţiei;"],
+              ["","V u1 - volumul arboretelor încadrate în urgenţa I de regenerare;"],
+              ["","VD u2.1-2.3 - volumul de material lemnos de recoltat în primul deceniu din arboretele încadrate în urgenţele de regenerare II.1-II.3, ţinând seama de participarea arborilor puternic afectaţi, care nu pot fi menţinuţi peste limitele deceniului de aplicare, precum şi de posibilităţile aplicării corespunzătoare a tratamentelor adoptate în vederea regenerării arboretelor în cauză."]
+            ]
+          },
+          {
+            "no": "14",
+            "label": "Art. 14",
+            "items": [
+              ["(1)","Procedeul analitic derivat din metoda claselor de vârstă de stabilire a posibilităţii are la bază fundamentele teoretice bazate atât pe normalizarea structurii fondului de producţie, cât şi pe repartiţii pe perioade - afectaţii."],
+              ["(2)","Stabilirea indicatorului de posibilitate după acest procedeu se face parcurgându-se următoarele etape:"],
+              ["a)","stabilirea mărimii perioadei de amenajare;"],
+              ["b)","stabilirea numărului de perioade de amenajare corespunzător ciclului adoptat;"],
+              ["c)","repartizarea provizorie a arboretelor pe perioadele de amenajare constituite;"],
+              ["d)","definitivarea mărimii suprafeţelor periodice prin transferarea arboretelor dintr-o perioadă în alta;"],
+              ["e)","distribuirea pe decenii a arboretelor incluse în suprafaţa periodică în rând;"],
+              ["f)","determinarea volumului posibil de recoltat din arboretele distribuite în deceniile perioadei I;"],
+              ["g)","echilibrarea volumului posibil de recoltat în deceniile perioadei I;"],
+              ["h)","stabilirea posibilităţii anuale pentru deceniul de aplicare a amenajamentului."],
+              ["(3)","Perioada de amenajare este definită ca perioada de timp, subdiviziune a ciclului, necesară regenerării integrale a arboretelor existente pe o parte din suprafaţa unităţii de gospodărire, numită suprafaţa periodică. Perioada de regenerare reprezintă intervalul de timp în care urmează să se realizeze integral, în concordanţă cu caracteristicile tratamentului adoptat, regenerarea unui arboret, recomandându-se următoarele perioade de amenajare:"],
+              ["a)","20 de ani pentru unităţi de gospodărire cu arborete de cvercinee (stejar pufos, stejar brumăriu, gârniţă, cer, stejar pedunculat şi gorun), amestecuri de gorun cu fag sau cu alte specii, precum şi pentru cele de şleauri de câmpie, luncă sau de deal;"],
+              ["b)","30 de ani pentru unităţi de gospodărire cu făgete, amestecuri de răşinoase cu fag, brădete şi amestecuri de brad cu molid; ponderea acestor arborete în suprafaţa unităţii de gospodărire trebuie să reprezinte minimum 25%."],
+              ["(4)","Stabilirea numărului de perioade de amenajare. Notând cu \"p\" mărimea perioadei de amenajare şi cu \"r\" mărimea ciclului adoptat, numărul de perioade de amenajare (n) se determină cu relaţia:"],
+              ["","Numărul şi mărimea perioadelor de amenajare corespunzătoare principalelor cicluri"],
+              ["","Ciclu [ani]"],
+              ["","Mărimea perioadei de amenajare (p şi p') [ani]"],
+              ["","Numărul perioadei şi mărimea efectivă a perioadei de amenajare [ani]"],
+              ["","I"],
+              ["","II"],
+              ["","III"],
+              ["","IV"],
+              ["","V"],
+              ["","VI"],
+              ["","VII"],
+              ["","100"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","30; 20"],
+              ["","30"],
+              ["","30"],
+              ["","20"],
+              ["","20"],
+              ["","110"],
+              ["","20; 30"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","30"],
+              ["","30; 20"],
+              ["","30"],
+              ["","30"],
+              ["","30"],
+              ["","20"],
+              ["","120"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","30"],
+              ["","30"],
+              ["","30"],
+              ["","30"],
+              ["","30"],
+              ["","130"],
+              ["","20; 30"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","30"],
+              ["","30; 20"],
+              ["","30"],
+              ["","30"],
+              ["","30"],
+              ["","20"],
+              ["","20"],
+              ["","140"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","20"],
+              ["","30; 20"],
+              ["","30"],
+              ["","30"],
+              ["","30"],
+              ["","30"],
+              ["","20"],
+              ["(5)","Repartizarea provizorie a arboretelor pe perioadele de amenajare constituite se face, într-o primă etapă, utilizând drept criteriu timpul, măsurat în ani, necesar unui arboret să ajungă de la vârsta pe care o are la vârsta exploatabilităţii."],
+              ["","În aceste condiţii, un arboret cu vârsta actuală TA ani, vârsta exploatabilităţii TE ani şi cu o perioadă de regenerare (iniţială sau rămasă) PR ani este exploatabil (poate fi parcurs cu tăieri de regenerare specifice unui tratament) după \"a\" ani, dacă se verifică relaţia:"],
+              ["","TA - TE + a + 2 -1 PR > 0."],
+              ["(6)","Definitivarea mărimii suprafeţelor periodice presupune echilibrarea mărimii suprafeţelor periodice prin realizarea unor transferuri de arborete dintr-o perioadă în alta şi necesită, iniţial, stabilirea mărimii suprafeţelor periodice normale şi apoi echilibrarea mărimii suprafeţelor periodice în raport cu valorile normale ale acestora. Stabilirea mărimii suprafeţelor periodice normale se realizează prin două modalităţi:"],
+              ["a)","o primă modalitate urmăreşte ca fiecare suprafaţă periodică să fie egal reprezentată, ignorându-se influenţa productivităţii şi compoziţiilor reale ale arboretelor incluse în fondul de producţie. Se admite astfel că speciile şi clasele de producţie sunt repartizate uniform pe clase de vârstă, ipoteză care în practică, în mod evident, nu se confirmă;"],
+              ["b)","cea de a doua modalitate de calcul ia în considerare diferenţele de productivitate ale arboretelor generate de natura speciilor din compoziţiile reale şi de clasa de producţie a acestora incluse în suprafaţa fondului de producţie real. Mărimea suprafeţelor periodice normale variază invers proporţional cu productivitatea arboretelor incluse în acestea, astfel încât volumul la exploatabilitate însumat al arboretelor din fiecare perioadă să fie aproximativ egal."],
+              ["(7)","Echilibrarea mărimii suprafeţelor periodice în raport cu valorile normale ale acestora se face în funcţie de abaterile relative ale mărimilor suprafeţelor periodice reale (SPR k ) faţă de cele normale (SPN k ). Cu cât aceste sume sunt mai mari, cu atât structura fondului de producţie real este mai dezechilibrată, impunându-se astfel decizii în direcţia diminuării sau eliminării acestora prin transferuri de arborete dintr-o perioadă în alta."],
+              ["(8)","Transferurile se efectuează când mărimile suprafeţelor periodice reale diferă de cele normale, luându-se în considerare criterii diferenţiate legate de consistenţă, clasă de producţie, structură, stare de vegetaţie şi de deceniul perioadei în care arboretul inclus în aceasta devine exploatabil. Se disting două tipuri de transfer:"],
+              ["a)","transfer \"de la stânga la dreapta\", în care se \"mută\" unităţile amenajistice dintr-o perioadă cu număr de ordine mic într-o perioadă cu număr de ordine mai mare cu o unitate decât precedenta. În fapt acest tip de transfer echivalează cu o întârziere a recoltării arboretului în raport cu vârsta exploatabilităţii acestuia."],
+              ["b)","transfer \"de la dreapta la stânga\", în care se \"mută\" unităţile amenajistice dintr-o perioadă cu număr de ordin mare într-o perioadă cu număr de ordin mai mic cu o unitate decât precedenta. Acest tip de transfer echivalează cu o anticipare a recoltării arboretului în raport cu vârsta exploatabilităţii."],
+              ["(9)","După efectuarea transferurilor de echilibrare a mărimii suprafeţelor periodice, arboretele incluse în perioada I urmează să fie redistribuite pe deceniile constituite în perioadă în funcţie de momentul în care devin exploatabile."],
+              ["(10)","Volumul posibil de recoltat din arboretele distribuite în deceniile perioadei I ce urmează a fi luat în considerare la stabilirea posibilităţii este condiţionat de numărul de ani rămaşi din perioada de regenerare stabilită iniţial pentru fiecare arboret, de caracteristicile tratamentului aplicat şi de deceniul din perioadă în care arboretul devine exploatabil."],
+              ["(11)","În situaţia în care între valorile VR1, VR2, VR3 există diferenţe semnificative ce depăşesc 10% din VR1, se impune efectuarea unor transferuri de arborete dintr-un deceniu în altul, astfel încât în final aceste diferenţe să fie atenuate sau chiar anulate. Având în vedere că în ultimul deceniu al perioadei de amenajare este posibil să se regăsească arborete care au fost transferate din perioada a II-a şi cărora li s-a aplicat \"un sacrificiu de exploatabilitate\", acestea nu vor fi luate în considerare la un eventual transfer impus de echilibrarea volumelor posibil de recoltat în deceniile perioadei."],
+              ["(12)","Notând cu VR1', VR2', VR3' volumele posibil de recoltat în deceniile perioadei de amenajare, rezultate după echilibrarea efectuată anterior, posibilitatea anuală ce poate fi adoptată în cadrul amenajamentului se stabileşte prin intermediul relaţiei:"],
+              ["","după cum perioada de amenajare adoptată are mărimea de 20 sau de 30 de ani."]
+            ]
+          },
+          {
+            "no": "15",
+            "label": "Art. 15",
+            "items": [
+              ["(1)","Controlul pe suprafaţă al posibilităţii se realizează prin procedeul de calcul bazat pe mediile succesive. Aplicarea lui prezintă interes, în primul rând, sub raportul evoluţiei structurii fondului de producţie, precum şi al suprafeţelor ocupate de arborete de diferite vârste. Indicatorul reprezentând posibilitatea anuală pe suprafaţă se determină după relaţia:"],
+              ["","unde:"],
+              ["","S r reprezintă raportul dintre suprafaţa redusă a unităţii de gospodărire şi ciclu;"],
+              ["","Q - un coeficient, stabilit în funcţie de ansamblul caracteristicilor structurale ale fondului de producţie real după relaţia:"],
+              ["","formulă \u0004"],
+              ["","unde:"],
+              ["","K reprezintă raportul dintre volumul mediu unitar al arboretelor exploatabile (V e ) şi volumul unitar calculat la vârsta ciclului în funcţie de caracteristicile medii ale fondului de producţie real (V);"],
+              ["","S mr - o mărime calculată prin intermediul mediilor succesive şi corectată diferenţiat în funcţie de abaterea structurii reale faţă de cea normală."],
+              ["(2)","Mărimea posibilităţii pe suprafaţă se calculează astfel:"],
+              ["","Mărimea S mr se determină diferenţiat, în funcţie de valorile E h , calculate prin intermediul expresiei:"],
+              ["","în care:"],
+              ["","m reprezintă numărul de clase de vârstă de 10 ani, în funcţie de mărimea ciclului;"],
+              ["","j - indicele clasei de vârstă, în această relaţie variază de la (m - 5) la m (ultimele 6 valori);"],
+              ["","h - indice ce variază de la 1 la 6 după relaţia h = j - m + 6;"],
+              ["","S jr - mărimea medie a suprafeţei reduse a arboretelor ce se pot exploata anual luând în considerare primii [10 (m - j +1)] ani; se calculează prin intermediul relaţiei:"],
+              ["(3)","În raport cu valorile mărimii E h se deosebesc două situaţii:"],
+              ["a)","E h ≥ 0, pentru h = 1,6 (toate valorile E h ≥ 0). Mărimea S mr se determină prin relaţia:"],
+              ["","a c , b c - coeficienţii ecuaţiei de regresie corespunzători ciclului \"c\"."],
+              ["","Valorile coeficienţilor din ecuaţia de regresie S mr = (a c X + b c ) S r se prezintă astfel:"],
+              ["","Coeficientul"],
+              ["","Valorile pentru ciclurile (c) de . . . . ani:"],
+              ["","80"],
+              ["","90"],
+              ["","100"],
+              ["","110"],
+              ["","120"],
+              ["","130"],
+              ["","140"],
+              ["","150"],
+              ["","160"],
+              ["","a c"],
+              ["","0.951"],
+              ["","0.963"],
+              ["","0.971"],
+              ["","0.977"],
+              ["","0.981"],
+              ["","0.984"],
+              ["","0.987"],
+              ["","0.989"],
+              ["","0.990"],
+              ["","b c"],
+              ["","0.049"],
+              ["","0.037"],
+              ["","0.029"],
+              ["","0.023"],
+              ["","0.019"],
+              ["","0.016"],
+              ["","0.013"],
+              ["","0.011"],
+              ["","0.010"],
+              ["","Dacă excedentul este alcătuit din arborete cu restricţii funcţionale, mărimea S mr este egală cu S r ."],
+              ["b)","Cel puţin una dintre valorile E h este negativă. Mărimea S mr se determină prin intermediul unei relaţii care compensează, pe termen mediu, valorile mai mici decât S mr existente în primii 60 de ani:"],
+              ["(4)","Posibilitatea anuală pe suprafaţă calculată prin intermediul relaţiilor prezentate stă la baza stabilirii posibilităţii pe volum (P v ):"],
+              ["","P v = P s ⋅ V n ,"],
+              ["","unde V n reprezintă volumul mediu la hectar ce se poate exploata în primul deceniu, determinat ca raport între suma volumelor arboretelor exploatabile şi suma suprafeţelor reduse ale acestora."],
+              ["(5)","Rezultatul obţinut prin procedeul mediilor succesive este utilizat şi la elaborarea planului de recoltare, când se urmăreşte ca suprafaţa ce va fi parcursă cu tăieri definitive să fie aproximativ egală cu echivalentul a 10 posibilităţi anuale pe suprafaţă."]
+            ]
+          },
+          {
+            "no": "16",
+            "label": "Art. 16",
+            "items": [
+              ["(1)","Indicatorii de posibilitate calculaţi prin procedeele specificate la art. 13-15 vor fi luaţi în considerare la definitivarea mărimii posibilităţii. Mărimea posibilităţii se va stabili în urma unei analize complexe, cu luarea în considerare a tuturor factorilor care o influenţează."],
+              ["(2)","În raport cu abaterea structurii reale a fondului de producţie de la starea normală se deosebesc următoarele situaţii:"],
+              ["a)","în unităţi de gospodărire cu structura apropiată de cea normală, Q ≈ 1), posibilitatea va fi egală cu mărimea creşterii indicatoare. Mărimea acesteia se va compara cu rezultatul obţinut după procedeul analitic derivat din metoda claselor de vârstă şi, în situaţiile în care se constată diferenţe semnificative, proiectantul, ţinând seama de situaţiile reale de teren, va justifica diferenţele respective şi va propune şi susţine soluţia pe care o consideră optimă în raport cu obiectivele gestionării durabile;"],
+              ["b)","în unităţi de gospodărire cu deficite sau cu excedente semnificative de arborete exploatabile, la stabilirea posibilităţii se vor lua în considerare valorile rezultate din aplicarea procedeului bazat pe creşterea indicatoare şi a procedeului analitic derivat din metoda claselor de vârstă. În situaţia unităţilor de gospodărire cu excedente semnificative de arborete exploatabile, soluţia propusă spre adoptare va avea în vedere valoarea rezultată din aplicarea procedeului analitic derivat din metoda claselor de vârstă sau pe cea rezultată din aplicarea procedeelor bazate pe creşterea indicatoare. Adoptarea trebuie să fie justificată în raport cu obiectivul normalizării fondului de producţie şi al asigurării continuităţii producţiei de lemn."],
+              ["(3)","Rezultatul obţinut prin procedeul mediilor succesive va fi avut în vedere la întocmirea planului de recoltare a produselor principale."],
+              ["(4)","Propunerile proiectantului vor fi supuse spre analizare şi însuşire cu ocazia preavizării soluţiilor tehnice din amenajamentul silvic, conferinţa a II-a de amenajare a pădurilor, iar responsabilitatea adoptării posibilităţii revine participanţilor la şedinţa de preavizare a soluţiilor tehnice din amenajament. Mărimea posibilităţii adoptate va fi justificată temeinic."]
+            ]
+          },
+          {
+            "no": "17",
+            "label": "Art. 17",
+            "items": [
+              ["(1)","Alegerea arboretelor din care urmează a se realiza posibilitatea de produse principale se face pe baza unei cartări prealabile pe categorii de urgenţe de regenerare, iar la stabilirea definitivă a suprafeţei de parcurs cu tăieri se ţine seama de necesităţile regenerării şi de condiţiile reale de exploatare."],
+              ["(2)","Ţinând seama de urgenţele respective şi de condiţiile reale de exploatare şi de regenerare, se stabilesc arboretele ce urmează a fi parcurse cu tăieri în primii 10 ani, ele înscriindu-se în planul decenal de recoltare a produselor principale cu datele de caracterizare şi cu lucrările prevăzute pentru regenerarea lor. Pentru fiecare dintre aceste arborete, pe lângă suprafaţa şi volumul total, în evidenţa respectivă se indică felul tăierii, numărul intervenţiilor şi volumul de extras în cursul primului deceniu, suma acestora din urmă trebuind să fie egală cu volumul a 10 posibilităţi anuale."],
+              ["(3)","Volumul de extras din arboretele incluse în planul decenal de recoltare a produselor principale este orientativ, volumul efectiv recoltat va fi cel stabilit în teren cu ocazia aplicării tratamentului specificat pentru acel arboret în planul decenal de recoltare, în condiţiile respectării tipului tratamentului stabilit prin amenajamentul silvic şi încadrării în posibilitatea anuală stabilită la nivel de unitate de gospodărire. Intensitatea intervenţiei se stabileşte în funcţie de condiţiile concrete de regenerare şi exploatare, fără a depăşi intensităţile stabilite în normele tehnice pentru acel tratament. Volumul cumulat de produse principale recoltat în cursul unui an nu poate depăşi posibilitatea anuală."],
+              ["(4)","La întocmirea planului de recoltare a produselor principale se va urmări respectarea tuturor restricţiilor silviculturale referitoare la mărimea şi perioada de alăturare a parchetelor şi, în mod deosebit, se vor evita dezgolirea solului şi a versanţilor pe mari suprafeţe, precum şi concentrarea tăierilor pe bazinete ori în zone de interes deosebit sub raport ecologic şi social. Ca regulă generală, suprafaţa de parcurs în primul deceniu cu tăieri unice sau cu tăieri definitive/de racordare nu trebuie să depăşească, decât în cazuri bine justificate, întinderea a zece posibilităţi pe suprafaţă (10 P s ) stabilite după procedeul mediilor succesive."],
+              ["(5)","Planul de recoltare a produselor principale cuprinde două părţi:"],
+              ["a)","cu date de caracterizare a arboretului;"],
+              ["b)","cu elemente de plan."],
+              ["(6)","În planul decenal de recoltare a produselor principale se vor introduce şi arboretele, indiferent de vârstă, afectate de factori biotici/abiotici, cu un grad de vătămare ce conduce la încadrarea arboretului în urgenţa I de regenerare şi în care se impune extragerea integrală a materialului lemnos."]
+            ]
+          },
+          {
+            "no": "18",
+            "label": "Art. 18",
+            "items": [
+              ["(1)","Sistemul lucrărilor de îngrijire şi conducere a arboretelor grupează următoarele lucrări: degajări, depresaj, curăţări, rărituri, elagaj artificial, emondaj, îngrijirea marginii de masiv şi a lizierelor, tăieri de igienă, îngrijirea subetajului şi a subarboretului."],
+              ["(2)","Posibilitatea de produse secundare se stabileşte separat pentru rărituri şi curăţări. Volumul de extras prin deschidere tehnologică a arboretelor se include în volumul de recoltat prin curăţarea sau răritura ce se execută concomitent."],
+              ["(3)","Volumul de recoltat prin rărituri sau curăţări se stabileşte prin folosirea indicilor de recoltare medii. Pe baza observaţiilor şi măsurătorilor de teren efectuate cu prilejul descrierii unităţilor amenajistice, a datelor şi experienţei acumulate de ocoalele silvice în practicarea lucrărilor de îngrijire, indicii de recoltare vor fi, de fiecare dată, adaptaţi la particularităţile concrete ale arboretelor respective."],
+              ["(4)","În vederea stabilirii volumului de extras pe deceniu vor fi luate în considerare periodicităţile specifice lucrărilor de îngrijire preconizate, stadiul de dezvoltare în care se află sau va trece fiecare arboret, precum şi particularităţile silviculturale ale acestuia."],
+              ["(5)","Pe unitatea de gospodărire, posibilitatea de produse secundare - rărituri şi curăţări evidenţiate separat - rezultă din însumarea volumelor de extras pe durata deceniului din fiecare arboret în parte, cu luarea în considerare a numărului intervenţiilor, şi împărţirea sumei respective la 10."]
+            ]
+          },
+          {
+            "no": "19",
+            "label": "Art. 19",
+            "items": [
+              ["(1)","Prin elaborarea planului lucrărilor de regenerare se urmăreşte introducerea imediată în producţie a terenurilor destinate împăduririi şi regenerarea lor cu speciile forestiere cele mai indicate din punct de vedere economic, ecologic şi al menţinerii şi ameliorării biodiversităţii."],
+              ["(2)","Planificarea lucrărilor de regenerare se face ţinând seama de situaţia înregistrată cu prilejul descrierii unităţilor amenajistice, de nevoile de regenerare ce decurg din aplicarea planului de recoltare a produselor principale, de necesitatea asigurării unei structuri corespunzătoare a arboretelor în raport cu funcţiile atribuite, precum şi de cerinţa reîmpăduririi sau împăduririi urgente a tuturor terenurilor goale din fondul forestier, cu excepţia celor destinate pentru administraţie şi a celor care, datorită stării lor, nu se pot împăduri - stâncării, mlaştini."],
+              ["(3)","În plan se înscriu subparcelele în funcţie de modul de regenerare şi de compoziţiile de regenerare, precizându-se totodată lucrările necesare până la realizarea reuşitei definitive."],
+              ["(4)","După modul de regenerare se vor deosebi: regenerări naturale, artificiale şi mixte. Regenerarea naturală va fi asigurată prin aplicarea corectă a tratamentelor, cea artificială prin împăduriri integrale, iar regenerarea mixtă, prin regenerări naturale cu completări pe cale artificială. Prin aceste lucrări se urmăreşte şi asigurarea compoziţiei de regenerare."],
+              ["(5)","La întocmirea planurilor de amenajament şi în textele referitoare la acestea se vor avea în vedere soluţii şi recomandări vizând conservarea şi ameliorarea biodiversităţii pădurilor prin:"],
+              ["a)","stabilirea corespunzătoare a compoziţiilor de regenerare şi a compoziţiilor-ţel, acordând atenţie deosebită speciilor locale în raport cu condiţiile staţionale şi de vegetaţie specifice;"],
+              ["b)","diversificarea structurii orizontale şi verticale a arboretelor, pe calea promovării regenerării naturale, a aplicării tratamentelor cu perioade lungi de regenerare şi modalităţilor de îngrijire şi de conducere a arboretelor;"],
+              ["c)","menţinerea în arborete a unor exemplare (1-3 la ha) din specii rar întâlnite în cadrul ecosistemelor respective, a unor preexistenţi de dimensiuni ieşite din comun, a unor arbori cu particularităţi evidente sub raportul diversităţii biologice - cu scorburi, cu forme deosebite;"],
+              ["d)","identificarea şi menţinerea unor porţiuni cu asemenea particularităţi, inclusiv prin constituirea în acest fel a unor subparcele distincte."]
+            ]
+          },
+          {
+            "no": "20",
+            "label": "Art. 20",
+            "items": [
+              ["(1)","Stabilirea posibilităţii la arboretele încadrate în subunităţi de gospodărire de crâng se face prin procedeul specific metodei afectaţiilor. Corespunzător specificului metodei afectaţiilor, procedeul utilizat constă în:"],
+              ["a)","stabilirea ciclului şi a mărimii perioadelor constituite;"],
+              ["b)","repartizarea arboretelor pe perioade;"],
+              ["c)","stabilirea mărimii suprafeţei periodice în rând şi a volumului de recoltat în primul deceniu;"],
+              ["d)","elaborarea planului de recoltare."],
+              ["(2)","Pe baza mărimii ciclului şi a mărimii perioadei adoptate se stabileşte numărul de perioade. Mărimea perioadelor poate fi de 5 sau 10 ani. De regulă, se adoptă perioade de 10 ani, cu excepţia unităţilor de gospodărire constituite din arborete de plopi şi sălcii, când se adoptă o perioadă de 5 ani."],
+              ["(3)","Repartizarea arboretelor pe perioade se face pe baza criteriilor utilizate la unităţile de gospodărire de codru regulat. Se are în vedere o echilibrare a suprafeţelor periodice, făcându-se eventuale sacrificii de exploatabilitate, în minus sau în plus, fără a se afecta starea de vegetaţie şi capacitatea de regenerare naturală a arboretelor."],
+              ["(4)","În cadrul unităţilor de gospodărire cu excedent de arborete exploatabile se va urmări ca lichidarea acestuia să se facă pe o perioadă de până la un ciclu, în funcţie de starea de vegetaţie şi/sau capacitatea de regenerare naturală a arboretelor."],
+              ["(5)","Posibilitatea decenală pe volum rezultă din însumarea volumelor arboretelor incluse în suprafaţa periodică în rând, după ce s-a adăugat echivalentul creşterilor în volum pe un număr de ani egal cu jumătatea din numărul de ani ai unei perioade de aplicare a amenajamentului."],
+              ["(6)","Pentru unităţile de gospodărire cu perioade de 5 ani, la care amenajamentul se elaborează pentru o perioadă de aplicabilitate de 10 ani, se va întocmi planul de recoltare pe 10 ani, care va include arboretele repartizate în primele două cincinale. Creşterea în volum adăugată va fi corespunzătoare jumătăţii perioadei de aplicare a amenajamentului."]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21",
+            "items": [
+              ["(1)","La arboretele încadrate în subunităţi de gospodărire de crâng, stabilirea posibilităţii se face prin procedeul mediilor succesive."],
+              ["(2)","Calculele se fac distinct pentru unităţile de gospodărire constituite din arborete de salcâm, cu fondul de producţie structurat pe clase de vârstă de 10 ani, şi pentru unităţi de gospodărire de zăvoaie constituite din arborete de plopi indigeni, sălcii etc., cu fondul de producţie structurat pe clase de vârstă de 5 ani."],
+              ["(3)","Pentru unităţile de gospodărire de salcâm, posibilitatea se stabileşte pe suprafaţă, pentru o perioadă de 10 ani (egală cu perioada de aplicare a amenajamentului). În acest scop, se introduc notaţiile:"],
+              ["","m reprezintă numărul de clase de vârstă stabilit în raport cu ciclul (m = ciclul/10);"],
+              ["","S i - suprafaţa arboretelor incluse în clasa de vârstă \"i\";"],
+              ["","S r i - suprafaţa redusă a arboretelor incluse în clasa de vârstă \"i\"."],
+              ["(4)","Posibilitatea pe suprafaţă se obţine cu ajutorul relaţiei:"],
+              ["(5)","Posibilitatea pe volum se stabileşte după nominalizarea, în ordinea urgenţelor de regenerare (vârstă, consistenţă, starea de vegetaţie etc.), în limita mărimii P D S , a arboretelor exploatabile (cu luarea în considerare a sacrificiilor de exploatabilitate admise). La volumele acestor arborete se va adăuga jumătate din creşterea producţiei lor totale pe perioada de 10 ani."],
+              ["(6)","Pentru unităţile de gospodărire de zăvoaie de plopi şi sălcii, posibilitatea se stabileşte pentru o perioadă de 5 ani (egală, de regulă, cu perioada de aplicare a amenajamentului pentru asemenea păduri). În acest scop, se introduc notaţiile:"],
+              ["(7)","Posibilitatea pe volum se stabileşte după nominalizarea, în ordinea urgenţelor de regenerare (vârstă, consistenţă, starea de vegetaţie etc.), în limita mărimii P C S , a arboretelor exploatabile (cu luarea în considerare a sacrificiilor de exploatabilitate admise). La volumele acestor arborete se va adăuga jumătate din creşterea producţiei lor totale pe perioada de 5 ani."],
+              ["(8)","În cazul unor unităţi de gospodărire din ocoalele silvice cu procent ridicat de păduri de terasă, pentru care revizuirile se fac la intervale de 10 ani, se impune şi calculul posibilităţii pentru o nouă perioadă de 5 ani. Acest calcul se poate face în acelaşi mod, după aflarea, prin simularea evoluţiei fondului de producţie, a elementelor din relaţiile de mai sus la momentul expirării primei perioade de 5 ani."]
+            ]
+          },
+          {
+            "no": "22",
+            "label": "Art. 22",
+            "items": [
+              ["","Reglementarea procesului de producţie pentru unităţile de gospodărire alcătuite din culturi de plopi euramericani şi sălcii selecţionate se face pe o perioadă de 5 ani. Pentru calculul posibilităţii se va aplica relaţia utilizată în cazul crângului pentru unităţile de zăvoaie de plopi şi sălcii prevăzută la art. 21 alin. (6)."]
+            ]
+          },
+          {
+            "no": "23",
+            "label": "Art. 23",
+            "items": [
+              ["(1)","Pentru pădurile cu rol prioritar cinegetic se urmăreşte reglementarea procesului de producţie lemnoasă, în raport cu obiectivele urmărite. Se are în vedere realizarea unei structuri a pădurii cât mai favorabile dezvoltării vânatului, precum şi a condiţiilor necesare desfăşurării corespunzătoare a activităţii de vânătoare."],
+              ["(2)","Condiţii de structură ale arboretelor şi pădurilor constituite în fonduri cinegetice cu caracter special (arboretele din complexuri de vânătoare şi crescătorii de vânat autorizate, destinate creşterii intensive a vânatului, în scopul recreerii prin vânătoare) se realizează prin adoptarea corespunzătoare a bazelor de amenajare, avându-se în vedere recomandările de mai jos."]
+            ]
+          },
+          {
+            "no": "24",
+            "label": "Art. 24",
+            "items": [
+              ["(1)","Prevederile art. 11-21 referitoare la reglementarea procesului de producţie sunt valabile şi pentru pădurile care au făcut sau fac obiectul reconstituirii dreptului de proprietate potrivit legislaţiei referitoare la fondul funciar."],
+              ["(2)","Prin excepţie de la prevederile art. 1, în fondul forestier proprietate privată a persoanelor fizice şi juridice şi proprietate publică şi privată a unităţilor administrativ-teritoriale, cu suprafeţe de maximum 100 ha, reglementarea procesului de producţie se face la nivel de arboret cu condiţia asigurării continuităţii la acest nivel, aplicând tratamente adecvate."]
+            ]
+          },
+          {
+            "no": "25",
+            "label": "Art. 25",
+            "items": [
+              ["(1)","În pădurile încadrate legal în sistemul de protecţie integrală a naturii - tip funcţional I - recoltările de masă lemnoasă sunt interzise, nefiind permise niciun fel de activităţi de exploatare a resurselor naturale sau alte intervenţii silviculturale, cu excepţiile prevăzute de reglementările în vigoare."],
+              ["(2)","În cazul pădurilor din grupa I funcţională supuse regimului de conservare - tip funcţional II -, pentru care nu se reglementează procesul de producţie lemnoasă - produse principale, se va întocmi o evidenţă a arboretelor în care se impun lucrări speciale de conservare - lucrări de igienă, lucrări de regenerare naturală şi artificială, lucrări de îngrijire şi conducere a arboretelor, tăieri de conservare - pe categorii funcţionale, precizându-se volumul lemnos de recoltat pe durata deceniului de aplicare şi cel mediu anual, precum şi natura intervenţiilor de conservare necesare, ţinându-se seama de următoarele considerente:"],
+              ["a)","în cadrul lucrărilor speciale de conservare, volumul de extras din arboretele mature se va stabili de la caz la caz, în funcţie de necesitatea asigurării permanenţei pădurii şi a continuităţii funcţiilor de protecţie ale acesteia, urmărind valorificarea corespunzătoare a nucleelor de seminţiş/tineret şi înlăturarea treptată a elementelor din vechiul arboret, numai pe măsura preluării de către noua generaţie a funcţiilor respective;"],
+              ["b)","limita minimă a extragerilor va fi corespunzătoare volumului care se impune a fi recoltat prin tăieri de igienă; limita superioară poate diferi, de la caz la caz, în raport cu starea fiecărui arboret; se va urmări ca extragerile care depăşesc 10% din volumul arboretului calculat în raport cu caracteristicile actuale (compoziţie, clasă de producţie, vârstă), dar la densitate normală (1,0), să fie temeinic justificate; în cazul arboretelor de salcâm, plopi euramericani şi zăvoaielor, procentul de extras, de regulă, este 100%, urmărindu-se valorificarea capacităţii lor de regenerare şi exercitarea cu continuitate a funcţiilor atribuite;"],
+              ["c)","în cazul arboretelor în care se înregistrează scăderea evidentă a capacităţii funcţionale se vor prevedea măsuri de ajutorare a regenerării, iar în porţiunile cu declin ireversibil (uscări, degradarea pronunţată a coroanelor) se vor crea nuclee de regenerare, în vederea asigurării permanenţei şi funcţionalităţii ecosistemelor în cauză."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26",
+            "items": [
+              ["(1)","Ariile naturale protejate sunt zone terestre, acvatice şi/sau subterane în care există specii de plante şi animale sălbatice, elemente şi formaţiuni biogeografice, peisagistice, geologice, paleontologice, speologice sau de altă natură, cu valoare ecologică, ştiinţifică ori culturală deosebită, care au un regim special de protecţie şi conservare, stabilit conform prevederilor legale."],
+              ["(2)","Potrivit prevederilor reglementărilor în vigoare, principalele categorii de arii naturale protejate sunt:"],
+              ["a)","de interes naţional: rezervaţii ştiinţifice, parcuri naţionale, monumente ale naturii, rezervaţii naturale, parcuri naturale;"],
+              ["b)","de interes internaţional: situri naturale ale patrimoniului natural universal, geoparcuri, zone umede de importanţă internaţională, rezervaţii ale biosferei, coridoare ecologice;"],
+              ["c)","de interes comunitar sau situri \"Natura 2000\": situri de importanţă comunitară, arii speciale de conservare, arii de protecţie specială avifaunistică."],
+              ["(3)","Potrivit sistemului de încadrare funcţională, se definesc pădurile de protecţie a naturii încadrate în categoriile funcţionale: 1.5.C, 1.5.D, 1.5.F, 1.5.J, 1.5.O, 1.6.A, 1.6.B, 1.6.F, 1.6.G, 1.6.J, 1.6.M, 1.6.Q din tipul funcţional I. Pădurile gospodărite în regim cu protecţie strictă/de ocrotire a naturii sunt încadrate în categoriile funcţionale 1.5.C, 1.5.D, 1.5.F, 1.5.J, 1.5.O, 1.6.A, 1.6.F, 1.6.J, 1.6.M, 1.6.Q, iar cele gospodărite în regim de protecţie integrală în categoriile 1.6.B şi 1.6.G."],
+              ["(4)","În cazul ariilor naturale protejate complexe precum parcuri naţionale, parcuri naturale, rezervaţii ale biosferei, arboretele destinate protecţiei naturii se includ în zone cu protecţie strictă şi în zone de protecţie integrală, potrivit zonării interne a ariei naturale protejate precizate în planul de management, după cum urmează:"],
+              ["a)","zone cu protecţie strictă în care se interzice desfăşurarea oricăror activităţi umane, cu excepţia activităţilor de cercetare şi educaţie, cu limitările descrise în planurile de management. Arboretele din această subzonă se includ în categoriile funcţionale 1.5.C, 1.5.D, 1.5.F, 1.5.J, 1.5.O, 1.6.A, 1.6.F, 1.6.J, 1.6.M, 1.6.Q;"],
+              ["b)","zone cu protecţie integrală (TI) în care sunt interzise orice forme de exploatare sau utilizare a resurselor naturale, precum şi orice forme de folosire a terenurilor, incompatibile cu scopul de protecţie şi/sau de conservare, cu excepţiile prevăzute de planul de management. Arboretele din aceste zone se includ în categoriile funcţionale 1.6.B şi 1.6.G."],
+              ["(5)","Pentru încadrarea arboretelor în categoriile 1.5.J şi 1.5.O, ca păduri virgine şi cvasivirgine, se vor avea în vedere criteriile şi indicatorii prevăzuţi în reglementările în vigoare, precum şi datele existente în Catalogul pădurilor virgine şi cvasivirgine şi pe cele din studiile aprobate, de identificare a acestora. Arboretele încadrate în amenajamentele anterioare, ca păduri seculare în categoria 1.5.J (TII), vor fi reîncadrate ca păduri virgine sau cvasivirgine doar în măsura în care acestea respectă criteriile şi indicatorii prevăzuţi în reglementările actuale."],
+              ["(6)","Pădurile supuse regimului de conservare deosebită sunt încadrate în categoriile funcţionale 1.5.A, 1.5.E, 1.5.G (după caz), 1.5.H, 1.5.I, 1.5.K, 1.5.L, 1.5.M, 1.5.P, 1.5.U, 1.6.C şi 1.6.N, din tipul funcţional II. Prin gospodărirea lor se urmăreşte conservarea habitatelor naturale şi a unor specii sau grupuri de specii, prin realizarea/conservarea unor structuri apropiate de cele specifice ecosistemelor naturale, ameliorarea structurii arboretelor necorespunzătoare ecologic, conservarea peisajului etc."],
+              ["(7)","S-a stabilit un mod mai puţin intensiv, de intensitatea funcţională a tipului II, pentru următoarele categorii funcţionale:"],
+              ["a)","în categoriile funcţionale 1.5.A şi 1.5.E se încadrează arboretele rezervaţii naturale şi monumente ale naturii constituite în scopul conservării unor habitate şi specii naturale importante sub aspect floristic, faunistic, forestier etc., respectiv în scopul conservării unor elemente naturale cu valoare şi semnificaţie ecologică, ştiinţifică, peisagistică deosebite. Managementul acestora este diferenţiat, în funcţie de prevederile planurilor de management/regulamentelor aprobate;"],
+              ["b)","în categoria funcţională 1.5.G se încadrează arboretele ce includ suprafeţe experimentale pentru cercetări forestiere de durată încadrate în care se adoptă un management diferenţiat, de natură să conducă la realizarea obiectivelor pentru care au fost constituite, recomandat în tema de cercetare;"],
+              ["c)","în categoria funcţională 1.5.I se încadrează arboretele destinate ocrotirii unor specii din faună, de interes pentru conservare, conform legislaţiei în vigoare, fiind permise măsuri de management active doar pentru asigurarea continuităţii ecosistemului forestier existent în situaţia în care acesta este periclitat;"],
+              ["d)","în categoria funcţională 1.5.P se încadrează pădurile naturale seculare de valoare deosebită, fiind permise măsuri de management active pentru realizarea/ameliorarea unor structuri apropiate de cele specifice ecosistemelor naturale;"],
+              ["e)","în categoria funcţională 1.5.U se încadrează ecosistemele forestiere rare, ameninţate sau periclitate, iar pentru categoriile funcţionale 1.5.R şi 1.5.Q din cadrul reţelei ecologice Natura 2000 se vor proiecta măsuri de gospodărire care să favorizeze menţinerea stării lor de conservare, corespunzătoare intensităţii funcţionale a tipurilor TII şi TIV;"],
+              ["f)","în cazul parcurilor naţionale, arboretele incluse în zone de conservare durabilă constituite din primul rând de parcele (1.6.C), limitrofe zonei de protecţie strictă/integrală potrivit zonării interne a ariei naturale protejate precizate în planul de management, se gospodăresc în regim de conservare;"],
+              ["g)","în rezervaţii ale biosferei se constituie zone de protecţie cu regim de gospodărire similar - zone tampon - în care arboretele se încadrează în categoria funcţională 1.6.N."],
+              ["(8)","Pădurile din arii protejate în care, în vederea realizării obiectivelor de management şi potrivit structurii lor actuale, se recomandă tratamente intensive (TIII) care să favorizeze menţinerea stării lor de conservare, se încadrează în categoriile funcţionale 1.5.B, 1.6.D, 1.6.H, 1.6.K, 1.6.O şi 1.6.R. În privinţa regimului de gospodărire, trebuie să se aibă în vedere că, în toate cazurile, obiectivele de ordin ecologic şi social au prioritate faţă de cele de ordin economic."],
+              ["(9)","Pădurile incluse în arii protejate ce urmează a fi gospodărite prin tratamente cu impunerea unor restricţii în aplicare (TIV), care să favorizeze menţinerea stării lor de conservare, se încadrează în categoriile funcţionale 1.5.Q, 1.5.R, 1.5.S, 1.5.T, 1.6.E, 1.6.I, 1.6.L şi 1.6.P. Aceste păduri sunt situate în afara zonelor cu protecţie strictă, a celor de protecţie integrală şi a celor de management durabil/conservare durabilă din parcurile naţionale şi naturale, precum şi în reţeaua ecologică Natura 2000."],
+              ["(10)","În cazurile în care siturile de importanţă comunitară se suprapun peste arii protejate de interes naţional se fac următoarele precizări:"],
+              ["a)","dacă siturile se suprapun peste arii naturale protejate cu regim de protecţie mai restrictiv, în zonele de suprapunere se va adopta regimul de protecţie mai restrictiv. Prin urmare, se consideră prioritară funcţia care impune cele mai mari exigenţe/restricţii în gospodărirea ariei protejate respective, menite să conducă la realizarea obiectivelor stabilite prin planul de management;"],
+              ["b)","măsuri de gospodărire corespunzătoare tipului funcţional III se vor propune în cazul în care siturile se suprapun peste zonele de management durabil/conservare durabilă din parcuri naţionale şi naturale, precum şi peste zonele de reconstrucţie ecologică din rezervaţii ale biosferei;"],
+              ["c)","măsuri de gospodărire corespunzătoare tipului funcţional IV se vor propune în cazurile în care siturile se suprapun peste zonele de dezvoltare durabilă din ariile naturale protejate."]
+            ]
+          },
+          {
+            "no": "27",
+            "label": "Art. 27",
+            "items": [
+              ["(1)","Conservarea biodiversităţii este unul dintre obiectivele de gospodărire prioritare avute în vedere la amenajarea pădurilor care au ca obiective de conservare protecţia biodiversităţii. El răspunde cerinţelor unei gospodăriri durabile a pădurilor, contribuind la conservarea speciilor şi habitatelor naturale."],
+              ["(2)","Conservarea biodiversităţii vizează realizarea mai multor obiective ce conduc la adoptarea următoarelor tipuri de măsuri/acţiuni:"],
+              ["a)","măsuri generale favorabile biodiversităţii, urmărite la nivelul fiecărui arboret, oricare ar fi funcţiile atribuite pe care acesta le îndeplineşte, respectiv unitatea de gospodărire din care face parte;"],
+              ["b)","măsuri specifice, urmărite la nivelul pădurilor cu rol de ocrotire a ecofondului şi genofondului forestier."],
+              ["(3)","Se vor avea în vedere următoarele măsuri generale menite să asigure conservarea diversităţii biologice la nivelul tuturor ecosistemelor forestiere în vederea maximizării funcţiei ecoprotective prin conservarea diversităţii genetice şi specifice:"],
+              ["a)","promovarea cu prioritate a regenerării naturale a arboretelor cu prilejul aplicării tratamentelor silviculturale;"],
+              ["b)","în cazul în care se recurge la regenerare artificială, în amenajament se va recomanda ca materialul genetic, pentru fiecare specie, să fie de provenienţă locală, populaţia locală fiind unitatea de bază în raport cu care se stabileşte strategia de management;"],
+              ["c)","constituirea de subparcele cu suprafeţe cât mai mari care să includă arbori din aceeaşi specie şi populaţie şi de aceeaşi vârstă sau vârste apropiate;"],
+              ["d)","conservarea ecotipurilor (climatice, edafice, biotice) prin includerea lor în subparcele distincte şi stabilirea de ţeluri de gospodărire corespunzătoare;"],
+              ["e)","menţinerea unui amestec bogat de specii la nivelul fiecărui arboret prin promovarea tuturor speciilor adaptate condiţiilor staţionale locale, potrivit tipului natural fundamental de pădure, în proporţii corespunzătoare ecologic şi economic ce păstrează, din punctul de vedere al bogăţiei de specii, caracterul natural al ecosistemelor;"],
+              ["f)","prevederea prin amenajament a extragerii speciilor alohtone cu ocazia aplicării intervenţiilor silvotehnice, atunci când acestea devin invazive;"],
+              ["g)","prin planurile de amenajament se vor face recomandări de a nu se extrage subarboretul cu prilejul efectuării intervenţiilor silvotehnice (cu excepţia situaţiilor în care afectează mersul regenerării în arboretele cuprinse în planul decenal de recoltare a produselor principale sau dezvoltarea arboretelor tinere);"],
+              ["h)","se va recomanda protejarea arbuştilor în culturile înfiinţate pe terenuri degradate, în liziere sau luminişurile din cuprinsul pădurii, unde speciile de animale găsesc hrană şi adăpost;"],
+              ["i)","menţinerea luminişurilor, poienilor şi terenurilor pentru hrana faunei sălbatice în vederea conservării biodiversităţii păturii ierbacee, respectiv păstrarea unei suprafeţe mozaicate;"],
+              ["j)","păstrarea arborilor morţi (\"pe picior\" şi \"la sol\") cu prilejul efectuării tăierilor de regenerare şi a lucrărilor de îngrijire şi conducere;"],
+              ["k)","păstrarea unor \"arbori pentru biodiversitate\" - buchete, grupe de arbori sau porţiuni şi mai mari, reprezentative sub raportul biodiversităţii. Aceste porţiuni se pot constitui şi ca subparcele distincte şi urmează a fi conduse până la limita longevităţii, urmând a fi apoi înlocuite, progresiv, cu altele cu prilejul aplicării tăierilor de regenerare şi este de dorit să fie cât mai dispersate în cuprinsul unităţii de gospodărire. Pot fi aleşi în acest scop arbori care prezintă deja putregai, scorburi, arbori cu lemn aflat într-un stadiu avansat de descompunere. Nu se pune problema menţinerii acestor arbori în arboretele afectate de factori destabilizatori (cu o intensitate a atacului cel puţin slabă), în care există deja arbori uscaţi, atacaţi de insecte, vătămaţi de vânt şi zăpadă sau de vânat, răniţi prin aplicarea lucrărilor silvotehnice etc.;"],
+              ["l)","în cadrul unităţilor de gospodărire se va urmări realizarea unei structuri echilibrate pe clase de vârstă întrucât fiecare clasă de vârstă este însoţită de un anume nivel al biodiversităţii;"],
+              ["m)","conducerea arboretelor la vârste mari potrivit exploatabilităţii tehnice care să favorizeze adoptarea de cicluri lungi creează premisa sporirii biodiversităţii. Faptul că într-o unitate de gospodărire cu structură pe clase de vârstă echilibrată există arboretele exploatabile cu vârste înaintate denotă un nivel ridicat al biodiversităţii;"],
+              ["n)","referitor la habitatele marginale/fragile (liziere, zone umede, păduri ripariene, grohotişuri, stâncării), prin amenajament se recomandă protejarea acestora şi a vegetaţiei limitrofe, după caz (zone umede, grohotişuri), pentru menţinerea condiţiilor specifice în vederea protejării biodiversităţii caracteristice acestor suprafeţe. Detalierea acestor măsuri de protejare se va regăsi la capitolul de reglementare a procesului de producţie;"],
+              ["o)","ori de câte ori într-un arboret există elemente remarcabile care pot să facă obiect de conservare, zona în care acestea se află va fi individualizată în subparcelă aparte, urmând a i se aplica un regim de gospodărire favorabil protejării elementelor respective şi a habitatului lor."],
+              ["(4)","Se au în vedere următoarele măsuri specifice:"],
+              ["a)","includerea în capitolul referitor la biodiversitate a obiectivelor de protejat (specii, habitate), inclusiv o listă a elementelor de biodiversitate prezente în cadrul suprafeţelor ce fac obiectul amenajării;"],
+              ["b)","se vor evidenţia de către administrator/custode/autoritate competentă suprafeţele, distribuţia şi abundenţa speciilor de interes deosebit întâlnite în cuprinsul pădurii pentru a se putea proiecta măsurile de gospodărire corespunzătoare;"],
+              ["c)","transpunerea în amenajament a măsurilor specifice de protecţie adoptate în baza planurilor de management/măsurilor minime de conservare aprobate."],
+              ["d)","se va genera \"Harta biodiversităţii\" care va cuprinde cel puţin: limitele ariilor naturale protejate, habitatele forestiere de interes conservativ. Acolo unde sunt disponibile, prin planurile de management al ariilor protejate în vigoare, şi alte informaţii legate de distribuţia speciilor/altor habitate de interes conservativ, acestea vor fi incluse în Harta biodiversităţii."],
+              ["","ANEXĂ"],
+              ["","la norme"]
+            ]
+          },
+          {
+            "no": "Anexă",
+            "label": "Anexă – Modul de reglementare pe tipuri de unități de gospodărire",
+            "items": [
+              ["","Diferenţierea modului de reglementare în raport cu regimul, structura arboretelor şi intensitatea funcţiilor atribuite (tabel comprimat)"],
+              ["","Tip de reglementare | Tip unitate de gospodărire (UG) | Procedeul de stabilire a indicatorului de posibilitate | A1 | G | Metoda grădinăritului funcţional | A2 | J | Procedeul suprafeţei periodice revocabile (control CI) | A3 | A, B, D, I, V | Procedeul creşterii indicatoare Procedeul claselor de vârstă adaptat Procedeul mediilor succesive (control suprafaţă) | B1 | Q, U | Procedeul specific metodei afectaţiilor Procedeul mediilor succesive adaptat - varianta 10 ani | B2 | X, Y | Procedeul specific metodei afectaţiilor Procedeul mediilor succesive adaptat - varianta 5 ani | C | W, Z | Procedeul mediilor succesive adaptat - varianta 5 ani | D1 | A | Procedeul creşterii indicatoare Procedeul claselor de vârstă adaptat Procedeul mediilor succesive (control suprafaţă) | D2 | C | Procedeul creşterii indicatoare Procedeul claselor de vârstă adaptat Procedeul mediilor succesive (control suprafaţă)"]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

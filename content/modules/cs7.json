@@ -1,0 +1,1323 @@
+{
+  "id": "cs7",
+  "title": "Codul silvic VII – Control, răspunderi, sancțiuni",
+  "act": "Legea 331/2024, Titlurile VI–VII (art. 131–156)",
+  "version": "Codul silvic consolidat la 29 octombrie 2026",
+  "intro": "Cine controlează pădurea, cum se face controlul de fond, ce drepturi și incompatibilități ai ca personal silvic și, mai ales, infracțiunile silvice: tăierea fără drept, distrugerea, furtul, transportul fără aviz. Pragurile sunt în multipli ai prețului mediu al unui metru cub (5× și 20×) sau în metri cubi (5, 10, 20).",
+  "lesson": [
+    {
+      "title": "1. Cine face controlul",
+      "paragraphs": [
+        {
+          "text": "Controlul de specialitate îl fac personalul silvic al **Autorității**, al **Gărzii Forestiere Naționale** și al gărzilor teritoriale, plus personalul silvic al **ocoalelor și structurilor de administrare**.",
+          "refs": ["Cod art. 131 alin. (1)"]
+        },
+        {
+          "text": "Garda poate dispune în scris unui ocol să facă un control, numind personalul; ocolul îl face **în cel mult 10 zile calendaristice**.",
+          "refs": ["Cod art. 131 alin. (2)","Cod art. 132 alin. (3)"]
+        },
+        {
+          "text": "În control, personalul silvic e **învestit cu exercițiul autorității de stat**. La o posibilă infracțiune: legitimează persoanele; **suspendă lucrările** ca să nu dispară probele și le conservă; **sesizează de îndată poliția sau parchetul**; întocmește actul de constatare.",
+          "refs": ["Cod art. 131 alin. (3)–(4)"]
+        },
+        {
+          "text": "La contravenții: legitimează; întocmește actul de constatare; confiscă sau reține bunurile; evaluează prejudiciul; **oprește autovehiculele pe drumurile forestiere** pentru controlul lemnului. Personalul de pază poate avea și atribuții de control.",
+          "refs": ["Cod art. 131 alin. (5)–(6)"]
+        },
+        {
+          "text": "Autoritatea, prin Gardă, controlează regimul silvic, vegetația din afara FFN, proveniența și circulația lemnului și recoltarea produselor nelemnoase.",
+          "refs": ["Cod art. 132 alin. (1)"]
+        }
+      ],
+      "keep": [
+        "Control: Autoritatea, Garda, ocoalele",
+        "Controlul dispus de Gardă: ocolul îl face în max. 10 zile",
+        "La infracțiuni: suspendă lucrările, conservă probele, sesizează de îndată poliția",
+        "La contravenții: confiscă, evaluează, oprește vehiculele pe drumuri forestiere"
+      ],
+      "quiz": [
+        {
+          "q": "Personalul de pază poate avea și atribuții de control?",
+          "options": ["Nu", "Da", "Doar la stat", "Doar cu aviz de la poliție"],
+          "answer": 1,
+          "explain": "Da.",
+          "ref": "Cod art. 131 alin. (6)"
+        }
+      ]
+    },
+    {
+      "title": "2. Regulile controlului și controlul de fond",
+      "paragraphs": [
+        {
+          "text": "Controlul trebuie să fie **eficient** (bazat pe risc), **transparent** și **adaptabil**. La **prima abatere** a unei entități, controlul are obligatoriu o componentă de **prevenție**, cu plan de măsuri (Legea prevenirii 270/2017).",
+          "refs": ["Cod art. 133 alin. (1)","Cod art. 133 alin. (3)"]
+        },
+        {
+          "text": "Acțiunile civile ale statului, Autorității, Gărzii sau administratorilor publici pentru pagube în FFN sunt **scutite de taxa de timbru**.",
+          "refs": ["Cod art. 133 alin. (5)"]
+        },
+        {
+          "text": "Ocolul organizează câte un **control de fond primăvara și toamna**, ca să verifice limitele și bornele, să inventarieze și să evalueze arborii tăiați fără drept și alte pagube, să verifice calitatea lucrărilor și să propună recuperarea.",
+          "refs": ["Cod art. 134 alin. (1)"]
+        },
+        {
+          "text": "Controlul de fond **nu-l poate face aceeași persoană sau superiorul ei 2 ani la rând**. Procesul-verbal devine **titlu executoriu** dacă nu e contestat în **15 zile** de la comunicare.",
+          "refs": ["Cod art. 134 alin. (4)–(5)"]
+        },
+        {
+          "text": "Deținătorii de păduri, depozite și instalații de prelucrare trebuie să permită accesul controlului, cu notificare, **în afară de controalele inopinate**, care nu se notifică.",
+          "refs": ["Cod art. 135"]
+        }
+      ],
+      "keep": [
+        "Control: eficient, transparent, adaptabil; prevenție la prima abatere",
+        "Control de fond: primăvara și toamna",
+        "Nu aceeași persoană (sau superiorul) 2 ani consecutiv",
+        "PV necontestat în 15 zile = titlu executoriu",
+        "Controale inopinate: fără notificare"
+      ],
+      "quiz": [
+        {
+          "q": "Acțiunile civile ale Gărzii pentru pagube în FFN sunt:",
+          "options": ["Cu taxă dublă", "Scutite de taxa de timbru", "Interzise", "Doar penale"],
+          "answer": 1,
+          "explain": "Scutite de taxa de timbru.",
+          "ref": "Cod art. 133 alin. (5)"
+        },
+        {
+          "q": "Controlul de fond verifică, între altele:",
+          "options": [
+            "Prețul lemnului",
+            "Limitele și bornele amenajistice",
+            "Salariile",
+            "Contractele de exploatare"
+          ],
+          "answer": 1,
+          "explain": "Și pagubele, calitatea lucrărilor.",
+          "ref": "Cod art. 134 alin. (1)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Controlul de fond",
+        "steps": [
+          {"title": "Primăvara și toamna", "text": "organizat de ocol", "ref": "Cod art. 134 alin. (1)"},
+          {
+            "title": "Verificări",
+            "text": "borne, tăieri fără drept, pagube, calitatea lucrărilor",
+            "ref": "Cod art. 134 alin. (1)"
+          },
+          {"title": "Proces-verbal", "text": "comunicat", "ref": "Cod art. 134 alin. (5)"},
+          {"title": "15 zile", "text": "necontestat = titlu executoriu", "ref": "Cod art. 134 alin. (5)"}
+        ]
+      }
+    },
+    {
+      "title": "3. Cine constată infracțiunile silvice",
+      "paragraphs": [
+        {
+          "text": "Organe de constatare: personalul silvic al **Autorității și Gărzii**, al **administratorilor pădurii statului**, al **ocoalelor de regim**; organele de urmărire penală; **Poliția**, **Poliția de Frontieră**, **Jandarmeria**.",
+          "refs": ["Cod art. 136 alin. (1)"]
+        },
+        {
+          "text": "Personalul silvic poate identifica arborii, cioatele tăiate fără drept și poate inventaria lemnul pe loc. Polițiștii și jandarmii au aceleași competențe doar dacă au **pregătire silvică** (studii sau curs de formare).",
+          "refs": ["Cod art. 136 alin. (2)–(3)"]
+        },
+        {
+          "text": "Depozitele de lemn le poate controla și **ANAF**, la cererea Autorității sau a Gărzii.",
+          "refs": ["Cod art. 136 alin. (4)"]
+        }
+      ],
+      "keep": [
+        "Constată: personalul silvic (Gardă, Romsilva, ocoale de regim), procurori, poliție, frontieră, jandarmerie",
+        "Polițiștii identifică cioate doar cu pregătire silvică",
+        "ANAF poate controla depozitele, la cererea Gărzii"
+      ],
+      "quiz": [
+        {
+          "q": "Depozitele de lemn le poate controla și:",
+          "options": ["ANAF, la cererea Gărzii", "Primăria", "Protecția Consumatorului", "Nimeni altcineva"],
+          "answer": 0,
+          "explain": "ANAF, la cererea Autorității sau Gărzii.",
+          "ref": "Cod art. 136 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "4. Drepturile și incompatibilitățile personalului silvic",
+      "paragraphs": [
+        {
+          "text": "Personalul silvic poartă **uniforma și însemnele**, primite **gratuit** de la angajator; uneori poate lucra în ținută civilă. Gradele și drepturile sunt în **Statutul personalului silvic**.",
+          "refs": ["Cod art. 137 alin. (1)–(3)"]
+        },
+        {
+          "text": "Personalul silvic al Autorității, Gărzii, ocoalelor de regim, Romsilva și INCDS are un **spor de 25% la salariul de bază**. Activitatea e stagiu în **condiții speciale**: vârsta de pensionare scade cu **1 an pentru fiecare 5 ani** lucrați.",
+          "refs": ["Cod art. 137 alin. (4)–(5)"]
+        },
+        {
+          "text": "Inginerii silvici cu studii de lungă durată și cel puțin **3 ani vechime** se pot autoriza pentru **măsurători topografice**.",
+          "refs": ["Cod art. 137 alin. (6)"]
+        },
+        {
+          "text": "**Conflictul de interese**: un interes personal (pentru sine, soț sau rude și afini **până la gradul II**) care poate influența imparțialitatea. Personalul silvic nu poate conduce, controla sau lucra la o firmă din silvicultură și exploatare; incompatibilitatea se extinde și la rude, dacă firma lor are relații comerciale cu angajatorul.",
+          "refs": ["Cod art. 138 alin. (1)–(3)"]
+        },
+        {
+          "text": "Personalul silvic (cu excepția funcționarilor publici) depune **declarație de avere și de interese** la angajare și anual **până la 15 iunie**. Trimiterea în judecată pentru infracțiuni de serviciu sau silvice **suspendă de drept** contractul de muncă; condamnarea definitivă îl **încetează de drept**.",
+          "refs": ["Cod art. 138 alin. (4)","Cod art. 138 alin. (7)–(8)"]
+        }
+      ],
+      "keep": [
+        "Uniformă gratuită",
+        "Spor 25% la salariul de bază",
+        "Pensie: −1 an pentru fiecare 5 ani",
+        "Ingineri cu ≥ 3 ani vechime: autorizare pentru topografie",
+        "Conflict de interese: rude și afini până la gradul II",
+        "Declarații de avere și interese: până la 15 iunie",
+        "Trimitere în judecată → CIM suspendat; condamnare → CIM încetat"
+      ],
+      "quiz": [
+        {
+          "q": "Uniforma personalului silvic:",
+          "options": [
+            "Se cumpără de angajat",
+            "Se asigură gratuit de angajator",
+            "Nu e obligatorie",
+            "Se închiriază"
+          ],
+          "answer": 1,
+          "explain": "Gratuit.",
+          "ref": "Cod art. 137 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "5. Paguba și prejudiciul forestier",
+      "paragraphs": [
+        {
+          "text": "**Prejudiciul forestier** = **paguba** + **valoarea funcțiilor nerealizate** ale pădurii; în actele de constatare se trec **separat**. Paguba se evaluează după Titlul VIII.",
+          "refs": ["Cod art. 139 alin. (1)–(3)"]
+        },
+        {
+          "text": "**Paguba** o recuperează **ocolul**, pe baza procesului-verbal aprobat de conducătorul unității, care devine titlu executoriu dacă nu e contestat în **15 zile**; banii merg în **fondul de conservare și regenerare**.",
+          "refs": ["Cod art. 139 alin. (4)"]
+        },
+        {
+          "text": "**Funcțiile nerealizate** se trec într-un proces-verbal care e **titlu de creanță**. Dacă se plătesc în **30 de zile**, nu se datorează dobânzi și penalități, iar banii merg în **fondul de ameliorare**; altfel, Garda trimite titlul la **ANAF**.",
+          "refs": ["Cod art. 139 alin. (5)–(6)"]
+        },
+        {
+          "text": "**Prețul mediu al unui metru cub de lemn**, baza tuturor pragurilor, se aprobă **prin lege**. Legea contravențiilor silvice are un **sistem de puncte de penalizare**, care poate duce la suspendarea accesului în SUMAL.",
+          "refs": ["Cod art. 139 alin. (8)","Cod art. 141"]
+        }
+      ],
+      "keep": [
+        "Prejudiciu = pagubă + funcții nerealizate (trecute separat)",
+        "Paguba: ocolul, PV titlu executoriu în 15 zile → fondul de conservare",
+        "Funcții nerealizate: plata în 30 de zile fără penalități → fondul de ameliorare; apoi ANAF",
+        "Prețul mediu al m³: prin lege",
+        "Puncte de penalizare pentru contravenții"
+      ],
+      "quiz": [
+        {
+          "q": "Paguba și funcțiile nerealizate se trec în actele de constatare:",
+          "options": ["Împreună, ca o sumă", "Distinct", "Doar paguba", "Doar funcțiile"],
+          "answer": 1,
+          "explain": "Se evidențiază distinct.",
+          "ref": "Cod art. 139 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "6. Distrugerea și tăierea fără drept",
+      "paragraphs": [
+        {
+          "text": "**Distrugerea** (rupere, degradare, scoatere din rădăcini) de arbori, puieți sau lăstari din FFN: închisoare **6 luni–3 ani sau amendă** dacă prejudiciul e de **cel puțin 5×** prețul mediu al unui m³; la fel dacă fapta s-a repetat de **două ori într-un an** și cumulat trece de 5×; **2–7 ani** dacă prejudiciul e de cel puțin **20×**.",
+          "refs": ["Cod art. 142"]
+        },
+        {
+          "text": "**Tăierea fără drept** din FFN: **6 luni–3 ani sau amendă** până la **5×** prețul mediu; **1–5 ani** între 5× și 20×; **2–7 ani** peste **20×**. Tentativa se pedepsește.",
+          "refs": ["Cod art. 143 alin. (1)","Cod art. 143 alin. (3)"]
+        },
+        {
+          "text": "Tăierea **jnepenișurilor** pe mai mult de **100 m²**: **1–5 ani** sau amendă.",
+          "refs": ["Cod art. 143 alin. (2)"]
+        },
+        {
+          "text": "Nu e infracțiune: tăierea pentru **siguranța circulației rutiere sau feroviare** și prejudiciile inevitabile din exploatarea autorizată, dacă exploatatorul le declară în scris la ocol.",
+          "refs": ["Cod art. 143 alin. (4)–(5)"]
+        },
+        {
+          "text": "Distrugerea vegetației de pe **spațiile verzi** din intravilan: **6 luni–3 ani** sau amendă. Încălcarea regulilor speciale pentru pădurile din **Ilfov**: **2–7 ani**.",
+          "refs": ["Cod art. 140","Cod art. 144"]
+        }
+      ],
+      "keep": [
+        "Praguri: 5× și 20× prețul mediu al m³",
+        "Tăiere: ≤ 5× → 6 luni–3 ani sau amendă; 5–20× → 1–5 ani; > 20× → 2–7 ani",
+        "Distrugere: de la 5× (sau repetat de 2 ori/an); de la 20× → 2–7 ani",
+        "Jnepeniș > 100 m² → 1–5 ani",
+        "Nu e infracțiune: siguranța circulației; prejudicii inevitabile declarate"
+      ],
+      "quiz": [
+        {
+          "q": "Prejudiciile inevitabile la exploatarea autorizată nu sunt infracțiune dacă:",
+          "options": [
+            "Sunt sub 10 m³",
+            "Exploatatorul le declară în scris la ocol",
+            "Sunt noaptea",
+            "Le aprobă poliția"
+          ],
+          "answer": 1,
+          "explain": "Cu solicitare scrisă la ocol.",
+          "ref": "Cod art. 143 alin. (5)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Tăierea fără drept (art. 143)",
+        "levels": [
+          {
+            "who": "Prejudiciu ≤ 5× prețul mediu",
+            "does": ["6 luni–3 ani sau amendă"],
+            "ref": "Cod art. 143 alin. (1)"
+          },
+          {
+            "who": "Între 5× și 20×",
+            "does": ["1–5 ani + interzicerea unor drepturi"],
+            "ref": "Cod art. 143 alin. (1)"
+          },
+          {
+            "who": "Peste 20×",
+            "does": ["2–7 ani + interzicerea unor drepturi"],
+            "ref": "Cod art. 143 alin. (1)"
+          },
+          {
+            "who": "Agravante",
+            "does": ["armă, personal silvic, noaptea, mascat, păduri protejate: + jumătate"],
+            "ref": "Cod art. 145 alin. (1)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "7. Agravante și furtul",
+      "paragraphs": [
+        {
+          "text": "La distrugere, tăiere și furt, limitele pedepselor **cresc cu jumătate** dacă fapta e comisă: **cu armă** sau substanțe explozive, narcotice, paralizante; de **personal silvic**; **noaptea**; de o persoană **mascată**; în ecosistemele cu **valoare ridicată de conservare**.",
+          "refs": ["Cod art. 145 alin. (1)"]
+        },
+        {
+          "text": "Aceleași agravante (fără cea cu pădurile protejate) cresc cu jumătate și pedepsele pentru **depozitarea și transportul ilegal** de lemn.",
+          "refs": ["Cod art. 145 alin. (2)"]
+        },
+        {
+          "text": "**Furtul de puieți sau lăstari**: **6 luni–1 an** sau amendă de la 5×; **1–3 ani** între 5× și 20×; **2–7 ani** de la 20×.",
+          "refs": ["Cod art. 150 alin. (1)"]
+        },
+        {
+          "text": "**Furtul de arbori** (doborâți, rupți, tăiați) și al altor produse ale pădurii: **6 luni–3 ani** sau amendă până la 5×; **1–5 ani** între 5× și 20×; **2–7 ani** de la 20×.",
+          "refs": ["Cod art. 150 alin. (2)"]
+        },
+        {
+          "text": "Dacă furtul îl comit cei **autorizați să exploateze** lemnul, limitele cresc cu **o treime**.",
+          "refs": ["Cod art. 150 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "Agravante (+½): armă, personal silvic, noaptea, mascat, păduri protejate",
+        "Furt de puieți: 6 luni–1 an / 1–3 ani / 2–7 ani",
+        "Furt de arbori: 6 luni–3 ani / 1–5 ani / 2–7 ani",
+        "Exploatatori autorizați care fură: +⅓"
+      ],
+      "quiz": [
+        {
+          "q": "Furtul de puieți în valoare de 10× prețul mediu:",
+          "options": ["6 luni–1 an", "1–3 ani", "2–7 ani", "Amendă"],
+          "answer": 1,
+          "explain": "Între 5× și 20×: 1–3 ani.",
+          "ref": "Cod art. 150 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "8. Integritatea FFN, SUMAL și dispozitivele de marcat",
+      "paragraphs": [
+        {
+          "text": "Lucrări sau obiective în FFN **fără aprobare** de ocupare temporară sau scoatere: **6 luni–3 ani**; la fel reducerea suprafeței FFN contrar metodologiei. În pădurile cu valoare ridicată de conservare, limitele cresc cu jumătate.",
+          "refs": ["Cod art. 146"]
+        },
+        {
+          "text": "Accesul în **SUMAL** se suspendă de Autoritate sau Gardă pe **max. 90 de zile** (prelungibil), la cererea organelor de cercetare penală, când s-a pus în mișcare acțiunea penală. Suspendarea se contestă în **30 de zile**.",
+          "refs": ["Cod art. 147"]
+        },
+        {
+          "text": "**Folosirea fără drept** a dispozitivului special de marcat: **6 luni–3 ani** sau amendă; falsificarea lui se pedepsește după Codul penal (art. 317).",
+          "refs": ["Cod art. 148"]
+        },
+        {
+          "text": "Introducerea, modificarea sau ștergerea de **date false în SUMAL**, pentru consecințe juridice: **1–5 ani**.",
+          "refs": ["Cod art. 149"]
+        }
+      ],
+      "keep": [
+        "Lucrări în FFN fără aprobare: 6 luni–3 ani",
+        "Suspendare acces SUMAL: max. 90 zile; contestare în 30 zile",
+        "Folosirea fără drept a ciocanului: 6 luni–3 ani",
+        "Date false în SUMAL: 1–5 ani"
+      ],
+      "quiz": [
+        {
+          "q": "Falsificarea unui ciocan de marcat se pedepsește după:",
+          "options": ["Codul silvic, 6 luni–3 ani", "Codul penal, art. 317", "Legea 171/2010", "Nu se pedepsește"],
+          "answer": 1,
+          "explain": "Art. 317 din Codul penal.",
+          "ref": "Cod art. 148 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "9. Depozitarea și transportul lemnului, confiscarea",
+      "paragraphs": [
+        {
+          "text": "**Depozit**: diferența între stocul fizic și cel scriptic din SUMAL de peste **20%**, dar **cel puțin 10 m³**: **1–5 ani** sau amendă.",
+          "refs": ["Cod art. 151 alin. (1)"]
+        },
+        {
+          "text": "**Transport fără aviz** sau fără proveniență legală: **5,01–10 m³** → 6 luni–1 an sau amendă; **10,01–20 m³** → 1–3 ani sau amendă; **peste 20,01 m³** → 2–7 ani sau amendă.",
+          "refs": ["Cod art. 151 alin. (2)"]
+        },
+        {
+          "text": "Tot ca prima treaptă: diferența dintre aviz și volumul real de **cel puțin 20%**, dar minimum 5,01 m³; transportul repetat sub 5,01 m³, de **două ori într-un an**, cumulat peste prag. **Mijloacele de transport se confiscă obligatoriu**.",
+          "refs": ["Cod art. 151 alin. (3)–(5)"]
+        },
+        {
+          "text": "Lemnul se confiscă și se predă în **custodie** ocolului cu sediul **cel mai apropiat**; transportatorul îl duce acolo. Fiecare ocol trebuie să aibă un depozit pentru lemnul confiscat. La tăiere fără drept, furt și transport ilegal, **măsurile asigurătorii sunt obligatorii**.",
+          "refs": ["Cod art. 152 alin. (1)","Cod art. 152 alin. (3)–(4)"]
+        },
+        {
+          "text": "Lemnul confiscat e **perisabil** și se vinde de custode, iar banii se depun în contul indicat de procuror. Ziua-amendă pentru persoana juridică: **500–25.000 lei**. Procurorul poate cere **detașarea** personalului Gărzii la parchet.",
+          "refs": ["Cod art. 152 alin. (6)–(7)", "Cod art. 153", "Cod art. 155"]
+        }
+      ],
+      "keep": [
+        "Depozit: diferență > 20% și ≥ 10 m³ → 1–5 ani",
+        "Transport: 5,01–10 / 10,01–20 / > 20,01 m³",
+        "Aviz greșit cu ≥ 20% (min. 5,01 m³) = infracțiune",
+        "Mijlocul de transport: confiscare obligatorie",
+        "Custodie la cel mai apropiat ocol; măsuri asigurătorii obligatorii",
+        "Zi-amendă PJ: 500–25.000 lei"
+      ],
+      "quiz": [
+        {
+          "q": "La tăierea fără drept, furt și transport ilegal, măsurile asigurătorii sunt:",
+          "options": ["Facultative", "Obligatorii", "Interzise", "Doar la cererea proprietarului"],
+          "answer": 1,
+          "explain": "Obligatorii.",
+          "ref": "Cod art. 152 alin. (4)"
+        },
+        {
+          "q": "Diferența de 25% între aviz și volumul real, la 6 m³:",
+          "options": ["Nu e infracțiune", "Infracțiune, ca la 5,01–10 m³", "Contravenție", "2–7 ani"],
+          "answer": 1,
+          "explain": "≥ 20% și minimum 5,01 m³.",
+          "ref": "Cod art. 151 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Transportul fără aviz (art. 151)",
+        "levels": [
+          {
+            "who": "5,01–10 m³",
+            "does": ["6 luni–1 an sau amendă","+ aviz greșit cu ≥ 20%; + repetat de 2 ori/an sub 5,01 m³"],
+            "ref": "Cod art. 151 alin. (2)"
+          },
+          {"who": "10,01–20 m³", "does": ["1–3 ani sau amendă"], "ref": "Cod art. 151 alin. (2)"},
+          {"who": "≥ 20,01 m³", "does": ["2–7 ani sau amendă"], "ref": "Cod art. 151 alin. (2)"},
+          {
+            "who": "Întotdeauna",
+            "does": ["confiscarea obligatorie a mijlocului de transport"],
+            "ref": "Cod art. 151 alin. (5)"
+          }
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Control",
+      "rows": [
+        {
+          "what": "Control dispus de Gardă, executat de ocol",
+          "value": "în max. 10 zile calendaristice",
+          "ref": "Cod art. 131 alin. (2)"
+        },
+        {
+          "what": "Controale de fond ale ocolului",
+          "value": "primăvara și toamna",
+          "ref": "Cod art. 134 alin. (1)"
+        },
+        {
+          "what": "Aceeași persoană nu repetă controlul de fond",
+          "value": "2 ani consecutivi",
+          "ref": "Cod art. 134 alin. (4)"
+        },
+        {
+          "what": "PV de control de fond → titlu executoriu",
+          "value": "necontestat în 15 zile",
+          "ref": "Cod art. 134 alin. (5)"
+        },
+        {
+          "what": "Funcții nerealizate plătite fără penalități",
+          "value": "în 30 zile",
+          "ref": "Cod art. 139 alin. (5)"
+        },
+        {
+          "what": "Spor personal silvic",
+          "value": "25% la salariul de bază",
+          "ref": "Cod art. 137 alin. (4)"
+        },
+        {
+          "what": "Reducerea vârstei de pensionare",
+          "value": "1 an la fiecare 5 ani",
+          "ref": "Cod art. 137 alin. (5)"
+        },
+        {
+          "what": "Declarații de avere și interese",
+          "value": "anual, până la 15 iunie",
+          "ref": "Cod art. 138 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "Infracțiuni (preț mediu = PM al m³)",
+      "rows": [
+        {
+          "what": "Tăiere fără drept ≤ 5× PM",
+          "value": "6 luni–3 ani sau amendă",
+          "ref": "Cod art. 143 alin. (1)"
+        },
+        {"what": "Tăiere 5–20× PM", "value": "1–5 ani", "ref": "Cod art. 143 alin. (1)"},
+        {"what": "Tăiere > 20× PM", "value": "2–7 ani", "ref": "Cod art. 143 alin. (1)"},
+        {"what": "Distrugere ≥ 5× PM", "value": "6 luni–3 ani sau amendă", "ref": "Cod art. 142"},
+        {"what": "Jnepeniș > 100 m²", "value": "1–5 ani sau amendă", "ref": "Cod art. 143 alin. (2)"},
+        {
+          "what": "Furt de arbori ≤ 5× / 5–20× / ≥ 20×",
+          "value": "6 luni–3 ani / 1–5 / 2–7 ani",
+          "ref": "Cod art. 150 alin. (2)"
+        },
+        {"what": "Agravante", "value": "+ jumătate", "ref": "Cod art. 145"},
+        {
+          "what": "Lucrări în FFN fără aprobare",
+          "value": "6 luni–3 ani",
+          "ref": "Cod art. 146 alin. (1)"
+        },
+        {"what": "Date false în SUMAL", "value": "1–5 ani", "ref": "Cod art. 149"}
+      ]
+    },
+    {
+      "title": "Lemn în depozit și transport",
+      "rows": [
+        {
+          "what": "Diferență stoc fizic/scriptic",
+          "value": "> 20% și ≥ 10 m³ → 1–5 ani",
+          "ref": "Cod art. 151 alin. (1)"
+        },
+        {
+          "what": "Transport fără aviz 5,01–10 m³",
+          "value": "6 luni–1 an sau amendă",
+          "ref": "Cod art. 151 alin. (2)"
+        },
+        {
+          "what": "Transport 10,01–20 m³",
+          "value": "1–3 ani sau amendă",
+          "ref": "Cod art. 151 alin. (2)"
+        },
+        {
+          "what": "Transport ≥ 20,01 m³",
+          "value": "2–7 ani sau amendă",
+          "ref": "Cod art. 151 alin. (2)"
+        },
+        {
+          "what": "Suspendare acces SUMAL",
+          "value": "max. 90 zile; contestare 30 zile",
+          "ref": "Cod art. 147"
+        },
+        {"what": "Zi-amendă persoană juridică", "value": "500–25.000 lei", "ref": "Cod art. 153"}
+      ]
+    }
+  ],
+  "tricks": [
+    "Pragurile valorice: „5 și 20” (multipli ai prețului mediu). Pragurile de volum: „5, 10, 20” m³.",
+    "Pedepsele urcă în trei trepte: amendă sau 6 luni–3 ani, apoi 1–5 ani, apoi 2–7 ani. La furtul de puieți prima treaptă e mai mică: 6 luni–1 an.",
+    "Agravantele „NAMP”: Noaptea, Armă, Mascat, Personal silvic (+ păduri protejate). Cresc limitele cu jumătate.",
+    "15 zile: PV de control de fond. 30 de zile: funcții nerealizate fără penalități. 10 zile: controlul cerut de Gardă."
+  ],
+  "cards": [
+    {
+      "q": "Cine face controlul de specialitate în silvicultură?",
+      "a": "Personalul silvic al Autorității, Gărzii Forestiere Naționale și gărzilor teritoriale și al ocoalelor/structurilor de administrare.",
+      "ref": "Cod art. 131 alin. (1)"
+    },
+    {
+      "q": "În cât timp face ocolul un control dispus de Gardă?",
+      "a": "În max. 10 zile calendaristice.",
+      "ref": "Cod art. 131 alin. (2)"
+    },
+    {
+      "q": "Ce faci când constați o faptă care poate fi infracțiune silvică?",
+      "a": "Legitimezi, suspenzi lucrările, conservi probele, sesizezi de îndată poliția/parchetul, întocmești actul de constatare.",
+      "ref": "Cod art. 131 alin. (4)"
+    },
+    {
+      "q": "Poate personalul silvic opri mașinile pe drumurile forestiere?",
+      "a": "Da, pentru controlul circulației lemnului.",
+      "ref": "Cod art. 131 alin. (5)"
+    },
+    {
+      "q": "Ce caracter are controlul la prima abatere?",
+      "a": "Obligatoriu componentă de prevenție și informare, cu plan de măsuri.",
+      "ref": "Cod art. 133 alin. (3)"
+    },
+    {
+      "q": "Când se fac controalele de fond ale ocolului?",
+      "a": "Primăvara și toamna, câte unul.",
+      "ref": "Cod art. 134 alin. (1)"
+    },
+    {
+      "q": "Cine nu poate face controlul de fond doi ani la rând?",
+      "a": "Aceeași persoană sau superiorul ei ierarhic.",
+      "ref": "Cod art. 134 alin. (4)"
+    },
+    {
+      "q": "Când devine titlu executoriu PV de control de fond?",
+      "a": "După comunicare și necontestare în 15 zile.",
+      "ref": "Cod art. 134 alin. (5)"
+    },
+    {"q": "Se notifică controalele inopinate?", "a": "Nu.", "ref": "Cod art. 135"},
+    {
+      "q": "Ce instituții pot constata infracțiunile silvice în afară de personalul silvic?",
+      "a": "Organele de urmărire penală, Poliția, Poliția de Frontieră, Jandarmeria.",
+      "ref": "Cod art. 136 alin. (1)"
+    },
+    {
+      "q": "Ce spor are personalul silvic al Romsilva?",
+      "a": "25% la salariul de bază.",
+      "ref": "Cod art. 137 alin. (4)"
+    },
+    {
+      "q": "Cu cât scade vârsta de pensionare pentru personalul silvic?",
+      "a": "1 an pentru fiecare 5 ani lucrați.",
+      "ref": "Cod art. 137 alin. (5)"
+    },
+    {
+      "q": "Ce ingineri silvici pot face măsurători topografice?",
+      "a": "Cei cu studii de lungă durată și cel puțin 3 ani vechime, autorizați.",
+      "ref": "Cod art. 137 alin. (6)"
+    },
+    {
+      "q": "Până la ce grad de rudenie se întinde conflictul de interese?",
+      "a": "Soț/soție, rude și afini până la gradul II.",
+      "ref": "Cod art. 138 alin. (1)"
+    },
+    {
+      "q": "Până când se depune declarația de avere a personalului silvic?",
+      "a": "Anual, până la 15 iunie.",
+      "ref": "Cod art. 138 alin. (4)"
+    },
+    {
+      "q": "Ce se întâmplă cu contractul pădurarului trimis în judecată pentru tăieri ilegale?",
+      "a": "Se suspendă de drept.",
+      "ref": "Cod art. 138 alin. (7)"
+    },
+    {
+      "q": "Ce e prejudiciul forestier?",
+      "a": "Paguba plus valoarea funcțiilor nerealizate ale pădurii.",
+      "ref": "Cod art. 139 alin. (2)"
+    },
+    {
+      "q": "Unde ajung banii din recuperarea pagubei?",
+      "a": "În fondul de conservare și regenerare.",
+      "ref": "Cod art. 139 alin. (4)"
+    },
+    {
+      "q": "Ce avantaj are plata funcțiilor nerealizate în 30 de zile?",
+      "a": "Nu se datorează dobânzi și penalități.",
+      "ref": "Cod art. 139 alin. (5)"
+    },
+    {
+      "q": "Cum se stabilește prețul mediu al unui m³ de lemn?",
+      "a": "Prin lege.",
+      "ref": "Cod art. 139 alin. (8)"
+    },
+    {
+      "q": "Pedeapsa pentru tăierea fără drept cu prejudiciu de 3× prețul mediu?",
+      "a": "6 luni–3 ani sau amendă.",
+      "ref": "Cod art. 143 alin. (1)"
+    },
+    {
+      "q": "Și pentru 12× prețul mediu?",
+      "a": "1–5 ani și interzicerea unor drepturi.",
+      "ref": "Cod art. 143 alin. (1)"
+    },
+    {"q": "Și peste 20× prețul mediu?", "a": "2–7 ani.", "ref": "Cod art. 143 alin. (1)"},
+    {
+      "q": "Când e infracțiune tăierea jnepenișului?",
+      "a": "Peste 100 m² afectați: 1–5 ani sau amendă.",
+      "ref": "Cod art. 143 alin. (2)"
+    },
+    {
+      "q": "E infracțiune tăierea unui arbore care pune în pericol calea ferată?",
+      "a": "Nu, dacă e pentru siguranța circulației.",
+      "ref": "Cod art. 143 alin. (4)"
+    },
+    {
+      "q": "Care sunt agravantele la tăiere, distrugere și furt?",
+      "a": "Armă, personal silvic, noaptea, mascat, păduri cu valoare ridicată de conservare: limitele cresc cu jumătate.",
+      "ref": "Cod art. 145 alin. (1)"
+    },
+    {
+      "q": "Cu cât cresc pedepsele pentru furt comis de exploatatori autorizați?",
+      "a": "Cu o treime.",
+      "ref": "Cod art. 150 alin. (3)"
+    },
+    {
+      "q": "Pe cât timp se suspendă accesul în SUMAL la cererea anchetatorilor?",
+      "a": "Max. 90 de zile, cu posibilitate de prelungire.",
+      "ref": "Cod art. 147 alin. (1)"
+    },
+    {
+      "q": "Ce pedeapsă are folosirea fără drept a ciocanului de marcat?",
+      "a": "6 luni–3 ani sau amendă.",
+      "ref": "Cod art. 148 alin. (1)"
+    },
+    {
+      "q": "Când e infracțiune diferența de stoc dintr-un depozit?",
+      "a": "Peste 20% față de stocul scriptic, dar minimum 10 m³.",
+      "ref": "Cod art. 151 alin. (1)"
+    },
+    {
+      "q": "Ce pedeapsă are transportul a 15 m³ fără aviz?",
+      "a": "1–3 ani sau amendă.",
+      "ref": "Cod art. 151 alin. (2)"
+    },
+    {
+      "q": "Ce se întâmplă cu camionul folosit la transport ilegal?",
+      "a": "Se confiscă obligatoriu, în natură.",
+      "ref": "Cod art. 151 alin. (5)"
+    },
+    {
+      "q": "Cui se predă lemnul confiscat?",
+      "a": "În custodie, ocolului cu sediul cel mai apropiat de locul constatării.",
+      "ref": "Cod art. 152 alin. (1)"
+    },
+    {
+      "q": "Cât e ziua-amendă pentru o firmă în infracțiunile silvice?",
+      "a": "Între 500 și 25.000 lei.",
+      "ref": "Cod art. 153"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Garda dispune unui ocol un control. Termenul maxim de efectuare este:",
+      "options": ["24 de ore", "5 zile", "10 zile calendaristice", "30 de zile"],
+      "answer": 2,
+      "explain": "10 zile calendaristice.",
+      "ref": "Cod art. 131 alin. (2)"
+    },
+    {
+      "q": "La constatarea unei infracțiuni silvice, personalul silvic:",
+      "options": [
+        "Aplică amendă și pleacă",
+        "Suspendă lucrările, conservă probele și sesizează de îndată poliția",
+        "Așteaptă controlul de fond",
+        "Anunță doar proprietarul"
+      ],
+      "answer": 1,
+      "explain": "Obligațiile de la art. 131 alin. (4).",
+      "ref": "Cod art. 131 alin. (4)"
+    },
+    {
+      "q": "Ocolul face controale de fond:",
+      "options": ["Lunar", "Primăvara și toamna", "O dată la 2 ani", "Doar la cerere"],
+      "answer": 1,
+      "explain": "Câte unul primăvara și toamna.",
+      "ref": "Cod art. 134 alin. (1)"
+    },
+    {
+      "q": "Același pădurar poate face controlul de fond în același canton:",
+      "options": ["În fiecare an", "Nu 2 ani consecutivi", "Doar cu acordul Gărzii", "Niciodată"],
+      "answer": 1,
+      "explain": "Interzis 2 ani consecutiv (și pentru superior).",
+      "ref": "Cod art. 134 alin. (4)"
+    },
+    {
+      "q": "PV de control de fond devine titlu executoriu dacă nu e contestat în:",
+      "options": ["5 zile", "15 zile", "30 de zile", "60 de zile"],
+      "answer": 1,
+      "explain": "15 zile de la comunicare.",
+      "ref": "Cod art. 134 alin. (5)"
+    },
+    {
+      "q": "Care NU e organ de constatare al infracțiunilor silvice?",
+      "options": ["Jandarmeria", "Poliția de Frontieră", "Primarul", "Personalul ocoalelor de regim"],
+      "answer": 2,
+      "explain": "Primarul nu e în listă.",
+      "ref": "Cod art. 136 alin. (1)"
+    },
+    {
+      "q": "Sporul la salariul de bază al personalului silvic din Gardă și Romsilva este:",
+      "options": ["10%", "15%", "25%", "50%"],
+      "answer": 2,
+      "explain": "25%.",
+      "ref": "Cod art. 137 alin. (4)"
+    },
+    {
+      "q": "Incompatibilitatea personalului silvic privește și rudele până la gradul:",
+      "options": ["I", "II", "III", "IV"],
+      "answer": 1,
+      "explain": "Gradul II.",
+      "ref": "Cod art. 138 alin. (1)"
+    },
+    {
+      "q": "Condamnarea definitivă a unui pădurar pentru o infracțiune silvică duce la:",
+      "options": [
+        "Mutarea în alt canton",
+        "Încetarea de drept a contractului de muncă",
+        "Avertisment",
+        "Suspendare 30 zile"
+      ],
+      "answer": 1,
+      "explain": "Încetare de drept.",
+      "ref": "Cod art. 138 alin. (8)"
+    },
+    {
+      "q": "Banii recuperați pentru funcțiile nerealizate, plătite în 30 de zile, merg în:",
+      "options": [
+        "Fondul de conservare",
+        "Fondul de ameliorare a fondului funciar",
+        "Bugetul ocolului",
+        "Bugetul local"
+      ],
+      "answer": 1,
+      "explain": "Fondul de ameliorare.",
+      "ref": "Cod art. 139 alin. (5)"
+    },
+    {
+      "q": "Tăierea fără drept cu prejudiciu de 8× prețul mediu al m³ se pedepsește cu:",
+      "options": ["Amendă contravențională", "6 luni–3 ani sau amendă", "1–5 ani", "2–7 ani"],
+      "answer": 2,
+      "explain": "Între 5× și 20×: 1–5 ani.",
+      "ref": "Cod art. 143 alin. (1)"
+    },
+    {
+      "q": "Tăierea fără drept cu prejudiciu de 25× prețul mediu:",
+      "options": ["6 luni–3 ani", "1–5 ani", "2–7 ani", "Amendă"],
+      "answer": 2,
+      "explain": "Peste 20×: 2–7 ani.",
+      "ref": "Cod art. 143 alin. (1)"
+    },
+    {
+      "q": "Distrugerea de puieți cu prejudiciu de 3× prețul mediu, o singură dată:",
+      "options": [
+        "Infracțiune 6 luni–3 ani",
+        "Nu e infracțiune după art. 142 (sub pragul de 5×)",
+        "2–7 ani",
+        "1–5 ani"
+      ],
+      "answer": 1,
+      "explain": "Distrugerea e infracțiune de la 5× (sau repetat cumulat).",
+      "ref": "Cod art. 142"
+    },
+    {
+      "q": "Tăierea a 150 m² de jneapăn este:",
+      "options": ["Contravenție", "Infracțiune, 1–5 ani sau amendă", "Permisă", "Infracțiune 2–7 ani"],
+      "answer": 1,
+      "explain": "Peste 100 m².",
+      "ref": "Cod art. 143 alin. (2)"
+    },
+    {
+      "q": "Tăierea fără drept comisă noaptea de un pădurar:",
+      "options": [
+        "Pedeapsă normală",
+        "Limitele cresc cu jumătate",
+        "Limitele cresc cu o treime",
+        "Pedeapsă dublă"
+      ],
+      "answer": 1,
+      "explain": "Agravante: noaptea, personal silvic.",
+      "ref": "Cod art. 145 alin. (1)"
+    },
+    {
+      "q": "Furtul de arbori în valoare de 4× prețul mediu se pedepsește cu:",
+      "options": ["6 luni–1 an", "6 luni–3 ani sau amendă", "1–5 ani", "2–7 ani"],
+      "answer": 1,
+      "explain": "Până la 5×: 6 luni–3 ani sau amendă.",
+      "ref": "Cod art. 150 alin. (2)"
+    },
+    {
+      "q": "Furtul comis de un exploatator autorizat:",
+      "options": [
+        "Pedeapsă redusă",
+        "Limitele cresc cu o treime",
+        "Limitele cresc cu jumătate",
+        "Doar contravenție"
+      ],
+      "answer": 1,
+      "explain": "+⅓.",
+      "ref": "Cod art. 150 alin. (3)"
+    },
+    {
+      "q": "Construirea unei cabane în FFN fără aprobare de scoatere este:",
+      "options": ["Contravenție", "Infracțiune, 6 luni–3 ani", "Permisă sub 50 m²", "Doar faptă civilă"],
+      "answer": 1,
+      "explain": "Art. 146.",
+      "ref": "Cod art. 146 alin. (1)"
+    },
+    {
+      "q": "Suspendarea accesului în SUMAL se poate contesta în:",
+      "options": ["5 zile", "15 zile", "30 de zile", "90 de zile"],
+      "answer": 2,
+      "explain": "30 de zile.",
+      "ref": "Cod art. 147 alin. (3)"
+    },
+    {
+      "q": "Introducerea de date false în SUMAL se pedepsește cu:",
+      "options": ["Amendă", "6 luni–3 ani", "1–5 ani", "2–7 ani"],
+      "answer": 2,
+      "explain": "1–5 ani.",
+      "ref": "Cod art. 149"
+    },
+    {
+      "q": "Într-un depozit cu stoc scriptic de 40 m³ se găsesc 52 m³. E infracțiune?",
+      "options": [
+        "Nu, diferența e sub 20%",
+        "Da: diferență de 30% și 12 m³",
+        "Doar contravenție",
+        "Da, orice diferență"
+      ],
+      "answer": 1,
+      "explain": "Peste 20% și minimum 10 m³.",
+      "ref": "Cod art. 151 alin. (1)"
+    },
+    {
+      "q": "Transportul a 8 m³ fără aviz se pedepsește cu:",
+      "options": ["Amendă contravențională", "6 luni–1 an sau amendă", "1–3 ani", "2–7 ani"],
+      "answer": 1,
+      "explain": "5,01–10 m³.",
+      "ref": "Cod art. 151 alin. (2)"
+    },
+    {
+      "q": "Transportul a 25 m³ fără aviz:",
+      "options": ["6 luni–1 an", "1–3 ani", "2–7 ani sau amendă", "Contravenție"],
+      "answer": 2,
+      "explain": "Peste 20,01 m³.",
+      "ref": "Cod art. 151 alin. (2)"
+    },
+    {
+      "q": "Mijlocul de transport folosit la transportul ilegal de lemn:",
+      "options": ["Se returnează", "Se confiscă obligatoriu", "Se amendează doar", "Se reține 30 zile"],
+      "answer": 1,
+      "explain": "Confiscare obligatorie în natură.",
+      "ref": "Cod art. 151 alin. (5)"
+    },
+    {
+      "q": "Lemnul confiscat se predă în custodie:",
+      "options": ["Gărzii", "Ocolului cu sediul cel mai apropiat", "Poliției", "Primăriei"],
+      "answer": 1,
+      "explain": "Ocolului cel mai apropiat, obligat să-l preia.",
+      "ref": "Cod art. 152 alin. (1)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Cioatele de la marginea cantonului",
+      "situation": "La controlul de fond de toamnă găsești 14 cioate proaspete de fag, nemarcate. Prejudiciul calculat e de 9 ori prețul mediu al unui metru cub.",
+      "steps": [
+        {
+          "q": "Ce faci pe loc?",
+          "a": "Marchezi cioatele cu ciocanul pentagonal, conservi probele, sesizezi de îndată poliția sau parchetul și întocmești actul de constatare.",
+          "ref": "Cod art. 131 alin. (4)"
+        },
+        {
+          "q": "Ce încadrare are fapta?",
+          "a": "Tăiere fără drept, cu prejudiciu între 5× și 20× prețul mediu: închisoare de la 1 la 5 ani și interzicerea unor drepturi.",
+          "ref": "Cod art. 143 alin. (1)"
+        },
+        {
+          "q": "Dacă se dovedește că a tăiat noaptea?",
+          "a": "Limitele pedepsei cresc cu jumătate.",
+          "ref": "Cod art. 145 alin. (1)"
+        },
+        {
+          "q": "Cum se recuperează paguba?",
+          "a": "Ocolul o recuperează pe baza procesului-verbal, care e titlu executoriu dacă nu e contestat în 15 zile; banii merg în fondul de conservare și regenerare. Funcțiile nerealizate se trec separat.",
+          "ref": "Cod art. 139 alin. (3)–(4)"
+        }
+      ]
+    },
+    {
+      "title": "Camionul de pe drumul forestier",
+      "situation": "Oprești pe drumul forestier un camion cu 18 m³ de lemn de foc. Șoferul are aviz pentru 12 m³.",
+      "steps": [
+        {
+          "q": "Ai dreptul să oprești camionul?",
+          "a": "Da, personalul silvic cu atribuții de control poate opri autovehiculele pe drumurile forestiere pentru controlul lemnului.",
+          "ref": "Cod art. 131 alin. (5)"
+        },
+        {
+          "q": "E infracțiune?",
+          "a": "Da: diferența de 6 m³ înseamnă 50% din avizul de 12 m³ (peste pragul de 20%) și peste 5,01 m³, deci se pedepsește ca prima treaptă (6 luni–1 an sau amendă).",
+          "ref": "Cod art. 151 alin. (3)"
+        },
+        {
+          "q": "Ce se întâmplă cu lemnul și camionul?",
+          "a": "Lemnul se confiscă și se predă în custodie ocolului cel mai apropiat (transportatorul îl duce acolo), iar camionul se confiscă obligatoriu.",
+          "ref": "Cod art. 151 alin. (5)"
+        },
+        {
+          "q": "Sunt obligatorii măsurile asigurătorii?",
+          "a": "Da, la faptele de la art. 151.",
+          "ref": "Cod art. 152 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "Fratele pădurarului",
+      "situation": "Fratele unui pădurar al ocolului are o firmă de exploatare care cumpără partizi de la același ocol.",
+      "steps": [
+        {
+          "q": "E o problemă?",
+          "a": "Da: incompatibilitatea se extinde la rudele până la gradul II dacă firma lor are relații comerciale cu angajatorul personalului silvic.",
+          "ref": "Cod art. 138 alin. (3)"
+        },
+        {
+          "q": "Cine constată incompatibilitatea?",
+          "a": "Autoritatea, din oficiu sau la sesizarea oricărei persoane vătămate.",
+          "ref": "Cod art. 138 alin. (5)"
+        },
+        {
+          "q": "Ce declarații trebuie să depună pădurarul?",
+          "a": "Declarația de avere și de interese și incompatibilități, la angajare și anual până la 15 iunie.",
+          "ref": "Cod art. 138 alin. (4)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlurile VI–VII (art. 131–156)",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {"title": "Titlul VI – Controlul aplicării şi respectării regimului silvic", "from": "131"},
+          {"title": "Titlul VII – Răspunderi şi sancţiuni", "from": "139"}
+        ],
+        "articles": [
+          {
+            "no": "131",
+            "label": "Art. 131 – Controlul de stat de specialitate şi atribuţiile de control ce revin personalului silvic împuternicit",
+            "items": [
+              ["(1)","Controlul de specialitate este efectuat de către personalul silvic din cadrul Autorităţii, din cadrul Gărzii Forestiere Naţionale şi al Gărzilor Forestiere, precum şi de personalul silvic din cadrul ocoalelor silvice/structurilor de administrare a fondului forestier, potrivit competenţelor legale."],
+              ["(2)","Autoritatea, prin Garda Forestieră Naţională sau structurile teritoriale ale acesteia, poate dispune în scris ocoalelor silvice efectuarea de controale, inclusiv nominalizarea personalului silvic implicat în această activitate, ocolul silvic fiind obligat să dea curs solicitării în cel mult 10 zile calendaristice de la primirea solicitării."],
+              ["(3)","În exercitarea atribuţiilor de serviciu şi în constatarea contravenţiilor şi a faptelor ce constituie infracţiuni silvice, personalul silvic cu atribuţii de control este învestit cu exerciţiul autorităţii de stat, în limitele competenţelor stabilite de lege."],
+              ["(4)","În situaţia constatării de fapte care pot fi încadrate ca infracţiuni silvice, personalul pentru control din cadrul Autorităţii, Gărzii Forestiere Naţionale şi al Gărzilor Forestiere şi personalul din cadrul ocoalelor silvice/structurilor de administrare a fondului forestier are următoarele obligaţii:"],
+              ["a)","legitimează şi stabileşte identitatea persoanelor care încalcă dispoziţiile legale silvice;"],
+              ["b)","dispune suspendarea lucrărilor silvotehnice în curs, astfel încât urmele rezultate prin săvârşirea faptelor, corpurile delicte şi orice alte mijloace de probă să nu dispară, şi asigură măsurile de ridicare sau conservare a mijloacelor materiale de probă; prezentele dispoziţii se completează în mod corespunzător cu prevederile art. 61 din Legea nr. 135/2010 privind Codul de procedură penală, cu modificările şi completările ulterioare;"],
+              ["c)","sesizează poliţia sau parchetul competent de îndată ce a constatat săvârşirea unei fapte prevăzute ca infracţiune silvică potrivit art. 291 alin. (1) din Legea nr. 135/2010, cu modificările şi completările ulterioare;"],
+              ["d)","întocmeşte actul de constatare pentru faptele prevăzute de legea penală săvârşite pe terenuri din FFN conform competenţei legale."],
+              ["(5)","Personalul de control din cadrul Autorităţii, al Gărzii Forestiere Naţionale şi al Gărzilor Forestiere şi personalul silvic din cadrul ocoalelor silvice/structurilor de administrare a fondului forestier are următoarele atribuţii cu privire la constatarea şi sancţionarea contravenţiilor silvice:"],
+              ["a)","legitimează şi stabileşte identitatea persoanelor care încalcă dispoziţiile legale silvice;"],
+              ["b)","întocmeşte actul de constatare pentru faptele contravenţionale săvârşite pe terenurile din FFN conform competenţei legale;"],
+              ["c)","confiscă sau reţine, după caz, toate bunurile destinate, folosite sau produse ca urmare a săvârşirii contravenţiei, în condiţiile Legii nr. 171/2010 privind stabilirea şi sancţionarea contravenţiilor silvice, cu modificările şi completările ulterioare;"],
+              ["d)","evaluează prejudiciul forestier produs prin fapte de natură contravenţională şi acţionează pentru identificarea autorilor acestor fapte;"],
+              ["e)","opreşte autovehiculele pe drumurile forestiere, în vederea exercitării controlului circulaţiei materialului lemnos."],
+              ["(6)","Personalul cu atribuţii de pază a FFN poate avea şi atribuţii de control."]
+            ]
+          },
+          {
+            "no": "132",
+            "label": "Art. 132 – Organizarea şi îndeplinirea atribuţiilor de control prin structurile Autorităţii",
+            "items": [
+              ["(1)","Autoritatea organizează şi realizează controlul de stat de specialitate prin personalul propriu cu atribuţii de control şi prin personalul cu atribuţii de control din cadrul Gărzii Forestiere Naţionale şi din cadrul Gărzilor Forestiere:"],
+              ["a)","controlul aplicării şi respectării regimului silvic;"],
+              ["b)","controlul modului în care se aplică şi se respectă normele specifice în vegetaţia forestieră din afara fondului forestier;"],
+              ["c)","controlul provenienţei şi al circulaţiei materialelor lemnoase, precum şi al trasabilităţii acestora;"],
+              ["d)","controlul legalităţii recoltării produselor nelemnoase din FFN."],
+              ["(2)","În exercitarea atribuţiilor de serviciu privind controlul de stat de specialitate, precum şi în constatarea contravenţiilor şi a faptelor ce constituie infracţiuni silvice, personalul silvic este învestit cu exerciţiul autorităţii de stat, în limitele competenţelor stabilite de lege."],
+              ["(3)","Autoritatea, prin Garda Forestieră Naţională sau structurile teritoriale ale acesteia, poate dispune în scris ocoalelor silvice efectuarea de controale, nominalizând în dispoziţia de control personalul silvic care desfăşoară această activitate. Ocolul silvic este obligat să efectueze controlul de îndată, dar nu mai târziu de 10 zile calendaristice de la primirea dispoziţiei de efectuare a controlului."]
+            ]
+          },
+          {
+            "no": "133",
+            "label": "Art. 133 – Reguli de executare a controlului",
+            "items": [
+              ["(1)","Controlul de specialitate exercitat de Autoritate trebuie să fie:"],
+              ["a)","eficient, urmărind problemele reale şi relevante, bazat pe abordare de risc;"],
+              ["b)","transparent, organizat după reguli explicite;"],
+              ["c)","adaptabil, în funcţie de necesităţi."],
+              ["(2)","Autoritatea integrează informaţiile din sistemele de monitorizare pe care le are la dispoziţie şi stabileşte liniile de acţiune pentru programele naţionale de control tematic pe care le comunică Gărzii Forestiere Naţionale şi structurilor din subordine."],
+              ["(3)","Controlul are obligatoriu o componentă de prevenţie şi informare, prin raportarea la un plan de măsuri, în cazul constatării pentru prima dată a unei abateri de la legislaţia silvică la entitatea controlată conform Legii prevenirii nr. 270/2017."],
+              ["(4)","Controlul vizează şi conformitatea modului în care, prin administrarea, respectiv prin prestarea serviciilor silvice, sunt îndeplinite obligaţiile de menţinere şi/sau îmbunătăţire, după caz, a indicatorilor de stare ai pădurii prevăzuţi în normele tehnice şi juridice."],
+              ["(5)","Acţiunile civile care vizează pagube sau prejudicii aduse FFN, iniţiate de către Ministerul Finanţelor, de către Autoritate, de către Garda Forestieră Naţională, de către Gărzile Forestiere sau de către administratorii fondului forestier proprietate publică a statului, sunt scutite de taxele judiciare de timbru."],
+              ["(6)","În cazul anulării prin hotărâre judecătorească definitivă a unui document de proprietate cu privire la un teren forestier, fără stabilirea noului titular, Garda Forestieră competentă teritorial stabileşte prin decizie a conducătorului acesteia ocolul silvic de stat competent teritorial care va prelua suprafaţa în baza unui control de fond şi care va asigura în continuare administrarea fondului forestier în cauză."]
+            ]
+          },
+          {
+            "no": "134",
+            "label": "Art. 134 – Controlul efectuat de personalul silvic cu atribuţii de control din cadrul structurilor de administrare şi de prestări servicii silvice",
+            "items": [
+              ["(1)","Ocolul silvic/Structura de administrare are obligaţia organizării, în primăvara şi toamna fiecărui an, a câte unui control de fond în scopul:"],
+              ["a)","verificării stării limitelor şi bornelor amenajistice;"],
+              ["b)","identificării, inventarierii şi evaluării valorice a arborilor tăiaţi fără drept, a seminţişurilor utilizabile distruse sau vătămate, a oricăror alte pagube aduse pădurii, precum şi a stabilirii cauzelor care le-au produs;"],
+              ["c)","verificării calităţii lucrărilor silvice executate conform normelor tehnice;"],
+              ["d)","stabilirii pagubelor/prejudiciilor şi/sau a daunelor aduse pădurii, precum şi propunerilor de recuperare a acestora."],
+              ["(2)","În scopul verificării modului de respectare a regimului silvic, Garda Forestieră Naţională sau Gărzile Forestiere realizează controlul de fond sau controlul de fond parţial sau dispune efectuarea acestuia ori de câte ori este nevoie."],
+              ["(3)","Condiţiile de efectuare a controlului de fond/parţial se stabilesc în regulamentul propriu de pază menţionat la art. 93 alin. (3)."],
+              ["(4)","Este interzisă efectuarea controlului de fond de către aceeaşi persoană sau de către superiorul ierarhic al acesteia în 2 ani consecutivi."],
+              ["(5)","Procesul-verbal încheiat în urma controlului de fond devine titlu executoriu, după comunicare şi necontestarea acestuia în termen de 15 zile."]
+            ]
+          },
+          {
+            "no": "135",
+            "label": "Art. 135 – Accesul personalului de control în incinte pentru depozite, instalaţii şi alte asemenea",
+            "items": [
+              ["","Deţinătorii terenurilor din FFN şi ai vegetaţiei forestiere din afara FFN, inclusiv ocoalele silvice, precum şi deţinătorii de instalaţii de prelucrare a materialului lemnos şi de depozite sunt obligaţi să permită accesul personalului împuternicit pentru controlul respectării regimului silvic sau a normelor tehnice specifice, cu notificarea acestora, cu excepţia controalelor inopinate, caz în care notificarea nu este necesară."]
+            ]
+          },
+          {
+            "no": "136",
+            "label": "Art. 136 – Competenţe privind constatarea faptelor stabilite drept infracţiuni",
+            "items": [
+              ["(1)","Au competenţa să constate faptele stabilite drept infracţiuni prin prezenta lege următoarele organe de constatare:"],
+              ["a)","personalul silvic din cadrul Autorităţii, al Gărzii Forestiere Naţionale şi al Gărzilor Forestiere;"],
+              ["b)","personalul silvic din cadrul administratorilor terenurilor din FFN proprietate publică a statului;"],
+              ["c)","personalul silvic din cadrul ocoalelor silvice de regim;"],
+              ["d)","organele de urmărire penală;"],
+              ["e)","ofiţerii şi agenţii de poliţie din cadrul Poliţiei Române;"],
+              ["f)","ofiţerii şi agenţii de poliţie din cadrul Poliţiei de Frontieră Române;"],
+              ["g)","ofiţerii şi subofiţerii din cadrul Jandarmeriei Române."],
+              ["(2)","Organele de constatare din categoria personalului silvic prevăzut la alin. (1) lit. a) -c) au competenţa să identifice arborii destinaţi recoltării, cioatele provenite de la arbori care au fost tăiaţi fără drept şi să inventarieze, în locurile unde se află, materialele lemnoase provenite din săvârşirea faptelor descrise de prezenta lege ca infracţiuni."],
+              ["(3)","Organele de constatare prevăzute la alin. (1) lit. e) -g) care nu sunt din categoria personalului silvic au aceleaşi competenţe ca organele de constatare prevăzute la alin. (2) dacă sunt absolvenţi ai învăţământului superior de lungă durată cu diplomă de licenţă şi completată, după caz, cu masterat/doctorat în ştiinţe inginereşti din domeniul silvicultură sau absolvenţi, cu diplomă, ai învăţământului superior de scurtă durată, de profil tehnic cu calificări în domeniul silvicultură, dacă au pregătire de specialitate silvică atestată prin actul de absolvire a unei forme de învăţământ recunoscute în România ori dacă au absolvit un program de formare profesională în domeniul silvicultură, organizat în instituţiile de formare ale Ministerului Afacerilor Interne sau de un furnizor de formare profesională acreditat. Autoritatea asigură suportul de specialitate pentru pregătirea şi perfecţionarea organelor de constatare din instituţiile de formare existente la nivelul Ministerului Afacerilor Interne."],
+              ["(4)","Controlul depozitelor materialelor lemnoase se efectuează şi de către personalul cu atribuţii de control din cadrul Agenţiei Naţionale de Administrare Fiscală, la solicitarea Autorităţii, Gărzii Forestiere Naţionale sau a structurilor sale teritoriale."],
+              ["(5)","Prevederile prezentului titlu se completează, după caz, cu dispoziţiile Legii nr. 286/2009 privind Codul penal, cu modificările şi completările ulterioare, şi ale Legii nr. 135/2010, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "137",
+            "label": "Art. 137 – Drepturile şi obligaţiile personalului silvic",
+            "items": [
+              ["(1)","Personalul silvic de toate gradele este obligat să poarte, în exerciţiul atribuţiilor de serviciu, uniforma şi însemnele distinctive stabilite prin ordin al conducătorului Autorităţii. În anumite situaţii, în realizarea atribuţiilor de serviciu, personalul silvic poate îmbrăca ţinuta civilă."],
+              ["(2)","Uniforma şi însemnele prevăzute la alin. (1) se asigură gratuit de angajator, iar pentru personalul silvic din cadrul Autorităţii, Gărzii Forestiere Naţionale şi Gărzilor Forestiere se asigură gratuit, prin bugetul acesteia."],
+              ["(3)","Gradele profesionale, indemnizaţiile aferente gradelor profesionale, drepturile şi îndatoririle personalului silvic se stabilesc prin Statutul personalului silvic, aprobat prin lege specială."],
+              ["(4)","Personalul silvic din cadrul Autorităţii, al Gărzii Forestiere Naţionale, al Gărzilor Forestiere, al ocoalelor silvice de regim, al Romsilva şi al INCDS beneficiază de o majorare cu 25% a salariului de bază."],
+              ["(5)","Perioadele în care personalul silvic a desfăşurat activităţi în entităţile prevăzute la alin. (4) reprezintă stagiu de cotizare realizat în condiţii speciale de muncă, determinând reducerea vârstei standard de pensionare cu un an pentru fiecare 5 ani, precum şi majorarea punctajelor lunare de pensie."],
+              ["(6)","Inginerii silvici cu pregătire superioară de lungă durată, cu cel puţin 3 ani vechime în domeniul silviculturii, se autorizează să execute măsurători topografice, în condiţiile Legii cadastrului şi publicităţii imobiliare nr. 7/1996, republicată, cu modificările şi completările ulterioare, şi ale Regulamentului privind autorizarea şi recunoaşterea autorizării persoanelor fizice şi juridice în vederea realizării şi verificării lucrărilor de specialitate în domeniul cadastrului, geodeziei şi cartografiei pe teritoriul României, aprobat prin ordin al directorului general al Agenţiei Naţionale de Cadastru şi Publicitate Imobiliară."],
+              ["(7)","Executarea măsurătorilor topografice de către inginerii silvici prevăzuţi la alin. (5) se realizează cu respectarea Legii nr. 176/2010 privind integritatea în exercitarea funcţiilor şi demnităţilor publice, pentru modificarea şi completarea Legii nr. 144/2007 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale de Integritate, precum şi pentru modificarea şi completarea altor acte normative, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "138",
+            "label": "Art. 138 – Conflictul de interese",
+            "items": [
+              ["(1)","Prin conflict de interese se înţelege situaţia în care personalul silvic are un interes personal care influenţează sau poate să influenţeze îndeplinirea atribuţiilor sale de serviciu cu imparţialitate şi obiectivitate. Interesele personale ale personalului silvic pot include un beneficiu material sau de altă natură pentru sine, soţ/soţie, rudele şi afinii până la gradul II."],
+              ["(2)","Calitatea de personal silvic ce îşi desfăşoară activitatea în domeniile prevăzute la art. 2 lit. a) -d) din Ordonanţa de urgenţă a Guvernului nr. 59/2000 privind Statutul personalului silvic, aprobată cu modificări şi completări prin Legea nr. 427/2001, cu modificările şi completările ulterioare, este incompatibilă cu orice calitate care presupune conducerea, controlarea, funcţionarea sau administrarea, în fapt sau în drept, precum şi aceea de salariat al unei persoane juridice care desfăşoară orice activitate în domeniul silvicultură şi exploatare forestieră."],
+              ["(3)","Incompatibilitatea are loc şi atunci când soţul/soţia, rudele şi afinii de până la gradul II ai personalului silvic de la alin. (2) se află în orice calitate care presupune conducerea, controlarea, funcţionarea sau administrarea, în fapt sau în drept, precum şi aceea de salariat al unei persoane juridice care desfăşoară orice activitate în domeniul silvicultură şi exploatare forestieră, dacă aceasta se află în relaţii comerciale cu persoana juridică în care este angajat personalul silvic, iar în cazul Romsilva, cu unitatea din subordinea acesteia în care personalul silvic îşi desfăşoară activitatea."],
+              ["(4)","Personalul silvic cu funcţii de conducere şi cel de execuţie, cu excepţia personalului silvic care are statut de funcţionar public, are obligaţia de a completa şi depune la angajare şi anual până la 15 iunie a fiecărui an o declaraţie de avere şi declaraţie de interese şi incompatibilităţi. Modelul acestor declaraţii este stabilit prin regulamentul prevăzut la art. 15 alin. (3)."],
+              ["(5)","Starea de conflict de interese şi de incompatibilitate se constată de Autoritate ca urmare a sesizării din oficiu sau a sesizării venite din partea oricărei persoane care se consideră vătămată într-un drept al său ori într-un interes legitim."],
+              ["(6)","Conflictul de interese sau starea de incompatibilitate poate atrage, după caz, răspunderea disciplinară, administrativă, civilă ori penală, potrivit legii."],
+              ["(7)","Personalului silvic, altul decât cel care are statutul de funcţionar public, pentru care s-a dispus trimiterea în judecată pentru săvârşirea unei infracţiuni de serviciu sau în legătură cu serviciul, precum şi pentru cele prevăzute de prezenta lege i se suspendă de drept contractul individual de muncă."],
+              ["(8)","Personalului silvic, altul decât cel care are statutul de funcţionar public, pentru care a rămas definitivă hotărârea de condamnare pentru săvârşirea unei infracţiuni de serviciu sau în legătură cu serviciul, precum şi pentru cele prevăzute de prezenta lege i se încetează de drept contractul individual de muncă."]
+            ]
+          },
+          {
+            "no": "139",
+            "label": "Art. 139 – Paguba şi prejudiciul forestier",
+            "items": [
+              ["(1)","Paguba adusă vegetaţiei forestiere din FFN sau vegetaţiei forestiere din afara FFN, indiferent de natura juridică a proprietăţii, se evaluează în condiţiile titlului VIII - Evaluarea pagubei şi a prejudiciului forestier."],
+              ["(2)","Prejudiciul forestier produs prin fapte care constituie infracţiuni sau contravenţii se stabileşte prin însumarea valorii pagubei produse vegetaţiei forestiere din FFN cu valoarea funcţiilor nerealizate ale pădurii conform titlului VIII - Evaluarea pagubei şi a prejudiciului forestier."],
+              ["(3)","Valoarea pagubei produse vegetaţiei forestiere şi valoarea funcţiilor nerealizate ale pădurii se evidenţiază distinct în actele încheiate de agenţii constatatori."],
+              ["(4)","Paguba stabilită potrivit prevederilor alin. (1) se evaluează de către personalul prevăzut la art. 136 alin. (1) lit. a) -c) şi alin. (3) şi se recuperează de către ocolul silvic care asigură serviciile silvice sau administrarea FFN, în baza procesului-verbal sau a actului de control de fond/parţial întocmit de personalul silvic şi aprobat de conducătorul unităţii, care constituie titlu executoriu prin necontestare în termen de 15 zile de la data comunicării. Sumele astfel realizate se fac venit la fondul de conservare şi regenerare constituit potrivit prezentei legi."],
+              ["(5)","Valoarea funcţiilor nerealizate ale pădurii se stabileşte de către agenţii constatatori prevăzuţi la art. 136 alin. (1) lit. a) -c) şi alin. (3) şi se individualizează într-un proces-verbal, care constituie titlu de creanţă. În situaţia în care se achită sumele aferente funcţiilor nerealizate ale pădurii în termen de 30 de zile de la data comunicării procesului-verbal, nu se datorează dobânzi şi penalităţi de întârziere potrivit Legii nr. 207/2015 privind Codul de procedură fiscală, cu modificările şi completările ulterioare, iar sumele încasate se fac venit integral la fondul de ameliorare a fondului funciar cu destinaţie silvică."],
+              ["(6)","După expirarea termenului de plată prevăzut la alin. (5), pentru funcţiile nerealizate ale pădurii, Autoritatea/Garda Forestieră Naţională/Gărzile Forestiere transmite/transmit titlurile de creanţă devenite executorii, împreună cu dovada comunicării acestora, organelor fiscale competente din subordinea Agenţiei Naţionale de Administrare Fiscală în vederea recuperării, în conformitate cu prevederile Legii nr. 207/2015, cu modificările şi completările ulterioare. Pentru aceste sume se datorează dobânzi şi penalităţi de întârziere, care vor fi calculate de organele fiscale competente ale Agenţiei Naţionale de Administrare Fiscală, conform Legii nr. 207/2015, cu modificările şi completările ulterioare, de la data procesului-verbal prevăzut la alin. (5) până la data recuperării integrale. Sumele astfel recuperate se fac venit la bugetul de stat şi se încasează într-un cont de venituri distinct."],
+              ["(7)","Structurile de administrare au obligaţia de a formula acţiuni în instanţă pentru recuperarea pagubelor produse FFN prin fapte care constituie infracţiuni sau contravenţii şi de a înştiinţa Garda Forestieră competentă teritorial cu privire la demersurile întreprinse în scopul realizării acestei obligaţii, iar acestea se recuperează potrivit Legii nr. 207/2015, cu modificările şi completările ulterioare."],
+              ["(8)","Preţul mediu al unui metru cub de lemn se aprobă prin lege."]
+            ]
+          },
+          {
+            "no": "140",
+            "label": "Art. 140",
+            "items": [
+              ["(1)","Distrugerea, degradarea, în orice mod, fără drept, a vegetaţiei forestiere instalate pe spaţiile verzi, conform Legii nr. 24/2007 privind reglementarea şi administrarea spaţiilor verzi din intravilanul localităţilor, republicată, cu modificările şi completările ulterioare, se pedepseşte cu închisoare de la 6 luni la 3 ani sau cu amendă."],
+              ["(2)","Tentativa se pedepseşte."]
+            ]
+          },
+          {
+            "no": "141",
+            "label": "Art. 141 – Prin legea privind stabilirea şi sancţionarea contravenţiilor silvice se instituie un sistem de puncte de penalizare proporţional cu gravitatea faptei şi în baza căruia se poate suspenda sau retrage dreptul de acces în sistemul informaţional integrat pentru păduri al contravenientului, respectiv al mijlocului de transport folosit la comiterea faptei.",
+            "items": []
+          },
+          {
+            "no": "142",
+            "label": "Art. 142 – Infracţiunea de distrugere a vegetaţiei din FFN",
+            "items": [
+              ["(1)","Ruperea, distrugerea, degradarea ori scoaterea din rădăcini, fără drept, de arbori, puieţi sau lăstari din FFN, indiferent de forma de proprietate, constituie infracţiune silvică şi se pedepseşte după cum urmează:"],
+              ["a)","cu închisoare de la 6 luni la 3 ani sau cu amendă, dacă valoarea prejudiciului forestier produs este de cel puţin 5 ori mai mare decât preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["b)","cu închisoare de la 6 luni la 3 ani sau cu amendă, dacă valoarea prejudiciului forestier produs nu depăşeşte limita prevăzută la lit. a), dar fapta a fost săvârşită de cel puţin două ori în interval de un an, iar valoarea cumulată a prejudiciului produs depăşeşte limita prevăzută la lit. a);"],
+              ["c)","cu închisoare de la 2 la 7 ani şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă valoarea prejudiciului forestier produs este de cel puţin 20 de ori mai mare decât preţul mediu al unui metru cub de lemn la data comiterii faptei."],
+              ["(2)","Tentativa se pedepseşte."]
+            ]
+          },
+          {
+            "no": "143",
+            "label": "Art. 143 – Infracţiunea de tăiere fără drept de arbori",
+            "items": [
+              ["(1)","Tăierea fără drept de arbori din FFN, indiferent de forma de proprietate, constituie infracţiune silvică şi se pedepseşte după cum urmează:"],
+              ["a)","cu închisoare de la 6 luni la 3 ani sau cu amendă, dacă valoarea prejudiciului produs este de până la 5 ori preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["b)","cu închisoare de la un an la 5 ani şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă valoarea prejudiciului produs este cuprinsă între limita prevăzută la lit. a) şi de cel mult 20 de ori mai mare decât preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["c)","cu închisoare de la 2 la 7 ani şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă valoarea prejudiciului produs este de peste 20 de ori mai mare decât preţul mediu al unui metru cub de lemn la data comiterii faptei."],
+              ["(2)","Constituie infracţiune şi se pedepseşte cu închisoare de la un an la 5 ani sau cu amendă tăierea jnepenişurilor din FFN şi din afara FFN dacă a fost afectată o suprafaţă mai mare de 100 metri pătraţi."],
+              ["(3)","Tentativa se pedepseşte."],
+              ["(4)","Nu constituie infracţiune tăierea arborilor în vederea asigurării siguranţei circulaţiei rutiere sau feroviare sau arborii rezultaţi din deblocarea circulaţiei rutiere sau feroviare."],
+              ["(5)","Prejudiciile inevitabile constatate de către personalul silvic abilitat, ca urmare a activităţilor autorizate de exploatare a lemnului, nu constituie infracţiuni, cu condiţia ca operatorul economic care exploatează să depună la ocolul silvic o solicitare scrisă în care să specifice volumul prejudiciat."]
+            ]
+          },
+          {
+            "no": "144",
+            "label": "Art. 144",
+            "items": [
+              ["(1)","Încălcarea prevederilor art. 90 alin. (1) şi (2) constituie infracţiune şi se pedepseşte cu închisoare de la 2 la 7 ani."],
+              ["(2)","Tentativa se pedepseşte."]
+            ]
+          },
+          {
+            "no": "145",
+            "label": "Art. 145 – Variante agravante şi forme agravate",
+            "items": [
+              ["(1)","Limitele speciale ale pedepselor prevăzute la art. 142, 143 şi 150 se majorează cu jumătate, în cazul în care faptele au fost săvârşite după cum urmează:"],
+              ["a)","de către o persoană având asupra sa o armă, substanţe explozive, narcotice sau paralizante;"],
+              ["b)","de personal silvic;"],
+              ["c)","în timpul nopţii;"],
+              ["d)","de către o persoană mascată;"],
+              ["e)","în ecosistemele forestiere şi elementele forestiere cu valoare ridicată de conservare prevăzute la art. 86 alin. (1) lit. a) -e) şi alin. (2)."],
+              ["(2)","Limitele speciale ale pedepselor prevăzute la art. 151 se majorează cu jumătate, în cazul în care faptele au fost săvârşite după cum urmează:"],
+              ["a)","de către o persoană având asupra sa o armă, substanţe explozive, narcotice sau paralizante;"],
+              ["b)","de personal silvic;"],
+              ["c)","în timpul nopţii;"],
+              ["d)","de către o persoană mascată."]
+            ]
+          },
+          {
+            "no": "146",
+            "label": "Art. 146 – Infracţiuni privind integritatea FFN",
+            "items": [
+              ["(1)","Constituie infracţiune silvică şi se pedepseşte cu închisoare de la 6 luni la 3 ani realizarea de lucrări şi/sau amplasarea de obiective în FFN fără acte de aprobare privind ocuparea temporară sau scoaterea definitivă."],
+              ["(2)","Constituie infracţiune silvică şi se pedepseşte cu închisoare de la 6 luni la 3 ani reducerea suprafeţei FFN cu încălcarea metodologiei stabilite prin art. 39 alin. (3)."],
+              ["(3)","Limitele speciale ale pedepsei prevăzute la alin. (1) se majorează cu jumătate, în cazul în care faptele au fost săvârşite în ecosistemele forestiere şi elementele forestiere cu valoare ridicată de conservare prevăzute la art. 86 alin. (1) lit. a) -e)."]
+            ]
+          },
+          {
+            "no": "147",
+            "label": "Art. 147 – Suspendarea dreptului de acces în sistemul informaţional integrat pentru păduri",
+            "items": [
+              ["(1)","Accesul unui utilizator în sistemul informaţional integrat pentru păduri se suspendă de către Autoritate, Garda Forestieră Naţională sau structurile sale teritoriale, pe o perioadă de maximum 90 de zile, la solicitarea organelor de cercetare penală, cu posibilitatea de prelungire succesivă, în situaţia în care împotriva acestuia s-a pus în mişcare acţiunea penală pentru săvârşirea unei infracţiuni prevăzute de prezenta lege sau a unei infracţiuni de corupţie sau de serviciu, prevăzute în titlul V din Partea specială a Legii nr. 286/2009, cu modificările şi completările ulterioare."],
+              ["(2)","Accesul unui utilizator în sistemul informaţional integrat pentru păduri poate fi suspendat de către Autoritate, Garda Forestieră Naţională sau structurile sale teritoriale, pentru alte situaţii decât cele prevăzute la alin. (1), în condiţiile reglementate prin hotărârea Guvernului prevăzută la art. 20."],
+              ["(3)","Utilizatorul sistemului informaţional integrat pentru păduri poate contesta măsura suspendării prevăzută la alin. (1) şi (2) în termen de maximum 30 de zile de la data comunicării în scris a acesteia."]
+            ]
+          },
+          {
+            "no": "148",
+            "label": "Art. 148 – Folosirea fără drept şi falsificarea dispozitivului special de marcat",
+            "items": [
+              ["(1)","Folosirea dispozitivelor speciale de marcat prevăzute la art. 104 fără drept sau cu nerespectarea reglementărilor specifice în vigoare constituie infracţiune silvică şi se pedepseşte cu închisoare de la 6 luni la 3 ani sau cu amendă."],
+              ["(2)","În cazul falsificării dispozitivelor speciale de marcat sunt aplicabile dispoziţiile art. 317 din Legea nr. 286/2009, cu modificările şi completările ulterioare."]
+            ]
+          },
+          {
+            "no": "149",
+            "label": "Art. 149",
+            "items": [
+              ["(1)","Constituie infracţiune şi se pedepseşte cu închisoare de la un an la 5 ani fapta de a introduce, modifica sau şterge date informatice în sistemul informaţional integrat pentru păduri, rezultând date necorespunzătoare adevărului, în scopul de a fi utilizate în vederea producerii de consecinţe juridice."],
+              ["(2)","La încadrarea faptelor ca infracţiuni se au în vedere toleranţele reglementate prin actele normative."]
+            ]
+          },
+          {
+            "no": "150",
+            "label": "Art. 150 – Furtul de arbori",
+            "items": [
+              ["(1)","Furtul de puieţi sau lăstari care au fost rupţi, tăiaţi ori scoşi din rădăcini, din păduri, perdele forestiere de protecţie sau din terenuri degradate care au fost ameliorate prin lucrări de împădurire constituie infracţiune şi se pedepseşte după cum urmează:"],
+              ["a)","cu închisoare de la 6 luni la un an sau cu amendă, dacă valoarea materialului lemnos sustras este de cel puţin 5 ori preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["b)","cu închisoare de la un an la 3 ani, dacă valoarea materialului lemnos sustras este mai mare decât limita prevăzută la lit. a), dar nu mai mare de 20 de ori preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["c)","cu închisoare de la 2 la 7 ani, dacă valoarea materialului lemnos sustras este egală sau depăşeşte de 20 de ori preţul mediu al unui metru cub de lemn la data comiterii faptei."],
+              ["(2)","Furtul de arbori doborâţi sau rupţi de fenomene naturale ori de arbori care au fost tăiaţi ori scoşi din rădăcini, din păduri, perdele forestiere de protecţie, din terenuri degradate care au fost ameliorate prin lucrări de împădurire şi din vegetaţia forestieră din afara fondului forestier naţional, precum şi al oricăror alte produse specifice ale fondului forestier naţional constituie infracţiune şi se pedepseşte după cum urmează:"],
+              ["a)","cu închisoare de la 6 luni la 3 ani sau cu amendă, dacă valoarea materialului lemnos sustras este de cel mult 5 ori preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["b)","cu închisoare de la un an la 5 ani, dacă valoarea materialului lemnos sustras este mai mare decât limita prevăzută la lit. a), dar nu mai mare de 20 de ori preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["c)","cu închisoare de la 2 la 7 ani, dacă valoarea materialului lemnos sustras este egală sau depăşeşte de 20 de ori preţul mediu al unui metru cub de lemn la data comiterii faptei."],
+              ["(3)","Dacă faptele prevăzute la alin. (1) şi (2) sunt comise de persoane care sunt autorizate pentru a exploata volum de lemn pe picior, limitele speciale ale pedepsei se majorează cu o treime."],
+              ["(4)","Tentativa se pedepseşte."]
+            ]
+          },
+          {
+            "no": "151",
+            "label": "Art. 151 – Infracţiuni privind depozitarea şi circulaţia materialelor lemnoase",
+            "items": [
+              ["(1)","Constituie infracţiune şi se sancţionează cu închisoare de la un an la 5 ani sau amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal deţinerea în depozite de către operatorul economic sau comerciant a unui volum total de materiale lemnoase pentru care diferenţa în plus sau în minus dintre volumul stocului fizic şi volumul stocului scriptic, înregistrat în sistemul informaţional integrat pentru păduri, depăşeşte 20% raportat la stocul scriptic, dar nu mai puţin de 10 metri cubi, la momentul constatării faptei."],
+              ["(2)","Transportul cu orice mijloace de transport al materialelor lemnoase neînsoţite de avizul de însoţire a materialelor lemnoase sau fără provenienţă legală constituie infracţiune şi se sancţionează cu:"],
+              ["a)","închisoare de la 6 luni la un an sau cu amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă volumul materialelor lemnoase transportate fără provenienţă legală este cuprins între 5,01 metri cubi şi 10,00 metri cubi inclusiv;"],
+              ["b)","închisoare de la un an la 3 ani sau cu amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă volumul materialelor lemnoase transportate fără provenienţă legală este cuprins între 10,01 metri cubi şi 20,00 metri cubi inclusiv;"],
+              ["c)","închisoare de la 2 la 7 ani sau cu amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă volumul materialelor lemnoase transportate fără provenienţă legală este de cel puţin 20,01 metri cubi."],
+              ["(3)","Se sancţionează potrivit alin. (2) lit. a) transportul de materiale lemnoase cu aviz de însoţire emis în mod legal pentru care diferenţa dintre volumul înscris în avizul de însoţire şi volumul constatat cu ocazia controlului diferă cu minimum 20%, dar nu mai puţin de 5,01 metri cubi materiale lemnoase."],
+              ["(4)","Se sancţionează potrivit alin. (2) lit. a) transportul în mod repetat de materiale lemnoase fără provenienţă legală, dacă volumul materialelor lemnoase astfel transportate este sub limita de 5,01 mc, dar fapta a fost săvârşită de cel puţin două ori în interval de un an, iar volumul cumulat al materialelor lemnoase transportate fără provenienţă legală depăşeşte această limită."],
+              ["(5)","Bunurile care au fost folosite, în orice mod, sau destinate a fi folosite la săvârşirea infracţiunilor prevăzute la alin. (2) - (4), inclusiv mijloacele de transport, se confiscă în mod obligatoriu în natură."]
+            ]
+          },
+          {
+            "no": "152",
+            "label": "Art. 152 – Regimul măsurilor asigurătorii şi confiscarea",
+            "items": [
+              ["(1)","Materialele lemnoase rezultate ca urmare a săvârşirii unor fapte ce pot fi încadrate ca infracţiuni conform prezentei legi se confiscă în natură sau prin echivalent. În cazul confiscării în natură, materialele lemnoase se ridică şi se predau în custodie ocolului silvic care are sediul social cel mai apropiat de locul constatării, acesta fiind obligat să le preia. Transportatorul este obligat să transporte materialele lemnoase confiscate la locul de predare în custodie, indicat de agentul constatator. În cazul confiscării prin echivalent, calculul contravalorii materialelor lemnoase se face la preţuri de referinţă, pe specii şi sortimente, stabilite anual în raport cu valoarea de circulaţie a materialelor lemnoase, prin ordin al conducătorului Autorităţii, pe baza preţului pieţei, rezultat prin calcularea mediei ultimelor preţuri de vânzare, comunicate de administratorii fondului forestier proprietate publică care au vândut sortimentul respectiv în ultimele 6 luni."],
+              ["(2)","Produsele din lemn obţinute din lemn brut, rezultate ca urmare a săvârşirii unor fapte care sunt încadrate ca infracţiuni potrivit prezentei legi, se retrag şi, după caz, se recheamă imediat de pe piaţă."],
+              ["(3)","Ocoalele silvice au obligaţia înfiinţării cel puţin a unui depozit/depozit temporar, cu obligaţia asigurării unui spaţiu destinat preluării şi depozitării materialelor lemnoase ridicate/confiscate."],
+              ["(4)","În cazul săvârşirii faptelor prevăzute la art. 143, 150 şi 151, luarea măsurilor asigurătorii este obligatorie."],
+              ["(5)","În cazul în care se dispune măsura sechestrului asupra materialelor lemnoase sunt aplicabile, după caz, dispoziţiile art. 252 1 -252 4 din Legea nr. 135/2010, cu modificările şi completările ulterioare."],
+              ["(6)","Materialele lemnoase prevăzute la alin. (1) sunt produse perisabile şi se valorifică de către custozi în condiţiile Regulamentului privind valorificarea lemnului din terenurile FFN proprietate publică, prevăzut la art. 110 alin. (1); preţurile de pornire la licitaţie sunt cele din lista preţurilor de referinţă, pe specii şi sortimente stabilite anual, pentru materialele lemnoase care nu se găsesc sau care nu pot fi identificate, stabilită anual de Autoritate, denumită în continuare Lista preţurilor de referinţă."],
+              ["(7)","Sumele rezultate din valorificarea materialelor lemnoase în condiţiile alin. (6), din care se scad cheltuielile ocazionate custodelui de manipulare şi/sau valorificare, se depun într-un cont bancar indicat de organul de urmărire penală."]
+            ]
+          },
+          {
+            "no": "153",
+            "label": "Art. 153 – Amenda pentru persoana juridică",
+            "items": [
+              ["","Prin derogare de la dispoziţiile art. 137 alin. (2) din Legea nr. 286/2009, cu modificările şi completările ulterioare, în cazul infracţiunilor prevăzute în prezenta lege, suma corespunzătoare unei zile-amendă pentru persoana juridică este cuprinsă între 500 lei şi 25.000 lei."]
+            ]
+          },
+          {
+            "no": "154",
+            "label": "Art. 154 – Obligaţia de a transporta bunul la locul de predare în custodie",
+            "items": [
+              ["","În cazul măsurii sechestrului asigurător asupra vehiculului, făptuitorul este obligat să transporte, pe cheltuiala sa, bunul care a făcut obiectul măsurii sechestrului asigurător, la locul de predare în custodie stabilit de organul de urmărire penală."]
+            ]
+          },
+          {
+            "no": "155",
+            "label": "Art. 155 – Detaşarea personalului cu atribuţii de control",
+            "items": [
+              ["","În cazul infracţiunilor prevăzute de prezenta lege, pentru cauze de complexitate ridicată, procurorul poate solicita, după caz, conducătorului Gărzii Forestiere Naţionale ori conducătorului Gărzii Forestiere detaşarea de personal cu atribuţii de control în cadrul unităţilor de parchet, cu respectarea dispoziţiilor art. 127 alin. (5) din Legea nr. 304/2022 privind organizarea judiciară, cu modificările ulterioare."]
+            ]
+          },
+          {
+            "no": "156",
+            "label": "Art. 156 – Completarea cu dispoziţiile Codului penal şi ale Codului de procedură penală",
+            "items": [
+              ["","Prevederile prezentului titlu se completează cu dispoziţiile Legii nr. 286/2009, cu modificările şi completările ulterioare, şi ale Legii nr. 135/2010, cu modificările şi completările ulterioare."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1246 @@
+{
+  "id": "cs8",
+  "title": "Codul silvic VIII – Pagube, prejudicii, dispoziții finale",
+  "act": "Legea 331/2024, Titlurile VIII–IX (art. 157–168) + anexa 3",
+  "version": "Codul silvic consolidat la 29 octombrie 2026",
+  "intro": "Cum se calculează concret paguba: măsurarea cioatei, factorul „k” din anexa 3, furtul, puieții, coeficientul K pe tipuri funcționale pentru prejudiciu, cubajul expeditiv la transport. La final: amenzile pentru transport și depozite sub pragul penal și termenele tranzitorii ale Codului.",
+  "lesson": [
+    {
+      "title": "1. Principiile evaluării",
+      "paragraphs": [
+        {
+          "text": "Paguba și prejudiciul le evaluează **agenții constatatori** silvici (Autoritate, Gardă, ocoale) și polițiștii sau jandarmii cu pregătire silvică.",
+          "refs": ["Cod art. 157 alin. (1)"]
+        },
+        {
+          "text": "În FFN, **prejudiciul = paguba + valoarea funcțiilor nerealizate**.",
+          "refs": ["Cod art. 157 alin. (2)"]
+        },
+        {
+          "text": "Volumul arborilor sustrași se determină după metodele dendrometrice aprobate prin ordin: **după diametrul cioatei** sau **după un arboret similar**. Se pot folosi și **mijloace electronice de măsurare**.",
+          "refs": ["Cod art. 157 alin. (3)–(4)"]
+        },
+        {
+          "text": "Pragurile valorice (5×, 20× prețul mediu) se compară cu valori calculate **fără TVA**.",
+          "refs": ["Cod art. 157 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "Prejudiciu = pagubă + funcții nerealizate",
+        "Volum: după cioată sau după arboret similar",
+        "Încadrarea în praguri: fără TVA"
+      ],
+      "quiz": [
+        {
+          "q": "Volumul arborilor sustrași se poate măsura și cu:",
+          "options": [
+            "Doar clupa",
+            "Mijloace electronice, după metodologia Autorității",
+            "Estimare vizuală",
+            "Drone fără metodologie"
+          ],
+          "answer": 1,
+          "explain": "Mijloace electronice.",
+          "ref": "Cod art. 157 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "2. Măsurarea diametrului",
+      "paragraphs": [
+        {
+          "text": "Pe teren plan, diametrul se măsoară **pe cioată, în plan orizontal**, la înălțimea tăieturii, dar **nu mai sus de 30 cm** de la sol. Pe teren înclinat, **în partea din amonte**.",
+          "refs": ["Cod art. 158 alin. (3)–(4)"]
+        },
+        {
+          "text": "Cioata necirculară: media a **două diametre perpendiculare**, primul fiind **cel mai mic** de pe secțiune.",
+          "refs": ["Cod art. 158 alin. (5)"]
+        },
+        {
+          "text": "Arbore scos din rădăcini dar nesustras, sau afectat fără tăiere: diametrul se măsoară la **30 cm de la colet**.",
+          "refs": ["Cod art. 158 alin. (6)"]
+        },
+        {
+          "text": "Arbore scos și furat, sau tăiat fără să rămână cioată: **media diametrelor la 30 cm** a **cel puțin 3 arbori** din jurul gropii, din aceeași specie (sau cei mai apropiați 3 arbori ai speciei). Secuirea se evaluează la fel ca tăierea.",
+          "refs": ["Cod art. 158 alin. (7)–(8)"]
+        }
+      ],
+      "keep": [
+        "Cioata: la înălțimea tăieturii, max. 30 cm; în amonte pe pantă",
+        "Necirculară: media a 2 diametre perpendiculare, primul cel mai mic",
+        "Scos din rădăcini nesustras: la 30 cm de colet",
+        "Fără cioată: media a ≥ 3 arbori vecini din aceeași specie"
+      ],
+      "quiz": [
+        {
+          "q": "Secuirea arborilor se evaluează:",
+          "options": ["Ca tăierea (alin. 1–4)", "Nu se evaluează", "Cu k dublu", "Ca puieții"],
+          "answer": 0,
+          "explain": "La fel ca la tăiere.",
+          "ref": "Cod art. 158 alin. (8)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Ce diametru iei",
+        "steps": [
+          {
+            "title": "Cioată normală",
+            "text": "la tăietură, max. 30 cm; în amonte pe pantă",
+            "ref": "Cod art. 158 alin. (3)–(4)"
+          },
+          {
+            "title": "Cioată ovală",
+            "text": "media a 2 diametre perpendiculare",
+            "ref": "Cod art. 158 alin. (5)"
+          },
+          {"title": "Scos, nefurat", "text": "la 30 cm de colet", "ref": "Cod art. 158 alin. (6)"},
+          {
+            "title": "Fără cioată",
+            "text": "media a ≥ 3 arbori vecini, aceeași specie",
+            "ref": "Cod art. 158 alin. (7)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "3. Factorul „k” și paguba la arbori",
+      "paragraphs": [
+        {
+          "text": "Valoarea unitară a pagubei = **factorul „k”** (anexa 3, tabelul 1) × **valoarea medie a unui m³ de lemn pe picior**. „k” depinde de **categoria de diametre** (din 4 în 4 cm) și de **grupa de specii**: rășinoase; cvercinee, paltin, frasin, cireș, sorb; alte foioase.",
+          "refs": ["Cod art. 158 alin. (1)–(2)","Cod anexa 3"]
+        },
+        {
+          "text": "Exemple din tabel: la 28,1–32 cm, k = 0,682 (rășinoase), 1,015 (cvercinee), 0,525 (alte foioase). La peste 80 cm: 9,450, 30,975, 17,587. Cvercineele au k cel mai mare.",
+          "refs": ["Cod anexa 3"]
+        },
+        {
+          "text": "**Toți arborii înlăturați**, fără cioate de măsurat: volumul mediu la hectar pe specii din amenajament × suprafața × prețul lemnului de foc din Lista prețurilor de referință.",
+          "refs": ["Cod art. 158 alin. (9)"]
+        },
+        {
+          "text": "Fără amenajament: suprafața × volumul mediu la hectar pentru **clasa a III-a de producție, la 50 de ani** × prețul mediu, pentru **stejar pedunculat la câmpie**, **fag la deal**, **molid la munte**.",
+          "refs": ["Cod art. 158 alin. (10)"]
+        },
+        {
+          "text": "Pentru **folosirea fără drept a dispozitivului de marcat** (art. 148): volumul reconstituit × prețul lemnului de foc × **3**.",
+          "refs": ["Cod art. 158 alin. (12)"]
+        }
+      ],
+      "keep": [
+        "Paguba unitară = k × prețul mediu al m³ pe picior",
+        "3 grupe: rășinoase / cvercinee + paltin, frasin, cireș, sorb / alte foioase",
+        "Categorii de diametre din 4 în 4 cm, de la 2,1 la > 80 cm",
+        "Fără amenajament: clasa III, 50 ani; stejar pedunculat/fag/molid",
+        "Ciocan folosit fără drept: volum × lemn de foc × 3"
+      ],
+      "quiz": [
+        {
+          "q": "La aceeași categorie de diametre, k cel mai mare îl au:",
+          "options": [
+            "Rășinoasele",
+            "Cvercineele, paltinul, frasinul, cireșul, sorbul",
+            "Alte foioase",
+            "Sunt egale"
+          ],
+          "answer": 1,
+          "explain": "Ex. la > 80 cm: 30,975.",
+          "ref": "Cod anexa 3"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Câteva valori „k” (anexa 3)",
+        "items": [
+          {
+            "title": "20,1–24 cm",
+            "text": "rășinoase 0,227 · cvercinee 0,402 · alte foioase 0,175",
+            "ref": "Cod anexa 3"
+          },
+          {
+            "title": "28,1–32 cm",
+            "text": "rășinoase 0,682 · cvercinee 1,015 · alte foioase 0,525",
+            "ref": "Cod anexa 3"
+          },
+          {
+            "title": "40,1–44 cm",
+            "text": "rășinoase 1,837 · cvercinee 4,322 · alte foioase 1,872",
+            "ref": "Cod anexa 3"
+          },
+          {
+            "title": "> 80 cm",
+            "text": "rășinoase 9,450 · cvercinee 30,975 · alte foioase 17,587",
+            "ref": "Cod anexa 3"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Puieți și lăstari",
+      "paragraphs": [
+        {
+          "text": "Paguba la puieți și lăstari = **k din tabelul 2** × valoarea medie a unui m³. k = **0,017** pentru toate grupele; la rășinoase nu există lăstari.",
+          "refs": ["Cod art. 159 alin. (1)","Cod anexa 3"]
+        },
+        {
+          "text": "Se socotește **un puiet pe metru pătrat**, respectiv un lăstar pe metru pătrat.",
+          "refs": ["Cod art. 159 alin. (2)"]
+        }
+      ],
+      "keep": ["k puieți/lăstari = 0,017", "1 puiet (lăstar) / m²", "Rășinoasele nu au lăstari"],
+      "quiz": [
+        {
+          "q": "Lăstari de rășinoase:",
+          "options": ["k 0,017", "Nu există în tabel", "k 0,035", "k 0,070"],
+          "answer": 1,
+          "explain": "Liniuță în tabel.",
+          "ref": "Cod anexa 3"
+        }
+      ]
+    },
+    {
+      "title": "5. Paguba prin furt",
+      "paragraphs": [
+        {
+          "text": "Dacă arborele furat nu se găsește nicăieri, **volumul se ia din tabelul 1** (coloana de volum unitar) după categoria de diametre a cioatei și se înmulțește cu **prețul lemnului de foc** din Lista prețurilor de referință.",
+          "refs": ["Cod art. 160 alin. (1) lit. a)–b)"]
+        },
+        {
+          "text": "Dacă o parte a rămas la cioată, volumul furat = volumul arborelui întreg din anexă **minus** partea găsită.",
+          "refs": ["Cod art. 160 alin. (1) lit. c)"]
+        },
+        {
+          "text": "Dacă lemnul e găsit în alte locuri și volumul găsit e cel puțin cât cel din tabel, paguba se calculează **pe sortimente**, cu prețurile de referință.",
+          "refs": ["Cod art. 160 alin. (1) lit. d)"]
+        },
+        {
+          "text": "Toți arborii furați și fără amenajament: aceeași regulă ca la tăiere (clasa III, 50 de ani, stejar/fag/molid).",
+          "refs": ["Cod art. 160 alin. (1) lit. e)"]
+        }
+      ],
+      "keep": [
+        "Furt: volum din tabelul 1 × prețul lemnului de foc",
+        "Parte rămasă la cioată: se scade",
+        "Lemn regăsit: pe sortimente"
+      ],
+      "quiz": [
+        {
+          "q": "O parte din arborele furat e găsită la cioată. Volumul furat:",
+          "options": ["Volumul întreg", "Volumul din anexă minus partea găsită", "Doar partea găsită", "Zero"],
+          "answer": 1,
+          "explain": "Prin diferență.",
+          "ref": "Cod art. 160 alin. (1) lit. c)"
+        }
+      ]
+    },
+    {
+      "title": "6. Prejudiciul: coeficientul K",
+      "paragraphs": [
+        {
+          "text": "**Prejudiciul = P + VFN**, unde **VFN = P × K**, iar K depinde de **tipul funcțional** din amenajament.",
+          "refs": ["Cod art. 161 alin. (1)–(2)"]
+        },
+        {
+          "text": "**T.I** (exploatare interzisă fără aprobări de mediu): **K = 1,5**. **T.II** (doar lucrări speciale de conservare): **1,0**. **T.III** (grădinărit, cvasigrădinărit) și **T.IV** (regenerare naturală cu restricții): **0,7**. **T.V** și **T.VI** (producție și protecție): **0,5**.",
+          "refs": ["Cod art. 161 alin. (2)"]
+        },
+        {
+          "text": "Fără amenajament în vigoare se aplică coeficientul de la **T.IV (0,7)**.",
+          "refs": ["Cod art. 161 alin. (3)"]
+        }
+      ],
+      "keep": [
+        "VFN = P × K",
+        "K: T.I 1,5 · T.II 1,0 · T.III–IV 0,7 · T.V–VI 0,5",
+        "Fără amenajament: ca T.IV (0,7)"
+      ],
+      "quiz": [
+        {
+          "q": "Pădurile T.III, cu tăieri grădinărite, au K:",
+          "options": ["0,5", "0,7", "1,0", "1,5"],
+          "answer": 1,
+          "explain": "0,7.",
+          "ref": "Cod art. 161 alin. (2) lit. c)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Coeficientul K pe tipuri funcționale",
+        "levels": [
+          {
+            "who": "T.I",
+            "does": ["K = 1,5","exploatare interzisă fără aprobări de mediu"],
+            "ref": "Cod art. 161 alin. (2) lit. a)"
+          },
+          {
+            "who": "T.II",
+            "does": ["K = 1,0","doar lucrări speciale de conservare"],
+            "ref": "Cod art. 161 alin. (2) lit. b)"
+          },
+          {
+            "who": "T.III · T.IV",
+            "does": ["K = 0,7","grădinărit / regenerare naturală cu restricții; și fără amenajament"],
+            "ref": "Cod art. 161 alin. (2) lit. c)"
+          },
+          {
+            "who": "T.V · T.VI",
+            "does": ["K = 0,5","producție și protecție"],
+            "ref": "Cod art. 161 alin. (2) lit. e)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "7. Lucrări în FFN fără aprobări",
+      "paragraphs": [
+        {
+          "text": "Prejudiciul cuprinde: **paguba**, **funcțiile nerealizate**, **pierderea de creștere** și **cheltuielile de reinstalare** a vegetației până la starea de masiv. Garda constată dacă terenul mai poate fi readus la starea inițială.",
+          "refs": ["Cod art. 162 alin. (1)–(2)"]
+        },
+        {
+          "text": "La desființare prin hotărâre definitivă sau la intrarea în legalitate se adaugă **despăgubirea pentru lipsa de folosință**, egală cu **dublul chiriei**: 50% în fondul de ameliorare, 50% la administrator sau proprietar.",
+          "refs": ["Cod art. 162 alin. (3)","Cod art. 162 alin. (10)"]
+        },
+        {
+          "text": "Intrarea în legalitate prin ocupare temporară adaugă garanția și chiria; prin scoatere definitivă adaugă taxa (fără compensare cu teren) și valoarea terenului. Menținerea construcției cere acordul ocupantului, al **agenției de mediu** și al **Gărzii**.",
+          "refs": ["Cod art. 162 alin. (5)", "Cod art. 162 alin. (7)", "Cod art. 162 alin. (9)"]
+        }
+      ],
+      "keep": [
+        "Componente: pagubă, VFN, pierdere de creștere, reinstalare",
+        "Lipsă de folosință = 2 × chiria; 50% fond ameliorare / 50% proprietar",
+        "Menținerea: acord ocupant + mediu + Gardă"
+      ],
+      "quiz": [
+        {
+          "q": "Menținerea unei construcții ilegale din FFN cere acordul:",
+          "options": [
+            "Doar al primăriei",
+            "Ocupantului, agenției de mediu și Gărzii",
+            "Doar al proprietarului",
+            "Al ocolului"
+          ],
+          "answer": 1,
+          "explain": "Cele trei acorduri.",
+          "ref": "Cod art. 162 alin. (9)"
+        }
+      ]
+    },
+    {
+      "title": "8. Cubajul expeditiv la control",
+      "paragraphs": [
+        {
+          "text": "Volumul la operatori se stabilește **piesă cu piesă** sau prin **cubaj expeditiv**. La controlul transportului, agentul e **obligat** să facă un cubaj expeditiv, cu factorii de cubaj și toleranțele din HG.",
+          "refs": ["Cod art. 163 alin. (1)–(2)"]
+        },
+        {
+          "text": "Diferență de **cel puțin 5% la cherestea** sau **10% la celelalte** materiale față de aviz: dacă transportatorul acceptă măsurătoarea, agentul dispune măsurile legale.",
+          "refs": ["Cod art. 163 alin. (3)"]
+        },
+        {
+          "text": "Dacă **nu acceptă**, transportatorul trebuie să asigure transportul, descărcarea și manipularea pentru **inventarierea piesă cu piesă**.",
+          "refs": ["Cod art. 163 alin. (4)"]
+        }
+      ],
+      "keep": [
+        "La transport: cubaj expeditiv obligatoriu",
+        "Prag: 5% cherestea, 10% restul",
+        "Neacceptat → inventariere piesă cu piesă, pe seama transportatorului"
+      ],
+      "quiz": [
+        {
+          "q": "La lemnul rotund, diferența care declanșează măsuri după cubaj:",
+          "options": ["5%", "10%", "15%", "20%"],
+          "answer": 1,
+          "explain": "10% la celelalte materiale.",
+          "ref": "Cod art. 163 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "9. Contravențiile de transport și depozit",
+      "paragraphs": [
+        {
+          "text": "Sub pragul penal, Codul a rescris art. 19 alin. (2) din Legea 171/2010. Transport **fără documente**, 0,1–5 m³: **1.000–2.000 lei** (până la 1 m³), **2.000–4.000 lei** (1,01–3 m³), **4.000–6.000 lei** (3,01–5 m³), plus confiscarea lemnului.",
+          "refs": ["Cod art. 165"]
+        },
+        {
+          "text": "Aceleași trepte pentru diferența dintre aviz și volumul real (max. 5 m³) și pentru nepotrivirea specie/volum/număr de piese cu aviz. Transport **fără proveniență legală**, 0,1–5 m³: **5.000–10.000 lei**.",
+          "refs": ["Cod art. 165"]
+        },
+        {
+          "text": "**Depozite**, diferență în plus sau în minus față de SUMAL de până la 20% (max. 10 m³): **5.000–10.000 lei** (până la 5%, max. 4 m³), **15.000–20.000 lei** (până la 10%, max. 8 m³), **30.000–50.000 lei** (până la 20%, max. 10 m³). Peste aceste praguri devine infracțiune (art. 151).",
+          "refs": ["Cod art. 165","Cod art. 151 alin. (1)"]
+        }
+      ],
+      "keep": [
+        "Transport fără acte: 1–2k / 2–4k / 4–6k lei (≤1 / ≤3 / ≤5 m³)",
+        "Fără proveniență legală ≤ 5 m³: 5–10k lei",
+        "Depozit: 5–10k (5%, 4 m³) / 15–20k (10%, 8 m³) / 30–50k (20%, 10 m³)",
+        "Peste 5 m³ la transport sau peste 20% și 10 m³ la depozit → infracțiune"
+      ],
+      "quiz": [
+        {
+          "q": "Transportul fără proveniență legală a 3 m³:",
+          "options": ["2.000–4.000 lei", "5.000–10.000 lei", "Infracțiune", "4.000–6.000 lei"],
+          "answer": 1,
+          "explain": "Între 0,1 și 5 m³: 5.000–10.000 lei.",
+          "ref": "Cod art. 165"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Transport fără documente (art. 165)",
+        "levels": [
+          {"who": "0,1–1 m³", "does": ["1.000–2.000 lei + confiscare"], "ref": "Cod art. 165"},
+          {"who": "1,01–3 m³", "does": ["2.000–4.000 lei + confiscare"], "ref": "Cod art. 165"},
+          {"who": "3,01–5 m³", "does": ["4.000–6.000 lei + confiscare"], "ref": "Cod art. 165"},
+          {"who": "≥ 5,01 m³", "does": ["infracțiune"], "ref": "Cod art. 151 alin. (2)"}
+        ]
+      }
+    },
+    {
+      "title": "10. Dispoziții tranzitorii și abrogări",
+      "paragraphs": [
+        {
+          "text": "**HG 1076/2009** (Regulamentul de pază) rămâne în vigoare **24 de luni** de la intrarea în vigoare a Codului; între timp se fac regulamente de pază pe zone-pilot.",
+          "refs": ["Cod art. 164 alin. (26)–(28)"]
+        },
+        {
+          "text": "**Normele tehnice din 2022** (Ordinele 2533–2537/2022) și ghidurile lor rămân valabile până la aprobarea celor noi. Legislația subsecventă vechiului Cod rămâne în vigoare până la înlocuire.",
+          "refs": ["Cod art. 164 alin. (16)–(20)","Cod art. 166 alin. (1)"]
+        },
+        {
+          "text": "**Prețul mediu al unui m³** pe picior se menține până la **31 decembrie 2026**. Indicatorii de stare a pădurilor se aprobă până la **31 decembrie 2028**; Strategia națională pentru păduri 2030 rămâne valabilă până la **31 decembrie 2030**.",
+          "refs": ["Cod art. 164 alin. (29)", "Cod art. 164 alin. (21)", "Cod art. 164 alin. (25)"]
+        },
+        {
+          "text": "Amenajamentele aprobate anterior se aplică după legea veche, dar se corectează în **12 luni** dacă contravin noului Cod. Certificatele de atestare pentru exploatare rămân valabile până expiră. În **Ilfov** se suspendă recoltarea de produse principale.",
+          "refs": ["Cod art. 164 alin. (15)", "Cod art. 164 alin. (22)", "Cod art. 164 alin. (32)–(34)"]
+        },
+        {
+          "text": "Se abrogă **Legea 46/2008** (vechiul Cod silvic), **OUG 85/2006** (evaluarea pagubelor, înlocuită de Titlul VIII) și **HG 861/2009** (inclusiv procedura controalelor de fond).",
+          "refs": ["Cod art. 167"]
+        }
+      ],
+      "keep": [
+        "HG 1076/2009 (pază): încă 24 de luni",
+        "Normele tehnice 2022: valabile până la noile norme",
+        "Prețul mediu al m³: menținut până la 31.12.2026",
+        "Amenajamente vechi: corectate în 12 luni",
+        "Abrogate: Legea 46/2008, OUG 85/2006, HG 861/2009"
+      ],
+      "quiz": [
+        {
+          "q": "Amenajamentele contrare noului Cod se modifică în:",
+          "options": ["6 luni", "12 luni", "24 luni", "La următoarea revizie"],
+          "answer": 1,
+          "explain": "Max. 12 luni.",
+          "ref": "Cod art. 164 alin. (15)"
+        }
+      ]
+    }
+  ],
+  "memo": [
+    {
+      "title": "Măsurare și calcul",
+      "rows": [
+        {
+          "what": "Înălțimea de măsurare a cioatei",
+          "value": "la tăietură, max. 30 cm de sol",
+          "ref": "Cod art. 158 alin. (3)"
+        },
+        {"what": "Pe pantă", "value": "în partea din amonte", "ref": "Cod art. 158 alin. (4)"},
+        {
+          "what": "Arbore scos din rădăcini, nesustras",
+          "value": "la 30 cm de colet",
+          "ref": "Cod art. 158 alin. (6)"
+        },
+        {
+          "what": "Fără cioată",
+          "value": "media a ≥ 3 arbori vecini, aceeași specie",
+          "ref": "Cod art. 158 alin. (7)"
+        },
+        {
+          "what": "Paguba unitară la arbori",
+          "value": "k × prețul mediu al m³ pe picior",
+          "ref": "Cod art. 158 alin. (1)"
+        },
+        {
+          "what": "Fără amenajament",
+          "value": "clasa III, 50 ani; stejar pedunculat / fag / molid",
+          "ref": "Cod art. 158 alin. (10)"
+        },
+        {
+          "what": "Ciocan folosit fără drept",
+          "value": "volum × lemn de foc × 3",
+          "ref": "Cod art. 158 alin. (12)"
+        },
+        {"what": "k puieți și lăstari", "value": "0,017; 1 bucată/m²", "ref": "Cod art. 159"},
+        {
+          "what": "Furt",
+          "value": "volum din tabel × lemn de foc",
+          "ref": "Cod art. 160 alin. (1) lit. b)"
+        }
+      ]
+    },
+    {
+      "title": "Coeficientul K (VFN = P × K)",
+      "rows": [
+        {"what": "T.I", "value": "1,5", "ref": "Cod art. 161 alin. (2) lit. a)"},
+        {"what": "T.II", "value": "1,0", "ref": "Cod art. 161 alin. (2) lit. b)"},
+        {"what": "T.III și T.IV", "value": "0,7", "ref": "Cod art. 161 alin. (2) lit. c)"},
+        {"what": "T.V și T.VI", "value": "0,5", "ref": "Cod art. 161 alin. (2) lit. e)"},
+        {"what": "Fără amenajament", "value": "ca T.IV (0,7)", "ref": "Cod art. 161 alin. (3)"}
+      ]
+    },
+    {
+      "title": "Control, contravenții, termene",
+      "rows": [
+        {
+          "what": "Cubaj expeditiv: prag diferență",
+          "value": "5% cherestea, 10% restul",
+          "ref": "Cod art. 163 alin. (3)"
+        },
+        {"what": "Lipsă de folosință", "value": "2 × chiria; 50/50", "ref": "Cod art. 162 alin. (10)"},
+        {
+          "what": "Transport fără acte ≤ 1 / ≤ 3 / ≤ 5 m³",
+          "value": "1–2k / 2–4k / 4–6k lei",
+          "ref": "Cod art. 165"
+        },
+        {"what": "Fără proveniență legală ≤ 5 m³", "value": "5.000–10.000 lei", "ref": "Cod art. 165"},
+        {
+          "what": "Depozit ≤ 5% / ≤ 10% / ≤ 20%",
+          "value": "5–10k / 15–20k / 30–50k lei",
+          "ref": "Cod art. 165"
+        },
+        {"what": "HG 1076/2009 (pază)", "value": "încă 24 luni", "ref": "Cod art. 164 alin. (26)"},
+        {
+          "what": "Prețul mediu al m³",
+          "value": "menținut până la 31.12.2026",
+          "ref": "Cod art. 164 alin. (29)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "K-urile: „1,5 – 1 – 0,7 – 0,7 – 0,5 – 0,5”. Cu cât pădurea e mai protejată, cu atât funcțiile nerealizate cântăresc mai mult.",
+    "„30” la măsurare: max. 30 cm la cioată, 30 cm de la colet, 30 cm la arborii vecini.",
+    "Fără amenajament: „III–50”, cu specia zonei: stejar pedunculat la câmpie, fag la deal, molid la munte.",
+    "Contravenția de transport merge până la 5 m³; de la 5,01 m³ începe infracțiunea."
+  ],
+  "cards": [
+    {
+      "q": "Ce e prejudiciul forestier în FFN?",
+      "a": "Paguba + valoarea funcțiilor nerealizate.",
+      "ref": "Cod art. 157 alin. (2)"
+    },
+    {
+      "q": "Se include TVA la încadrarea în praguri?",
+      "a": "Nu, calculul se face fără TVA.",
+      "ref": "Cod art. 157 alin. (5)"
+    },
+    {
+      "q": "Prin ce două metode se determină volumul arborilor sustrași?",
+      "a": "După diametrul cioatei sau după un arboret similar.",
+      "ref": "Cod art. 157 alin. (4)"
+    },
+    {
+      "q": "La ce înălțime se măsoară cioata?",
+      "a": "La înălțimea tăieturii, dar max. 30 cm de la sol.",
+      "ref": "Cod art. 158 alin. (3)"
+    },
+    {
+      "q": "Unde se măsoară cioata pe teren înclinat?",
+      "a": "În partea din amonte.",
+      "ref": "Cod art. 158 alin. (4)"
+    },
+    {
+      "q": "Cum se măsoară o cioată ovală?",
+      "a": "Media a două diametre perpendiculare, primul fiind cel mai mic.",
+      "ref": "Cod art. 158 alin. (5)"
+    },
+    {
+      "q": "Unde se măsoară un arbore doborât din rădăcini, nefurat?",
+      "a": "La 30 cm de la colet.",
+      "ref": "Cod art. 158 alin. (6)"
+    },
+    {
+      "q": "Cum afli diametrul unui arbore scos și furat, fără cioată?",
+      "a": "Media diametrelor la 30 cm a cel puțin 3 arbori vecini din aceeași specie.",
+      "ref": "Cod art. 158 alin. (7)"
+    },
+    {
+      "q": "Formula pagubei unitare la arbori?",
+      "a": "Factorul k × valoarea medie a unui m³ de lemn pe picior.",
+      "ref": "Cod art. 158 alin. (1)"
+    },
+    {
+      "q": "Care sunt grupele de specii din anexa 3?",
+      "a": "Rășinoase; cvercinee, paltin, frasin, cireș, sorb; alte foioase.",
+      "ref": "Cod anexa 3"
+    },
+    {
+      "q": "Ce k are un fag cu cioata de 30 cm?",
+      "a": "0,525 (alte foioase, 28,1–32 cm).",
+      "ref": "Cod anexa 3"
+    },
+    {
+      "q": "Ce k are un stejar cu cioata de 30 cm?",
+      "a": "1,015 (cvercinee, 28,1–32 cm).",
+      "ref": "Cod anexa 3"
+    },
+    {
+      "q": "Cum se calculează paguba dacă toți arborii au fost înlăturați?",
+      "a": "Volumul mediu/ha din amenajament × suprafața × prețul lemnului de foc.",
+      "ref": "Cod art. 158 alin. (9)"
+    },
+    {
+      "q": "Și dacă nu există amenajament?",
+      "a": "Volumul la ha pentru clasa III de producție, 50 de ani (stejar pedunculat la câmpie, fag la deal, molid la munte) × suprafața × prețul mediu.",
+      "ref": "Cod art. 158 alin. (10)"
+    },
+    {
+      "q": "Cum se calculează paguba pentru folosirea fără drept a ciocanului?",
+      "a": "Volumul reconstituit × prețul lemnului de foc × 3.",
+      "ref": "Cod art. 158 alin. (12)"
+    },
+    {"q": "Ce k au puieții?", "a": "0,017, considerând un puiet pe m².", "ref": "Cod art. 159"},
+    {
+      "q": "Cu ce preț se calculează paguba prin furt?",
+      "a": "Prețul lemnului de foc din Lista prețurilor de referință.",
+      "ref": "Cod art. 160 alin. (1) lit. b)"
+    },
+    {
+      "q": "Cum se calculează VFN?",
+      "a": "Paguba P × coeficientul K al tipului funcțional.",
+      "ref": "Cod art. 161 alin. (2)"
+    },
+    {"q": "K pentru T.I?", "a": "1,5.", "ref": "Cod art. 161 alin. (2) lit. a)"},
+    {"q": "K pentru T.II?", "a": "1,0.", "ref": "Cod art. 161 alin. (2) lit. b)"},
+    {"q": "K pentru T.III și T.IV?", "a": "0,7.", "ref": "Cod art. 161 alin. (2) lit. c)"},
+    {"q": "K pentru T.V și T.VI?", "a": "0,5.", "ref": "Cod art. 161 alin. (2) lit. e)"},
+    {
+      "q": "Ce K se aplică fără amenajament?",
+      "a": "Cel de la T.IV: 0,7.",
+      "ref": "Cod art. 161 alin. (3)"
+    },
+    {
+      "q": "Ce cuprinde prejudiciul pentru o construcție fără aprobare în FFN?",
+      "a": "Pagubă, funcții nerealizate, pierderea de creștere, cheltuielile de reinstalare până la masiv.",
+      "ref": "Cod art. 162 alin. (1)"
+    },
+    {
+      "q": "Cât e despăgubirea pentru lipsa de folosință?",
+      "a": "Dublul chiriei; 50% fondul de ameliorare, 50% proprietarul/administratorul.",
+      "ref": "Cod art. 162 alin. (10)"
+    },
+    {
+      "q": "E obligatoriu cubajul expeditiv la controlul transportului?",
+      "a": "Da.",
+      "ref": "Cod art. 163 alin. (2)"
+    },
+    {
+      "q": "De la ce diferență se iau măsuri după cubajul expeditiv?",
+      "a": "5% la cherestea, 10% la celelalte materiale.",
+      "ref": "Cod art. 163 alin. (3)"
+    },
+    {
+      "q": "Ce se întâmplă dacă transportatorul contestă cubajul?",
+      "a": "Asigură el transportul și descărcarea pentru inventarierea piesă cu piesă.",
+      "ref": "Cod art. 163 alin. (4)"
+    },
+    {
+      "q": "Amenda pentru transportul a 2 m³ fără documente?",
+      "a": "2.000–4.000 lei + confiscarea lemnului.",
+      "ref": "Cod art. 165"
+    },
+    {
+      "q": "Amenda pentru transportul a 4 m³ fără proveniență legală?",
+      "a": "5.000–10.000 lei.",
+      "ref": "Cod art. 165"
+    },
+    {
+      "q": "Cât mai rămâne în vigoare HG 1076/2009?",
+      "a": "24 de luni de la intrarea în vigoare a Codului.",
+      "ref": "Cod art. 164 alin. (26)"
+    },
+    {
+      "q": "Până când se menține prețul mediu al m³?",
+      "a": "31 decembrie 2026.",
+      "ref": "Cod art. 164 alin. (29)"
+    },
+    {
+      "q": "Ce acte a abrogat Codul?",
+      "a": "Legea 46/2008, OUG 85/2006, HG 954/2002, HG 2293/2004, HG 861/2009 și articole din OUG 139/2005 și Legea 56/2010.",
+      "ref": "Cod art. 167"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Pe un teren plan, cioata se măsoară:",
+      "options": ["La 1,30 m", "La înălțimea tăieturii, max. 30 cm de sol", "La 50 cm", "La colet"],
+      "answer": 1,
+      "explain": "Max. 30 cm.",
+      "ref": "Cod art. 158 alin. (3)"
+    },
+    {
+      "q": "Pe teren înclinat, cioata se măsoară:",
+      "options": ["În aval", "În amonte", "Pe curba de nivel", "Media amonte-aval"],
+      "answer": 1,
+      "explain": "În amonte.",
+      "ref": "Cod art. 158 alin. (4)"
+    },
+    {
+      "q": "La o cioată necirculară, primul diametru măsurat este:",
+      "options": ["Cel mai mare", "Cel mai mic", "Pe direcția nord-sud", "Oricare"],
+      "answer": 1,
+      "explain": "Cel mai mic, apoi cel perpendicular.",
+      "ref": "Cod art. 158 alin. (5)"
+    },
+    {
+      "q": "Un arbore scos din rădăcini de vânt și nesustras se măsoară:",
+      "options": ["La cioată", "La 30 cm de colet", "La 1,30 m", "Nu se măsoară"],
+      "answer": 1,
+      "explain": "La 30 cm de colet.",
+      "ref": "Cod art. 158 alin. (6)"
+    },
+    {
+      "q": "Pentru un arbore furat fără cioată, diametrul se stabilește:",
+      "options": [
+        "Din amenajament",
+        "Din media a cel puțin 3 arbori vecini din aceeași specie",
+        "Estimativ",
+        "Din avizul de însoțire"
+      ],
+      "answer": 1,
+      "explain": "Media la 30 cm a ≥ 3 arbori.",
+      "ref": "Cod art. 158 alin. (7)"
+    },
+    {
+      "q": "Valoarea unitară a pagubei la arbori se calculează:",
+      "options": [
+        "Volum × preț lemn de foc",
+        "k × valoarea medie a unui m³ pe picior",
+        "k × TVA",
+        "Diametru × înălțime"
+      ],
+      "answer": 1,
+      "explain": "k × prețul mediu.",
+      "ref": "Cod art. 158 alin. (1)"
+    },
+    {
+      "q": "Factorul „k” depinde de:",
+      "options": [
+        "Vârstă și consistență",
+        "Categoria de diametre și grupa de specii",
+        "Clasa de producție",
+        "Tipul funcțional"
+      ],
+      "answer": 1,
+      "explain": "Diametru și specie.",
+      "ref": "Cod art. 158 alin. (2)"
+    },
+    {
+      "q": "Fără amenajament, pentru toți arborii înlăturați la deal, specia de referință este:",
+      "options": ["Molidul", "Fagul", "Stejarul pedunculat", "Gorunul"],
+      "answer": 1,
+      "explain": "Fag la deal, clasa III, 50 de ani.",
+      "ref": "Cod art. 158 alin. (10)"
+    },
+    {
+      "q": "Paguba pentru folosirea fără drept a ciocanului de marcat se multiplică de:",
+      "options": ["2 ori", "3 ori", "5 ori", "10 ori"],
+      "answer": 1,
+      "explain": "× 3.",
+      "ref": "Cod art. 158 alin. (12)"
+    },
+    {
+      "q": "Valoarea „k” pentru puieți este:",
+      "options": ["0,017", "0,035", "0,170", "1,0"],
+      "answer": 0,
+      "explain": "0,017, cu un puiet/m².",
+      "ref": "Cod art. 159"
+    },
+    {
+      "q": "Paguba prin furt se calculează cu prețul:",
+      "options": [
+        "Mediu al lemnului pe picior",
+        "Lemnului de foc din Lista prețurilor de referință",
+        "Pieței",
+        "Licitației"
+      ],
+      "answer": 1,
+      "explain": "Lemn de foc.",
+      "ref": "Cod art. 160 alin. (1) lit. b)"
+    },
+    {
+      "q": "Coeficientul K pentru pădurile din tipul funcțional I este:",
+      "options": ["0,5", "0,7", "1,0", "1,5"],
+      "answer": 3,
+      "explain": "1,5.",
+      "ref": "Cod art. 161 alin. (2) lit. a)"
+    },
+    {
+      "q": "Pentru o pădure de producție T.VI, VFN reprezintă din pagubă:",
+      "options": ["50%", "70%", "100%", "150%"],
+      "answer": 0,
+      "explain": "K = 0,5.",
+      "ref": "Cod art. 161 alin. (2) lit. f)"
+    },
+    {
+      "q": "Fără amenajament în vigoare, prejudiciul se calculează cu K:",
+      "options": ["0,5", "0,7 (ca T.IV)", "1,0", "1,5"],
+      "answer": 1,
+      "explain": "Ca T.IV.",
+      "ref": "Cod art. 161 alin. (3)"
+    },
+    {
+      "q": "Paguba e 1.000 lei într-o pădure T.II. Prejudiciul total este:",
+      "options": ["1.000 lei", "1.500 lei", "2.000 lei", "2.500 lei"],
+      "answer": 2,
+      "explain": "P + P×1,0 = 2.000 lei.",
+      "ref": "Cod art. 161"
+    },
+    {
+      "q": "Despăgubirea pentru lipsa de folosință este:",
+      "options": ["Egală cu chiria", "Dublul chiriei", "Triplul chiriei", "Valoarea terenului"],
+      "answer": 1,
+      "explain": "Dublul chiriei.",
+      "ref": "Cod art. 162 alin. (10)"
+    },
+    {
+      "q": "După cubajul expeditiv, la cherestea se iau măsuri de la o diferență de:",
+      "options": ["3%", "5%", "10%", "20%"],
+      "answer": 1,
+      "explain": "5% la cherestea, 10% la rest.",
+      "ref": "Cod art. 163 alin. (3)"
+    },
+    {
+      "q": "Transportatorul nu acceptă cubajul expeditiv. Atunci:",
+      "options": [
+        "Pleacă liber",
+        "Asigură descărcarea pentru inventariere piesă cu piesă",
+        "Plătește o taxă",
+        "Se anulează controlul"
+      ],
+      "answer": 1,
+      "explain": "Inventariere piesă cu piesă.",
+      "ref": "Cod art. 163 alin. (4)"
+    },
+    {
+      "q": "Transportul a 0,8 m³ fără documente se sancționează cu:",
+      "options": ["1.000–2.000 lei", "2.000–4.000 lei", "4.000–6.000 lei", "Închisoare"],
+      "answer": 0,
+      "explain": "Până la 1 m³.",
+      "ref": "Cod art. 165"
+    },
+    {
+      "q": "Transportul a 4,5 m³ fără documente:",
+      "options": ["2.000–4.000 lei", "4.000–6.000 lei", "5.000–10.000 lei", "Infracțiune"],
+      "answer": 1,
+      "explain": "3,01–5 m³.",
+      "ref": "Cod art. 165"
+    },
+    {
+      "q": "O diferență de 8% (6 m³) față de stocul scriptic într-un depozit:",
+      "options": ["5.000–10.000 lei", "15.000–20.000 lei", "30.000–50.000 lei", "Infracțiune"],
+      "answer": 1,
+      "explain": "Până la 10% și max. 8 m³.",
+      "ref": "Cod art. 165"
+    },
+    {
+      "q": "HG 1076/2009 privind paza rămâne în vigoare:",
+      "options": [
+        "Până la 31.12.2026",
+        "24 de luni de la intrarea în vigoare a Codului",
+        "Definitiv",
+        "A fost abrogată"
+      ],
+      "answer": 1,
+      "explain": "24 de luni.",
+      "ref": "Cod art. 164 alin. (26)"
+    },
+    {
+      "q": "Ce act a fost abrogat de noul Cod silvic?",
+      "options": ["Legea 171/2010", "OUG 85/2006", "HG 1076/2009", "OUG 59/2000"],
+      "answer": 1,
+      "explain": "Evaluarea pagubelor e acum în Titlul VIII.",
+      "ref": "Cod art. 167"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Fagul din parchetul vecin",
+      "situation": "Găsești o cioată proaspătă de fag, nemarcată, pe o pantă, într-o pădure încadrată în T.IV. Cioata e ovală: 29 cm și 33 cm. Trunchiul lipsește.",
+      "steps": [
+        {
+          "q": "Cum măsori?",
+          "a": "În partea din amonte, la înălțimea tăieturii (max. 30 cm). Fiind ovală, faci media celor două diametre perpendiculare, începând cu cel mai mic: (29 + 33) / 2 = 31 cm.",
+          "ref": "Cod art. 158 alin. (4)–(5)"
+        },
+        {
+          "q": "Ce „k” folosești?",
+          "a": "Fagul e la „alte foioase”; 31 cm intră în categoria 28,1–32 cm, deci k = 0,525.",
+          "ref": "Cod anexa 3"
+        },
+        {
+          "q": "Cum calculezi paguba?",
+          "a": "P = 0,525 × valoarea medie a unui m³ de lemn pe picior.",
+          "ref": "Cod art. 158 alin. (1)"
+        },
+        {
+          "q": "Și prejudiciul?",
+          "a": "T.IV are K = 0,7, deci VFN = 0,7 × P, iar prejudiciul = P + 0,7 P = 1,7 P. Le treci separat în actul de constatare.",
+          "ref": "Cod art. 161 alin. (2) lit. d)"
+        }
+      ]
+    },
+    {
+      "title": "Camionul cu cherestea",
+      "situation": "La controlul unui camion cu cherestea, cubajul expeditiv arată 22 m³, iar avizul scrie 20 m³.",
+      "steps": [
+        {
+          "q": "Trebuie să faci cubaj expeditiv?",
+          "a": "Da, la controlul transportului e obligatoriu.",
+          "ref": "Cod art. 163 alin. (2)"
+        },
+        {
+          "q": "Diferența contează?",
+          "a": "Da: 2 m³ din 20 înseamnă 10%, peste pragul de 5% la cherestea.",
+          "ref": "Cod art. 163 alin. (3)"
+        },
+        {
+          "q": "Ce sancțiune?",
+          "a": "Diferența de 2 m³ (sub 5 m³) e contravenție: 2.000–4.000 lei pentru 1,01–3 m³, plus confiscarea diferenței.",
+          "ref": "Cod art. 165"
+        },
+        {
+          "q": "Dacă șoferul contestă măsurătoarea?",
+          "a": "Trebuie să asigure transportul, descărcarea și manipularea pentru inventarierea piesă cu piesă.",
+          "ref": "Cod art. 163 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "Puieții călcați de utilaj",
+      "situation": "Un utilaj a distrus 400 m² de regenerare naturală de fag într-un parchet.",
+      "steps": [
+        {
+          "q": "Câți puieți iei în calcul?",
+          "a": "Un puiet pe metru pătrat, deci 400.",
+          "ref": "Cod art. 159 alin. (2)"
+        },
+        {"q": "Ce „k” folosești?", "a": "0,017 pentru puieți.", "ref": "Cod anexa 3"},
+        {
+          "q": "Cum calculezi?",
+          "a": "P = 400 × 0,017 × valoarea medie a m³ = 6,8 × prețul mediu. Cu funcțiile nerealizate, prejudiciul trece de 5× prețul mediu, deci poate fi infracțiunea de distrugere, dacă nu e un prejudiciu inevitabil declarat de exploatator la ocol.",
+          "ref": "Cod art. 142"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlurile VIII–IX (art. 157–168) și anexa 3",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {"title": "Titlul VIII – Evaluarea pagubei şi a prejudiciului forestier", "from": "157"},
+          {"title": "Titlul IX – Dispoziţii tranzitorii şi finale", "from": "164"}
+        ],
+        "articles": [
+          {
+            "no": "142",
+            "label": "Art. 142 – Infracţiunea de distrugere a vegetaţiei din FFN",
+            "items": [
+              ["(1)","Ruperea, distrugerea, degradarea ori scoaterea din rădăcini, fără drept, de arbori, puieţi sau lăstari din FFN, indiferent de forma de proprietate, constituie infracţiune silvică şi se pedepseşte după cum urmează:"],
+              ["a)","cu închisoare de la 6 luni la 3 ani sau cu amendă, dacă valoarea prejudiciului forestier produs este de cel puţin 5 ori mai mare decât preţul mediu al unui metru cub de lemn la data comiterii faptei;"],
+              ["b)","cu închisoare de la 6 luni la 3 ani sau cu amendă, dacă valoarea prejudiciului forestier produs nu depăşeşte limita prevăzută la lit. a), dar fapta a fost săvârşită de cel puţin două ori în interval de un an, iar valoarea cumulată a prejudiciului produs depăşeşte limita prevăzută la lit. a);"],
+              ["c)","cu închisoare de la 2 la 7 ani şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă valoarea prejudiciului forestier produs este de cel puţin 20 de ori mai mare decât preţul mediu al unui metru cub de lemn la data comiterii faptei."],
+              ["(2)","Tentativa se pedepseşte."]
+            ]
+          },
+          {
+            "no": "151",
+            "label": "Art. 151 – Infracţiuni privind depozitarea şi circulaţia materialelor lemnoase",
+            "items": [
+              ["(1)","Constituie infracţiune şi se sancţionează cu închisoare de la un an la 5 ani sau amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal deţinerea în depozite de către operatorul economic sau comerciant a unui volum total de materiale lemnoase pentru care diferenţa în plus sau în minus dintre volumul stocului fizic şi volumul stocului scriptic, înregistrat în sistemul informaţional integrat pentru păduri, depăşeşte 20% raportat la stocul scriptic, dar nu mai puţin de 10 metri cubi, la momentul constatării faptei."],
+              ["(2)","Transportul cu orice mijloace de transport al materialelor lemnoase neînsoţite de avizul de însoţire a materialelor lemnoase sau fără provenienţă legală constituie infracţiune şi se sancţionează cu:"],
+              ["a)","închisoare de la 6 luni la un an sau cu amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă volumul materialelor lemnoase transportate fără provenienţă legală este cuprins între 5,01 metri cubi şi 10,00 metri cubi inclusiv;"],
+              ["b)","închisoare de la un an la 3 ani sau cu amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă volumul materialelor lemnoase transportate fără provenienţă legală este cuprins între 10,01 metri cubi şi 20,00 metri cubi inclusiv;"],
+              ["c)","închisoare de la 2 la 7 ani sau cu amendă şi interzicerea exercitării dreptului prevăzut de art. 66 alin. (1) lit. g) din Codul penal, dacă volumul materialelor lemnoase transportate fără provenienţă legală este de cel puţin 20,01 metri cubi."],
+              ["(3)","Se sancţionează potrivit alin. (2) lit. a) transportul de materiale lemnoase cu aviz de însoţire emis în mod legal pentru care diferenţa dintre volumul înscris în avizul de însoţire şi volumul constatat cu ocazia controlului diferă cu minimum 20%, dar nu mai puţin de 5,01 metri cubi materiale lemnoase."],
+              ["(4)","Se sancţionează potrivit alin. (2) lit. a) transportul în mod repetat de materiale lemnoase fără provenienţă legală, dacă volumul materialelor lemnoase astfel transportate este sub limita de 5,01 mc, dar fapta a fost săvârşită de cel puţin două ori în interval de un an, iar volumul cumulat al materialelor lemnoase transportate fără provenienţă legală depăşeşte această limită."],
+              ["(5)","Bunurile care au fost folosite, în orice mod, sau destinate a fi folosite la săvârşirea infracţiunilor prevăzute la alin. (2) - (4), inclusiv mijloacele de transport, se confiscă în mod obligatoriu în natură."]
+            ]
+          },
+          {
+            "no": "157",
+            "label": "Art. 157 – Paguba şi prejudiciul forestier",
+            "items": [
+              ["(1)","Paguba adusă vegetaţiei forestiere din FFN şi din afara FFN şi prejudiciul forestier în cazul vegetaţiei forestiere din FFN, indiferent de natura juridică a proprietăţii, se evaluează de către agenţii constatatori prevăzuţi la art. 136 alin. (1) lit. a) -c) şi alin. (3)."],
+              ["(2)","În FFN, valoarea prejudiciului forestier se stabileşte prin însumarea valorii pagubei cu valoarea funcţiilor nerealizate ale pădurii."],
+              ["(3)","La măsurarea elementelor dendrometrice ale arborilor sustraşi se pot utiliza şi mijloace electronice de măsurare pe baza metodologiei aprobate de Autoritate."],
+              ["(4)","Evaluarea pagubelor produse prin afectarea arborilor se face în conformitate cu metodele dendrometrice pentru evaluarea volumului de lemn destinat valorificării şi a valorilor necesare calculului volumului de lemn destinat valorificării, aprobate prin ordin al conducătorului Autorităţii, prin:"],
+              ["a)","determinarea volumului arborilor sustraşi în raport cu diametrul măsurat la cioată, în terenurile din FFN şi din afara FFN;"],
+              ["b)","determinarea volumului arborilor sustraşi în raport cu un arboret similar."],
+              ["(5)","Încadrarea în limitele valorii pagubelor şi/sau a prejudiciului forestier stabilite în condiţiile prezentei legi are în vedere calculul acestora fără aplicarea cotei de TVA."]
+            ]
+          },
+          {
+            "no": "158",
+            "label": "Art. 158 – Stabilirea pagubei produse arborilor prin tăiere fără drept, rupere, scoatere din rădăcini şi distrugere",
+            "items": [
+              ["(1)","Valoarea unitară a pagubei produse arborilor se stabileşte prin multiplicarea factorului \"k\" specific, prevăzut în tabelul nr. 1 din anexa nr. 3, cu valoarea medie a unui metru cub de lemn pe picior."],
+              ["(2)","Valoarea factorului \"k\" care se foloseşte este cea corespunzătoare categoriei de diametre în care se încadrează diametrul calculat pentru arborele afectat/prejudiciat/tăiat şi pentru specia sau grupa de specii a acestuia."],
+              ["(3)","Pe terenurile plane, diametrul arborelui tăiat se stabileşte prin măsurarea cioatei în plan orizontal la înălţimea la care s-a făcut secţionarea arborelui, dar nu mai mult de 30 centimetri de la nivelul solului."],
+              ["(4)","Pe terenurile înclinate, diametrul arborelui tăiat se măsoară în partea din amonte, în conformitate cu prevederile alin. (3)."],
+              ["(5)","În cazul în care forma secţiunii arborelui sau a cioatei nu este circulară, diametrul se determină conform prevederilor alin. (3) şi (4), ca medie a două diametre perpendiculare, din care primul diametru măsurat este diametrul cel mai mic de pe toată secţiunea cioatei."],
+              ["(6)","În cazul arborilor scoşi din rădăcini, fără a fi sustraşi, precum şi al celor afectaţi/prejudiciaţi fără tăiere, diametrul arborelui se măsoară la distanţa de 30 centimetri de la colet."],
+              ["(7)","În cazul arborilor scoşi din rădăcini şi sustraşi sau în cazul arborilor tăiaţi, prin a căror tăiere nu a rămas cioată, diametrul cioatei se stabileşte după cum urmează:"],
+              ["a)","prin calculul mediei aritmetice a diametrelor măsurate la 30 centimetri de la nivelul solului pentru cel puţin 3 arbori din imediata apropiere a gropii şi din aceeaşi specie cu arborele extras, dacă aceasta poate fi identificată;"],
+              ["b)","prin calculul mediei aritmetice a diametrelor măsurate la 30 centimetri de la nivelul solului pentru cei mai apropiaţi 3 arbori aparţinând aceleiaşi specii."],
+              ["(8)","În cazul secuirii arborilor, calculul valorii pagubei şi măsurarea diametrului se fac potrivit prevederilor alin. (1) - (4)."],
+              ["(9)","În situaţia în care sunt înlăturaţi toţi arborii, fără a exista posibilitatea de a aplica dispoziţiile alin. (1) - (8), valoarea pagubei se calculează prin înmulţirea volumului mediu/hectar pe specii corespunzător compoziţiei din amenajamentul silvic cu suprafaţa afectată aferentă şi cu valoarea preţului unui metru cub de lemn de foc din Lista preţurilor de referinţă."],
+              ["(10)","În situaţia în care, pentru suprafaţa de pe care s-au înlăturat toţi arborii şi nu există amenajament silvic, valoarea pagubei se calculează prin multiplicarea suprafeţei afectate cu volumul mediu la hectar, clasa a treia de producţie, la vârsta de 50 de ani, şi cu preţul mediu al unui metru cub de lemn, după cum urmează:"],
+              ["a)","pentru specia stejar pedunculat la câmpie;"],
+              ["b)","pentru specia fag la deal;"],
+              ["c)","pentru specia molid la munte."],
+              ["(11)","Stabilirea suprafeţei care este utilizată în formula de calcul prevăzută la alin. (9) pe unitate amenajistică se face pe bază de măsurători de către agenţii constatatori prevăzuţi în art. 136 alin. (1) lit. a) -c) şi alin. (3)."],
+              ["(12)","Pentru infracţiunile prevăzute la art. 148, valoarea pagubei se stabileşte ca produs dintre volumul rezultat pe specii, reconstituit conform metodelor dendrometrice pentru evaluarea volumului de lemn destinat valorificării şi valorile necesare calculului volumului de lemn destinat valorificării, aprobate prin ordin al conducătorului Autorităţii, şi preţul de referinţă aferent sortimentului lemn de foc din Lista preţurilor de referinţă, multiplicat de 3 ori."]
+            ]
+          },
+          {
+            "no": "159",
+            "label": "Art. 159 – Stabilirea pagubei produse prin afectarea puieţilor şi/sau lăstarilor",
+            "items": [
+              ["(1)","Valoarea pagubei produse puieţilor şi lăstarilor se determină prin înmulţirea valorii factorului \"k\", prevăzută în tabelul nr. 2 din anexa nr. 3, corespunzătoare speciei, cu valoarea medie a unui metru cub de lemn."],
+              ["(2)","Valoarea unitară a pagubei prevăzută la alin. (1) se stabileşte luându-se în calcul un puiet/metru pătrat, respectiv un lăstar/metru pătrat."]
+            ]
+          },
+          {
+            "no": "160",
+            "label": "Art. 160 – Stabilirea pagubei produse prin furtul de arbori",
+            "items": [
+              ["(1)","Valoarea pagubei produse prin furtul de arbori doborâţi sau rupţi de fenomene naturale ori de arbori care au fost tăiaţi, distruşi ori scoşi din rădăcini, din păduri, din perdele forestiere de protecţie, din terenuri degradate care au fost ameliorate prin lucrări de împădurire şi din vegetaţia forestieră din afara FFN se calculează după cum urmează:"],
+              ["a)","dacă partea supraterană a arborelui a fost sustrasă şi nu este identificată nici la cioată şi nici în alte locaţii, volumul acesteia se preia din tabelul nr. 1 din anexa nr. 3;"],
+              ["b)","corespunzător categoriei de diametre în care se încadrează cioata rezultată prin tăierea arborelui. Valoarea pagubei produse prin furt se obţine prin multiplicarea volumului rezultat cu valoarea preţului unui metru cub de lemn de foc din Lista preţurilor de referinţă;"],
+              ["c)","dacă doar o parte din partea supraterană a arborelui a fost sustrasă, iar cealaltă parte se găseşte la cioată, volumul părţii de arbore care a fost furat se determină ca diferenţă dintre volumul arborelui întreg, preluat din anexa nr. 3, corespunzător categoriei de diametre în care se încadrează cioata rezultată prin tăierea arborelui, şi volumul părţii de arbore identificate. Valoarea pagubei produse prin furt se obţine prin multiplicarea volumului rezultat cu valoarea preţului unui metru cub de lemn de foc din Lista preţurilor de referinţă;"],
+              ["d)","dacă partea supraterană a arborelui a fost sustrasă în întregime şi se identifică în diferite locaţii se procedează după cum urmează: (i) în cazul în care volumul lemnului identificat în alte locaţii este egal cu sau mai mare decât volumul stabilit cu ajutorul tabelului nr. 1 din anexa nr. 3, valoarea pagubei prin furt se obţine prin multiplicarea volumului rezultat, pe sortimente, cu valoarea preţului unui metru cub de lemn din Lista preţurilor de referinţă; (ii) în cazul în care volumul lemnului identificat în diferite locaţii este mai mic decât volumul stabilit cu ajutorul tabelului nr. 1 din anexa nr. 3, pentru lemnul identificat se determină volumul pe sortimente, care se multiplică cu valoarea preţului unui metru cub de lemn din Lista preţurilor de referinţă, şi astfel se stabileşte valoarea lemnului sustras; volumul determinat ca diferenţă între cel stabilit cu ajutorul tabelului nr. 1 din anexa nr. 3 şi cel identificat se consideră sustras şi neidentificat, iar valoarea acestuia se determină prin înmulţirea volumului rezultat ca diferenţă cu valoarea preţului unui metru cub de lemn de foc din Lista preţurilor de referinţă. În acest caz, paguba pentru furt de arbori se calculează ca sumă între valoarea volumului neidentificat şi valoarea volumului identificat; (iii) în cazul în care cioatele/materialul lemnos au/a fost îndepărtat(e) de pe suprafaţa compactă de pe care arborii au fost tăiaţi şi sustraşi, valoarea pagubei se calculează prin înmulţirea volumului mediu/hectar pe specii, corespunzător amenajamentului silvic, cu suprafaţa pe care nu se mai găsesc cioatele/materialul lemnos şi cu valoarea preţului unui metru cub de lemn de foc din Lista preţurilor de referinţă. În cazul în care amenajamentul silvic este expirat, pentru calcul se vor lua în considerare informaţiile din ultimul amenajament silvic: volumul mediu la hectar, pe specii, precum şi creşterea anuală înmulţită cu numărul de ani scurşi de la data expirării amenajamentului silvic până la data constatării faptei;"],
+              ["e)","în situaţia în care, pentru suprafaţa de pe care s-au sustras toţi arborii, nu există amenajament silvic, valoarea pagubei se calculează prin multiplicarea suprafeţei afectate cu volumul mediu la hectar, clasa a treia de producţie şi la vârsta de 50 de ani, şi cu preţul mediu al unui metru cub de lemn, după cum urmează: (i) pentru specia stejar pedunculat la câmpie; (ii) pentru specia fag la deal; (iii) pentru specia molid la munte."],
+              ["(2)","Stabilirea mărimii suprafeţei care intră în formula de calcul prevăzută la alin. (1) lit. e) pe unitate amenajistică se face prin măsurători de către agenţii constatatori prevăzuţi la art. 136 alin. (1) lit. a) -c) şi alin. (3)."]
+            ]
+          },
+          {
+            "no": "161",
+            "label": "Art. 161 – Stabilirea prejudiciului forestier",
+            "items": [
+              ["(1)","Prejudiciul forestier se calculează prin însumarea valorii pagubei produse prin vătămare (P) cu valoarea funcţiilor nerealizate ale pădurii (VFN)."],
+              ["(2)","Valoarea VFN se stabileşte prin produsul dintre valoarea pagubei (P) şi un coeficient (K) diferenţiat în raport cu cele 6 tipuri funcţionale în care se încadrează pădurile prin amenajamentul silvic, după cum urmează:"],
+              ["a)","tipul funcţional I (T.I): păduri cu funcţii speciale de protecţie, în care este interzisă, prin reglementări, exploatarea lemnului sau a altor produse, fără aprobări emise în baza actelor administrative privind protecţia mediului şi/sau acordul administratorului ariei naturale protejate - K = 1,5;"],
+              ["b)","tipul funcţional II (T.II): păduri cu funcţii speciale de protecţie, în care nu este permisă reglementarea procesului de producţie lemnoasă - produse principale. În cadrul acestui tip sunt admise numai lucrările speciale de conservare - K = 1,0;"],
+              ["c)","tipul funcţional III (T.III): păduri cu funcţii speciale de protecţie, pentru care se reglementează procesul de producţie lemnoasă - produse principale, fiind admise, de regulă, tratamentul tăierilor grădinărite şi tratamentul tăierilor cvasigrădinărite - K = 0,7;"],
+              ["d)","tipul funcţional IV (T.IV): păduri cu funcţii speciale de protecţie, pentru care se reglementează procesul de producţie lemnoasă - produse principale, fiind admise, de regulă, tratamentele care promovează regenerarea naturală, cu impunerea unor restricţii speciale - K = 0,7;"],
+              ["e)","tipul funcţional V (T.V): păduri cu funcţii de producţie şi protecţie destinate producţiei de lemn de calitate superioară, în care sunt admise tratamentele adecvate ţelurilor urmărite - K = 0,5;"],
+              ["f)","tipul funcţional VI (T.VI): păduri cu funcţii de producţie şi protecţie în care se poate aplica întreaga gamă a tratamentelor silviculturale - K = 0,5."],
+              ["(3)","În cazul în care fapta este constatată în FFN pentru care nu există un amenajament silvic în vigoare, valoarea prejudiciului forestier se stabileşte conform alin. (2) lit. d)."]
+            ]
+          },
+          {
+            "no": "162",
+            "label": "Art. 162 – Măsurile reparatorii pentru lucrările şi/sau obiectivele amplasate în FFN fără aprobări legale",
+            "items": [
+              ["(1)","În situaţia realizării de lucrări şi/sau amplasării de obiective fără aprobări legale în FFN, prejudiciul se calculează cu luarea în considerare a următoarelor:"],
+              ["a)","valoarea pagubei;"],
+              ["b)","valoarea funcţiilor nerealizate ale pădurii;"],
+              ["c)","valoarea pierderii de creştere, asimilată contravalorii pierderii de creştere determinate de exploatarea lemnului înainte de vârsta exploatabilităţii tehnice, calculată la data constatării faptei;"],
+              ["d)","valoarea cheltuielilor de reinstalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv."],
+              ["(2)","La calcularea prejudiciului, Garda Forestieră competentă teritorial constată dacă terenul mai poate fi adus în starea iniţială sau dacă a fost schimbată ireversibil categoria de folosinţă a terenului, conform art. 142 alin. (5)."],
+              ["(3)","În cazul în care, în baza unei hotărâri judecătoreşti definitive, se dispune desfiinţarea lucrărilor şi/sau obiectivelor amplasate în FFN fără aprobări legale, pe lângă obligaţia prevăzută la art. 143 alin. (3), persoana ocupantă fără aprobări legale are obligaţia achitării prejudiciului, reprezentat de:"],
+              ["a)","valoarea pagubei;"],
+              ["b)","valoarea funcţiilor nerealizate ale pădurii;"],
+              ["c)","valoarea pierderii de creştere, asimilată contravalorii pierderii de creştere determinate de exploatarea lemnului înainte de vârsta exploatabilităţii tehnice, calculată la data constatării faptei;"],
+              ["d)","valoarea cheltuielilor de reinstalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv;"],
+              ["e)","plata unei despăgubiri cu titlu de lipsă de folosinţă, calculată de la data constatării faptei până la data reintroducerii terenului în circuitul silvic."],
+              ["(4)","În cazul în care persoana ocupantă fără aprobări legale este proprietarul terenului forestier pe care au fost amplasate lucrări şi/sau obiective în FFN fără aprobări legale, valoarea pagubei şi valoarea cheltuielilor de reinstalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv, prevăzute la alin. (3) lit. a) şi d), se virează în fondul de conservare şi regenerare a pădurilor, iar valoarea funcţiilor nerealizate ale pădurii şi plata despăgubirii cu titlu de lipsă de folosinţă, prevăzute la alin. (3) lit. b) şi c), încasate de către ocolul silvic, se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică."],
+              ["(5)","În cazul în care se dispune emiterea aprobării folosirii temporare pentru intrarea în legalitate, persoana ocupantă fără aprobări legale are obligaţia achitării prejudiciului reprezentat de:"],
+              ["a)","valoarea pagubei;"],
+              ["b)","valoarea funcţiilor nerealizate ale pădurii;"],
+              ["c)","valoarea pierderii de creştere, asimilată contravalorii pierderii de creştere determinate de exploatarea lemnului înainte de vârsta exploatabilităţii tehnice, calculată la data constatării faptei;"],
+              ["d)","valoarea cheltuielilor de reinstalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv;"],
+              ["e)","plata unei despăgubiri cu titlu de lipsă de folosinţă, calculată de la data constatării faptei până la data obţinerii aprobării folosirii terenului în circuitul silvic;"],
+              ["f)","valoarea garanţiei, asimilată garanţiei pentru ocuparea temporară a terenului;"],
+              ["g)","chiria pentru folosirea temporară a terenului, datorată de la data obţinerii aprobării pentru intrarea în legalitate, care se calculează şi se achită similar chiriei în cazul ocupării temporare a terenurilor din FFN."],
+              ["(6)","În cazul în care persoana ocupantă fără aprobări legale este proprietarul terenului forestier pe care au fost amplasate lucrări şi/sau obiective în FFN fără aprobări legale, valoarea pagubei şi valoarea cheltuielilor de reinstalare a vegetaţiei forestiere şi de întreţinere a acesteia până la realizarea stării de masiv, prevăzute la alin. (5) lit. a) şi d), se virează în fondul de conservare şi regenerare a pădurilor, iar valorile prevăzute la alin. (5) lit. b), c) şi f), încasate de către ocolul silvic, se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică."],
+              ["(7)","În cazul în care se dispune emiterea aprobării folosirii definitive pentru intrarea în legalitate, persoana ocupantă fără aprobări legale are obligaţia achitării prejudiciului reprezentat de:"],
+              ["a)","valoarea pagubei;"],
+              ["b)","valoarea funcţiilor nerealizate ale pădurii:"],
+              ["c)","valoarea pierderii de creştere, asimilată contravalorii pierderii de creştere determinate de exploatarea lemnului înainte de vârsta exploatabilităţii tehnice, calculată la data constatării faptei;"],
+              ["d)","valoarea taxei, asimilată taxei pentru scoaterea definitivă a terenului din FFN, calculată fără compensare cu terenuri;"],
+              ["e)","valoarea terenului, asimilată contravalorii terenului pentru care se emite aprobarea legală de intrare în legalitate;"],
+              ["f)","plata unei despăgubiri cu titlu de lipsă de folosinţă, calculată de la data constatării faptei până la data emiterii aprobării pentru folosirea definitivă a terenului."],
+              ["(8)","În cazul în care persoana ocupantă fără aprobări legale este proprietarul terenului forestier pe care au fost amplasate lucrări şi/sau obiective în FFN fără aprobări legale, valoarea pagubei prevăzută la alin. (7) lit. a) se virează în fondul de conservare şi regenerare a pădurilor, iar valorile prevăzute la alin. (7) lit. b) -e), încasate de către ocolul silvic, se virează în fondul de ameliorare a fondului funciar cu destinaţie silvică."],
+              ["(9)","Menţinerea lucrărilor şi/sau obiectivelor amplasate în FFN fără aprobări legale are la bază acordul prealabil al:"],
+              ["a)","persoanei ocupante fără aprobări legale prin care se angajează la achitarea integrală a obligaţiilor băneşti şi a prejudiciului;"],
+              ["b)","agenţiei teritoriale competente pentru protecţia mediului pentru menţinerea lucrărilor şi/sau obiectivelor amplasate în FFN fără aprobări legale, după caz, şi pentru stabilirea eventuală a unor măsuri specifice pentru protecţia mediului;"],
+              ["c)","Gărzii Forestiere teritoriale competente, care confirmă încadrarea în categoria celor pentru care este permisă scoaterea definitivă/ocuparea temporară."],
+              ["(10)","Despăgubirea cu titlu de lipsă de folosinţă este egală cu dublul chiriei calculate conform metodologiei prevăzute la art. 49. Despăgubirea cu titlu de lipsă de folosinţă are următoarele destinaţii:"],
+              ["a)","50% din sumă se achită în Fondul de ameliorare a fondului funciar cu destinaţie silvică;"],
+              ["b)","50% din sumă se achită administratorului în cazul terenurilor proprietate publică a statului şi se repartizează similar chiriei achitate pentru ocuparea temporară a terenurilor din FFN sau se achită proprietarului pentru FFN, altul decât cel proprietate publică a statului."],
+              ["(11)","Excepţiile prevăzute de prezenta lege de la plata unor taxe şi obligaţii băneşti, în vigoare la data emiterii aprobării pentru intrarea în legalitate, se aplică în mod corespunzător."],
+              ["(12)","Competenţa pentru emiterea aprobării în vederea intrării în legalitate este cea prevăzută la art. 44 alin. (1)."]
+            ]
+          },
+          {
+            "no": "163",
+            "label": "Art. 163 – Stabilirea volumului materialelor lemnoase în cazul controlului efectuat la operatorii economici care depozitează/prelucrează/comercializează/transportă materiale lemnoase",
+            "items": [
+              ["(1)","Stabilirea volumului materialelor lemnoase în cazul controlului efectuat la operatorii economici care transportă/depozitează/prelucrează/comercializează materiale lemnoase se poate face prin măsurarea fiecărei piese sau prin metode de cubaj expeditiv."],
+              ["(2)","În cazul controlului transportului, agentul constatator din categoria personalului silvic sau agentul constatator prevăzut la art. 136 alin. (3) este obligat să realizeze un cubaj expeditiv al volumului încărcat în mijlocul de transport. La stabilirea volumului faptic al materialelor lemnoase prin metoda cubajului expeditiv se vor aplica factorii de cubaj medii pe sortimente/grupe de specii şi toleranţele admise, stabiliţi conform hotărârii Guvernului prevăzute la art. 20 alin. (1)."],
+              ["(3)","În situaţia în care, în urma măsurătorilor realizate potrivit alin. (2), s-a constatat o diferenţă de cel puţin 5% la cherestele şi 10% pentru celelalte materiale lemnoase între volumul determinat prin cubaj expeditiv şi volumul înscris în avizul de însoţire şi dacă operatorul economic/transportatorul acceptă rezultatul măsurătorii, agentul constatator dispune măsurile legale, în baza acestor măsurători."],
+              ["(4)","Dacă operatorul economic/transportatorul nu acceptă rezultatul cubajului expeditiv, acesta este obligat să asigure transportul, descărcarea şi manipularea în vederea inventarierii piesă cu piesă conform măsurilor dispuse de agentul constatator."]
+            ]
+          },
+          {
+            "no": "164",
+            "label": "Art. 164 – Dispoziţii tranzitorii",
+            "items": [
+              ["(1)","Autorizaţiile de funcţionare a ocoalelor silvice prevăzute la art. 10 din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările şi completările ulterioare, rămân valabile pentru ocoalele silvice de stat înfiinţate de administratorii fondului forestier proprietate publică a statului şi pentru ocoalele silvice de regim care funcţionează ca regii autonome de interes local, similar asociaţiilor şi fundaţiilor sau ca societăţi reglementate de Legea nr. 31/1990, republicată, cu modificările şi completările ulterioare."],
+              ["(2)","În termen de 12 luni de la intrarea în vigoare a prezentei legi, ocoalele silvice de regim care nu funcţionează ca regii autonome de interes local, similar asociaţiilor şi fundaţiilor sau ca societăţi reglementate de Legea nr. 31/1990, republicată, cu modificările şi completările ulterioare, sunt obligate să se autorizeze în condiţiile prezentei legi."],
+              ["(3)","Ocoalele silvice nominalizate în vederea asigurării principiului teritorialităţii în baza Legii nr. 46/2008, republicată, cu modificările şi completările ulterioare, îşi păstrează această calitate după intrarea în vigoare a prezentei legi."],
+              ["(4)","«abrogat»"],
+              ["(5)","Până la data publicării regulamentului prevăzut la art. 15 alin. (4), numirea şi revocarea şefilor de ocoale silvice se fac cu avizul favorabil al Autorităţii."],
+              ["(6)","Sintagma autoritatea publică centrală care răspunde de silvicultură prevăzută de Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, se va utiliza până la aprobarea legislaţiei subsecvente prevăzute de prezenta lege."],
+              ["(7)","Contractele de administrare sau serviciile silvice prevăzute la art. 16 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, încheiate anterior intrării în vigoare a prezentei legi, rămân valabile în condiţiile legii aflate în vigoare la momentul încheierii acestora."],
+              ["(8)","Normele referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, la regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund, precum şi cele privind provenienţa şi circulaţia materialelor lemnoase destinate consumului propriu al proprietarului şi unele măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European şi al Consiliului din 20 octombrie 2010 de stabilire a obligaţiilor care revin operatorilor care introduc pe piaţă lemn şi produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020, cu modificările şi completările ulterioare, rămân valabile până la data aprobării acestora în condiţiile prezentei legi."],
+              ["(9)","Sistemul informaţional integrat de urmărire a materialelor lemnoase dezvoltat în aplicarea normelor referitoare la provenienţa, circulaţia şi comercializarea materialelor lemnoase, regimul spaţiilor de depozitare a materialelor lemnoase şi al instalaţiilor de prelucrat lemn rotund, precum şi cele privind provenienţa şi circulaţia materialelor lemnoase destinate consumului propriu al proprietarului este utilizat şi după data intrării în vigoare a prezentei legi, până la data operaţionalizării sistemului informaţional integrat pentru păduri, în condiţiile prezentei legi. Până la operaţionalizarea sistemului informaţional integrat pentru păduri, prevederile din prezenta lege se aplică sistemului informaţional integrat de urmărire a materialelor lemnoase."],
+              ["(10)","Datele, informaţiile şi procesele generate în sistemul informaţional integrat privind trasabilitatea materialelor lemnoase sunt folosite cu continuitate şi după intrarea în vigoare a prezentei legi."],
+              ["(11)","Aprobările privind scoaterea definitivă sau ocuparea temporară din FFN emise anterior intrării în vigoare a prezentei legi rămân valabile."],
+              ["(12)","Documentaţiile de scoatere definitivă sau ocupare temporară din FFN, depuse anterior intrării în vigoare a prezentei legi, dar care nu au fost aprobate până la data intrării în vigoare a prezentei legi, se refac cu respectarea prevederilor art. 38-48."],
+              ["(13)","Orice trimitere la art. 36-42 din Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, se face la art. 38-48."],
+              ["(14)","Contractele de concesiune încheiate înainte de data intrării în vigoare a prezentei legi sunt supuse dispoziţiilor legii în vigoare la data la care acestea au fost încheiate, în tot ceea ce priveşte încheierea, modificarea, interpretarea, efectele, executarea şi încetarea acestora."],
+              ["(15)","Amenajamentele silvice în vigoare sau aprobate anterior datei intrării în vigoare a prezentei legi sunt supuse dispoziţiilor legii la data la care acestea au intrat în vigoare sau au fost aprobate. În situaţia în care prevederile din amenajamentele silvice contravin prevederilor prezentei legi, acestea se modifică în mod corespunzător în termen de maximum 12 luni de la data intrării în vigoare a legii."],
+              ["(16)","Normele tehnice privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate şi Ghidul de bune practici privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate, aprobate prin Ordinul ministrului mediului, apelor şi pădurilor nr. 2.533/2022 pentru aprobarea Normelor tehnice privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi de împădurire a terenurilor degradate şi a Ghidului de bune practici privind compoziţii, scheme şi tehnologii de regenerare a pădurilor şi împădurire a terenurilor, rămân valabile până la data aprobării acestora în condiţiile prezentei legi."],
+              ["(17)","Normele tehnice privind îngrijirea şi conducerea arboretelor şi Ghidul de bune practici privind îngrijirea şi conducerea arboretelor, aprobate prin Ordinul ministrului mediului, apelor şi pădurilor nr. 2.534/2022 pentru aprobarea Normelor tehnice privind îngrijirea şi conducerea arboretelor şi a Ghidului de bune practici privind îngrijirea şi conducerea arboretelor, rămân valabile până la data aprobării acestora în condiţiile prezentei legi."],
+              ["(18)","Normele tehnice privind alegerea şi aplicarea tratamentelor şi Ghidul de bune practici privind alegerea şi aplicarea tratamentelor, aprobate prin Ordinul ministrului mediului, apelor şi pădurilor nr. 2.535/2022 pentru aprobarea Normelor tehnice privind alegerea şi aplicarea tratamentelor şi a Ghidului de bune practici privind alegerea şi aplicarea tratamentelor, rămân valabile până la data aprobării acestora în condiţiile prezentei legi."],
+              ["(19)","Normele tehnice privind amenajarea pădurilor şi Ghidul de bune practici privind amenajarea pădurilor, aprobate prin Ordinul ministrului mediului, apelor şi pădurilor nr. 2.536/2022 pentru aprobarea Normelor tehnice privind amenajarea pădurilor şi a Ghidului de bune practici privind amenajarea pădurilor, rămân valabile până la data aprobării acestora în condiţiile prezentei legi."],
+              ["(20)","Normele tehnice privind regenerarea pădurilor si efectuarea controlului anual al regenerărilor şi Ghidul de bune practici privind regenerarea pădurilor şi efectuarea controlului anual al regenerărilor, aprobate prin Ordinul ministrului mediului, apelor şi pădurilor nr. 2.537/2022 pentru aprobarea Normelor tehnice privind regenerarea pădurilor şi efectuarea controlului anual al regenerărilor şi a Ghidului de bune practici privind regenerarea pădurilor şi efectuarea controlului anual al regenerărilor, rămân valabile până la data aprobării acestora în condiţiile prezentei legi."],
+              ["(21)","Indicatorii de stare a pădurilor prevăzuţi la art. 67 se aprobă până la data de 31 decembrie 2028."],
+              ["(22)","Certificatele de atestare pentru lucrările de exploatare forestieră emise în temeiul Legii nr. 46/2008, republicată, cu modificările şi completările ulterioare, îşi păstrează valabilitatea până la data expirării acestora."],
+              ["(23)","Sintagma masă lemnoasă prevăzută de Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare, se utilizează până la aprobarea legislaţiei subsecvente prevăzute de prezenta lege."],
+              ["(24)","Studiile de specialitate pentru pădurile-parc, parcurile recreative şi tematice avizate în Comisia tehnică de avizare pentru silvicultură până la data intrării în vigoare a prezentei legi îşi păstrează valabilitatea."],
+              ["(25)","Strategia naţională pentru păduri 2030 şi Planul naţional de acţiune, aprobate prin Hotărârea Guvernului nr. 1.227/2022 privind aprobarea Strategiei naţionale pentru păduri 2030, îşi păstrează valabilitatea până la data de 31 decembrie 2030."],
+              ["(26)","Hotărârea Guvernului nr. 1.076/2009 pentru aprobarea Regulamentului de pază a fondului forestier, publicată în Monitorul Oficial al României, Partea I, nr. 721 din 26 octombrie 2009, rămâne în vigoare 24 de luni de la data intrării în vigoare a prezentei legi."],
+              ["(27)","În termen de 60 de zile de la intrarea în vigoare a prezentei legi, Autoritatea stabileşte, prin ordin al conducătorului Autorităţii, structurile de administrare care elaborează şi implementează, pe zone-pilot, regulamente proprii de pază conform normelor prezentei legi; stabilirea acestor structuri de administrare se face prin desemnare şi/sau la solicitare."],
+              ["(28)","În termen de maximum 90 de zile de la data emiterii ordinului conducătorului Autorităţii prevăzut la alin. (27), structurile de administrare desemnate vor elabora regulamente proprii de pază pe care le vor implementa într-o perioadă de maximum 12 luni de la data aprobării acestora."],
+              ["(29)","Preţul mediu al unui metru cub de masă lemnoasă pe picior, aprobat prin Legea nr. 265/2017 pentru aprobarea Ordonanţei Guvernului nr. 9/2017 privind prorogarea termenului prevăzut la art. IV din Ordonanţa de urgenţă a Guvernului nr. 51/2016 pentru modificarea şi completarea Legii nr. 171/2010 privind stabilirea şi sancţionarea contravenţiilor silvice, se menţine, până la data de 31 decembrie 2026, la valoarea existentă la data intrării în vigoare a prezentei legi."],
+              ["(30)","Până la aprobarea legislaţiei subsecvente prevăzute de prezenta lege se utilizează termenii şi expresiile din anexa nr. 1 la Legea nr. 46/2008, republicată, cu modificările şi completările ulterioare."],
+              ["(31)","Regulamentul de valorificare al masei lemnoase din fondul forestier proprietate publică, aprobat prin Hotărârea Guvernului nr. 715/2017 pentru aprobarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică, cu modificările şi completările ulterioare, îşi păstrează valabilitatea până la aprobarea regulamentului de valorificare prevăzut la art. 110 alin. (1), în condiţiile prezentei legi."],
+              ["(32)","La data intrării în vigoare a prezentei legi se suspendă aplicarea prevederilor legale sau contractuale referitoare la recoltarea de masă lemnoasă în arboretele din unitatea administrativ-teritorială Ilfov."],
+              ["(33)","Sunt exceptate de la prevederile alin. (32) contractele referitoare la recoltarea de masă lemnoasă din partizile care au fost autorizate spre exploatare până la data intrării în vigoare a prezentei legi."],
+              ["(34)","Amenajamentele silvice în vigoare pentru pădurile de pe raza unităţii administrativ-teritoriale Ilfov se aplică în continuare, cu excepţia prevederilor referitoare la tratamente şi recoltarea de produse principale, a căror aplicare se suspendă pe toată durata de valabilitate a amenajamentelor."]
+            ]
+          },
+          {
+            "no": "165",
+            "label": "Art. 165 – Modificarea legii speciale privind contravenţiile silvice",
+            "items": [
+              ["","La articolul 19 din Legea nr. 171/2010 privind stabilirea şi sancţionarea contravenţiilor silvice, publicată în Monitorul Oficial al României, Partea I, nr. 513 din 23 iulie 2010, cu modificările şi completările ulterioare, alineatul (2) se modifică şi va avea următorul cuprins: \" (2) Constituie contravenţii silvice, dacă nu au fost săvârşite în astfel de condiţii încât să constituie infracţiuni, şi se sancţionează cu amendă şi cu confiscarea materialelor lemnoase în cauză următoarele fapte:"],
+              ["a)","transportul cu orice mijloace de transport al materialelor lemnoase, cu un volum cuprins între 0,1 şi 5 metri cubi, neînsoţit de documentele specifice de transport, aşa cum sunt stabilite de normele privind circulaţia materialelor lemnoase. Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","1.000 lei până la 2.000 lei, pentru un volum cuprins între 0,1 şi 1 metru cub inclusiv;"],
+              ["2.","2.000 lei până la 4.000 lei, pentru un volum cuprins între 1,01 şi 3,00 metri cubi inclusiv;"],
+              ["3.","4.000 lei până la 6.000 lei, pentru un volum cuprins între 3,01 şi 5,00 metri cubi inclusiv;"],
+              ["b)","transportul cu orice mijloace de transport al materialelor lemnoase, însoţit de documente specifice de transport, aşa cum sunt stabilite de normele privind circulaţia materialelor lemnoase, la care diferenţa dintre volumul constatat la momentul verificării şi cel înscris în avizul de însoţire este de cel mult 5 metri cubi inclusiv, cu luarea în considerare a toleranţelor legale şi a contragerilor specifice. Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","1.000 lei până la 2.000 lei, pentru un volum cuprins între 0,1 şi 1 metru cub inclusiv;"],
+              ["2.","2.000 lei până la 4.000 lei, pentru un volum cuprins între 1,01 şi 3,00 metri cubi inclusiv;"],
+              ["3.","4.000 lei până la 6.000 lei, pentru un volum cuprins între 3,01 şi 5,00 metri cubi inclusiv;"],
+              ["c)","transportul cu orice mijloace de transport al materialelor lemnoase fără provenienţă legală, aşa cum sunt stabilite de normele privind circulaţia materialelor lemnoase. Cuantumul amenzii care se aplică este cuprins între 5.000 lei până la 10.000 lei, pentru un volum cuprins între 0,1 şi 5 metri cubi inclusiv;"],
+              ["d)","transportul de materiale lemnoase ale căror caracteristici nu corespund cu cel puţin unul dintre elementele înscrise în avizul de însoţire referitoare la: (i) volum pe specii/grupe de specii, cu luarea în considerare a toleranţelor/contragerilor specifice; (ii) specie/grupe de specii; (iii) numărul de piese de lemn rotund cu diametrul la capătul subţire mai mare sau egal cu 24 centimetri sau numărul de bucăţi/colete de cherestele. Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","1.000 lei până la 2.000 lei, pentru un volum cuprins între 0,1 şi 1 metru cub inclusiv;"],
+              ["2.","2.000 lei până la 4.000 lei, pentru un volum cuprins între 1,01 şi 3,00 metri cubi inclusiv;"],
+              ["3.","4.000 lei până la 6.000 lei, pentru un volum cuprins între 3,01 şi 5,00 metri cubi inclusiv. Sancţiunea complementară de confiscare se aplică pentru diferenţa de volum în plus constatată faţă de volumul pe specii/grupe de specii înscris în avizul de însoţire, cu luarea în considerare a toleranţelor legale şi a contragerilor specifice;"],
+              ["e)","deţinerea materialelor lemnoase de către deţinătorii depozitelor, ai altor spaţii destinate depozitării temporare şi/sau ai instalaţiilor de prelucrare a materialelor lemnoase pe grupe de specii şi sortimente industriale, determinate ca diferenţe în plus dintre volumul stocului fizic şi volumul stocului scriptic înregistrat în aplicaţia SUMAL 2.0 este de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi la momentul constatării faptei; Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","5.000 lei până la 10.000 lei, pentru un volum de până la 5% din stocul scriptic, dar nu mai mult de 4 metri cubi inclusiv;"],
+              ["2.","15.000 lei până la 20.000 lei, pentru un volum de până la 10% din stocul scriptic, dar nu mai mult de 8 metri cubi inclusiv;"],
+              ["3.","30.000 lei până la 50.000 lei, pentru un volum de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi inclusiv;"],
+              ["f)","nedeţinerea materialelor lemnoase de către deţinătorii depozitelor, ai altor spaţii destinate depozitării temporare şi/sau ai instalaţiilor de prelucrare a materialelor lemnoase pe grupe de specii şi sortimente industriale, determinate ca diferenţe în minus dintre volumul stocului fizic şi volumul stocului scriptic înregistrat în aplicaţia SUMAL 2.0, este de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi la momentul constatării faptei; Cuantumul amenzii se aplică după cum urmează:"],
+              ["1.","5.000 lei până la 10.000 lei, pentru un volum de până la 5% din stocul scriptic, dar nu mai mult de 4 metri cubi inclusiv;"],
+              ["2.","15.000 lei până la 20.000 lei, pentru un volum de până la 10% din stocul scriptic, dar nu mai mult de 8 metri cubi inclusiv;"],
+              ["3.","30.000 lei până la 50.000 lei, pentru un volum de până la 20% din stocul scriptic, dar nu mai mult de 10 metri cubi inclusiv.\""]
+            ]
+          },
+          {
+            "no": "166",
+            "label": "Art. 166 – Promovare de acte normative subsecvente",
+            "items": [
+              ["(1)","Legislaţia subsecventă Legii nr. 46/2008 - Codul silvic, republicată, cu modificările şi completările ulterioare, rămâne în vigoare până la adoptarea legislaţiei subsecvente în condiţiile prezentei legi."],
+              ["(2)","În termen de 90 de zile de la data intrării în vigoare a prezentei legi, Guvernul României adoptă, prin hotărâre, la propunerea Autorităţii, Regulamentul de organizare şi funcţionare al Romsilva, prevăzut la art. 32 alin. (2)."],
+              ["(3)","În termen de doi ani de la data intrării în vigoare a prezentei legi, Autoritatea emite norme tehnice speciale cu privire la amenajarea pădurilor cu rol social şi a celor care necesită măsuri de conservare activă fără reglementarea recoltării de produse principale, inclusiv pentru pădurile incluse în centurile verzi din jurul oraşelor."],
+              ["(4)","În termen de doi ani de la data intrării în vigoare a prezentei legi, Autoritatea aprobă metodologia pentru crearea centurilor verzi din jurul oraşelor, prin ordin al conducătorului autorităţii publice centrale pentru silvicultură."],
+              ["(5)","În termen de doi ani de la data intrării în vigoare a prezentei legi, Consiliul Judeţean Ilfov, în parteneriat cu Primăria Generală a Municipiului Bucureşti, cu consultarea proprietarilor şi administratorilor de păduri, a societăţii civile, a autorităţilor pentru protecţia mediului şi a celor cu atribuţii în domeniul ariilor naturale protejate, pădurilor şi apelor, adoptă Planul de management al pădurilor de pe raza teritorială a unităţii administrativ-teritoriale Ilfov, pentru implementarea prevederilor art. 90."]
+            ]
+          },
+          {
+            "no": "167",
+            "label": "Art. 167 – Abrogări",
+            "items": [
+              ["","La data intrării în vigoare a prezentei legi se abrogă:"],
+              ["a)","Legea nr. 46/2008 - Codul silvic, republicată în Monitorul Oficial al României, Partea I, nr. 611 din 12 august 2015, cu modificările şi completările ulterioare;"],
+              ["b)","Ordonanţa de urgenţă a Guvernului nr. 85/2006 privind stabilirea modalităţilor de evaluare a pagubelor produse vegetaţiei forestiere din păduri şi din afara acestora, publicată în Monitorul Oficial al României, Partea I, nr. 926 din 15 noiembrie 2006, aprobată cu modificări şi completări prin Legea nr. 84/2007;"],
+              ["c)","dispoziţiile art. 10 şi 17 din Ordonanţa de urgenţă a Guvernului nr. 139/2005 privind administrarea pădurilor din România, publicată în Monitorul Oficial al României, Partea I, nr. 939 din 20 octombrie 2005, aprobată cu modificări şi completări prin Legea nr. 38/2006, cu modificările ulterioare;"],
+              ["d)","dispoziţiile art. 2 alin. (2) şi art. 5 alin. (1) din Legea nr. 56/2010 privind accesibilizarea fondului forestier naţional, republicată în Monitorul Oficial al României, Partea I, nr. 770 din 6 septembrie 2018;"],
+              ["e)","Hotărârea Guvernului nr. 954/2002 privind aprobarea Regulamentului pentru stabilirea modalităţilor concrete de gospodărire a pădurilor şi de repartizare a resurselor materiale şi a surselor financiare cuvenite persoanelor fizice şi juridice pentru pădurile pe care le au în proprietate şi pe care le administrează prin structuri silvice de stat, pe baza contractuală, precum şi a obligaţiilor acestora, publicată în Monitorul Oficial al României, Partea I, nr. 686 din 17 septembrie 2002, cu modificările ulterioare;"],
+              ["f)","Hotărârea Guvernului nr. 2.293/2004 privind gestionarea deşeurilor rezultate în urma procesului de obţinere a materialelor lemnoase, publicată în Monitorul Oficial al României, Partea I, nr. 1261 din 28 decembrie 2004, cu modificările ulterioare;"],
+              ["g)","Hotărârea Guvernului nr. 861/2009 pentru aprobarea Normelor metodologice de acordare, utilizare şi control al sumelor anuale destinate gestionării durabile a fondului forestier proprietate privată a persoanelor fizice şi juridice şi a celui proprietate publică şi privată a unităţilor administrativ-teritoriale şi pentru aprobarea Procedurii de realizare a serviciilor silvice şi de efectuare a controalelor de fond, publicată în Monitorul Oficial al României, Partea I, nr. 573 din 18 august 2009, cu modificările ulterioare."]
+            ]
+          },
+          {
+            "no": "168",
+            "label": "Art. 168 – Anexe",
+            "items": [["", "Anexele nr. 1-3 fac parte integrantă din prezenta lege."]]
+          }
+        ]
+      }
+    ],
+    "annexes": {
+      "title": "Anexa nr. 3 la Codul silvic",
+      "items": [
+        {
+          "no": "3",
+          "items": [
+            ["","VALOAREA factorului „k” pentru evaluarea pagubelor"],
+            ["","Tabelul nr. 1: Volumele unitare (m³/bucată) și valoarea factorului „k” pentru pagubele la arbori, pe grupe de specii. Pentru calculul pagubei se folosește „k”."],
+            ["2,1–4,0 cm","Rășinoase: volum 0,0, k 0,035 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,003, k 0,070 · Alte foioase: volum 0,001, k 0,035"],
+            ["4,1–8,0 cm","Rășinoase: volum 0,009, k 0,070 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,010, k 0,105 · Alte foioase: volum 0,003, k 0,035"],
+            ["8,1–12,0 cm","Rășinoase: volum 0,040, k 0,105 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,028, k 0,175 · Alte foioase: volum 0,049, k 0,035"],
+            ["12,1–16,0 cm","Rășinoase: volum 0,086, k 0,140 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,072, k 0,227 · Alte foioase: volum 0,078, k 0,105"],
+            ["16,1–20,0 cm","Rășinoase: volum 0,156, k 0,210 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,150, k 0,297 · Alte foioase: volum 0,124, k 0,140"],
+            ["20,1–24,0 cm","Rășinoase: volum 0,245, k 0,227 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,266, k 0,402 · Alte foioase: volum 0,217, k 0,175"],
+            ["24,1–28,0 cm","Rășinoase: volum 0,366, k 0,402 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,411, k 0,735 · Alte foioase: volum 0,332, k 0,280"],
+            ["28,1–32,0 cm","Rășinoase: volum 0,521, k 0,682 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,617, k 1,015 · Alte foioase: volum 0,508, k 0,525"],
+            ["32,1–36,0 cm","Rășinoase: volum 0,713, k 1,015 · Cvercinee, paltin, frasin, cireș, sorb: volum 0,866, k 2,082 · Alte foioase: volum 0,720, k 0,892"],
+            ["36,1–40,0 cm","Rășinoase: volum 0,900, k 1,435 · Cvercinee, paltin, frasin, cireș, sorb: volum 1,144, k 3,237 · Alte foioase: volum 0,976, k 1,400"],
+            ["40,1–44,0 cm","Rășinoase: volum 1,123, k 1,837 · Cvercinee, paltin, frasin, cireș, sorb: volum 1,450, k 4,322 · Alte foioase: volum 1,271, k 1,872"],
+            ["44,1–48,0 cm","Rășinoase: volum 1,364, k 2,362 · Cvercinee, paltin, frasin, cireș, sorb: volum 1,782, k 5,600 · Alte foioase: volum 1,602, k 2,397"],
+            ["48,1–52,0 cm","Rășinoase: volum 1,629, k 3,220 · Cvercinee, paltin, frasin, cireș, sorb: volum 2,168, k 7,507 · Alte foioase: volum 1,994, k 3,220"],
+            ["52,1–56,0 cm","Rășinoase: volum 1,889, k 3,920 · Cvercinee, paltin, frasin, cireș, sorb: volum 2,549, k 9,380 · Alte foioase: volum 2,411, k 4,340"],
+            ["56,1–60,0 cm","Rășinoase: volum 2,162, k 4,655 · Cvercinee, paltin, frasin, cireș, sorb: volum 2,981, k 11,935 · Alte foioase: volum 2,892, k 5,775"],
+            ["60,1–64,0 cm","Rășinoase: volum 2,464, k 5,740 · Cvercinee, paltin, frasin, cireș, sorb: volum 3,428, k 15,260 · Alte foioase: volum 3,390, k 7,630"],
+            ["64,1–68,0 cm","Rășinoase: volum 2,749, k 6,545 · Cvercinee, paltin, frasin, cireș, sorb: volum 3,883, k 17,745 · Alte foioase: volum 3,960, k 9,362"],
+            ["68,1–72,0 cm","Rășinoase: volum 2,989, k 7,227 · Cvercinee, paltin, frasin, cireș, sorb: volum 4,362, k 20,475 · Alte foioase: volum 4,552, k 11,200"],
+            ["72,1–76,0 cm","Rășinoase: volum 3,164, k 8,190 · Cvercinee, paltin, frasin, cireș, sorb: volum 4,851, k 24,517 · Alte foioase: volum 5,161, k 13,702"],
+            ["76,1–80,0 cm","Rășinoase: volum 3,409, k 8,872 · Cvercinee, paltin, frasin, cireș, sorb: volum 5,379, k 27,877 · Alte foioase: volum 5,763, k 15,592"],
+            ["> 80 cm","Rășinoase: volum 3,583, k 9,450 · Cvercinee, paltin, frasin, cireș, sorb: volum 5,934, k 30,975 · Alte foioase: volum 6,419, k 17,587"],
+            ["","Tabelul nr. 2: Valoarea factorului „k” pentru prejudiciile la puieți sau lăstari."],
+            ["Puieți","Rășinoase 0,017 · Cvercinee, paltin, frasin, cireș, sorb 0,017 · Alte foioase 0,017"],
+            ["Lăstari","Rășinoase – · Cvercinee, paltin, frasin, cireș, sorb 0,017 · Alte foioase 0,017"]
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "id": "ssm",
+  "title": "Securitate și sănătate în muncă",
+  "act": "Legea 319/2006, art. 22–23",
+  "version": "Consolidată la 29 octombrie 2026 (ultima modificare: OUG 36/2021)",
+  "intro": "Bibliografia cere doar obligațiile lucrătorilor (art. 22–23). Ca să le înțelegi în context, lecția adaugă definițiile de bază (accident de muncă, incident periculos, pericol grav și iminent), instruirea și ce faci când se produce un eveniment.",
+  "lesson": [
+    {
+      "title": "1. Noțiunile de bază",
+      "paragraphs": [
+        {
+          "text": "**Lucrătorul** e persoana angajată, inclusiv studenții și elevii în practică, ucenicii și alți participanți la muncă, **în afară de cei cu activități casnice**.",
+          "refs": ["L319 art. 5 lit. a)"]
+        },
+        {
+          "text": "**Accidentul de muncă** = vătămarea violentă sau intoxicația acută profesională, în timpul muncii sau al îndatoririlor de serviciu, cu **incapacitate de cel puțin 3 zile calendaristice**, invaliditate sau deces. Sub 3 zile e **accident ușor**.",
+          "refs": ["L319 art. 5 lit. g)","L319 art. 5 lit. q)"]
+        },
+        {
+          "text": "**Pericolul grav și iminent** = situația concretă, reală și actuală căreia **îi lipsește doar prilejul declanșator** ca să producă un accident.",
+          "refs": ["L319 art. 5 lit. l)"]
+        },
+        {
+          "text": "**Incidentul periculos** = explozie, incendiu, avarie etc. care **nu a afectat lucrătorii**, dar ar fi putut. **Evenimentul** cuprinde accidentul, dispariția, accidentul de traseu, incidentul periculos și suspiciunea de boală profesională.",
+          "refs": ["L319 art. 5 lit. o)","L319 art. 5 lit. f)"]
+        },
+        {
+          "text": "**Echipamentul individual de protecție** = orice echipament purtat sau mânuit de lucrător ca să-l protejeze de riscuri.",
+          "refs": ["L319 art. 5 lit. j)"]
+        }
+      ],
+      "keep": [
+        "Accident de muncă: ≥ 3 zile incapacitate, invaliditate sau deces",
+        "Accident ușor: < 3 zile",
+        "Pericol grav și iminent: lipsește doar declanșatorul",
+        "Incident periculos: nu a afectat lucrătorii, dar putea"
+      ],
+      "quiz": [
+        {
+          "q": "Este „lucrător” în sensul Legii 319 studentul aflat în practică?",
+          "options": ["Da", "Nu", "Doar dacă e plătit", "Doar peste 18 ani"],
+          "answer": 0,
+          "explain": "Art. 5 lit. a).",
+          "ref": "L319 art. 5 lit. a)"
+        }
+      ]
+    },
+    {
+      "title": "2. Instruirea",
+      "paragraphs": [
+        {
+          "text": "Angajatorul asigură instruirea fiecărui lucrător: **la angajare**; la schimbarea locului de muncă sau transfer; la echipamente noi; la tehnologii noi; la **lucrări speciale**. Instruirea e **periodică** și ori de câte ori e nevoie.",
+          "refs": ["L319 art. 20 alin. (1)–(2)"]
+        },
+        {
+          "text": "Instruirea **nu se face pe cheltuiala lucrătorului** și se face **în timpul programului**. Dovada se poate ține pe hârtie sau electronic (cu semnătură electronică).",
+          "refs": ["L319 art. 21"]
+        }
+      ],
+      "keep": ["Instruire: la angajare, schimbare, echipament nou, tehnologie nouă, lucrări speciale","Periodică; gratuită; în timpul programului"],
+      "quiz": [
+        {
+          "q": "La introducerea unui nou tip de tractor forestier, instruirea:",
+          "options": ["Nu e necesară", "E obligatorie", "E opțională", "O face producătorul"],
+          "answer": 1,
+          "explain": "Art. 20 lit. c).",
+          "ref": "L319 art. 20 alin. (1) lit. c)"
+        }
+      ]
+    },
+    {
+      "title": "3. Obligația generală a lucrătorului (art. 22)",
+      "paragraphs": [
+        {
+          "text": "Fiecare lucrător își face treaba **conform pregătirii, instruirii și instrucțiunilor** angajatorului, astfel încât să nu se expună **nici pe sine, nici pe alții** la pericol de accidentare sau îmbolnăvire profesională, prin acțiunile sau **omisiunile** sale.",
+          "refs": ["L319 art. 22"]
+        }
+      ],
+      "keep": [
+        "Lucrezi după pregătire, instruire și instrucțiuni",
+        "Protejezi și pe tine, și pe ceilalți",
+        "Răspunzi și pentru omisiuni"
+      ],
+      "quiz": [
+        {
+          "q": "Răspunderea din art. 22 acoperă și omisiunile?",
+          "options": ["Da", "Nu", "Doar la șefi", "Doar intenționate"],
+          "answer": 0,
+          "explain": "„Acțiunile sau omisiunile sale”.",
+          "ref": "L319 art. 22"
+        }
+      ]
+    },
+    {
+      "title": "4. Obligațiile concrete (art. 23)",
+      "paragraphs": [
+        {
+          "text": "Lucrătorul trebuie: **a)** să folosească corect mașinile, uneltele, substanțele periculoase, mijloacele de transport; **b)** să folosească corect **echipamentul individual de protecție** și să-l înapoieze sau să-l pună la loc după folosire; **c)** să **nu scoată din funcțiune, modifice sau înlăture** dispozitivele de securitate.",
+          "refs": ["L319 art. 23 alin. (1) lit. a)–c)"]
+        },
+        {
+          "text": "**d)** să comunice **imediat** angajatorului orice situație pe care o consideră un pericol și orice deficiență a protecției; **e)** să anunțe conducătorul locului de muncă despre **accidentele suferite de el însuși**.",
+          "refs": ["L319 art. 23 alin. (1) lit. d)–e)"]
+        },
+        {
+          "text": "**f)–g)** să coopereze cu angajatorul și lucrătorii desemnați pentru măsurile cerute de inspectori și pentru un mediu de muncă sigur; **h)** să-și însușească și să respecte legislația SSM; **i)** să dea relațiile cerute de **inspectorii de muncă și sanitari**.",
+          "refs": ["L319 art. 23 alin. (1) lit. f)–i)"]
+        },
+        {
+          "text": "Aceleași obligații au, după caz, și **ceilalți participanți** la procesul de muncă (practicanți, voluntari, cei în perioada de probă).",
+          "refs": ["L319 art. 23 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Folosește corect echipamentele și EIP-ul, apoi îl pui la loc",
+        "Nu dezactivezi dispozitivele de securitate",
+        "Raportezi imediat pericolele și accidentele proprii",
+        "Cooperezi; respecți legislația; răspunzi inspectorilor",
+        "Se aplică și celorlalți participanți"
+      ],
+      "quiz": [
+        {
+          "q": "Un lucrător își rupe degetul și nu spune nimănui. A încălcat:",
+          "options": [
+            "Nimic",
+            "Obligația de a aduce la cunoștință accidentele proprii",
+            "Doar regulamentul intern",
+            "Codul silvic"
+          ],
+          "answer": 1,
+          "explain": "Lit. e).",
+          "ref": "L319 art. 23 alin. (1) lit. e)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Obligațiile lucrătorului (art. 23)",
+        "items": [
+          {
+            "title": "Folosește corect",
+            "text": "mașini, unelte, substanțe, EIP (și îl pune la loc)",
+            "ref": "L319 art. 23 alin. (1) lit. a)"
+          },
+          {
+            "title": "Nu dezactiva",
+            "text": "dispozitivele de securitate",
+            "ref": "L319 art. 23 alin. (1) lit. c)"
+          },
+          {
+            "title": "Anunță",
+            "text": "pericolele și propriile accidente",
+            "ref": "L319 art. 23 alin. (1) lit. d)"
+          },
+          {
+            "title": "Cooperează",
+            "text": "cu angajatorul și inspectorii; respectă legislația",
+            "ref": "L319 art. 23 alin. (1) lit. f)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "5. Când se produce un eveniment",
+      "paragraphs": [
+        {
+          "text": "Orice eveniment se comunică **de îndată angajatorului** de conducătorul locului de muncă **sau de oricine află** de el.",
+          "refs": ["L319 art. 26"]
+        },
+        {
+          "text": "Angajatorul anunță de îndată: **inspectoratul teritorial de muncă** (toate evenimentele), **asigurătorul** (cele cu incapacitate, invaliditate, deces), **organele de urmărire penală** (după caz).",
+          "refs": ["L319 art. 27 alin. (1)"]
+        },
+        {
+          "text": "Cercetarea e obligatorie: **angajatorul** pentru incapacitate temporară; **ITM** pentru invaliditate, deces, accidente colective, incidente periculoase, dispăruți; **Inspecția Muncii** la accidentele colective din avarii sau explozii; **sănătatea publică** la bolile profesionale.",
+          "refs": ["L319 art. 29 alin. (1)"]
+        }
+      ],
+      "keep": [
+        "Evenimentul: comunicat de îndată angajatorului, de oricine",
+        "Angajatorul: ITM, asigurător, parchet",
+        "Cercetare: angajator (ITT) / ITM (deces, invaliditate, colective)"
+      ],
+      "quiz": [
+        {
+          "q": "Un accident cu incapacitate temporară de muncă îl cercetează:",
+          "options": ["ITM", "Angajatorul", "Poliția", "Medicul"],
+          "answer": 1,
+          "explain": "Art. 29 lit. a).",
+          "ref": "L319 art. 29 alin. (1) lit. a)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Ce urmează după un eveniment",
+        "steps": [
+          {"title": "Oricine află", "text": "anunță de îndată angajatorul", "ref": "L319 art. 26"},
+          {
+            "title": "Angajatorul",
+            "text": "anunță ITM, asigurătorul, parchetul",
+            "ref": "L319 art. 27 alin. (1)"
+          },
+          {
+            "title": "Cercetarea",
+            "text": "angajator (ITT) / ITM (deces, invaliditate, colective)",
+            "ref": "L319 art. 29 alin. (1)"
+          },
+          {"title": "Proces-verbal", "text": "cu rezultatul cercetării", "ref": "L319 art. 29 alin. (2)"}
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Definiții",
+      "rows": [
+        {
+          "what": "Accident de muncă",
+          "value": "≥ 3 zile calendaristice ITM, invaliditate, deces",
+          "ref": "L319 art. 5 lit. g)"
+        },
+        {"what": "Accident ușor", "value": "< 3 zile, doar prim ajutor", "ref": "L319 art. 5 lit. q)"},
+        {
+          "what": "Pericol grav și iminent",
+          "value": "lipsește doar declanșatorul",
+          "ref": "L319 art. 5 lit. l)"
+        },
+        {
+          "what": "Incident periculos",
+          "value": "nu a afectat lucrătorii",
+          "ref": "L319 art. 5 lit. o)"
+        }
+      ]
+    },
+    {
+      "title": "Obligațiile lucrătorului (art. 23)",
+      "rows": [
+        {
+          "what": "a) Echipamente",
+          "value": "folosire corectă",
+          "ref": "L319 art. 23 alin. (1) lit. a)"
+        },
+        {
+          "what": "b) EIP",
+          "value": "folosit corect, înapoiat după folosire",
+          "ref": "L319 art. 23 alin. (1) lit. b)"
+        },
+        {
+          "what": "c) Dispozitive de securitate",
+          "value": "nu le scoate din funcțiune",
+          "ref": "L319 art. 23 alin. (1) lit. c)"
+        },
+        {
+          "what": "d) Pericole",
+          "value": "le comunică imediat",
+          "ref": "L319 art. 23 alin. (1) lit. d)"
+        },
+        {
+          "what": "e) Accidentul propriu",
+          "value": "îl anunță șefului",
+          "ref": "L319 art. 23 alin. (1) lit. e)"
+        },
+        {
+          "what": "f)–g) Cooperare",
+          "value": "cu angajatorul și lucrătorii desemnați",
+          "ref": "L319 art. 23 alin. (1) lit. f)"
+        },
+        {
+          "what": "h) Legislația SSM",
+          "value": "o însușește și o respectă",
+          "ref": "L319 art. 23 alin. (1) lit. h)"
+        },
+        {
+          "what": "i) Inspectorii",
+          "value": "le dă relațiile cerute",
+          "ref": "L319 art. 23 alin. (1) lit. i)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "Art. 23 în patru verbe: folosește corect, nu dezactiva, anunță, cooperează.",
+    "Pragul de 3 zile separă accidentul ușor de accidentul de muncă.",
+    "Incidentul periculos „a fost cât pe ce”; pericolul grav și iminent „mai are nevoie doar de o scânteie”."
+  ],
+  "cards": [
+    {
+      "q": "Ce e accidentul de muncă?",
+      "a": "Vătămarea violentă sau intoxicația acută profesională în timpul muncii, cu incapacitate de cel puțin 3 zile, invaliditate sau deces.",
+      "ref": "L319 art. 5 lit. g)"
+    },
+    {
+      "q": "Ce e accidentul ușor?",
+      "a": "Leziuni superficiale, doar prim ajutor, incapacitate sub 3 zile.",
+      "ref": "L319 art. 5 lit. q)"
+    },
+    {
+      "q": "Ce e pericolul grav și iminent?",
+      "a": "Situația concretă, reală, actuală căreia îi lipsește doar prilejul declanșator.",
+      "ref": "L319 art. 5 lit. l)"
+    },
+    {
+      "q": "Ce e incidentul periculos?",
+      "a": "Eveniment (explozie, incendiu, avarie) care nu a afectat lucrătorii, dar ar fi putut.",
+      "ref": "L319 art. 5 lit. o)"
+    },
+    {
+      "q": "Cine nu e „lucrător” în sensul legii SSM?",
+      "a": "Persoanele care prestează activități casnice.",
+      "ref": "L319 art. 5 lit. a)"
+    },
+    {
+      "q": "Când se face instruirea SSM?",
+      "a": "La angajare, la schimbarea locului de muncă, la echipament sau tehnologie nouă, la lucrări speciale, periodic.",
+      "ref": "L319 art. 20 alin. (1)–(2)"
+    },
+    {
+      "q": "Cine plătește instruirea SSM?",
+      "a": "Angajatorul; nu se face pe cheltuiala lucrătorului și se face în program.",
+      "ref": "L319 art. 21 alin. (1)–(2)"
+    },
+    {
+      "q": "Care e obligația generală a lucrătorului?",
+      "a": "Să lucreze conform pregătirii, instruirii și instrucțiunilor, fără să se expună pe sine sau pe alții la pericol.",
+      "ref": "L319 art. 22"
+    },
+    {
+      "q": "Ce face lucrătorul cu EIP-ul după folosire?",
+      "a": "Îl înapoiază sau îl pune la locul destinat păstrării.",
+      "ref": "L319 art. 23 alin. (1) lit. b)"
+    },
+    {
+      "q": "Poate un drujbist să scoată apărătoarea de lanț ca să lucreze mai repede?",
+      "a": "Nu: e interzisă scoaterea din funcțiune sau înlăturarea dispozitivelor de securitate.",
+      "ref": "L319 art. 23 alin. (1) lit. c)"
+    },
+    {
+      "q": "Ce face lucrătorul care observă un pericol?",
+      "a": "Îl comunică imediat angajatorului sau lucrătorilor desemnați.",
+      "ref": "L319 art. 23 alin. (1) lit. d)"
+    },
+    {
+      "q": "Trebuie anunțat un accident suferit chiar de lucrător?",
+      "a": "Da, conducătorului locului de muncă sau angajatorului.",
+      "ref": "L319 art. 23 alin. (1) lit. e)"
+    },
+    {
+      "q": "Cui dă relații lucrătorul în controale?",
+      "a": "Inspectorilor de muncă și inspectorilor sanitari.",
+      "ref": "L319 art. 23 alin. (1) lit. i)"
+    },
+    {
+      "q": "Se aplică obligațiile art. 23 și practicanților?",
+      "a": "Da, celorlalți participanți la procesul de muncă, după caz.",
+      "ref": "L319 art. 23 alin. (2)"
+    },
+    {
+      "q": "Cine anunță un eveniment angajatorului?",
+      "a": "Conducătorul locului de muncă sau orice persoană care află de el, de îndată.",
+      "ref": "L319 art. 26"
+    },
+    {
+      "q": "Pe cine anunță angajatorul după un accident?",
+      "a": "ITM, asigurătorul (la incapacitate/invaliditate/deces) și, după caz, organele de urmărire penală.",
+      "ref": "L319 art. 27 alin. (1)"
+    },
+    {
+      "q": "Cine cercetează un accident cu deces?",
+      "a": "Inspectoratul teritorial de muncă.",
+      "ref": "L319 art. 29 alin. (1) lit. b)"
+    },
+    {
+      "q": "Cine cercetează un accident cu incapacitate temporară?",
+      "a": "Angajatorul.",
+      "ref": "L319 art. 29 alin. (1) lit. a)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Un muncitor se lovește și stă 2 zile acasă. Este:",
+      "options": ["Accident de muncă", "Accident ușor", "Incident periculos", "Boală profesională"],
+      "answer": 1,
+      "explain": "Sub 3 zile.",
+      "ref": "L319 art. 5 lit. q)"
+    },
+    {
+      "q": "Accidentul de muncă presupune incapacitate de cel puțin:",
+      "options": ["1 zi", "3 zile calendaristice", "5 zile lucrătoare", "7 zile"],
+      "answer": 1,
+      "explain": "3 zile.",
+      "ref": "L319 art. 5 lit. g)"
+    },
+    {
+      "q": "Un arbore rămas agățat deasupra cărării pe care trec muncitorii este:",
+      "options": ["Incident periculos", "Pericol grav și iminent", "Accident ușor", "Situație normală"],
+      "answer": 1,
+      "explain": "Lipsește doar declanșatorul.",
+      "ref": "L319 art. 5 lit. l)"
+    },
+    {
+      "q": "O cisternă de motorină ia foc în depozit, fără victime. Este:",
+      "options": ["Accident de muncă", "Incident periculos", "Boală profesională", "Nu e eveniment"],
+      "answer": 1,
+      "explain": "Nu a afectat lucrătorii.",
+      "ref": "L319 art. 5 lit. o)"
+    },
+    {
+      "q": "Instruirea SSM se face:",
+      "options": [
+        "Pe cheltuiala lucrătorului",
+        "În afara programului",
+        "Gratuit, în timpul programului",
+        "Doar la angajare"
+      ],
+      "answer": 2,
+      "explain": "Art. 21.",
+      "ref": "L319 art. 21 alin. (1)–(2)"
+    },
+    {
+      "q": "Obligația generală din art. 22 îl protejează pe:",
+      "options": [
+        "Doar lucrător",
+        "Lucrător și pe ceilalți afectați de acțiunile sau omisiunile lui",
+        "Doar angajator",
+        "Doar terți"
+      ],
+      "answer": 1,
+      "explain": "Art. 22.",
+      "ref": "L319 art. 22"
+    },
+    {
+      "q": "După terminarea lucrului, casca de protecție:",
+      "options": [
+        "Rămâne în pădure",
+        "Se înapoiază sau se pune la locul de păstrare",
+        "Se aruncă",
+        "Se ia acasă obligatoriu"
+      ],
+      "answer": 1,
+      "explain": "Lit. b).",
+      "ref": "L319 art. 23 alin. (1) lit. b)"
+    },
+    {
+      "q": "Lucrătorul care dezactivează frâna de lanț a drujbei:",
+      "options": [
+        "Își încalcă obligațiile din art. 23",
+        "E în regulă dacă e experimentat",
+        "Are nevoie doar de acordul colegului",
+        "Nu contează"
+      ],
+      "answer": 0,
+      "explain": "Lit. c).",
+      "ref": "L319 art. 23 alin. (1) lit. c)"
+    },
+    {
+      "q": "Observi că o funie de troliu e ruptă parțial. Ce faci?",
+      "options": [
+        "Continui",
+        "Comunici imediat angajatorului",
+        "Aștepți controlul ITM",
+        "Repari singur fără să spui"
+      ],
+      "answer": 1,
+      "explain": "Lit. d).",
+      "ref": "L319 art. 23 alin. (1) lit. d)"
+    },
+    {
+      "q": "Inspectorul de muncă îți cere detalii despre un accident. Tu:",
+      "options": [
+        "Poți refuza",
+        "Ești obligat să dai relațiile cerute",
+        "Răspunzi doar prin avocat",
+        "Trimiți la șef"
+      ],
+      "answer": 1,
+      "explain": "Lit. i).",
+      "ref": "L319 art. 23 alin. (1) lit. i)"
+    },
+    {
+      "q": "Obligațiile din art. 23 se aplică și voluntarilor?",
+      "options": [
+        "Nu",
+        "Da, celorlalți participanți la procesul de muncă, după caz",
+        "Doar dacă au contract",
+        "Doar elevilor"
+      ],
+      "answer": 1,
+      "explain": "Alin. (2).",
+      "ref": "L319 art. 23 alin. (2)"
+    },
+    {
+      "q": "Accidentul colectiv dintr-o explozie îl cercetează:",
+      "options": ["Angajatorul", "Inspecția Muncii", "Primăria", "Asigurătorul"],
+      "answer": 1,
+      "explain": "Art. 29 lit. c).",
+      "ref": "L319 art. 29 alin. (1) lit. c)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Doborâtorul fără cască",
+      "situation": "În parchet găsești un muncitor care doboară arbori fără cască și cu frâna de lanț a drujbei blocată, ca să taie mai repede.",
+      "steps": [
+        {
+          "q": "Ce obligații încalcă?",
+          "a": "Folosirea corectă a echipamentului individual de protecție și interdicția de a scoate din funcțiune dispozitivele de securitate.",
+          "ref": "L319 art. 23 alin. (1) lit. b)–c)"
+        },
+        {
+          "q": "Pe cine mai pune în pericol?",
+          "a": "Și pe ceilalți din parchet; art. 22 îi cere să nu expună nici alte persoane.",
+          "ref": "L319 art. 22"
+        },
+        {
+          "q": "Ce faci ca personal silvic?",
+          "a": "Oprești lucrul periculos și anunți imediat conducătorul locului de muncă sau angajatorul.",
+          "ref": "L319 art. 23 alin. (1) lit. d)"
+        }
+      ]
+    },
+    {
+      "title": "Arborele agățat",
+      "situation": "Un muncitor e lovit de o creangă căzută dintr-un arbore agățat și stă 10 zile în concediu medical.",
+      "steps": [
+        {
+          "q": "E accident de muncă?",
+          "a": "Da, are incapacitate de peste 3 zile și s-a produs în timpul muncii.",
+          "ref": "L319 art. 5 lit. g)"
+        },
+        {
+          "q": "Cine trebuie anunțat?",
+          "a": "Angajatorul, de îndată, de oricine află; apoi angajatorul anunță ITM și asigurătorul.",
+          "ref": "L319 art. 26"
+        },
+        {
+          "q": "Cine cercetează?",
+          "a": "Angajatorul, fiind incapacitate temporară de muncă.",
+          "ref": "L319 art. 29 alin. (1) lit. a)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "L319",
+        "name": "Legea 319/2006 a securității și sănătății în muncă",
+        "title": "Legea 319/2006 a securității și sănătății în muncă – extras",
+        "note": "Consolidată la 29 octombrie 2026 (ultima modificare: OUG 36/2021). Bibliografia cere art. 22–23; sunt afișate și articolele care le dau context: definițiile (art. 5), instruirea (art. 20–21) și evenimentele (art. 26–27, 29).",
+        "inText": true,
+        "chapters": [
+          {"title": "Capitolul I – Dispoziţii generale", "from": "5"},
+          {
+            "title": "Capitolul III – Obligaţiile angajatorilor · Secţiunea a 7-a – Instruirea lucrătorilor",
+            "from": "20"
+          },
+          {"title": "Capitolul IV – Obligaţiile lucrătorilor", "from": "22"},
+          {
+            "title": "Capitolul VI – Comunicarea, cercetarea, înregistrarea şi raportarea evenimentelor",
+            "from": "26"
+          }
+        ],
+        "articles": [
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["","În sensul prezentei legi, termenii şi expresiile de mai jos au următorul înţeles:"],
+              ["a)","lucrător - persoană angajată de către un angajator, potrivit legii, inclusiv studenţii, elevii în perioada efectuării stagiului de practică, precum şi ucenicii şi alţi participanţi la procesul de muncă, cu excepţia persoanelor care prestează activităţi casnice;"],
+              ["b)","angajator - persoană fizică sau juridică ce se află în raporturi de muncă ori de serviciu cu lucrătorul respectiv şi care are responsabilitatea întreprinderii şi/sau unităţii;"],
+              ["c)","alţi participanţi la procesul de muncă - persoane aflate în întreprindere şi/sau unitate, cu permisiunea angajatorului, în perioada de verificare prealabilă a aptitudinilor profesionale în vederea angajării, persoane care prestează activităţi în folosul comunităţii sau activităţi în regim de voluntariat, precum şi şomeri pe durata participării la o formă de pregătire profesională şi persoane care nu au contract individual de muncă încheiat în formă scrisă şi pentru care se poate face dovada prevederilor contractuale şi a prestaţiilor efectuate prin orice alt mijloc de probă;"],
+              ["d)","reprezentant al lucrătorilor cu răspunderi specifice în domeniul securităţii şi sănătăţii lucrătorilor - persoană aleasă, selectată sau desemnată de lucrători, în conformitate cu prevederile legale, să îi reprezinte pe aceştia în ceea ce priveşte problemele referitoare la protecţia securităţii şi sănătăţii lucrătorilor în muncă;"],
+              ["e)","prevenire - ansamblul de dispoziţii sau măsuri luate ori prevăzute în toate etapele procesului de muncă, în scopul evitării sau diminuării riscurilor profesionale;"],
+              ["f)","eveniment - accidentul care a antrenat decesul sau vătămări ale organismului, produs în timpul procesului de muncă ori în îndeplinirea îndatoririlor de serviciu, situaţia de persoană dată dispărută sau accidentul de traseu ori de circulaţie, în condiţiile în care au fost implicate persoane angajate, incidentul periculos, precum şi cazul susceptibil de boală profesională sau legată de profesiune;"],
+              ["g)","accident de muncă - vătămarea violentă a organismului, precum şi intoxicaţia acută profesională, care au loc în timpul procesului de muncă sau în îndeplinirea îndatoririlor de serviciu şi care provoacă incapacitate temporară de muncă de cel puţin 3 zile calendaristice, invaliditate ori deces;"],
+              ["h)","boală profesională - afecţiunea care se produce ca urmare a exercitării unei meserii sau profesii, cauzată de agenţi nocivi fizici, chimici ori biologici caracteristici locului de muncă, precum şi de suprasolicitarea diferitelor organe sau sisteme ale organismului, în procesul de muncă;"],
+              ["i)","echipament de muncă - orice maşină, aparat, unealtă sau instalaţie folosită în muncă;"],
+              ["j)","echipament individual de protecţie - orice echipament destinat a fi purtat sau mânuit de un lucrător pentru a-l proteja împotriva unuia ori mai multor riscuri care ar putea să îi pună în pericol securitatea şi sănătatea la locul de muncă, precum şi orice supliment sau accesoriu proiectat pentru a îndeplini acest obiectiv;"],
+              ["k)","loc de muncă - locul destinat să cuprindă posturi de lucru, situat în clădirile întreprinderii şi/sau unităţii, inclusiv orice alt loc din aria întreprinderii şi/sau unităţii la care lucrătorul are acces în cadrul desfăşurării activităţii;"],
+              ["l)","pericol grav şi iminent de accidentare - situaţia concretă, reală şi actuală căreia îi lipseşte doar prilejul declanşator pentru a produce un accident în orice moment;"],
+              ["m)","stagiu de practică - instruirea cu caracter aplicativ, specifică meseriei sau specialităţii în care se pregătesc elevii, studenţii, ucenicii, precum şi şomerii în perioada de reconversie profesională;"],
+              ["n)","securitate şi sănătate în muncă - ansamblul de activităţi instituţionalizate având ca scop asigurarea celor mai bune condiţii în desfăşurarea procesului de muncă, apărarea vieţii, integrităţii fizice şi psihice, sănătăţii lucrătorilor şi a altor persoane participante la procesul de muncă;"],
+              ["o)","incident periculos - evenimentul identificabil, cum ar fi explozia, incendiul, avaria, accidentul tehnic, emisiile majore de noxe, rezultat din disfuncţionalitatea unei activităţi sau a unui echipament de muncă sau/şi din comportamentul neadecvat al factorului uman care nu a afectat lucrătorii, dar ar fi fost posibil să aibă asemenea urmări şi/sau a cauzat ori ar fi fost posibil să producă pagube materiale;"],
+              ["p)","servicii externe - persoane juridice sau fizice din afara întreprinderii/unităţii, abilitate să presteze servicii de protecţie şi prevenire în domeniul securităţii şi sănătăţii în muncă, conform legii;"],
+              ["q)","accident uşor - eveniment care are drept consecinţă leziuni superficiale care necesită numai acordarea primelor îngrijiri medicale şi a antrenat incapacitate de muncă cu o durată mai mică de 3 zile;"],
+              ["r)","boală legată de profesiune - boala cu determinare multifactorială, la care unii factori determinanţi sunt de natură profesională."]
+            ]
+          },
+          {
+            "no": "20",
+            "label": "Art. 20",
+            "items": [
+              ["(1)","Angajatorul trebuie să asigure condiţii pentru ca fiecare lucrător să primească o instruire suficientă şi adecvată în domeniul securităţii şi sănătăţii în muncă, în special sub formă de informaţii şi instrucţiuni de lucru, specifice locului de muncă şi postului său:"],
+              ["a)","la angajare;"],
+              ["b)","la schimbarea locului de muncă sau la transfer;"],
+              ["c)","la introducerea unui nou echipament de muncă sau a unor modificări ale echipamentului existent;"],
+              ["d)","la introducerea oricărei noi tehnologii sau proceduri de lucru;"],
+              ["e)","la executarea unor lucrări speciale."],
+              ["(2)","Instruirea prevăzută la alin. (1) trebuie să fie:"],
+              ["a)","adaptată evoluţiei riscurilor sau apariţiei unor noi riscuri;"],
+              ["b)","periodică şi ori de câte ori este necesar."],
+              ["(3)","Angajatorul se va asigura că lucrătorii din întreprinderi şi/sau unităţi din exterior, care desfăşoară activităţi în întreprinderea şi/sau unitatea proprie, au primit instrucţiuni adecvate referitoare la riscurile legate de securitate şi sănătate în muncă, pe durata desfăşurării activităţilor."],
+              ["(4)","Reprezentanţii lucrătorilor cu răspunderi specifice în domeniul securităţii şi sănătăţii în muncă au dreptul la instruire corespunzătoare."]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21",
+            "items": [
+              ["(1)","Instruirea prevăzută la art. 20 alin. (1), (2) şi (4) nu poate fi realizată pe cheltuiala lucrătorilor şi/sau a reprezentanţilor acestora."],
+              ["(2)","Instruirea prevăzută la art. 20 alin. (1) şi (2) trebuie să se realizeze în timpul programului de lucru."],
+              ["(3)","Instruirea prevăzută la art. 20 alin. (4) trebuie să se efectueze în timpul programului de lucru, fie în interiorul, fie în afara întreprinderii şi/sau unităţii, fie online."],
+              ["(4)","Dovada instruirii prevăzută la art. 20 poate fi realizată în format electronic sau pe suport hârtie în funcţie de modalitatea aleasă de către angajator, stabilită prin regulamentul intern."],
+              ["(5)","În cazul folosirii variantei în format electronic prevăzute la alin. (4), dovada instruirii trebuie să fie semnată cu semnătură electronică, semnătură electronică avansată sau semnătură electronică calificată."]
+            ]
+          },
+          {
+            "no": "22",
+            "label": "Art. 22",
+            "items": [
+              ["","Fiecare lucrător trebuie să îşi desfăşoare activitatea, în conformitate cu pregătirea şi instruirea sa, precum şi cu instrucţiunile primite din partea angajatorului, astfel încât să nu expună la pericol de accidentare sau îmbolnăvire profesională atât propria persoană, cât şi alte persoane care pot fi afectate de acţiunile sau omisiunile sale în timpul procesului de muncă."]
+            ]
+          },
+          {
+            "no": "23",
+            "label": "Art. 23",
+            "items": [
+              ["(1)","În mod deosebit, în scopul realizării obiectivelor prevăzute la art. 22, lucrătorii au următoarele obligaţii:"],
+              ["a)","să utilizeze corect maşinile, aparatura, uneltele, substanţele periculoase, echipamentele de transport şi alte mijloace de producţie;"],
+              ["b)","să utilizeze corect echipamentul individual de protecţie acordat şi, după utilizare, să îl înapoieze sau să îl pună la locul destinat pentru păstrare;"],
+              ["c)","să nu procedeze la scoaterea din funcţiune, la modificarea, schimbarea sau înlăturarea arbitrară a dispozitivelor de securitate proprii, în special ale maşinilor, aparaturii, uneltelor, instalaţiilor tehnice şi clădirilor, şi să utilizeze corect aceste dispozitive;"],
+              ["d)","să comunice imediat angajatorului şi/sau lucrătorilor desemnaţi orice situaţie de muncă despre care au motive întemeiate să o considere un pericol pentru securitatea şi sănătatea lucrătorilor, precum şi orice deficienţă a sistemelor de protecţie;"],
+              ["e)","să aducă la cunoştinţă conducătorului locului de muncă şi/sau angajatorului accidentele suferite de propria persoană;"],
+              ["f)","să coopereze cu angajatorul şi/sau cu lucrătorii desemnaţi, atât timp cât este necesar, pentru a face posibilă realizarea oricăror măsuri sau cerinţe dispuse de către inspectorii de muncă şi inspectorii sanitari, pentru protecţia sănătăţii şi securităţii lucrătorilor;"],
+              ["g)","să coopereze, atât timp cât este necesar, cu angajatorul şi/sau cu lucrătorii desemnaţi, pentru a permite angajatorului să se asigure că mediul de muncă şi condiţiile de lucru sunt sigure şi fără riscuri pentru securitate şi sănătate, în domeniul său de activitate;"],
+              ["h)","să îşi însuşească şi să respecte prevederile legislaţiei din domeniul securităţii şi sănătăţii în muncă şi măsurile de aplicare a acestora;"],
+              ["i)","să dea relaţiile solicitate de către inspectorii de muncă şi inspectorii sanitari."],
+              ["(2)","Obligaţiile prevăzute la alin. (1) se aplică, după caz, şi celorlalţi participanţi la procesul de muncă, potrivit activităţilor pe care aceştia le desfăşoară."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26",
+            "items": [
+              ["","Orice eveniment, aşa cum este definit la art. 5 lit. f), va fi comunicat de îndată angajatorului, de către conducătorul locului de muncă sau de orice altă persoană care are cunoştinţă despre producerea acestuia."]
+            ]
+          },
+          {
+            "no": "27",
+            "label": "Art. 27",
+            "items": [
+              ["(1)","Angajatorul are obligaţia să comunice evenimentele, de îndată, după cum urmează:"],
+              ["a)","inspectoratelor teritoriale de muncă, toate evenimentele aşa cum sunt definite la art. 5 lit. f);"],
+              ["b)","asigurătorului, potrivit Legii nr. 346/2002 privind asigurarea pentru accidente de muncă şi boli profesionale, cu modificările şi completările ulterioare, evenimentele urmate de incapacitate temporară de muncă, invaliditate sau deces, la confirmarea acestora;"],
+              ["c)","organelor de urmărire penală, după caz."],
+              ["(2)","Orice medic, inclusiv medicul de medicină a muncii aflat într-o relaţie contractuală cu angajatorul, conform prevederilor legale, va semnala obligatoriu suspiciunea de boală profesională sau legată de profesiune, depistată cu prilejul prestaţiilor medicale."],
+              ["(3)","Semnalarea prevăzută la alin. (2) se efectuează către autoritatea de sănătate publică teritorială sau a municipiului Bucureşti, de îndată, la constatarea cazului."]
+            ]
+          },
+          {
+            "no": "29",
+            "label": "Art. 29",
+            "items": [
+              ["(1)","Cercetarea evenimentelor este obligatorie şi se efectuează după cum urmează:"],
+              ["a)","de către angajator, în cazul evenimentelor care au produs incapacitate temporară de muncă;"],
+              ["b)","de către inspectoratele teritoriale de muncă, în cazul evenimentelor care au produs invaliditate evidentă sau confirmată, deces, accidente colective, incidente periculoase, în cazul evenimentelor care au produs incapacitate temporară de muncă lucrătorilor la angajatorii persoane fizice, precum şi în situaţiile cu persoane date dispărute;"],
+              ["c)","de către Inspecţia Muncii, în cazul accidentelor colective, generate de unele evenimente deosebite, precum avariile sau exploziile;"],
+              ["d)","de către autorităţile de sănătate publică teritoriale, respectiv a municipiului Bucureşti, în cazul suspiciunilor de boală profesională şi a bolilor legate de profesiune."],
+              ["(2)","Rezultatul cercetării evenimentului se va consemna într-un proces-verbal."],
+              ["(3)","În caz de deces al persoanei accidentate ca urmare a unui eveniment, instituţia medico-legală competentă este obligată să înainteze inspectoratului teritorial de muncă, în termen de 7 zile de la data decesului, o copie a raportului de constatare medico-legală."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

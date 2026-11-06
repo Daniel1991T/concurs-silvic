@@ -1,0 +1,907 @@
+{
+  "id": "raspundere",
+  "title": "Limitarea răspunderii patrimoniale",
+  "act": "Ordinul nr. 769/2006 și Metodologia anexă",
+  "version": "Ordin și metodologie în forma la zi (29.10.2026); Codul silvic art. 96 și 167 în forma din ianuarie 2025",
+  "intro": "Când dispar arbori din canton, pădurarul poate fi obligat să plătească paguba. Metodologia spune în ce condiții și în ce situații angajatorul poate reduce suma, adică poate limita răspunderea. E un act scurt, dar cu condiții precise, bune de întrebat la concurs.",
+  "lesson": [
+    {
+      "title": "1. Atenție: ce s-a schimbat în 2025",
+      "paragraphs": [
+        {
+          "text": "Metodologia din 2006 a fost făcută pe baza **OUG 85/2006** privind evaluarea pagubelor. Noul Cod silvic **a abrogat OUG 85/2006** la intrarea lui în vigoare.",
+          "refs": ["Cod art. 167 lit. b)"]
+        },
+        {
+          "text": "Pe portalul legislativ, Ordinul 769/2006 apare tot ca fiind în vigoare, dar trimite la coloane din anexele OUG 85/2006 (cu valori ale factorului „k” pentru răspundere limitată și nelimitată) care nu mai există. Noul Cod are un singur tabel de valori „k” (anexa 3).",
+          "refs": ["Met. art. 2"]
+        },
+        {
+          "text": "Pentru concurs: învață metodologia așa cum e scrisă, pentru că e în bibliografie, dar știi că regula de bază privind răspunderea pădurarului este acum **art. 96 din Codul silvic** (secțiunea următoare). Dacă la interviu ești întrebat, poți spune exact asta."
+        }
+      ],
+      "keep": [
+        "OUG 85/2006 a fost abrogată de Codul silvic (art. 167 lit. b)",
+        "Metodologia 769/2006 trimite la coloane care nu mai există",
+        "Regula de bază azi: Codul silvic, art. 96"
+      ],
+      "quiz": [
+        {
+          "q": "Pe ce act se sprijinea metodologia din 2006?",
+          "options": ["OUG 85/2006", "Legea 171/2010", "HG 497/2020", "OG 2/2001"],
+          "answer": 0,
+          "explain": "OUG 85/2006 privind evaluarea pagubelor, abrogată între timp.",
+          "ref": "Met. art. 1"
+        },
+        {
+          "q": "Unde e azi regula de bază privind răspunderea pădurarului?",
+          "options": ["Codul silvic, art. 96", "Codul penal", "Legea 407/2006", "OG 2/2001"],
+          "answer": 0,
+          "explain": "Art. 96 din Codul silvic.",
+          "ref": "Cod art. 96 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "2. Regula de bază din Codul silvic",
+      "paragraphs": [
+        {
+          "text": "Personalul silvic cu atribuții de pază **răspunde patrimonial**, după Codul muncii, pentru pagubele din pădurea pe care o păzește, produse de alții sau de el însuși, **dacă nu depune o informare scrisă la ocol de îndată ce constată paguba**.",
+          "refs": ["Cod art. 96 alin. (1)"]
+        },
+        {
+          "text": "După ce primește informarea, șeful ocolului **sesizează de îndată poliția sau parchetul**.",
+          "refs": ["Cod art. 96 alin. (2)"]
+        },
+        {
+          "text": "Procesele pentru răspundere patrimonială împotriva personalului de pază se judecă la **instanțele de conflicte de muncă**.",
+          "refs": ["Cod art. 96 alin. (3)"]
+        },
+        {
+          "text": "Pagubele se constată și se evaluează de **personalul silvic cu atribuții de control**, pe bază de proces-verbal. Sumele le încasează ocolul; la pădurile statului sau ale UAT-urilor, administratorul sau proprietarul **trebuie să se constituie parte civilă**.",
+          "refs": ["Cod art. 96 alin. (4)–(5)"]
+        },
+        {
+          "text": "Sumele cuvenite proprietarilor se transferă de ocol în **maximum 30 de zile** de la încasare.",
+          "refs": ["Cod art. 96 alin. (7)"]
+        }
+      ],
+      "keep": [
+        "Informarea scrisă la ocol, de îndată = scapi de răspundere pentru pagubele terților",
+        "Șeful ocolului sesizează de îndată poliția/parchetul",
+        "Litigii: instanțele de conflicte de muncă",
+        "Transfer sume la proprietari: max. 30 de zile"
+      ],
+      "quiz": [
+        {
+          "q": "Ce îl scutește pe pădurar de răspundere pentru pagubele terților?",
+          "options": [
+            "O amendă plătită",
+            "Informarea scrisă la ocol, de îndată ce constată paguba",
+            "Un telefon la poliție",
+            "Un control parțial"
+          ],
+          "answer": 1,
+          "explain": "Informarea scrisă imediată.",
+          "ref": "Cod art. 96 alin. (1)"
+        },
+        {
+          "q": "Cine constată și evaluează pagubele care angajează răspunderea?",
+          "options": [
+            "Pădurarul",
+            "Personalul silvic cu atribuții de control, pe bază de PV",
+            "Poliția",
+            "Proprietarul"
+          ],
+          "answer": 1,
+          "explain": "Personalul cu atribuții de control.",
+          "ref": "Cod art. 96 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "3. Cine poate limita răspunderea și în ce condiții",
+      "paragraphs": [
+        {
+          "text": "Răspunderea poate fi limitată pentru cei care dovedesc că și-au făcut datoria **cu diligență și bună-credință** și au luat măsuri să evite pagubele.",
+          "refs": ["Met. art. 1"]
+        },
+        {
+          "text": "Limitarea o acordă **persoana juridică angajatoare**, și doar **la cererea** celui în cauză.",
+          "refs": ["Met. art. 2 alin. (1)"]
+        },
+        {
+          "text": "Ca să ceară limitarea, pădurarul trebuie să îndeplinească **cumulativ** trei condiții:",
+          "refs": ["Met. art. 4 alin. (1)"]
+        },
+        {
+          "text": "**a)** a anunțat angajatorul **în scris, în 24 de ore** de la constatare; **b)** are **condică de serviciu** și a trecut în ea pagubele; **c)** și-a îndeplinit obligațiile de pază cu diligență și bună-credință, lucru care reiese din documentele făcute după Regulamentul de pază și Planul de pază.",
+          "refs": ["Met. art. 4 alin. (1) lit. a)–c)"]
+        },
+        {
+          "text": "Răspunderea **nu se limitează** dacă se constată că personalul de pază a fost **implicat** în producerea pagubelor.",
+          "refs": ["Met. art. 4 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "Acordă: angajatorul, numai la cerere",
+        "Condiții cumulative: anunț scris în 24 h + condică cu pagubele + diligență dovedită",
+        "Implicat în pagubă = fără limitare"
+      ],
+      "quiz": [
+        {
+          "q": "Limitarea răspunderii se acordă:",
+          "options": [
+            "Automat",
+            "Numai la cererea celui în cauză",
+            "Doar de instanță",
+            "Doar pădurarilor cu vechime"
+          ],
+          "answer": 1,
+          "explain": "La cerere.",
+          "ref": "Met. art. 2 alin. (1)"
+        },
+        {
+          "q": "Pădurarul a anunțat paguba verbal, după 3 zile. Poate cere limitarea?",
+          "options": [
+            "Da",
+            "Nu, anunțul trebuie să fie în scris, în 24 de ore",
+            "Da, dacă are martori",
+            "Da, cu avizul Gărzii"
+          ],
+          "answer": 1,
+          "explain": "Condiția a): în scris, în 24 de ore.",
+          "ref": "Met. art. 4 alin. (1) lit. a)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Cele trei condiții (toate obligatorii)",
+        "items": [
+          {
+            "title": "Anunț scris în 24 de ore",
+            "text": "către angajator, de la constatarea pagubei",
+            "ref": "Met. art. 4 alin. (1) lit. a)"
+          },
+          {
+            "title": "Condica de serviciu",
+            "text": "cu pagubele înregistrate",
+            "ref": "Met. art. 4 alin. (1) lit. b)"
+          },
+          {
+            "title": "Diligență și bună-credință",
+            "text": "dovedite cu documentele de pază și Planul de pază",
+            "ref": "Met. art. 4 alin. (1) lit. c)"
+          },
+          {
+            "title": "Excludere",
+            "text": "implicat în pagubă = fără limitare",
+            "ref": "Met. art. 4 alin. (2)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Cele trei situații în care se poate limita",
+      "paragraphs": [
+        {
+          "text": "Metodologia definește situațiile în care se aplică limitarea (cele din fosta OUG 85/2006, art. 6 alin. (2)).",
+          "refs": ["Met. art. 3"]
+        },
+        {
+          "text": "**Însușirea ilegală constantă din aceeași pădure:** în aceeași suprafață s-au produs **sistematic** pagube (arbori, puieți, lăstari, pomi de Crăciun tăiați sau scoși, cu sau fără furt). Se dovedește cu înregistrările din documentele de evidență.",
+          "refs": ["Met. art. 3 alin. (1)–(2)"]
+        },
+        {
+          "text": "**Trupuri de pădure dispersate:** pădurea păzită de același om e formată din **două sau mai multe suprafețe compacte aflate la cel puțin 0,5 km** între liziere, sau are o întindere pe o direcție de **peste 5 km** (aliniamente, perdele, cordoane forestiere, păduri de protecție dig-mal).",
+          "refs": ["Met. art. 3 alin. (3)"]
+        },
+        {
+          "text": "**Pădure cu accesibilitate ridicată:** pădure **limitrofă localităților**; pădure la care se ajunge pe căi de acces care nu pot fi închise prin măsuri de pază; pădure cu **presiune antropică ridicată**.",
+          "refs": ["Met. art. 3 alin. (4)"]
+        }
+      ],
+      "keep": [
+        "Pagube sistematice în aceeași pădure",
+        "Trupuri dispersate: ≥ 0,5 km între liziere sau > 5 km pe o direcție",
+        "Accesibilitate ridicată: lângă sat, acces imposibil de închis, presiune antropică"
+      ],
+      "quiz": [
+        {
+          "q": "Două trupuri de pădure aflate la 300 m între liziere sunt dispersate?",
+          "options": [
+            "Da",
+            "Nu, trebuie cel puțin 0,5 km",
+            "Da, dacă sunt în același canton",
+            "Doar dacă au sub 5 ha"
+          ],
+          "answer": 1,
+          "explain": "Pragul e 0,5 km.",
+          "ref": "Met. art. 3 alin. (3) lit. a)"
+        },
+        {
+          "q": "O pădure lipită de un sat intră în categoria:",
+          "options": ["Trupuri dispersate", "Accesibilitate ridicată", "Însușire constantă", "Niciuna"],
+          "answer": 1,
+          "explain": "Pădurea limitrofă localităților are accesibilitate ridicată.",
+          "ref": "Met. art. 3 alin. (4) lit. a)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Cele trei situații",
+        "items": [
+          {
+            "title": "Însușire constantă",
+            "text": "pagube sistematice în aceeași pădure, dovedite cu evidențe",
+            "ref": "Met. art. 3 alin. (1)–(2)"
+          },
+          {
+            "title": "Trupuri dispersate",
+            "text": "≥ 0,5 km între liziere sau > 5 km pe o direcție",
+            "ref": "Met. art. 3 alin. (3)"
+          },
+          {
+            "title": "Accesibilitate ridicată",
+            "text": "lângă localitate, acces imposibil de închis, presiune antropică",
+            "ref": "Met. art. 3 alin. (4)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "5. Procedura, pas cu pas",
+      "paragraphs": [
+        {
+          "text": "Cine constată pagubele le evaluează și depune actul constatator la angajator.",
+          "refs": ["Met. art. 5 alin. (1)–(2)"]
+        },
+        {
+          "text": "Șeful (conducătorul angajatorului) analizează: dacă **nu s-a cerut limitarea**, dispune **recuperarea** pagubei în condițiile legii.",
+          "refs": ["Met. art. 5 alin. (3)"]
+        },
+        {
+          "text": "Dacă s-a cerut limitarea, dispune întocmirea unei **documentații** care cuprinde: copii după **anunțul scris din 24 de ore** și după **condica de serviciu**, plus **referatul responsabilului compartimentului de pază**, care arată diligența și situația de limitare.",
+          "refs": ["Met. art. 5 alin. (4)–(5)"]
+        },
+        {
+          "text": "Șeful decide printr-un **act administrativ separat pentru fiecare solicitant**.",
+          "refs": ["Met. art. 6 alin. (1)"]
+        },
+        {
+          "text": "Actul se comunică **sub semnătură de primire** solicitantului și, la pădurile private sau ale UAT-urilor, **proprietarului** în patrimoniul căruia s-a produs paguba.",
+          "refs": ["Met. art. 6 alin. (2)–(3)"]
+        },
+        {
+          "text": "La calcul, în varianta din 2006: cu limitare se foloseau valorile „k” din coloanele 3, 5 și 7 ale anexelor OUG 85/2006; fără limitare, coloanele 2, 4 și 6.",
+          "refs": ["Met. art. 2 alin. (2)–(3)"]
+        }
+      ],
+      "keep": [
+        "Fără cerere → recuperare integrală",
+        "Documentație: anunțul din 24 h + condica + referatul compartimentului de pază",
+        "Act administrativ pentru fiecare solicitant, comunicat și proprietarului"
+      ],
+      "quiz": [
+        {
+          "q": "Ce conține documentația pentru limitare?",
+          "options": [
+            "Doar cererea",
+            "Copii după anunțul din 24 h și condică, plus referatul compartimentului de pază",
+            "Expertiza judiciară",
+            "Avizul primarului"
+          ],
+          "answer": 1,
+          "explain": "Copiile și referatul.",
+          "ref": "Met. art. 5 alin. (5)"
+        },
+        {
+          "q": "Cui se comunică actul administrativ de limitare la o pădure a unei UAT?",
+          "options": ["Doar pădurarului", "Pădurarului și proprietarului (UAT)", "Doar Gărzii", "Nimănui"],
+          "answer": 1,
+          "explain": "Solicitantului și proprietarului.",
+          "ref": "Met. art. 6 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Drumul unei cereri de limitare",
+        "steps": [
+          {
+            "title": "Paguba se constată și se evaluează",
+            "text": "actul constatator se depune la angajator",
+            "ref": "Met. art. 5 alin. (1)–(2)"
+          },
+          {
+            "title": "S-a cerut limitarea?",
+            "text": "dacă nu, șeful dispune recuperarea",
+            "ref": "Met. art. 5 alin. (3)"
+          },
+          {
+            "title": "Documentația",
+            "text": "anunțul din 24 h, condica, referatul compartimentului de pază",
+            "ref": "Met. art. 5 alin. (4)–(5)"
+          },
+          {
+            "title": "Act administrativ",
+            "text": "câte unul pentru fiecare solicitant",
+            "ref": "Met. art. 6 alin. (1)"
+          },
+          {
+            "title": "Comunicare",
+            "text": "solicitantului și proprietarului (privat sau UAT), sub semnătură",
+            "ref": "Met. art. 6 alin. (2)–(3)"
+          }
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Cifre și termene",
+      "rows": [
+        {
+          "what": "Anunțul scris al pagubei către angajator",
+          "value": "24 de ore de la constatare",
+          "ref": "Met. art. 4 alin. (1) lit. a)"
+        },
+        {
+          "what": "Informarea ocolului după Codul silvic",
+          "value": "de îndată",
+          "ref": "Cod art. 96 alin. (1)"
+        },
+        {
+          "what": "Sesizarea poliției/parchetului de către șeful ocolului",
+          "value": "de îndată",
+          "ref": "Cod art. 96 alin. (2)"
+        },
+        {
+          "what": "Distanța minimă între liziere (trupuri dispersate)",
+          "value": "0,5 km",
+          "ref": "Met. art. 3 alin. (3) lit. a)"
+        },
+        {
+          "what": "Întinderea pe o direcție (trupuri dispersate)",
+          "value": "peste 5 km",
+          "ref": "Met. art. 3 alin. (3) lit. b)"
+        },
+        {
+          "what": "Transferul sumelor către proprietari",
+          "value": "max. 30 de zile",
+          "ref": "Cod art. 96 alin. (7)"
+        },
+        {
+          "what": "Coloanele „k” cu limitare / fără (OUG 85/2006)",
+          "value": "3, 5, 7 / 2, 4, 6",
+          "ref": "Met. art. 2 alin. (2)–(3)"
+        }
+      ]
+    },
+    {
+      "title": "Cine ce face",
+      "rows": [
+        {
+          "what": "Acordă limitarea",
+          "value": "persoana juridică angajatoare, la cerere",
+          "ref": "Met. art. 2 alin. (1)"
+        },
+        {
+          "what": "Analizează și decide",
+          "value": "conducătorul angajatorului sau împuternicitul",
+          "ref": "Met. art. 6 alin. (1)"
+        },
+        {
+          "what": "Scrie referatul de diligență",
+          "value": "responsabilul compartimentului de pază",
+          "ref": "Met. art. 5 alin. (5) lit. b)"
+        },
+        {
+          "what": "Constată și evaluează pagubele",
+          "value": "personalul silvic cu atribuții de control, pe PV",
+          "ref": "Cod art. 96 alin. (4)"
+        },
+        {
+          "what": "Judecă litigiile",
+          "value": "instanțele de conflicte de muncă",
+          "ref": "Cod art. 96 alin. (3)"
+        },
+        {
+          "what": "Primește actul administrativ",
+          "value": "solicitantul și proprietarul (privat/UAT)",
+          "ref": "Met. art. 6 alin. (2)–(3)"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "Trei condiții, trei situații. Condițiile țin de tine (anunț în 24 h, condică, diligență), situațiile țin de pădure (pagube sistematice, trupuri dispersate, acces greu de controlat).",
+    "Trupuri dispersate: „jumătate de kilometru între bucăți sau cinci kilometri în linie”.",
+    "Dacă ai fost implicat în pagubă, nicio condiție nu te mai ajută: limitarea e exclusă."
+  ],
+  "cards": [
+    {
+      "q": "Ce act a abrogat OUG 85/2006?",
+      "a": "Noul Cod silvic, Legea 331/2024 (art. 167 lit. b).",
+      "ref": "Cod art. 167 lit. b)"
+    },
+    {
+      "q": "Când răspunde patrimonial pădurarul pentru pagubele produse de terți, după Codul silvic?",
+      "a": "Când nu depune o informare scrisă la ocol de îndată ce constată paguba.",
+      "ref": "Cod art. 96 alin. (1)"
+    },
+    {
+      "q": "Ce face șeful ocolului după informarea pădurarului?",
+      "a": "Sesizează de îndată poliția sau parchetul.",
+      "ref": "Cod art. 96 alin. (2)"
+    },
+    {
+      "q": "Ce instanțe judecă răspunderea patrimonială a personalului de pază?",
+      "a": "Instanțele de conflicte de muncă.",
+      "ref": "Cod art. 96 alin. (3)"
+    },
+    {
+      "q": "Cine acordă limitarea răspunderii?",
+      "a": "Persoana juridică angajatoare, la cererea celui în cauză.",
+      "ref": "Met. art. 2 alin. (1)"
+    },
+    {
+      "q": "Prima condiție pentru a cere limitarea?",
+      "a": "Anunțarea în scris a angajatorului în 24 de ore de la constatarea pagubelor.",
+      "ref": "Met. art. 4 alin. (1) lit. a)"
+    },
+    {
+      "q": "A doua condiție pentru a cere limitarea?",
+      "a": "Deține condică de serviciu și are înregistrate pagubele în ea.",
+      "ref": "Met. art. 4 alin. (1) lit. b)"
+    },
+    {
+      "q": "A treia condiție pentru a cere limitarea?",
+      "a": "Și-a îndeplinit obligațiile cu diligență și bună-credință, dovedit prin documentele după Regulamentul și Planul de pază.",
+      "ref": "Met. art. 4 alin. (1) lit. c)"
+    },
+    {
+      "q": "Sunt condițiile alternative sau cumulative?",
+      "a": "Cumulative.",
+      "ref": "Met. art. 4 alin. (1)"
+    },
+    {
+      "q": "Când nu se limitează răspunderea în niciun caz?",
+      "a": "Când personalul de pază a fost implicat în producerea pagubelor.",
+      "ref": "Met. art. 4 alin. (2)"
+    },
+    {
+      "q": "Ce înseamnă însușire ilegală constantă din aceeași pădure?",
+      "a": "Pagube produse sistematic în aceeași suprafață, dovedite cu evidențele specifice.",
+      "ref": "Met. art. 3 alin. (1)–(2)"
+    },
+    {
+      "q": "Când sunt trupurile de pădure dispersate?",
+      "a": "Două sau mai multe suprafețe compacte la cel puțin 0,5 km între liziere, sau întindere pe o direcție de peste 5 km.",
+      "ref": "Met. art. 3 alin. (3)"
+    },
+    {
+      "q": "Ce e o pădure cu accesibilitate ridicată?",
+      "a": "Limitrofă localităților, cu căi de acces care nu pot fi închise prin pază, sau sub presiune antropică ridicată.",
+      "ref": "Met. art. 3 alin. (4)"
+    },
+    {
+      "q": "Ce face șeful dacă nu s-a cerut limitarea?",
+      "a": "Dispune recuperarea contravalorii pagubei.",
+      "ref": "Met. art. 5 alin. (3)"
+    },
+    {
+      "q": "Ce cuprinde documentația pentru limitare?",
+      "a": "Copii după anunțul din 24 h și condică, plus referatul responsabilului compartimentului de pază.",
+      "ref": "Met. art. 5 alin. (5)"
+    },
+    {
+      "q": "Prin ce act se decide limitarea?",
+      "a": "Act administrativ emis pentru fiecare solicitant.",
+      "ref": "Met. art. 6 alin. (1)"
+    },
+    {
+      "q": "Cui se comunică actul administrativ?",
+      "a": "Solicitantului și, la pădurile private sau ale UAT, proprietarului.",
+      "ref": "Met. art. 6 alin. (2)–(3)"
+    },
+    {
+      "q": "În cât timp transferă ocolul sumele încasate către proprietari?",
+      "a": "Maximum 30 de zile de la încasare.",
+      "ref": "Cod art. 96 alin. (7)"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Ce act a abrogat OUG 85/2006, pe care se baza metodologia?",
+      "options": ["Legea 171/2010", "Legea 331/2024 – Codul silvic", "OG 2/2001", "HG 1076/2009"],
+      "answer": 1,
+      "explain": "Codul silvic din 2024 a abrogat OUG 85/2006.",
+      "ref": "Cod art. 167 lit. b)"
+    },
+    {
+      "q": "După Codul silvic, pădurarul răspunde patrimonial pentru pagubele produse de terți dacă:",
+      "options": [
+        "Paguba depășește 5 m³",
+        "Nu depune o informare scrisă la ocol de îndată ce constată paguba",
+        "Nu prinde autorul",
+        "Nu are armă"
+      ],
+      "answer": 1,
+      "explain": "Informarea scrisă imediată îl scutește de răspundere pentru pagubele terților.",
+      "ref": "Cod art. 96 alin. (1)"
+    },
+    {
+      "q": "Ce instanțe judecă acțiunile în răspundere patrimonială împotriva personalului de pază?",
+      "options": [
+        "Contencios administrativ",
+        "Instanțele de conflicte de muncă",
+        "Instanțele penale",
+        "Curtea de Conturi"
+      ],
+      "answer": 1,
+      "explain": "Competența aparține instanțelor de conflicte de muncă.",
+      "ref": "Cod art. 96 alin. (3)"
+    },
+    {
+      "q": "Cine acordă limitarea răspunderii patrimoniale?",
+      "options": [
+        "Garda Forestieră",
+        "Persoana juridică angajatoare, la cerere",
+        "Instanța, din oficiu",
+        "Proprietarul pădurii"
+      ],
+      "answer": 1,
+      "explain": "Angajatorul, numai la solicitarea personalului.",
+      "ref": "Met. art. 2 alin. (1)"
+    },
+    {
+      "q": "În ce termen trebuie anunțată în scris paguba, ca să poți cere limitarea?",
+      "options": ["Imediat, verbal", "24 de ore de la constatare", "5 zile", "La următorul control de fond"],
+      "answer": 1,
+      "explain": "În scris, angajatorului, în 24 de ore.",
+      "ref": "Met. art. 4 alin. (1) lit. a)"
+    },
+    {
+      "q": "Condițiile pentru cererea de limitare sunt:",
+      "options": [
+        "Alternative, ajunge una",
+        "Cumulative",
+        "La aprecierea pădurarului",
+        "Doar pentru pădurile statului"
+      ],
+      "answer": 1,
+      "explain": "Toate trei trebuie îndeplinite.",
+      "ref": "Met. art. 4 alin. (1)"
+    },
+    {
+      "q": "Care NU este o condiție pentru a cere limitarea?",
+      "options": [
+        "Anunț scris în 24 de ore",
+        "Condica de serviciu cu pagubele înregistrate",
+        "Diligență și bună-credință dovedite",
+        "Vechime de minimum 5 ani"
+      ],
+      "answer": 3,
+      "explain": "Vechimea nu apare printre condiții.",
+      "ref": "Met. art. 4 alin. (1)"
+    },
+    {
+      "q": "Când NU se limitează răspunderea, chiar dacă celelalte condiții sunt îndeplinite?",
+      "options": [
+        "Când paguba e mică",
+        "Când personalul de pază a fost implicat în producerea pagubelor",
+        "Când pădurea e privată",
+        "Când e iarnă"
+      ],
+      "answer": 1,
+      "explain": "Implicarea exclude limitarea.",
+      "ref": "Met. art. 4 alin. (2)"
+    },
+    {
+      "q": "Când sunt trupurile de pădure considerate dispersate?",
+      "options": [
+        "La cel puțin 0,5 km între liziere sau întindere de peste 5 km pe o direcție",
+        "La cel puțin 5 km între liziere",
+        "Când au sub 10 ha",
+        "Când sunt în județe diferite"
+      ],
+      "answer": 0,
+      "explain": "0,5 km între liziere sau peste 5 km pe o direcție.",
+      "ref": "Met. art. 3 alin. (3)"
+    },
+    {
+      "q": "Care NU este o pădure cu accesibilitate ridicată?",
+      "options": [
+        "Pădure limitrofă localităților",
+        "Pădure cu căi de acces ce nu pot fi închise prin pază",
+        "Pădure cu presiune antropică ridicată",
+        "Pădure în zona alpină, fără drumuri"
+      ],
+      "answer": 3,
+      "explain": "Pădurea izolată, fără acces, e opusul accesibilității ridicate.",
+      "ref": "Met. art. 3 alin. (4)"
+    },
+    {
+      "q": "Cum se dovedește însușirea ilegală constantă din aceeași pădure?",
+      "options": [
+        "Prin declarația pădurarului",
+        "Cu înregistrările din documentele de evidență specifice",
+        "Prin martori din sat",
+        "Prin presă"
+      ],
+      "answer": 1,
+      "explain": "Prin evidențele specifice.",
+      "ref": "Met. art. 3 alin. (2)"
+    },
+    {
+      "q": "Ce face conducătorul angajatorului dacă nu s-a cerut limitarea?",
+      "options": [
+        "Închide dosarul",
+        "Dispune recuperarea contravalorii pagubei",
+        "Cere avizul Gărzii",
+        "Trimite cazul la instanța penală"
+      ],
+      "answer": 1,
+      "explain": "Dispune recuperarea în condițiile legii.",
+      "ref": "Met. art. 5 alin. (3)"
+    },
+    {
+      "q": "Cine întocmește referatul din care rezultă diligența pădurarului?",
+      "options": ["Pădurarul însuși", "Responsabilul compartimentului de pază", "Garda", "Proprietarul"],
+      "answer": 1,
+      "explain": "Referatul responsabilului compartimentului de pază face parte din documentație.",
+      "ref": "Met. art. 5 alin. (5) lit. b)"
+    },
+    {
+      "q": "Prin ce se decide limitarea răspunderii?",
+      "options": [
+        "Hotărâre judecătorească",
+        "Act administrativ pentru fiecare solicitant",
+        "Ordin de ministru",
+        "Contract"
+      ],
+      "answer": 1,
+      "explain": "Un act administrativ individual.",
+      "ref": "Met. art. 6 alin. (1)"
+    },
+    {
+      "q": "Cui se comunică actul administrativ, în cazul unei păduri private?",
+      "options": [
+        "Doar solicitantului",
+        "Solicitantului și proprietarului pădurii",
+        "Doar Gărzii",
+        "Primăriei"
+      ],
+      "answer": 1,
+      "explain": "Ambilor, sub semnătură de primire.",
+      "ref": "Met. art. 6 alin. (2)–(3)"
+    },
+    {
+      "q": "În varianta din 2006, cu limitarea răspunderii se aplicau valorile „k” din coloanele:",
+      "options": ["2, 4, 6", "3, 5, 7", "1, 2, 3", "Toate coloanele"],
+      "answer": 1,
+      "explain": "Cu limitare: 3, 5, 7; fără limitare: 2, 4, 6.",
+      "ref": "Met. art. 2 alin. (2)"
+    },
+    {
+      "q": "În cât timp transferă ocolul către proprietari sumele încasate din pagube?",
+      "options": ["10 zile", "30 de zile", "60 de zile", "90 de zile"],
+      "answer": 1,
+      "explain": "Maximum 30 de zile de la încasare.",
+      "ref": "Cod art. 96 alin. (7)"
+    },
+    {
+      "q": "După primirea informării scrise a pădurarului, șeful ocolului:",
+      "options": [
+        "Așteaptă controlul de fond",
+        "Sesizează de îndată poliția sau parchetul",
+        "Amendează pădurarul",
+        "Informează primăria"
+      ],
+      "answer": 1,
+      "explain": "Sesizare de îndată.",
+      "ref": "Cod art. 96 alin. (2)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Furturi lângă sat",
+      "situation": "Un pădurar păzește un canton lipit de un sat, cu trei drumuri de acces care nu pot fi închise. În martie găsește 6 cioate de stejar proaspăt tăiate. A doua zi dimineață trimite în scris la ocol informarea și trece cioatele în condică.",
+      "steps": [
+        {
+          "q": "Răspunde pădurarul pentru pagubă, după Codul silvic?",
+          "a": "Pentru pagubele produse de terți nu răspunde, dacă a depus informarea scrisă la ocol de îndată ce a constatat paguba.",
+          "ref": "Cod art. 96 alin. (1)"
+        },
+        {
+          "q": "Ce face șeful ocolului după informare?",
+          "a": "Sesizează de îndată poliția sau parchetul.",
+          "ref": "Cod art. 96 alin. (2)"
+        },
+        {
+          "q": "Dacă i se impută totuși paguba, poate cere limitarea? Ce condiții are?",
+          "a": "Da, dacă le îndeplinește pe toate trei: anunț scris în 24 de ore, condica cu pagubele înregistrate și diligență dovedită prin documentele de pază și Planul de pază.",
+          "ref": "Met. art. 4 alin. (1)"
+        },
+        {
+          "q": "În ce situație de limitare se încadrează cantonul?",
+          "a": "Pădure cu accesibilitate ridicată: e limitrofă localității și are căi de acces care nu pot fi închise prin măsuri de pază.",
+          "ref": "Met. art. 3 alin. (4)"
+        },
+        {
+          "q": "Cum se termină procedura?",
+          "a": "Cu documentația (copii după anunț și condică, referatul compartimentului de pază) și un act administrativ emis pentru el, comunicat sub semnătură lui și proprietarului, dacă pădurea e privată sau a UAT.",
+          "ref": "Met. art. 5–6"
+        }
+      ]
+    },
+    {
+      "title": "Pădurarul care tace",
+      "situation": "La controlul de fond se găsesc 15 cioate nejustificate. Pădurarul le știa de o lună, dar nu le-a raportat în scris. Ulterior se dovedește că a vândut el lemnul.",
+      "steps": [
+        {
+          "q": "Poate fi limitată răspunderea?",
+          "a": "Nu. Nu a anunțat în scris în 24 de ore, iar implicarea lui în producerea pagubei exclude oricum limitarea.",
+          "ref": "Met. art. 4 alin. (1) lit. a), alin. (2)"
+        },
+        {
+          "q": "La ce instanță se judecă recuperarea pagubei?",
+          "a": "La instanța de conflicte de muncă.",
+          "ref": "Cod art. 96 alin. (3)"
+        },
+        {
+          "q": "Pe lângă răspunderea patrimonială, ce alte răspunderi pot apărea?",
+          "a": "Încălcarea obligațiilor de serviciu atrage răspunderea penală sau disciplinară, după caz.",
+          "ref": "Cod art. 96 alin. (4)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Ord",
+        "name": "Ordinul nr. 769/2006",
+        "title": "Ordinul nr. 769/2006 al ministrului agriculturii, pădurilor și dezvoltării rurale",
+        "note": "Publicat în Monitorul Oficial nr. 967 din 4 decembrie 2006. Formă aplicabilă la 29 octombrie 2026.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["","Se aprobă Metodologia privind limitarea răspunderii patrimoniale a personalului de pază a pădurilor, prevăzută în anexa care face parte integrantă din prezentul ordin."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [["", "Prezentul ordin se publică în Monitorul Oficial al României, Partea I."]]
+          }
+        ]
+      },
+      {
+        "key": "Met",
+        "name": "Metodologia limitării răspunderii patrimoniale",
+        "title": "Anexă – Metodologia privind limitarea răspunderii patrimoniale a personalului de pază a pădurilor",
+        "note": "Formă aplicabilă la 29 octombrie 2026. Trimite la OUG 85/2006, abrogată prin Codul silvic.",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["","Răspunderea patrimonială a persoanelor cu atribuţii de pază a pădurilor, care fac dovada că şi-au îndeplinit cu diligenţă şi cu bună-credinţă obligaţiile de serviciu şi au luat măsurile necesare pentru evitarea producerii pagubelor, poate fi limitată în situaţiile prevăzute la art. 6 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 85/2006 privind stabilirea modalităţii de evaluare a pagubelor produse vegetaţiei forestiere din păduri şi din afara acestora, conform prezentei metodologii."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["(1)","Persoana juridică angajatoare a personalului cu atribuţii de pază a pădurilor poate limita răspunderea patrimonială, la solicitarea acestuia, în condiţiile art. 1."],
+              ["(2)","În situaţia limitării răspunderii patrimoniale, la calculul prejudiciului se aplică valoarea factorului \"k\" din coloanele 3, 5 şi 7 din anexele nr. 1, 2 şi 3 la Ordonanţa de urgenţă a Guvernului nr. 85/2006."],
+              ["(3)","În situaţia în care nu se limitează răspunderea patrimonială, la calculul prejudiciului se aplică valoarea factorului \"k\" din coloanele 2, 4 şi 6 din anexele nr. 1, 2 şi 3 la Ordonanţa de urgenţă a Guvernului nr. 85/2006."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["(1)","Prin însuşirea ilegală, în mod constant, din aceeaşi pădure, de arbori, puieţi, lăstari, pomi de Crăciun, după caz, se înţelege că în aceeaşi suprafaţă de pădure s-au produs sistematic pagube, astfel cum sunt definite de Ordonanţa de urgenţă a Guvernului nr. 85/2006, prin tăierea sau scoaterea din rădăcini a unor arbori, puieţi, lăstari, pomi de Crăciun, cu sau fără însuşirea acestora."],
+              ["(2)","Dovada producerii sistematice de pagube în condiţiile alin. (1) se face cu înregistrările din documentele de evidenţă specifice."],
+              ["(3)","Prin trupuri de pădure dispersate se înţelege că pădurea pe care o are în pază aceeaşi persoană este constituită din:"],
+              ["a)","două sau mai multe suprafeţe compacte de pădure, aflate la distanţă de cel puţin 0,5 km între liziere;"],
+              ["b)","suprafeţe de pădure cu o extindere pe o anumită direcţie mai mare de 5 km, aliniamente, perdele forestiere, cordoane forestiere, păduri cu rol de protecţie din zona dig-mal."],
+              ["(4)","Prin pădure cu accesibilitate ridicată, în sensul prezentei metodologii, se înţelege:"],
+              ["a)","pădure limitrofă localităţilor;"],
+              ["b)","pădure la care se poate ajunge pe una sau mai multe căi de acces, în tot timpul sau în anumite perioade ale anului, dar pe care nu se poate limita accesul cu mijloace de transport prin măsuri specifice de pază a pădurii în scopul prevenirii sau reducerii pagubelor;"],
+              ["c)","pădure asupra căreia se manifestă presiunea ridicată a factorului antropic."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","Personalul care asigură paza pădurii poate solicita limitarea răspunderii patrimoniale dacă îndeplineşte cumulativ următoarele condiţii:"],
+              ["a)","aduce la cunoştinţa persoanei juridice - angajator, în scris, în termen de 24 de ore de la constatare, pagubele produse;"],
+              ["b)","deţine condică de serviciu şi are înregistrate pagubele produse în suprafaţa de pădure pe care o are în pază;"],
+              ["c)","şi-a îndeplinit cu diligenţă şi bună-credinţă obligaţiile de serviciu privitoare la paza pădurii în care s-au produs pagubele, aspect care rezultă din documentele întocmite în conformitate cu Regulamentul pentru paza fondului forestier şi cu Planul de pază, aprobate în condiţiile legii, şi au luat măsurile necesare pentru evitarea producerii pagubelor."],
+              ["(2)","Răspunderea patrimonială nu se limitează în cazul în care se constată implicarea personalului cu atribuţii de pază a pădurilor în producerea pagubelor."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","După constatarea pagubelor prevăzute la art. 6 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 85/2006, personalul cu atribuţii în constatarea acestora le evaluează în conformitate cu prevederile art. 2 alin. (2) şi (3)."],
+              ["(2)","Actul constatator se depune de personalul prevăzut la alin. (1) la persoana juridică angajatoare a personalului de pază a pădurii."],
+              ["(3)","Conducătorul persoanei juridice angajatoare sau împuternicitul acestuia analizează documentaţia depusă şi, dacă nu este solicitată limitarea răspunderii patrimoniale, dispune recuperarea contravalorii pagubei în condiţiile legii."],
+              ["(4)","Dacă este solicitată limitarea răspunderii patrimoniale, conducătorul persoanei juridice care asigură paza pădurii dispune întocmirea documentaţiei din care să rezulte că sunt îndeplinite condiţiile de solicitare şi situaţiile de limitare a acesteia."],
+              ["(5)","Documentaţia prevăzută la alin. (4) trebuie să cuprindă:"],
+              ["a)","copie după documentele prevăzute la art. 4 alin. (1) lit. a) şi b);"],
+              ["b)","referatul responsabilului compartimentului de pază, din care să rezulte că personalul care solicită limitarea răspunderii patrimoniale şi-a îndeplinit cu diligenţă şi bună-credinţă obligaţiile de serviciu privitoare la paza pădurii în care s-au produs pagubele şi că se găseşte în una dintre situaţiile prevăzute la art. 6 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 85/2006."]
+            ]
+          },
+          {
+            "no": "6",
+            "label": "Art. 6",
+            "items": [
+              ["(1)","Documentaţia prevăzută la art. 5 alin. (5) se analizează de conducătorul persoanei juridice angajatoare sau de împuternicitul acestuia, care dispune, prin actul administrativ pe care îl emite pentru fiecare persoană solicitantă, în ceea ce priveşte limitarea răspunderii patrimoniale."],
+              ["(2)","Actul administrativ emis potrivit alin. (1) se comunică sub semnătură de primire persoanei care a solicitat limitarea răspunderii."],
+              ["(3)","Actul administrativ emis potrivit alin. (1) se comunică sub semnătură de primire proprietarului în patrimoniul căruia s-a produs paguba, în cazul pădurilor proprietate privată şi al pădurilor proprietate publică a unităţilor administrativ-teritoriale."]
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – articolele legate de răspundere",
+        "note": "Legea nr. 331/2024, în forma din 12 ianuarie 2025 (salvată de tine); art. 167 redat parțial (lit. a–b).",
+        "inText": true,
+        "chapters": [],
+        "articles": [
+          {
+            "no": "96",
+            "label": "Art. 96",
+            "items": [
+              ["(1)","Personalul silvic cu atribuţii de pază a FFN răspunde patrimonial, în conformitate cu prevederile Legii nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare, pentru pagubele în FFN pe care îl are în pază, produse de terţi sau din fapta proprie, în situaţia în care acesta nu depune o informare scrisă către ocolul silvic de îndată ce constată existenţa pagubelor."],
+              ["(2)","Conducătorul ocolului silvic are obligaţia de a sesiza de îndată de la primirea informării scrise menţionate la alin. (1) unităţile de poliţie sau de parchet competente teritorial."],
+              ["(3)","Acţiunile în răspundere patrimonială formulate împotriva personalului silvic cu atribuţii de pază a FFN pentru pagubele produse în FFN pe care îl are în pază, în condiţiile prezentei legi, sunt de competenţa materială a instanţelor de conflicte de muncă."],
+              ["(4)","Constatarea şi evaluarea pagubelor care angajează răspunderea patrimonială se fac de către personalul silvic cu atribuţii de control, prin fişa postului sau prin delegare, după caz, pe bază de proces-verbal. Încălcarea obligaţiilor de serviciu atrage răspunderea penală sau disciplinară, după caz."],
+              ["(5)","Contravaloarea pagubelor constatate şi evaluate în condiţiile alin. (4) se încasează de către ocolul silvic care asigură administrarea/serviciile silvice şi are destinaţiile prevăzute de prezenta lege. În cazul pagubelor constatate în FFN, proprietatea statului sau a unităţilor administrativ-teritoriale, administratorul/proprietarul terenului este obligat să se constituie parte civilă în instanţă pentru recuperarea pagubei, sub sancţiunea recuperării acestei pagube pe cale civilă de la conducătorul structurii de administrare."],
+              ["(6)","În cazul terenurilor din FFN preluate în pază de ocolul silvic în baza actelor de constatare menţionate la art. 31 alin. (3) şi pentru care nu sunt încheiate contracte de administrare sau de servicii silvice minimale, sumele încasate ca despăgubiri şi care, potrivit prezentei legi, ar trebui să se acorde proprietarului pădurii în care s-a produs paguba se fac venit la fondul de ameliorare a fondului funciar cu destinaţie silvică şi se utilizează, la cerere, de către ocolul silvic care asigură administrarea/serviciile silvice."],
+              ["(7)","Transferul sumelor prevăzute la alin. (5) şi (6) care, potrivit prezentei legi, revin proprietarilor/deţinătorilor cu orice titlu de fond forestier se face de ocolul silvic în maximum 30 de zile de la data încasării acestora."]
+            ]
+          },
+          {
+            "no": "104",
+            "label": "Art. 104",
+            "items": [
+              ["(1)","Arborii destinaţi tăierii se inventariază şi, în funcţie de natura tăierii, se marchează, după caz, cu dispozitive speciale de marcat, în conformitate cu regulamentul prevăzut la alin. (4). Pentru lucrările de conducere şi îngrijire a arboretelor cu vârsta până la 30 de ani nu se folosesc dispozitive speciale de marcat."],
+              ["(2)","Dispozitivele speciale de marcat se folosesc şi de către personalul cu atribuţii de control pentru marcarea cioatelor arborilor tăiaţi ilegal."],
+              ["(3)","Dispozitivelor speciale de marcat li se aplică regimul juridic al mărcilor şi sigiliilor."],
+              ["(4)","Forma şi modul de utilizare a dispozitivelor speciale de marcat, precum şi modul de marcare a arborilor sau a unor loturi de arbori se stabilesc prin regulament, aprobat prin ordin al conducătorului Autorităţii."],
+              ["(5)","Folosirea dispozitivelor speciale de marcat se face numai de către personalul împuternicit."],
+              ["(6)","Personalul împuternicit pentru folosirea dispozitivului special de marcat are obligaţia de a nu îl folosi în alte scopuri sau în alte locaţii decât cele prevăzute în delegaţia de marcare emisă sau după expirarea termenului înscris în delegaţie."],
+              ["(7)","Pentru marcarea arborilor pot fi utilizate şi alte sisteme de marcare în baza regulamentului prevăzut la alin. (4)."],
+              ["(8)","Prin regulamentul prevăzut la alin. (4) se pot stabili, pe zone-pilot, şi modalităţi de recoltare a arborilor fără folosirea dispozitivelor speciale de marcat."],
+              ["(9)","Administratorii de terenuri cu destinaţie forestieră pot alege să implementeze un sistem alternativ de marcare, care să consemneze elemente de identificare a arborilor de viitor, cu renunţarea marcării arborilor de extras. Experimentarea acestor sisteme este supusă avizării prealabile a Gărzii Forestiere competente teritorial şi este condiţionată de existenţa unei monitorizări video permanente a tuturor ieşirilor posibile din fondul forestier administrat."]
+            ]
+          },
+          {
+            "no": "167",
+            "label": "Art. 167",
+            "items": [
+              ["","La data intrării în vigoare a prezentei legi se abrogă:"],
+              ["a)","Legea nr. 46/2008 - Codul silvic, republicată în Monitorul Oficial al României, Partea I, nr. 611 din 12 august 2015, cu modificările şi completările ulterioare;"],
+              ["b)","Ordonanţa de urgenţă a Guvernului nr. 85/2006 privind stabilirea modalităţilor de evaluare a pagubelor produse vegetaţiei forestiere din păduri şi din afara acestora, publicată în Monitorul Oficial al României, Partea I, nr. 926 din 15 noiembrie 2006, aprobată cu modificări şi completări prin Legea nr. 84/2007;"]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

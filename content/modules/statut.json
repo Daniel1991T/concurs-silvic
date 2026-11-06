@@ -1,0 +1,1822 @@
+{
+  "id": "statut",
+  "title": "Statutul personalului silvic",
+  "act": "OUG 59/2000",
+  "version": "Consolidată la 29 octombrie 2026 (ultima modificare: OUG 26/2026)",
+  "intro": "Cine e personal silvic, cum se angajează și promovează (grade, gradații, vechimi), ce drepturi are (lemn de foc, teren, locuință, sporuri, premii), ce obligații, cum e protejat și cum se sancționează disciplinar. La concurs se cer mult cifrele: vechimile din anexa 1, cei 6 m³ și 10 m³ de lemn, 5.000 m² teren, 30%, 50 km.",
+  "lesson": [
+    {
+      "title": "1. Cine e personal silvic",
+      "paragraphs": [
+        {
+          "text": "Personal silvic = persoane cu **pregătire de specialitate în silvicultură**, atestată prin diplomă recunoscută în România, care lucrează în domeniul silviculturii.",
+          "refs": ["OUG art. 1 alin. (1)"]
+        },
+        {
+          "text": "Lucrează în: Autoritate și structurile ei teritoriale, **administratorii pădurilor statului** (Romsilva), ocoalele de regim, structurile de vânătoare, administrațiile ariilor protejate, cercetare, învățământ, sindicate, firme atestate, ONG-uri, herghelii etc.",
+          "refs": ["OUG art. 2"]
+        },
+        {
+          "text": "Personalul din entitățile de la art. 2 **lit. a)–f)** (Autoritate, Romsilva, ocoale de regim, structuri superioare, vânătoare, arii protejate) este **învestit cu exercițiul autorității publice** la pază, constatarea contravențiilor și a infracțiunilor.",
+          "refs": ["OUG art. 3"]
+        }
+      ],
+      "keep": ["Personal silvic = diplomă în silvicultură + activitate în silvicultură","Autoritate publică: entitățile de la art. 2 lit. a)–f), inclusiv Romsilva"],
+      "quiz": [
+        {
+          "q": "Personalul silvic din cercetare e învestit cu autoritate publică?",
+          "options": ["Da", "Nu, doar entitățile de la lit. a)–f)", "Doar la vânătoare", "Doar cu aviz"],
+          "answer": 1,
+          "explain": "Cercetarea e la lit. g).",
+          "ref": "OUG art. 3"
+        }
+      ]
+    },
+    {
+      "title": "2. Categorii și condiții de angajare",
+      "paragraphs": [
+        {
+          "text": "După raportul de muncă: **funcționar public**; angajat cu **contract individual de muncă**; numit cu **contract de mandat**; **personal didactic**.",
+          "refs": ["OUG art. 4 alin. (1)"]
+        },
+        {
+          "text": "După studii: superioare de lungă durată (ingineri); superioare de scurtă durată (subingineri); postliceale (tehnicieni); liceu tehnologic, școală profesională, formare profesională (pădurari).",
+          "refs": ["OUG art. 4 alin. (2)"]
+        },
+        {
+          "text": "Condiții cumulative de angajare: **cetățean român**; cunoaște limba română; **minimum 18 ani**; **apt medical și psihologic**; studiile cerute; **necondamnat definitiv pentru o infracțiune cu intenție în domeniul silvic**, în afară de cazul reabilitării.",
+          "refs": ["OUG art. 5 alin. (2)"]
+        },
+        {
+          "text": "Personalul silvic are **stabilitate și continuitate** în serviciu.",
+          "refs": ["OUG art. 5 alin. (3)"]
+        }
+      ],
+      "keep": ["4 categorii: funcționar public, CIM, mandat, didactic","Condiții: cetățean român, română, 18 ani, apt medical și psihologic, studii, fără condamnare silvică cu intenție (excepție: reabilitarea)"],
+      "quiz": [
+        {
+          "q": "Directorul Romsilva numit prin selecție are:",
+          "options": [
+            "Contract de mandat",
+            "Statut de funcționar public",
+            "Contract didactic",
+            "Contract de prestări servicii"
+          ],
+          "answer": 0,
+          "explain": "Contract de mandat.",
+          "ref": "OUG art. 4 alin. (1) lit. b^1)"
+        }
+      ]
+    },
+    {
+      "title": "3. Grade profesionale și gradații",
+      "paragraphs": [
+        {
+          "text": "Ingineri: **inginer silvic debutant → inginer silvic → inginer-șef silvic → inginer inspector silvic → inginer inspector general silvic → inginer consilier silvic**. Subingineri, tehnicieni și pădurari: debutant → gradul de bază → principal.",
+          "refs": ["OUG art. 7 alin. (1)"]
+        },
+        {
+          "text": "Fiecare grad are **3 gradații: I, II, III**, iar **gradația I e cea superioară**. **Debutanții** și **inginerul consilier** nu au gradații.",
+          "refs": ["OUG art. 7 alin. (2)–(3)"]
+        },
+        {
+          "text": "Gradul de **debutant** se dobândește la angajare și durează **un an**.",
+          "refs": ["OUG art. 7 alin. (4)"]
+        },
+        {
+          "text": "Vechimea minimă pentru ingineri (anexa 1): inginer silvic III/II/I: **1/3/5 ani**; inginer-șef: **7/9/11**; inspector: **13/15/17**; inspector general: **19/21/23**; consilier: **25**. La subingineri, tehnicieni și pădurari: gradul de bază 1/4/7 ani, principal 10/13/16 ani.",
+          "refs": ["OUG anexa 1"]
+        }
+      ],
+      "keep": [
+        "Ingineri: debutant → silvic → șef → inspector → inspector general → consilier",
+        "3 gradații; I e cea superioară",
+        "Debutant: 1 an, fără gradații; consilierul nu are gradații",
+        "Ingineri: din 2 în 2 ani (1, 3, 5, 7 … 23), consilier 25"
+      ],
+      "quiz": [
+        {
+          "q": "Inginerul consilier silvic are:",
+          "options": ["3 gradații", "Nicio gradație", "2 gradații", "5 gradații"],
+          "answer": 1,
+          "explain": "Fără gradații.",
+          "ref": "OUG art. 7 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "ladder",
+        "title": "Cariera inginerului silvic (anexa 1)",
+        "levels": [
+          {
+            "who": "Inginer silvic debutant",
+            "does": ["1 an, fără gradații; K 0,74"],
+            "ref": "OUG art. 7 alin. (4)"
+          },
+          {"who": "Inginer silvic", "does": ["III: 1 an · II: 3 · I: 5 ani"], "ref": "OUG anexa 1"},
+          {"who": "Inginer-șef silvic", "does": ["III: 7 · II: 9 · I: 11 ani"], "ref": "OUG anexa 1"},
+          {
+            "who": "Inginer inspector silvic",
+            "does": ["III: 13 · II: 15 · I: 17 ani"],
+            "ref": "OUG anexa 1"
+          },
+          {
+            "who": "Inginer inspector general silvic",
+            "does": ["III: 19 · II: 21 · I: 23 ani"],
+            "ref": "OUG anexa 1"
+          },
+          {
+            "who": "Inginer consilier silvic",
+            "does": ["25 ani, fără gradații; K 1,00"],
+            "ref": "OUG anexa 1"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Încadrarea și promovarea",
+      "paragraphs": [
+        {
+          "text": "Încadrarea și promovarea se fac **la cerere**, pe baza: vechimii și studiilor din anexa 1; calificativelor **„satisfăcător”, „bine” sau „foarte bine”** din **ultimii 2 ani**; funcțiilor de conducere; titlurilor științifice; lucrărilor publicate; invențiilor.",
+          "refs": ["OUG art. 7^1 alin. (2)"]
+        },
+        {
+          "text": "Promovarea în **gradații** se face **o dată la 2 ani**. Excepție: **la un an**, dacă pe lângă vechime și calificative ai cel puțin una din cerințele c)–f) (conducere, titlu, lucrări, invenții).",
+          "refs": ["OUG art. 7^1 alin. (4)–(5)"]
+        },
+        {
+          "text": "Anul cu calificativul **„nesatisfăcător”** nu se socotește la vechime.",
+          "refs": ["OUG art. 7^1 alin. (6)"]
+        },
+        {
+          "text": "Dosarul îl întocmește **angajatorul**; e **interzis** să conțină documente despre opiniile politice, sindicale sau religioase.",
+          "refs": ["OUG art. 7^2"]
+        },
+        {
+          "text": "Angajarea cu CIM se face **prin concurs**. Comisiile de încadrare și promovare au **3 membri**; la Romsilva, pentru ingineri și subingineri, comisia e numită de conducătorul administratorului, iar pentru tehnicieni și pădurari, la nivelul unităților (direcțiilor silvice).",
+          "refs": ["OUG art. 8 alin. (1)", "OUG art. 11 alin. (1) lit. c)", "OUG art. 11 alin. (1) lit. d)"]
+        },
+        {
+          "text": "Condamnarea definitivă pentru o infracțiune de serviciu sau silvică **încetează de drept** raportul de muncă; reîncadrarea se poate face doar după **radierea din cazier**.",
+          "refs": ["OUG art. 10 alin. (2)"]
+        }
+      ],
+      "keep": [
+        "La cerere: vechime + calificative (min. „satisfăcător”) pe ultimii 2 ani",
+        "Gradații: o dată la 2 ani; la 1 an cu un merit suplimentar",
+        "Anul „nesatisfăcător” nu contează la vechime",
+        "Comisii de 3 membri",
+        "Condamnare → încetare de drept; reangajare după radierea din cazier"
+      ],
+      "quiz": [
+        {
+          "q": "Dosarul pentru promovare îl întocmește:",
+          "options": ["Salariatul", "Angajatorul", "Garda", "Sindicatul"],
+          "answer": 1,
+          "explain": "Angajatorul.",
+          "ref": "OUG art. 7^2 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "5. Funcțiile de conducere",
+      "paragraphs": [
+        {
+          "text": "Funcții ocupate prin selecție, cu contract de mandat: **director general și adjunct Romsilva**: 15 ani vechime, din care 7 în conducere; **director la centrala Romsilva**: 10 ani, din care 5 în conducere.",
+          "refs": ["OUG art. 17 lit. a)"]
+        },
+        {
+          "text": "**Director** la unitățile cu personalitate juridică ale Romsilva: 10 ani, din care 5 în conducere; **director și director tehnic de direcție silvică**: 10 ani, din care 5 în conducere în administrarea FFN.",
+          "refs": ["OUG art. 17 lit. b)–c)"]
+        },
+        {
+          "text": "**Șef de ocol** (de stat sau de regim): **5 ani** vechime în silvicultură.",
+          "refs": ["OUG art. 17 lit. d)"]
+        }
+      ],
+      "keep": [
+        "DG Romsilva: 15 ani (7 conducere)",
+        "Director (centrală, unitate, DS): 10 ani (5 conducere)",
+        "Șef de ocol: 5 ani"
+      ],
+      "quiz": [
+        {
+          "q": "DG Romsilva trebuie să aibă în conducere cel puțin:",
+          "options": ["5 ani", "7 ani", "10 ani", "15 ani"],
+          "answer": 1,
+          "explain": "15 ani vechime, 7 în conducere.",
+          "ref": "OUG art. 17 lit. a)"
+        }
+      ]
+    },
+    {
+      "title": "6. Evaluarea anuală și salarizarea",
+      "paragraphs": [
+        {
+          "text": "Angajatorul evaluează activitatea **în prima lună a fiecărui an**, pentru anul precedent, după criterii: îndeplinirea sarcinilor din fișa postului, cunoștințe, aptitudini și etică, capacități manageriale (doar la conducere).",
+          "refs": ["OUG art. 21 alin. (1)–(2)"]
+        },
+        {
+          "text": "Calificative: **foarte bine, bine, satisfăcător, nesatisfăcător**. Contestația se face în **10 zile** de la luarea la cunoștință și se soluționează în **30 de zile** de organul ierarhic superior; apoi instanța.",
+          "refs": ["OUG art. 21 alin. (4)","OUG art. 21 alin. (6)–(7)"]
+        },
+        {
+          "text": "**Indemnizația de grad profesional** = salariul minim brut garantat × **coeficientul K** din anexa 2 (inginer silvic debutant 0,74; inginer silvic 0,76–0,80; consilier 1,00; pădurar debutant 0,17). Se primește **una singură**, la funcția de bază.",
+          "refs": ["OUG art. 22 alin. (3)–(6)","OUG anexa 2"]
+        },
+        {
+          "text": "Salariul de bază al **pădurarului** trebuie să fie **mai mare de 1,5 ori** salariul minim brut garantat.",
+          "refs": ["OUG art. 22 alin. (7)"]
+        }
+      ],
+      "keep": [
+        "Evaluare: prima lună a anului",
+        "Contestație: 10 zile; soluționare 30 zile",
+        "Indemnizație de grad = salariul minim × K (anexa 2)",
+        "Pădurar: salariu > 1,5 × salariul minim"
+      ],
+      "quiz": [
+        {
+          "q": "Silvicultorul angajat la două entități primește indemnizația de grad:",
+          "options": ["De la ambele", "O singură dată, de la funcția de bază", "De la Autoritate", "Deloc"],
+          "answer": 1,
+          "explain": "Una singură.",
+          "ref": "OUG art. 22 alin. (6)"
+        }
+      ]
+    },
+    {
+      "title": "7. Statutul special și înregistrările",
+      "paragraphs": [
+        {
+          "text": "Personalul cu atribuții de pază a pădurii, vânatului, peștelui și ariilor protejate are **statut special**, e dotat cu **armament letal sau neletal** și poate face uz de armă, după legea armelor.",
+          "refs": ["OUG art. 23 alin. (1)"]
+        },
+        {
+          "text": "Statutul special e dat de **portul de armă**, îndatoririle specifice și **riscurile meseriei**.",
+          "refs": ["OUG art. 23 alin. (2)"]
+        },
+        {
+          "text": "Acțiunile de control și pază pot fi **înregistrate foto-audio-video fără consimțământul** persoanelor; înregistrările sunt **mijloace de probă** și se păstrează **6 luni** (în afara celor folosite în justiție), apoi se distrug ireversibil.",
+          "refs": ["OUG art. 23^1 alin. (1)–(2)"]
+        }
+      ],
+      "keep": [
+        "Statut special: port de armă + riscuri",
+        "Înregistrări fără consimțământ = probe",
+        "Păstrare 6 luni, apoi distrugere"
+      ],
+      "quiz": [
+        {
+          "q": "Înregistrările foto-video din pază necesită acordul persoanei?",
+          "options": ["Da", "Nu", "Doar pentru video", "Doar în arii protejate"],
+          "answer": 1,
+          "explain": "Fără consimțământ.",
+          "ref": "OUG art. 23^1 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "8. Drepturi: premii, locuință, transfer, detașare",
+      "paragraphs": [
+        {
+          "text": "Distincții: **Diploma „Marin Drăcea”** cu 3 clase (I – studii superioare, II – medii, III – de bază) și scrisoarea de mulțumire publică. **Premiul** poate ajunge la **20% din salariile ultimelor 12 luni**. Se acordă anual, de **Ziua silvicultorului**.",
+          "refs": ["OUG art. 24"]
+        },
+        {
+          "text": "Fără locuință în localitatea unde lucrează: **locuință de serviciu**; dacă nu se poate și lucrează la **peste 50 km** de domiciliu, **indemnizație lunară neimpozabilă de 30% din salariul mediu brut**.",
+          "refs": ["OUG art. 25"]
+        },
+        {
+          "text": "Personalul de teren (pădurari, brigadieri, șefi de district) cu domiciliul în afara localității: **spor de izolare de 10–30%**.",
+          "refs": ["OUG art. 26"]
+        },
+        {
+          "text": "**Transfer în interesul serviciului**: indemnizație egală cu **3 salarii brute** și decontarea mutării. **Detașarea** personalului de execuție: **cel mult 6 luni**, cu transportul plătit cel puțin o dată pe lună; poate fi refuzată dacă nu se respectă condițiile.",
+          "refs": ["OUG art. 27 alin. (3)","OUG art. 28"]
+        },
+        {
+          "text": "Studii (master, doctorat) cu frecvență: **suspendare de max. 3 luni pe an**; în funcție de demnitate publică sau studii de zi: rezervarea postului. Inginerii pot face **măsurători topografice, expertize, hotărnicii**.",
+          "refs": ["OUG art. 30 alin. (1)–(2)","OUG art. 31"]
+        }
+      ],
+      "keep": [
+        "Diploma „Marin Drăcea”: 3 clase",
+        "Premiu: până la 20% din salariile pe 12 luni, de Ziua silvicultorului",
+        "Locuință sau 30% din salariul mediu brut (> 50 km)",
+        "Spor de izolare: 10–30%",
+        "Transfer în interesul serviciului: 3 salarii brute",
+        "Detașare: max. 6 luni",
+        "Studii: suspendare max. 3 luni/an"
+      ],
+      "quiz": [
+        {
+          "q": "Detașarea poate fi refuzată dacă:",
+          "options": [
+            "Nu-ți convine",
+            "Unitatea nu respectă condițiile (durată, transport, cazare)",
+            "Ai sub 5 ani vechime",
+            "Niciodată"
+          ],
+          "answer": 1,
+          "explain": "Alin. (3).",
+          "ref": "OUG art. 28 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "9. Drepturi în natură: teren și lemn",
+      "paragraphs": [
+        {
+          "text": "Personalul de teren (șefi de district, ajutori, brigadieri, pădurari) poate folosi **gratuit** până la **5.000 m²** de teren agricol din fondul forestier. E interzisă defrișarea pentru asta; terenul trebuie cultivat și **nu poate fi arendat sau închiriat**. Dacă nu există teren, se dă lemn de valoare echivalentă.",
+          "refs": ["OUG art. 32"]
+        },
+        {
+          "text": "Anual, gratuit, **6 m³ lemn de foc fasonat**, dacă venitul net din salariu e **sub salariul mediu brut**; dacă angajatorul nu are lemn, se dă în bani. Îl primesc și **pensionarii cu cel puțin 15 ani** de activitate, iar după deces, soțul supraviețuitor sau copiii în întreținere.",
+          "refs": ["OUG art. 33 alin. (1)","OUG art. 33 alin. (4)–(6)"]
+        },
+        {
+          "text": "Angajații cu CIM și **cel puțin 5 ani** vechime primesc **o singură dată** **10 m³ lemn de lucru fasonat** pentru nevoi proprii; dreptul se pierde la încetarea contractului.",
+          "refs": ["OUG art. 34"]
+        }
+      ],
+      "keep": [
+        "Teren: max. 5.000 m², gratuit, personal de teren; nu se arendează",
+        "Lemn de foc: 6 m³/an dacă venitul net < salariul mediu brut",
+        "Pensionari cu ≥ 15 ani: tot 6 m³",
+        "Lemn de lucru: 10 m³, o singură dată, după ≥ 5 ani"
+      ],
+      "quiz": [
+        {
+          "q": "Dacă nu există teren pentru pădurar, se poate da:",
+          "options": ["Bani", "Lemn echivalent valoric", "Nimic", "Alt teren din FFN defrișat"],
+          "answer": 1,
+          "explain": "Lemn.",
+          "ref": "OUG art. 32 alin. (5)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Drepturile în natură",
+        "items": [
+          {
+            "title": "Teren agricol",
+            "text": "max. 5.000 m², gratuit, personal de teren",
+            "ref": "OUG art. 32 alin. (1)"
+          },
+          {
+            "title": "Lemn de foc",
+            "text": "6 m³/an dacă venitul net < salariul mediu brut",
+            "ref": "OUG art. 33 alin. (1)"
+          },
+          {
+            "title": "Pensionari",
+            "text": "6 m³/an dacă au ≥ 15 ani în silvicultură",
+            "ref": "OUG art. 33 alin. (5)"
+          },
+          {
+            "title": "Lemn de lucru",
+            "text": "10 m³ o singură dată, după ≥ 5 ani",
+            "ref": "OUG art. 34 alin. (1)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "10. Îndatoriri, uniformă, conflict de interese",
+      "paragraphs": [
+        {
+          "text": "Personalul silvic trebuie să cunoască și să aplice Codul silvic și normele; cel de la Romsilva aplică și deciziile conducerii și păstrează **secretul de serviciu**.",
+          "refs": ["OUG art. 35","OUG art. 36"]
+        },
+        {
+          "text": "Principii: legalitate, imparțialitate, obiectivitate; transparență; profesionalism; eficiență; responsabilitate; **orientare către pădure și cetățean**; stabilitate; subordonare ierarhică.",
+          "refs": ["OUG art. 37"]
+        },
+        {
+          "text": "Angajatorul organizează **cel puțin anual** perfecționare, pe costul lui.",
+          "refs": ["OUG art. 38 alin. (2)"]
+        },
+        {
+          "text": "**Uniforma** e obligatorie, gratuită și neimpozabilă; dacă angajatorul nu o asigură, dă o **indemnizație anuală netă de un salariu minim**. Personalul de pază și control are mijloace de transport, comunicații și echipamente de autoapărare.",
+          "refs": ["OUG art. 39"]
+        },
+        {
+          "text": "**Conflict de interese** (CIM): decizii despre persoane cu care are relații patrimoniale; aceeași comisie cu soțul sau o **rudă de gradul I**; interesele lui, ale soțului sau rudelor de gradul I. Incompatibilitate la stat: proprietar, asociat sau salariat la o firmă concurentă sau cu contracte; și dacă **familia** (soț, copii, părinții soților care locuiesc împreună) e proprietară sau asociată.",
+          "refs": ["OUG art. 40 alin. (3)–(4)"]
+        },
+        {
+          "text": "În conflict de interese: **te abții** și anunți de îndată șeful, care ia măsuri în **max. 3 zile**.",
+          "refs": ["OUG art. 40 alin. (5)"]
+        }
+      ],
+      "keep": [
+        "Secret de serviciu la Romsilva",
+        "Perfecționare: cel puțin anual",
+        "Uniformă gratuită; altfel indemnizație = 1 salariu minim/an",
+        "Conflict de interese în statut: rude de gradul I",
+        "Abținere + șeful decide în 3 zile"
+      ],
+      "quiz": [
+        {
+          "q": "„Familia” la incompatibilitate înseamnă:",
+          "options": [
+            "Toate rudele până la gradul IV",
+            "Soțul, copiii și părinții soților care locuiesc și gospodăresc împreună",
+            "Doar soțul",
+            "Frații"
+          ],
+          "answer": 1,
+          "explain": "Definiția din alin. (4).",
+          "ref": "OUG art. 40 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "11. Protecția personalului silvic",
+      "paragraphs": [
+        {
+          "text": "Pierderea capacității de muncă în serviciu, prin infracțiune contra persoanei sau boală profesională: **pensie de invaliditate**, asimilată **accidentului de muncă**, plus o **gratificație de 10 salarii brute**.",
+          "refs": ["OUG art. 46 alin. (1)–(3)"]
+        },
+        {
+          "text": "Angajatorul plătește **asigurarea de răspundere profesională, de sănătate și de accidente**; asigură **asistența juridică** în procesele intentate pentru fapte de serviciu; **sesizează organele penale** la amenințări, ultraj, lovire, șantaj.",
+          "refs": ["OUG art. 46 alin. (5)–(7)"]
+        },
+        {
+          "text": "Personalul silvic **nu răspunde patrimonial** pentru forța majoră și nici pentru **riscul normal al serviciului**.",
+          "refs": ["OUG art. 46 alin. (8)"]
+        },
+        {
+          "text": "Decedat din cauza profesiei: urmașii primesc **pensie de urmaș egală cu venitul net** și păstrează drepturile la lemn; fără urmași, părinții întreținuți primesc jumătate.",
+          "refs": ["OUG art. 47"]
+        },
+        {
+          "text": "Personalul silvic și familia au dreptul la **protecția statului** față de amenințări. **Ziua Silvicultorului**: **a doua săptămână din iunie** la nivel național și a treia la nivelul unităților.",
+          "refs": ["OUG art. 55 alin. (3)","OUG art. 56"]
+        }
+      ],
+      "keep": [
+        "Invaliditate în serviciu = accident de muncă + 10 salarii brute",
+        "Asigurări + asistență juridică plătite de angajator",
+        "Nu răspunde pentru forța majoră și riscul normal",
+        "Pensie de urmaș = venitul net",
+        "Ziua Silvicultorului: a 2-a săptămână din iunie (național)"
+      ],
+      "quiz": [
+        {
+          "q": "Dacă pădurarul e lovit în serviciu, angajatorul:",
+          "options": ["Nu face nimic", "Sesizează organele de cercetare penală", "Îl mută", "Îl sancționează"],
+          "answer": 1,
+          "explain": "Obligație de sesizare.",
+          "ref": "OUG art. 46 alin. (7)"
+        }
+      ]
+    },
+    {
+      "title": "12. Răspunderea disciplinară",
+      "paragraphs": [
+        {
+          "text": "Sancțiuni pentru angajații cu CIM: **a)** mustrare; **b)** avertisment scris; **c)** reducerea salariului de bază cu **5–10% pe 1–3 luni**; **d)** reducerea salariului și/sau indemnizației de conducere, la fel; **e)** amânarea gradației sau promovării cu **1–3 ani**; **f)** retrogradarea din funcția de conducere, max. **60 de zile**; **g)** desfacerea disciplinară a contractului.",
+          "refs": ["OUG art. 48 alin. (2)"]
+        },
+        {
+          "text": "Sancțiunile **a)–d)** le aplică direct **conducătorul**; pentru **e)–g)** decide întâi **consiliul de disciplină**, care comunică hotărârea în **5 zile**; decizia se comunică salariatului tot în **5 zile**. Conducătorul poate da altă sancțiune, motivat.",
+          "refs": ["OUG art. 49 alin. (1)"]
+        },
+        {
+          "text": "Contestația se face **la instanță în 30 de zile**. Mustrarea și avertismentul se **radiază de drept în 6 luni** dacă nu urmează altă sancțiune.",
+          "refs": ["OUG art. 49 alin. (2)–(3)"]
+        },
+        {
+          "text": "Consiliul de disciplină: **3–5 membri titulari**, între care un reprezentant al sindicatului, și max. **2 supleanți**, numiți pe **4 ani**.",
+          "refs": ["OUG art. 50 alin. (4)"]
+        },
+        {
+          "text": "Abateri: atingerea prestigiului silviculturii (și în afara serviciului), încălcarea codului de etică, atitudini nedemne, **activitate politică în serviciu**, refuzul nejustificat, nerespectarea dispozițiilor scrise (afară de cele abuzive), nerespectarea secretului, absențe nemotivate, **rea-credință sau gravă neglijență**.",
+          "refs": ["OUG art. 52"]
+        }
+      ],
+      "keep": [
+        "7 sancțiuni: mustrare → desfacerea CIM",
+        "Reducere salariu: 5–10%, 1–3 luni",
+        "Retrogradare: max. 60 zile",
+        "a)–d) conducătorul; e)–g) prin consiliul de disciplină",
+        "Contestație: instanța, 30 zile",
+        "Radiere a)–b): 6 luni",
+        "Consiliu: 3–5 titulari + max. 2 supleanți, 4 ani"
+      ],
+      "quiz": [
+        {
+          "q": "Consiliul de disciplină comunică hotărârea conducătorului în:",
+          "options": ["24 ore", "5 zile", "10 zile", "30 zile"],
+          "answer": 1,
+          "explain": "Max. 5 zile.",
+          "ref": "OUG art. 49 alin. (1) lit. c)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Procedura disciplinară",
+        "steps": [
+          {"title": "Constatare", "text": "șeful ierarhic sau controlul", "ref": "OUG art. 48 alin. (3)"},
+          {
+            "title": "Cercetare + audiere",
+            "text": "obligatorii înainte de sancțiune",
+            "ref": "OUG art. 48 alin. (3)"
+          },
+          {
+            "title": "a)–d): conducătorul / e)–g): consiliul",
+            "text": "hotărârea consiliului în 5 zile",
+            "ref": "OUG art. 49 alin. (1)"
+          },
+          {
+            "title": "Decizie comunicată în 5 zile",
+            "text": "contestație la instanță în 30 zile",
+            "ref": "OUG art. 49 alin. (2)"
+          }
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Cariera",
+      "rows": [
+        {"what": "Vârsta minimă la angajare", "value": "18 ani", "ref": "OUG art. 5 alin. (2)"},
+        {"what": "Durata gradului de debutant", "value": "1 an", "ref": "OUG art. 7 alin. (4)"},
+        {"what": "Gradații pe grad", "value": "3 (I e superioară)", "ref": "OUG art. 7 alin. (2)"},
+        {"what": "Inginer silvic III / II / I", "value": "1 / 3 / 5 ani", "ref": "OUG anexa 1"},
+        {"what": "Inginer-șef silvic III / II / I", "value": "7 / 9 / 11 ani", "ref": "OUG anexa 1"},
+        {"what": "Inginer inspector III / II / I", "value": "13 / 15 / 17 ani", "ref": "OUG anexa 1"},
+        {"what": "Inspector general III / II / I", "value": "19 / 21 / 23 ani", "ref": "OUG anexa 1"},
+        {"what": "Inginer consilier silvic", "value": "25 ani", "ref": "OUG anexa 1"},
+        {
+          "what": "Promovare în gradații",
+          "value": "la 2 ani (1 an cu merite)",
+          "ref": "OUG art. 7^1 alin. (4)–(5)"
+        },
+        {
+          "what": "Calificative necesare",
+          "value": "min. „satisfăcător”, ultimii 2 ani",
+          "ref": "OUG art. 7^1 alin. (2)"
+        },
+        {"what": "Șef de ocol", "value": "5 ani vechime", "ref": "OUG art. 17 lit. d)"},
+        {
+          "what": "Director DS / director tehnic",
+          "value": "10 ani, 5 în conducere",
+          "ref": "OUG art. 17 lit. c)"
+        },
+        {"what": "DG Romsilva", "value": "15 ani, 7 în conducere", "ref": "OUG art. 17 lit. a)"}
+      ]
+    },
+    {
+      "title": "Bani și natură",
+      "rows": [
+        {
+          "what": "Indemnizația de grad",
+          "value": "salariul minim × K (anexa 2)",
+          "ref": "OUG art. 22 alin. (3)"
+        },
+        {"what": "K inginer silvic debutant / consilier", "value": "0,74 / 1,00", "ref": "OUG anexa 2"},
+        {"what": "Salariu pădurar", "value": "> 1,5 × salariul minim", "ref": "OUG art. 22 alin. (7)"},
+        {
+          "what": "Indemnizație de locuință",
+          "value": "30% din salariul mediu brut, > 50 km",
+          "ref": "OUG art. 25"
+        },
+        {"what": "Spor de izolare", "value": "10–30%", "ref": "OUG art. 26"},
+        {
+          "what": "Transfer în interesul serviciului",
+          "value": "3 salarii brute",
+          "ref": "OUG art. 27 alin. (3)"
+        },
+        {
+          "what": "Premiu",
+          "value": "până la 20% din salariile pe 12 luni",
+          "ref": "OUG art. 24 alin. (4)"
+        },
+        {"what": "Teren agricol", "value": "max. 5.000 m²", "ref": "OUG art. 32 alin. (1)"},
+        {
+          "what": "Lemn de foc",
+          "value": "6 m³/an (venit net < salariul mediu brut)",
+          "ref": "OUG art. 33 alin. (1)"
+        },
+        {
+          "what": "Pensionari cu lemn de foc",
+          "value": "≥ 15 ani vechime",
+          "ref": "OUG art. 33 alin. (5)"
+        },
+        {
+          "what": "Lemn de lucru",
+          "value": "10 m³, o dată, după ≥ 5 ani",
+          "ref": "OUG art. 34 alin. (1)"
+        },
+        {
+          "what": "Uniformă neasigurată",
+          "value": "1 salariu minim net/an",
+          "ref": "OUG art. 39 alin. (3)"
+        }
+      ]
+    },
+    {
+      "title": "Termene și protecție",
+      "rows": [
+        {"what": "Evaluarea anuală", "value": "prima lună a anului", "ref": "OUG art. 21 alin. (1)"},
+        {
+          "what": "Contestarea evaluării",
+          "value": "10 zile; soluționare 30 zile",
+          "ref": "OUG art. 21 alin. (6)"
+        },
+        {
+          "what": "Păstrarea înregistrărilor video",
+          "value": "6 luni",
+          "ref": "OUG art. 23^1 alin. (2)"
+        },
+        {"what": "Detașare", "value": "max. 6 luni", "ref": "OUG art. 28 alin. (1)"},
+        {"what": "Suspendare pentru studii", "value": "max. 3 luni/an", "ref": "OUG art. 30 alin. (2)"},
+        {
+          "what": "Măsuri la conflict de interese",
+          "value": "șeful, în max. 3 zile",
+          "ref": "OUG art. 40 alin. (5)"
+        },
+        {
+          "what": "Gratificație la invaliditate",
+          "value": "10 salarii brute",
+          "ref": "OUG art. 46 alin. (3)"
+        },
+        {
+          "what": "Contestarea sancțiunii",
+          "value": "instanța, 30 zile",
+          "ref": "OUG art. 49 alin. (2)"
+        },
+        {
+          "what": "Radierea mustrării/avertismentului",
+          "value": "6 luni",
+          "ref": "OUG art. 49 alin. (3)"
+        },
+        {
+          "what": "Consiliu de disciplină",
+          "value": "3–5 titulari, 2 supleanți, 4 ani",
+          "ref": "OUG art. 50 alin. (4)"
+        },
+        {"what": "Ziua Silvicultorului", "value": "a 2-a săptămână din iunie", "ref": "OUG art. 56"}
+      ]
+    }
+  ],
+  "tricks": [
+    "Vechimea inginerilor crește din 2 în 2 ani: 1, 3, 5 (silvic), 7, 9, 11 (șef), 13, 15, 17 (inspector), 19, 21, 23 (general), 25 (consilier).",
+    "La subingineri, tehnicieni și pădurari: 1, 4, 7 pentru gradul de bază, 10, 13, 16 pentru principal (din 3 în 3).",
+    "Lemnul: „6 pe an, 10 o dată”. Foc 6 m³ anual; lucru 10 m³ o singură dată, după 5 ani.",
+    "Atenție la diferență: Statutul vorbește de rude de gradul I la conflictul de interese, Codul silvic (art. 138) de rude până la gradul II.",
+    "Disciplină: „5-10% pe 1-3 luni”, „1-3 ani” amânare, „60 de zile” retrogradare, „6 luni” radiere, „30 de zile” contestație."
+  ],
+  "cards": [
+    {
+      "q": "Cine e personal silvic?",
+      "a": "Persoana cu diplomă de specialitate în silvicultură care lucrează în domeniul silviculturii.",
+      "ref": "OUG art. 1 alin. (1)"
+    },
+    {
+      "q": "Ce personal silvic e învestit cu exercițiul autorității publice?",
+      "a": "Cel din entitățile de la art. 2 lit. a)–f): Autoritate, Romsilva, ocoale de regim, structuri superioare, vânătoare, arii protejate.",
+      "ref": "OUG art. 3"
+    },
+    {
+      "q": "Care sunt categoriile de personal silvic după raportul de muncă?",
+      "a": "Funcționar public, angajat cu CIM, numit cu contract de mandat, personal didactic.",
+      "ref": "OUG art. 4 alin. (1)"
+    },
+    {
+      "q": "Ce condiții trebuie să îndeplinești pentru a fi angajat ca personal silvic?",
+      "a": "Cetățean român, cunoașterea limbii române, 18 ani, apt medical și psihologic, studiile necesare, fără condamnare definitivă pentru infracțiune silvică cu intenție (excepție: reabilitarea).",
+      "ref": "OUG art. 5 alin. (2)"
+    },
+    {
+      "q": "Care sunt gradele profesionale ale inginerilor?",
+      "a": "Debutant, inginer silvic, inginer-șef silvic, inginer inspector silvic, inginer inspector general silvic, inginer consilier silvic.",
+      "ref": "OUG art. 7 alin. (1) lit. a)"
+    },
+    {"q": "Care gradație e cea superioară?", "a": "Gradația I.", "ref": "OUG art. 7 alin. (2)"},
+    {
+      "q": "Ce grade nu au gradații?",
+      "a": "Debutanții și inginerul consilier silvic.",
+      "ref": "OUG art. 7 alin. (3)"
+    },
+    {
+      "q": "Cât durează gradul de debutant?",
+      "a": "Un an de la încadrare.",
+      "ref": "OUG art. 7 alin. (4)"
+    },
+    {
+      "q": "Ce vechime trebuie pentru inginer silvic gradația I?",
+      "a": "5 ani.",
+      "ref": "OUG anexa 1"
+    },
+    {
+      "q": "Ce vechime trebuie pentru inginer-șef silvic gradația III?",
+      "a": "7 ani.",
+      "ref": "OUG anexa 1"
+    },
+    {
+      "q": "Ce vechime trebuie pentru inginer consilier silvic?",
+      "a": "25 de ani.",
+      "ref": "OUG anexa 1"
+    },
+    {
+      "q": "Ce calificative trebuie pentru promovare?",
+      "a": "„Satisfăcător”, „bine” sau „foarte bine” în ultimii 2 ani.",
+      "ref": "OUG art. 7^1 alin. (2) lit. b)"
+    },
+    {
+      "q": "Cât de des se promovează în gradații?",
+      "a": "O dată la 2 ani; la un an dacă ai și o cerință suplimentară (conducere, titlu, lucrări, invenții).",
+      "ref": "OUG art. 7^1 alin. (4)–(5)"
+    },
+    {
+      "q": "Se socotește la vechime anul cu „nesatisfăcător”?",
+      "a": "Nu.",
+      "ref": "OUG art. 7^1 alin. (6)"
+    },
+    {
+      "q": "Ce e interzis în dosarul profesional?",
+      "a": "Documente despre opiniile politice, sindicale, religioase.",
+      "ref": "OUG art. 7^2 alin. (2)"
+    },
+    {
+      "q": "Când se poate reangaja un silvicultor condamnat pentru infracțiune silvică?",
+      "a": "Doar după radierea faptei din cazier.",
+      "ref": "OUG art. 10 alin. (2)"
+    },
+    {
+      "q": "Câți membri au comisiile de încadrare și promovare?",
+      "a": "3.",
+      "ref": "OUG art. 11 alin. (1)"
+    },
+    {
+      "q": "Ce vechime trebuie pentru șef de ocol?",
+      "a": "5 ani în silvicultură.",
+      "ref": "OUG art. 17 lit. d)"
+    },
+    {
+      "q": "Ce vechime trebuie pentru director de direcție silvică?",
+      "a": "10 ani, din care 5 în funcții de conducere în administrarea FFN.",
+      "ref": "OUG art. 17 lit. c)"
+    },
+    {
+      "q": "Când se face evaluarea anuală?",
+      "a": "În prima lună a anului, pentru anul precedent.",
+      "ref": "OUG art. 21 alin. (1)"
+    },
+    {
+      "q": "În cât timp contești evaluarea?",
+      "a": "10 zile; se soluționează în 30 de zile de organul ierarhic superior.",
+      "ref": "OUG art. 21 alin. (6)"
+    },
+    {
+      "q": "Cum se calculează indemnizația de grad profesional?",
+      "a": "Salariul minim brut garantat × coeficientul K din anexa 2.",
+      "ref": "OUG art. 22 alin. (3)"
+    },
+    {"q": "Ce K are un inginer silvic debutant?", "a": "0,74.", "ref": "OUG anexa 2"},
+    {
+      "q": "Cât trebuie să fie salariul de bază al pădurarului?",
+      "a": "Mai mare de 1,5 ori salariul minim brut garantat.",
+      "ref": "OUG art. 22 alin. (7)"
+    },
+    {
+      "q": "Ce conferă statutul special personalului de pază?",
+      "a": "Portul de armă, îndatoririle specifice și riscurile meseriei.",
+      "ref": "OUG art. 23 alin. (2)"
+    },
+    {
+      "q": "Cât se păstrează înregistrările video din control?",
+      "a": "6 luni, apoi se distrug ireversibil (afară de cele din procese).",
+      "ref": "OUG art. 23^1 alin. (2)"
+    },
+    {
+      "q": "Ce clase are Diploma „Marin Drăcea”?",
+      "a": "I – studii superioare, II – medii, III – de bază.",
+      "ref": "OUG art. 24 alin. (2)"
+    },
+    {
+      "q": "Cât poate fi premiul anual?",
+      "a": "Până la 20% din salariile ultimelor 12 luni.",
+      "ref": "OUG art. 24 alin. (4)"
+    },
+    {
+      "q": "Ce primește silvicultorul fără locuință, la peste 50 km de casă?",
+      "a": "Indemnizație lunară neimpozabilă de 30% din salariul mediu brut, dacă nu i se poate da locuință de serviciu.",
+      "ref": "OUG art. 25"
+    },
+    {"q": "Cât e sporul de izolare?", "a": "10–30% din salariul negociat.", "ref": "OUG art. 26"},
+    {
+      "q": "Ce primești la transferul în interesul serviciului?",
+      "a": "3 salarii brute + decontarea mutării.",
+      "ref": "OUG art. 27 alin. (3)"
+    },
+    {"q": "Cât poate dura detașarea?", "a": "Max. 6 luni.", "ref": "OUG art. 28 alin. (1)"},
+    {
+      "q": "Ce suprafață de teren poate folosi pădurarul?",
+      "a": "Max. 5.000 m², gratuit; nu o poate arenda.",
+      "ref": "OUG art. 32"
+    },
+    {
+      "q": "Când primești 6 m³ de lemn de foc?",
+      "a": "Anual, dacă venitul net e sub salariul mediu brut.",
+      "ref": "OUG art. 33 alin. (1)"
+    },
+    {
+      "q": "Primesc pensionarii lemn de foc?",
+      "a": "Da, dacă au fost cel puțin 15 ani angajați în silvicultură.",
+      "ref": "OUG art. 33 alin. (5)"
+    },
+    {
+      "q": "Ce e dreptul la 10 m³?",
+      "a": "Lemn de lucru fasonat, o singură dată, după cel puțin 5 ani vechime (CIM).",
+      "ref": "OUG art. 34 alin. (1)"
+    },
+    {
+      "q": "Ce primești dacă angajatorul nu-ți dă uniformă?",
+      "a": "O indemnizație anuală netă de un salariu minim.",
+      "ref": "OUG art. 39 alin. (3)"
+    },
+    {
+      "q": "Ce faci când ești în conflict de interese?",
+      "a": "Te abții și anunți de îndată șeful, care ia măsuri în max. 3 zile.",
+      "ref": "OUG art. 40 alin. (5)"
+    },
+    {
+      "q": "Ce gratificație se dă la pensionarea pentru invaliditate din serviciu?",
+      "a": "10 salarii brute din ultima lună.",
+      "ref": "OUG art. 46 alin. (3)"
+    },
+    {
+      "q": "Răspunzi pentru pagube din forță majoră?",
+      "a": "Nu, nici pentru riscul normal al serviciului.",
+      "ref": "OUG art. 46 alin. (8)"
+    },
+    {
+      "q": "Care sunt sancțiunile disciplinare?",
+      "a": "Mustrare, avertisment, reducerea salariului (5–10%, 1–3 luni), reducerea salariului/indemnizației de conducere, amânarea promovării 1–3 ani, retrogradare max. 60 zile, desfacerea CIM.",
+      "ref": "OUG art. 48 alin. (2)"
+    },
+    {
+      "q": "Pentru ce sancțiuni e nevoie de consiliul de disciplină?",
+      "a": "Amânarea promovării, retrogradarea și desfacerea contractului (lit. e–g).",
+      "ref": "OUG art. 49 alin. (1) lit. b)"
+    },
+    {
+      "q": "În cât timp se radiază un avertisment?",
+      "a": "6 luni, dacă nu urmează altă sancțiune.",
+      "ref": "OUG art. 49 alin. (3)"
+    },
+    {
+      "q": "Când e Ziua Silvicultorului?",
+      "a": "A doua săptămână din iunie (național); a treia la nivelul unităților.",
+      "ref": "OUG art. 56"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Personalul silvic din care entități e învestit cu exercițiul autorității publice?",
+      "options": ["Toate cele de la art. 2", "Cele de la art. 2 lit. a)–f)", "Doar Autoritatea", "Doar Garda"],
+      "answer": 1,
+      "explain": "Lit. a)–f).",
+      "ref": "OUG art. 3"
+    },
+    {
+      "q": "Vârsta minimă pentru angajarea ca personal silvic este:",
+      "options": ["16 ani", "18 ani", "21 ani", "25 ani"],
+      "answer": 1,
+      "explain": "18 ani.",
+      "ref": "OUG art. 5 alin. (2) lit. c)"
+    },
+    {
+      "q": "Un candidat condamnat definitiv pentru tăiere ilegală, reabilitat:",
+      "options": ["Nu poate fi angajat niciodată", "Poate fi angajat", "Doar ca muncitor", "Doar după 10 ani"],
+      "answer": 1,
+      "explain": "Excepție: reabilitarea.",
+      "ref": "OUG art. 5 alin. (2) lit. f)"
+    },
+    {
+      "q": "Gradația superioară este:",
+      "options": ["I", "II", "III", "Depinde de grad"],
+      "answer": 0,
+      "explain": "Gradația I.",
+      "ref": "OUG art. 7 alin. (2)"
+    },
+    {
+      "q": "Gradul de debutant durează:",
+      "options": ["6 luni", "1 an", "2 ani", "3 ani"],
+      "answer": 1,
+      "explain": "1 an.",
+      "ref": "OUG art. 7 alin. (4)"
+    },
+    {
+      "q": "Vechimea minimă pentru inginer-șef silvic gradația I este:",
+      "options": ["7 ani", "9 ani", "11 ani", "13 ani"],
+      "answer": 2,
+      "explain": "7/9/11.",
+      "ref": "OUG anexa 1"
+    },
+    {
+      "q": "Vechimea minimă pentru inginer inspector silvic gradația III:",
+      "options": ["11 ani", "13 ani", "15 ani", "17 ani"],
+      "answer": 1,
+      "explain": "13/15/17.",
+      "ref": "OUG anexa 1"
+    },
+    {
+      "q": "Pentru pădurar principal gradația III, vechimea minimă este:",
+      "options": ["7 ani", "10 ani", "13 ani", "16 ani"],
+      "answer": 1,
+      "explain": "10/13/16.",
+      "ref": "OUG anexa 1"
+    },
+    {
+      "q": "Promovarea în gradații se face, de regulă:",
+      "options": ["Anual", "O dată la 2 ani", "O dată la 3 ani", "La 5 ani"],
+      "answer": 1,
+      "explain": "La 2 ani.",
+      "ref": "OUG art. 7^1 alin. (4)"
+    },
+    {
+      "q": "Promovarea în gradație la un an e posibilă dacă:",
+      "options": [
+        "Ai calificativ „bine”",
+        "Ai și una din cerințele c)–f) (conducere, titlu, lucrări, invenții)",
+        "Ești debutant",
+        "O cere sindicatul"
+      ],
+      "answer": 1,
+      "explain": "Excepția de la alin. (5).",
+      "ref": "OUG art. 7^1 alin. (5)"
+    },
+    {
+      "q": "Ce calificativ blochează socotirea anului la vechimea pentru promovare?",
+      "options": ["Satisfăcător", "Bine", "Nesatisfăcător", "Niciunul"],
+      "answer": 2,
+      "explain": "Anul cu „nesatisfăcător” nu se ia în considerare.",
+      "ref": "OUG art. 7^1 alin. (6)"
+    },
+    {
+      "q": "Vechimea minimă pentru funcția de șef de ocol este:",
+      "options": ["3 ani", "5 ani", "7 ani", "10 ani"],
+      "answer": 1,
+      "explain": "5 ani.",
+      "ref": "OUG art. 17 lit. d)"
+    },
+    {
+      "q": "Pentru director de direcție silvică se cer:",
+      "options": [
+        "5 ani",
+        "10 ani, din care 5 în conducere",
+        "15 ani, din care 7 în conducere",
+        "10 ani, din care 3 în conducere"
+      ],
+      "answer": 1,
+      "explain": "10/5.",
+      "ref": "OUG art. 17 lit. c)"
+    },
+    {
+      "q": "Contestația la evaluarea anuală se face în:",
+      "options": ["5 zile", "10 zile", "15 zile", "30 de zile"],
+      "answer": 1,
+      "explain": "10 zile; soluționare în 30.",
+      "ref": "OUG art. 21 alin. (6)"
+    },
+    {
+      "q": "Indemnizația de grad profesional se calculează ca:",
+      "options": [
+        "% din salariul de bază",
+        "Salariul minim brut × coeficientul K",
+        "Salariul mediu × 0,5",
+        "Sumă fixă"
+      ],
+      "answer": 1,
+      "explain": "Anexa 2.",
+      "ref": "OUG art. 22 alin. (3)"
+    },
+    {
+      "q": "Salariul de bază al pădurarului trebuie să fie mai mare decât salariul minim de:",
+      "options": ["1,2 ori", "1,5 ori", "2 ori", "2,5 ori"],
+      "answer": 1,
+      "explain": "1,5 ori.",
+      "ref": "OUG art. 22 alin. (7)"
+    },
+    {
+      "q": "Înregistrările video din activitatea de pază se păstrează:",
+      "options": ["30 zile", "3 luni", "6 luni", "1 an"],
+      "answer": 2,
+      "explain": "6 luni.",
+      "ref": "OUG art. 23^1 alin. (2)"
+    },
+    {
+      "q": "Premiul pentru rezultate foarte bune poate fi de până la:",
+      "options": ["10% din salariul anual", "20% din salariile ultimelor 12 luni", "Un salariu", "50%"],
+      "answer": 1,
+      "explain": "20%.",
+      "ref": "OUG art. 24 alin. (4)"
+    },
+    {
+      "q": "Indemnizația pentru lipsa locuinței se acordă dacă lucrezi la peste:",
+      "options": ["20 km", "30 km", "50 km", "100 km"],
+      "answer": 2,
+      "explain": "50 km; 30% din salariul mediu brut.",
+      "ref": "OUG art. 25"
+    },
+    {
+      "q": "Sporul de izolare pentru personalul de teren este de:",
+      "options": ["5–15%", "10–30%", "25%", "20–50%"],
+      "answer": 1,
+      "explain": "10–30%.",
+      "ref": "OUG art. 26"
+    },
+    {
+      "q": "Detașarea personalului de execuție poate dura cel mult:",
+      "options": ["3 luni", "6 luni", "1 an", "2 ani"],
+      "answer": 1,
+      "explain": "6 luni.",
+      "ref": "OUG art. 28 alin. (1)"
+    },
+    {
+      "q": "Suprafața maximă de teren agricol pentru pădurar:",
+      "options": ["1.000 m²", "2.500 m²", "5.000 m²", "1 ha"],
+      "answer": 2,
+      "explain": "5.000 m².",
+      "ref": "OUG art. 32 alin. (1)"
+    },
+    {
+      "q": "Terenul primit în folosință de pădurar:",
+      "options": [
+        "Poate fi arendat",
+        "Nu poate fi arendat sau închiriat",
+        "Poate fi vândut",
+        "Poate rămâne necultivat"
+      ],
+      "answer": 1,
+      "explain": "Interdicție.",
+      "ref": "OUG art. 32 alin. (4)"
+    },
+    {
+      "q": "Volumul anual gratuit de lemn de foc este:",
+      "options": ["4 m³", "6 m³", "8 m³", "10 m³"],
+      "answer": 1,
+      "explain": "6 m³, cu condiția de venit.",
+      "ref": "OUG art. 33 alin. (1)"
+    },
+    {
+      "q": "Dreptul la 10 m³ lemn de lucru se acordă:",
+      "options": ["Anual", "O singură dată, după ≥ 5 ani vechime", "La pensionare", "La angajare"],
+      "answer": 1,
+      "explain": "O dată.",
+      "ref": "OUG art. 34 alin. (1)"
+    },
+    {
+      "q": "Dacă angajatorul nu asigură uniforma, plătește anual:",
+      "options": ["Nimic", "O indemnizație netă de un salariu minim", "50% din valoare", "Un salariu mediu"],
+      "answer": 1,
+      "explain": "1 salariu minim.",
+      "ref": "OUG art. 39 alin. (3)"
+    },
+    {
+      "q": "După Statut, conflict de interese apare când în aceeași comisie e o rudă de gradul:",
+      "options": ["I", "II", "III", "IV"],
+      "answer": 0,
+      "explain": "Gradul I (Codul silvic merge până la gradul II).",
+      "ref": "OUG art. 40 alin. (3) lit. b)"
+    },
+    {
+      "q": "Gratificația la pensionarea pentru invaliditate din serviciu este:",
+      "options": ["3 salarii brute", "6 salarii brute", "10 salarii brute", "12 salarii brute"],
+      "answer": 2,
+      "explain": "10 salarii.",
+      "ref": "OUG art. 46 alin. (3)"
+    },
+    {
+      "q": "Reducerea salariului ca sancțiune disciplinară este de:",
+      "options": ["5–10% pe 1–3 luni", "10–20% pe 6 luni", "25% pe o lună", "5% pe un an"],
+      "answer": 0,
+      "explain": "5–10%, 1–3 luni.",
+      "ref": "OUG art. 48 alin. (2) lit. c)"
+    },
+    {
+      "q": "Retrogradarea din funcția de conducere poate dura cel mult:",
+      "options": ["30 zile", "60 zile", "90 zile", "6 luni"],
+      "answer": 1,
+      "explain": "60 zile.",
+      "ref": "OUG art. 48 alin. (2) lit. f)"
+    },
+    {
+      "q": "Avertismentul scris îl aplică:",
+      "options": ["Consiliul de disciplină", "Conducătorul entității direct", "Garda", "Instanța"],
+      "answer": 1,
+      "explain": "Lit. a)–d): conducătorul.",
+      "ref": "OUG art. 49 alin. (1) lit. a)"
+    },
+    {
+      "q": "Contestația împotriva sancțiunii disciplinare se face:",
+      "options": [
+        "La consiliul de disciplină, 10 zile",
+        "La instanță, 30 zile",
+        "La Gardă, 15 zile",
+        "La ITM"
+      ],
+      "answer": 1,
+      "explain": "Instanța, 30 zile.",
+      "ref": "OUG art. 49 alin. (2)"
+    },
+    {
+      "q": "Consiliul de disciplină e numit pe:",
+      "options": ["1 an", "2 ani", "4 ani", "5 ani"],
+      "answer": 2,
+      "explain": "4 ani.",
+      "ref": "OUG art. 50 alin. (4)"
+    },
+    {
+      "q": "Ziua Silvicultorului se organizează la nivel național în:",
+      "options": [
+        "Prima săptămână din mai",
+        "A doua săptămână din iunie",
+        "A treia săptămână din iunie",
+        "Septembrie"
+      ],
+      "answer": 1,
+      "explain": "A doua săptămână din iunie.",
+      "ref": "OUG art. 56"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Primul an ca inginer",
+      "situation": "Ești angajat prin concurs la un ocol silvic Romsilva, ca inginer silvic debutant, și primești la prima evaluare calificativul „bine”.",
+      "steps": [
+        {
+          "q": "Cât rămâi debutant?",
+          "a": "Un an de la încadrare; debutantul nu are gradații.",
+          "ref": "OUG art. 7 alin. (3)–(4)"
+        },
+        {
+          "q": "În ce grad treci după un an?",
+          "a": "Inginer silvic, gradația III (vechime minimă 1 an), la cerere, cu calificativele necesare.",
+          "ref": "OUG anexa 1"
+        },
+        {
+          "q": "Când poți ajunge la gradația II?",
+          "a": "Peste 2 ani (la 3 ani vechime), sau la un an dacă îndeplinești și o cerință suplimentară (de exemplu o lucrare publicată).",
+          "ref": "OUG art. 7^1 alin. (4)–(5)"
+        },
+        {
+          "q": "Cine decide promovarea?",
+          "a": "Comisia de 3 membri numită de conducătorul Romsilva, pentru personalul cu studii superioare.",
+          "ref": "OUG art. 11 alin. (1) lit. c)"
+        }
+      ]
+    },
+    {
+      "title": "Pădurarul de la 60 km",
+      "situation": "Un pădurar nou e repartizat la un canton aflat la 60 km de domiciliu. Ocolul nu are locuință de serviciu disponibilă.",
+      "steps": [
+        {
+          "q": "Ce drept are?",
+          "a": "O indemnizație lunară neimpozabilă de 30% din salariul mediu brut pe economie, fiind la peste 50 km.",
+          "ref": "OUG art. 25"
+        },
+        {
+          "q": "Poate primi teren agricol?",
+          "a": "Da, ca personal de teren: max. 5.000 m², gratuit, pe care trebuie să-l cultive și nu-l poate arenda.",
+          "ref": "OUG art. 32"
+        },
+        {
+          "q": "Și lemn de foc?",
+          "a": "6 m³ pe an, gratuit, dacă venitul net din salariu e sub salariul mediu brut.",
+          "ref": "OUG art. 33 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "Sancțiunea contestată",
+      "situation": "Un tehnician lipsește nemotivat repetat. Șeful de ocol propune retrogradarea lui din funcția de șef de district.",
+      "steps": [
+        {
+          "q": "E abatere disciplinară?",
+          "a": "Da, absențele nemotivate repetate.",
+          "ref": "OUG art. 52 lit. i)"
+        },
+        {
+          "q": "Cine decide?",
+          "a": "Retrogradarea (lit. f) trece prin consiliul de disciplină, apoi o aplică conducătorul prin decizie.",
+          "ref": "OUG art. 49 alin. (1) lit. b)"
+        },
+        {
+          "q": "Cât poate dura retrogradarea?",
+          "a": "Max. 60 de zile.",
+          "ref": "OUG art. 48 alin. (2) lit. f)"
+        },
+        {
+          "q": "Cum o contestă?",
+          "a": "La instanță, în 30 de zile de la comunicare.",
+          "ref": "OUG art. 49 alin. (2)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "OUG",
+        "name": "OUG 59/2000 – Statutul personalului silvic",
+        "title": "Statutul personalului silvic (OUG 59/2000)",
+        "note": "Consolidat la 29 octombrie 2026 (ultima modificare: OUG 26/2026, 16 aprilie 2026). Articolele abrogate nu sunt afișate.",
+        "inText": true,
+        "chapters": [
+          {"title": "Capitolul I – Dispoziţii generale", "from": "1"},
+          {"title": "Capitolul II – Categorii statutare ale personalului silvic", "from": "4"},
+          {
+            "title": "Capitolul III – Încadrarea personalului silvic pe grade profesionale",
+            "from": "8"
+          },
+          {
+            "title": "Capitolul IV – Drepturi şi îndatoriri · Secţiunea 1 – Prevederi generale",
+            "from": "20"
+          },
+          {"title": "Secţiunea a 2-a – Drepturile personalului silvic", "from": "24"},
+          {"title": "Secţiunea a 3-a – Îndatoririle personalului silvic", "from": "35"},
+          {"title": "Capitolul V – Protecţia personalului silvic", "from": "46"},
+          {"title": "Capitolul VI – Măsuri disciplinare. Sancţiuni", "from": "48"},
+          {"title": "Capitolul VII – Dispoziţii tranzitorii şi finale", "from": "55"}
+        ],
+        "articles": [
+          {
+            "no": "1",
+            "label": "Art. 1",
+            "items": [
+              ["(1)","Personalul silvic, în sensul prezentei ordonanţe de urgenţă, este format din persoane care au pregătire de specialitate în domeniul silviculturii, atestată prin diploma de absolvire a unei forme de învăţământ/formare profesională a adulţilor recunoscută în România şi care îşi desfăşoară activitatea profesională în domeniul silviculturii."],
+              ["(2)","Domeniul silvicultură cuprinde activităţile care au ca obiective:"],
+              ["a)","îndeplinirea rolului de autoritate de sinteză, coordonare, reglementare, monitorizare, inspecţie şi control de stat în silvicultură şi cinegetică;"],
+              ["b)","realizarea politicii la nivel naţional în silvicultură şi cinegetică;"],
+              ["c)","administrarea fondului forestier naţional şi asigurarea serviciilor silvice pentru acesta;"],
+              ["d)","gestionarea fondului forestier naţional şi a fondului cinegetic naţional;"],
+              ["e)","educaţia şi formarea profesională prin învăţământ şi formare continuă în domeniul silvicultură;"],
+              ["f)","promovarea şi dezvoltarea cercetării ştiinţifice, ingineriei şi dezvoltării tehnologice;"],
+              ["g)","managementul proiectelor/unităţilor de implementare a proiectelor aferente domeniului silvicultură, indiferent de programul de finanţare;"],
+              ["h)","managementul ariilor naturale protejate;"],
+              ["i)","exploatările şi construcţiile forestiere;"],
+              ["j)","reprezentarea intereselor profesionale şi sindicale ale personalului silvic;"],
+              ["k)","conservarea fondului forestier naţional şi a fondului cinegetic naţional şi gestionarea acestora;"],
+              ["l)","aplicarea strategiei şi implementarea programelor de ameliorare genetică a cabalinelor de rasă din patrimoniul statului, creşterea, ameliorarea, calificarea şi exploatarea efectivelor de cabaline din secţiile proprii."]
+            ]
+          },
+          {
+            "no": "2",
+            "label": "Art. 2",
+            "items": [
+              ["","Personalul silvic îşi poate desfăşura activitatea, după caz, în:"],
+              ["a)","autoritatea publică centrală care răspunde de silvicultură şi de vânătoare, precum şi în structurile teritoriale de specialitate ale acesteia;"],
+              ["b)","structurile administratorilor fondului forestier proprietate publică a statului şi bazele experimentale;"],
+              ["c)","ocoalele silvice de regim;"],
+              ["d)","structurile silvice de rang superior prevăzute la art. 13 din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările şi completările ulterioare;"],
+              ["e)","structurile de gestionare a faunei cinegetice;"],
+              ["f)","administraţiile ariilor naturale protejate;"],
+              ["g)","forurile ştiinţifice, institutele/unităţile de cercetare ştiinţifică, inginerie şi dezvoltare tehnologică în silvicultură;"],
+              ["h)","unităţile/instituţiile de învăţământ care şcolarizează în domeniul silvicultură;"],
+              ["i)","organizaţiile şi asociaţiile sindicale şi profesionale din domeniul silvicultură;"],
+              ["j)","unităţile de management al proiectului/unităţile de implementare a proiectului aferente domeniului silvicultură, indiferent de sursa/programul de finanţare;"],
+              ["k)","persoanele juridice de drept public care au în proprietate fond forestier;"],
+              ["l)","persoanele juridice şi fizice atestate/autorizate, în condiţiile legii, să desfăşoare activităţi şi/sau să presteze servicii în domeniul silvicultură;"],
+              ["m)","organizaţiile nonguvernamentale care au în obiectul de activitate conservarea şi dezvoltarea fondului forestier naţional şi/sau a fondului cinegetic naţional;"],
+              ["n)","unităţile şi subunităţile din structurile administratorului fondului forestier proprietate publică a statului care gestionează activităţile de creştere, exploatare şi ameliorare a cabalinelor de rasă din patrimoniul statului."]
+            ]
+          },
+          {
+            "no": "3",
+            "label": "Art. 3",
+            "items": [
+              ["","În exercitarea atribuţiilor de serviciu privind paza fondului forestier, a fondului cinegetic, a fondului piscicol şi a ariilor naturale protejate, în constatarea contravenţiilor şi în aplicarea sancţiunilor corespunzătoare, precum şi în constatarea faptelor ce constituie infracţiuni, potrivit legii, personalul silvic care îşi desfăşoară activitatea în entităţile prevăzute la art. 2 lit. a) -f) este învestit cu exerciţiul autorităţii publice, în limitele competenţelor stabilite de lege."]
+            ]
+          },
+          {
+            "no": "4",
+            "label": "Art. 4",
+            "items": [
+              ["(1)","În funcţie de modul prin care se stabileşte raportul de muncă, personalul silvic se diferenţiază în următoarele categorii:"],
+              ["a)","personal silvic cu statut de funcţionar public - personalul silvic numit în funcţie printr-un act administrativ şi care se află într-un raport de serviciu cu autoritatea publică centrală care răspunde de silvicultură sau cu autoritatea publică centrală care răspunde de vânătoare sau cu structurile teritoriale de specialitate ale acestora, cu alte autorităţi şi instituţii publice centrale sau cu structurile teritoriale ale acestora; personalul silvic ales sau numit într-o funcţie de demnitate publică;"],
+              ["b)","personal silvic angajat cu contract individual de muncă - personalul silvic care îşi desfăşoară activitatea în baza unui contract individual de muncă, încheiat în condiţiile Legii nr. 53/2003 - Codul muncii, republicată, cu modificările şi completările ulterioare;"],
+              ["b¹)","personal silvic selectat şi numit cu contract de mandat - personalul silvic care îşi desfăşoară activitatea în baza unui contract de mandat, încheiat în condiţiile Legii nr. 331/2024 privind Codul silvic, cu modificările şi completările ulterioare, respectiv, după caz, ale Ordonanţei de urgenţă a Guvernului nr. 109/2011 privind guvernanţa corporativă a întreprinderilor publice, aprobată cu modificări şi completări prin Legea nr. 111/2016, cu modificările şi completările ulterioare, şi ale Legii societăţilor nr. 31/1990, republicată, cu modificările şi completările ulterioare;"],
+              ["c)","personal didactic - personal silvic care îşi desfăşoară activitatea în baza prevederilor Legii educaţiei naţionale nr. 1/2011, cu modificările şi completările ulterioare."],
+              ["(2)","În funcţie de nivelul pregătirii profesionale, personalul silvic poate fi:"],
+              ["a)","personal silvic absolvent al învăţământului superior de lungă durată cu diplomă de licenţă şi completată, după caz, cu masterat/doctorat în ştiinţe inginereşti din domeniul silvicultură;"],
+              ["b)","personal silvic absolvent, cu diplomă, al învăţământului superior de scurtă durată, de profil tehnic cu calificări în domeniul silvicultură;"],
+              ["c)","personal silvic cu studii postliceale absolvent al şcolilor postliceale cu calificări în domeniul silvicultură;"],
+              ["d)","personal silvic absolvent al învăţământului liceal tehnologic, al învăţământului profesional tehnic şi al învăţământului postliceal tehnic organizat pentru specializări şi calificări stabilite de Ministerul Educaţiei şi Cercetării, cu calificări în domeniul silvicultură;"],
+              ["e)","personal silvic absolvent al învăţământului secundar superior organizat pentru specializări şi calificări stabilite de Ministerul Educaţiei şi Cercetării, cu calificări în domeniul silvicultură;"],
+              ["f)","personal silvic absolvent al stagiilor de pregătire practică sau al unor programe de formare profesională a adulţilor, cu calificări certificate potrivit Cadrului naţional al calificărilor."],
+              ["(3)","Pentru promovarea profesională şi pentru sancţionarea personalului silvic cu statut de funcţionar public, a personalului silvic angajat cu contract individual de muncă din sectorul bugetar plătit din fonduri publice la ocuparea unui post din cadrul autorităţilor şi instituţiilor publice, precum şi pe timpul cât se află în raporturi de serviciu/muncă cu acestea nu se aplică prevederile prezentei ordonanţe de urgenţă."]
+            ]
+          },
+          {
+            "no": "5",
+            "label": "Art. 5",
+            "items": [
+              ["(1)","Încadrarea în muncă a personalului silvic se face potrivit legii şi prezentului statut."],
+              ["(2)","Pentru a fi încadrat în muncă şi a dobândi calitatea de personal silvic, candidatul trebuie să îndeplinească cumulativ următoarele condiţii:"],
+              ["a)","să fie cetăţean român;"],
+              ["b)","să cunoască limba română, scris şi vorbit;"],
+              ["c)","să aibă vârsta minimă de 18 ani;"],
+              ["d)","să fie apt din punct de vedere medical şi psihologic;"],
+              ["e)","să aibă studiile şi pregătirea adecvate pentru ocuparea funcţiei pe care se încadrează;"],
+              ["f)","să nu fi fost condamnat definitiv pentru săvârşirea unei infracţiuni cu intenţie în domeniul silvic, cu excepţia situaţiei în care a intervenit reabilitarea."],
+              ["(3)","Personalul silvic se bucură de stabilitate şi continuitate în serviciu, conform dispoziţiilor prezentului statut."]
+            ]
+          },
+          {
+            "no": "7",
+            "label": "Art. 7",
+            "items": [
+              ["(1)","În funcţie de nivelul pregătirii profesionale prevăzut la art. 4 alin. (2), personalul silvic este încadrat pe grade profesionale după cum urmează:"],
+              ["a)","categoriile profesionale prevăzute la art. 4 alin. (2) lit. a) se încadrează, după caz, în gradele profesionale: inginer silvic debutant, inginer silvic, inginer-şef silvic, inginer inspector silvic, inginer inspector general silvic şi inginer consilier silvic;"],
+              ["b)","categoriile profesionale prevăzute la art. 4 alin. (2) lit. b) se încadrează, după caz, în gradele: inginer silvic colegiu debutant sau subinginer silvic debutant, inginer silvic colegiu sau subinginer silvic, inginer silvic colegiu principal sau subinginer silvic principal;"],
+              ["c)","categoriile profesionale prevăzute la art. 4 alin. (2) lit. c) se încadrează, după caz, în gradele: tehnician silvic debutant, tehnician silvic şi tehnician silvic principal;"],
+              ["d)","categoriile profesionale prevăzute la art. 4 alin. (2) lit. d), e) şi f) se încadrează, după caz, în gradele: pădurar debutant, pădurar şi pădurar principal."],
+              ["(2)","Fiecărui grad profesional prevăzut la alin. (1) îi corespund câte 3 gradaţii: I, II şi III, gradaţia I fiind cea superioară."],
+              ["(3)","Fac excepţie de la prevederile alin. (2) gradele profesionale de: inginer consilier silvic, inginer silvic debutant, inginer silvic colegiu debutant, subinginer silvic debutant, tehnician silvic debutant şi pădurar debutant care nu au gradaţii."],
+              ["(4)","Gradul profesional de debutant se dobândeşte odată cu angajarea pe post şi are durata de un an de la data încadrării pe respectivul post."]
+            ]
+          },
+          {
+            "no": "7^1",
+            "label": "Art. 7¹",
+            "items": [
+              ["(1)","Personalul silvic beneficiază de încadrarea şi promovarea în grade profesionale şi gradaţii."],
+              ["(2)","Încadrarea şi promovarea în grade profesionale şi gradaţii se fac la cerere, pe baza îndeplinirii următoarelor cerinţe:"],
+              ["a)","vechimea minimă în domeniul silvicultură şi nivelul studiilor necesare personalului silvic pentru încadrarea şi promovarea în grade profesionale şi gradaţii, potrivit anexei nr. 1;"],
+              ["b)","calificativele \"satisfăcător\", \"bine\" şi \"foarte bine\" obţinute la evaluările profesionale din ultimii 2 ani;"],
+              ["c)","funcţiile de conducere şi de reprezentare în domeniul silvicultură;"],
+              ["d)","titlurile ştiinţifice şi gradele didactice;"],
+              ["e)","lucrările tehnico-ştiinţifice publicate;"],
+              ["f)","invenţiile şi inovaţiile în domeniul silvicultură."],
+              ["(3)","Pentru gradele profesionale de: inginer silvic debutant, inginer silvic colegiu debutant, subinginer silvic debutant, tehnician silvic debutant şi pădurar debutant nu este necesară dovada vechimii în domeniul silvicultură."],
+              ["(4)","Promovarea în grad profesional se face prin îndeplinirea cumulativă a cerinţelor prevăzute la alin. (2) lit. a) şi b), iar promovarea în gradaţii se face o dată la 2 ani dacă personalul silvic solicitant face dovada îndeplinirii cumulative a cerinţelor prevăzute la alin. (2) lit. a) şi b)."],
+              ["(5)","Prin excepţie de la prevederile alin. (4), promovarea în grad profesional şi în gradaţie se face la un an, dacă personalul silvic solicitant face dovada îndeplinirii în mod cumulativ a cerinţelor prevăzute la alin. (2) lit. a) şi b) şi cel puţin a uneia din cerinţele prevăzute la alin. (2) lit. c) -f)."],
+              ["(6)","Pentru personalul silvic la încadrarea şi promovarea în gradul profesional superior şi/sau gradaţia superioară, la vechimea în domeniul silvicultură nu se ia în considerare anul în care a obţinut calificativul \"nesatisfăcător\"."],
+              ["(7)","Promovarea în gradul profesional superior se face după îndeplinirea condiţiei minime de vechime prevăzute în anexa nr. 1, cu luarea în considerare a cerinţelor prevăzute la alin. (4) sau (5), după caz."],
+              ["(8)","Încadrarea în grade profesionale şi gradaţii pentru personalul silvic care nu deţine un grad profesional se face cu luarea în considerare a cerinţelor prevăzute la alin. (2) lit. a) şi b) şi alin. (6)."]
+            ]
+          },
+          {
+            "no": "7^2",
+            "label": "Art. 7²",
+            "items": [
+              ["(1)","Dosarul pentru încadrarea şi promovarea în grade profesionale şi gradaţii a personalului silvic se întocmeşte de către angajator şi cuprinde:"],
+              ["a)","curriculum vitae;"],
+              ["b)","documentul de atestare a studiilor;"],
+              ["c)","actul de numire în funcţie;"],
+              ["d)","documentele privind evaluarea anuală a activităţii acestuia, avansările în funcţii, încadrarea şi promovarea în grad profesional şi în gradaţia aferentă acestuia, titlul ştiinţific şi/sau gradul didactic, invenţiile şi inovaţiile, atestatele de specialitate, aprecierea şi recunoaşterea apartenenţei la organizaţii şi/sau organisme profesionale şi ştiinţifice naţionale şi/sau internaţionale, distincţiile sau actele de mulţumire acordate, precum şi sancţiunile ce i-au fost aplicate;"],
+              ["e)","documentul privind vechimea în domeniul silviculturii pe un post corespunzător pregătirii profesionale."],
+              ["(2)","Este interzisă introducerea în dosar a documentelor referitoare la opiniile politice, sindicale, religioase sau de orice altă natură ale personalului silvic."]
+            ]
+          },
+          {
+            "no": "8",
+            "label": "Art. 8",
+            "items": [
+              ["(1)","Angajarea personalului silvic prevăzut la art. 4 alin. (1) lit. b) se face prin concurs, iar promovarea în grade profesionale superioare şi gradaţii se face în baza dosarului profesional, pentru încadrarea şi promovarea în grade profesionale şi gradaţii."],
+              ["(2)","Încadrarea personalului silvic în grad de debutant se face pe baza dosarului de concurs depus la angajare."]
+            ]
+          },
+          {
+            "no": "10",
+            "label": "Art. 10",
+            "items": [
+              ["(1)","Salarizarea va fi corelată cu gradul profesional în care se află încadrat fiecare angajat."],
+              ["(2)","Personalului silvic care a fost condamnat definitiv pentru o infracţiune în legătură cu serviciul sau pentru o infracţiune silvică îi încetează de drept raportul de serviciu/de muncă de la data rămânerii definitive a hotărârii judecătoreşti de condamnare, iar reîncadrarea se poate face numai după radierea faptei din cazierul judiciar."]
+            ]
+          },
+          {
+            "no": "11",
+            "label": "Art. 11",
+            "items": [
+              ["(1)","Pentru încadrarea personalului silvic pe grade profesionale, pentru promovarea în grade superioare şi pentru acordarea de gradaţii potrivit prevederilor art. 7 1 şi 7 2 se înfiinţează comisiile de încadrare şi promovare în grade profesionale şi gradaţii, denumite în continuare comisii de încadrare şi promovare, după cum urmează:"],
+              ["a)","în cadrul autorităţii publice centrale care răspunde de silvicultură, pentru personalul silvic prevăzut la art. 2 lit. a), g), h) şi j) şi personalul silvic căruia i se acordă gradul de inginer consilier silvic şi gradul şi gradaţiile de inginer inspector general silvic. Comisia de încadrare şi promovare este formată din 3 membri numită prin ordin al conducătorului autorităţii publice centrale care răspunde de silvicultură;"],
+              ["b)","în cadrul structurilor teritoriale de specialitate ale autorităţii publice centrale care răspunde de silvicultură pentru personalul silvic prevăzut la art. 2 lit. e), f), i), l) şi m). Fiecare comisie de încadrare şi promovare este formată din 3 membri şi este numită prin decizie a conducătorului structurii teritoriale de specialitate a autorităţii publice centrale care răspunde de silvicultură competente teritorial;"],
+              ["c)","în cadrul Regiei Naţionale a Pădurilor Romsilva şi al celorlalţi administratori de fond forestier proprietate publică a statului, pentru personalul silvic prevăzut la art. 4 alin. (2) lit. a) şi b) din unităţile şi/sau subunităţile silvice din subordine. Comisia de încadrare şi promovare este formată din 3 membri şi este numită prin decizie a conducătorului administratorului fondului forestier proprietate publică a statului;"],
+              ["d)","în cadrul unităţilor sau, după caz, al entităţilor din subordinea Regiei Naţionale a Pădurilor Romsilva şi a celorlalţi administratori de fond forestier proprietate publică a statului, pentru personalul silvic prevăzut la art. 4 alin. (2) lit. c) -f). Fiecare comisie de încadrare şi promovare este formată din 3 membri şi este numită prin decizie a conducătorului unităţii sau, după caz, al entităţii;"],
+              ["e)","în cadrul Asociaţiei Administratorilor de Păduri din România, pentru personalul silvic prevăzut la art. 2 lit. c), d) şi k). Comisia de încadrare şi promovare este formată din 3 membri şi este numită prin decizie a preşedintelui Asociaţiei Administratorilor de Păduri din România."],
+              ["(2)","Constituirea, funcţionarea şi atribuţiile ce revin comisiilor de încadrare şi promovare prevăzute la alin. (1) se stabilesc prin ordin al conducătorului autorităţii publice centrale care răspunde de silvicultură."]
+            ]
+          },
+          {
+            "no": "17",
+            "label": "Art. 17",
+            "items": [
+              ["","Pentru ocuparea prin procedură de selecţie şi numire prin concurs a funcţiilor de director general, director general adjunct, director, director tehnic şi şef de ocol cu contract de mandat, condiţiile sunt:"],
+              ["a)","la structura centrală a Regiei Naţionale a Pădurilor - Romsilva, pentru funcţia de director general şi director general adjunct: 15 ani vechime minimă în domeniul silvicultură, dintre care 7 ani în funcţii de conducere în domeniul silvicultură, iar pentru funcţia de director: 10 ani vechime minimă în domeniul silvicultură, dintre care 5 ani în funcţii de conducere în domeniul silvicultură;"],
+              ["b)","la unităţile cu personalitate juridică din cadrul Regiei Naţionale a Pădurilor - Romsilva, pentru funcţia de director: 10 ani vechime minimă în domeniul silvicultură, dintre care 5 ani în funcţii de conducere în domeniul specific de activitate;"],
+              ["c)","la direcţia silvică, pentru funcţia de director şi director tehnic, dacă este cazul: 10 ani vechime minimă în domeniul silvicultură, dintre care 5 ani în funcţii de conducere în administrarea fondului forestier naţional;"],
+              ["d)","la ocolul silvic de stat/ocolul silvic de regim, pentru funcţia de şef ocol: 5 ani vechime minimă în domeniul silvicultură."]
+            ]
+          },
+          {
+            "no": "20",
+            "label": "Art. 20",
+            "items": [
+              ["(1)","Personalul silvic are drepturile şi obligaţiile prevăzute de legislaţia în vigoare, precum şi pe cele stabilite prin contractele individuale şi/sau colective de muncă şi contractele de mandat încheiate în condiţiile legii."],
+              ["(2)","«abrogat»"],
+              ["(3)","«abrogat»"],
+              ["(4)","«abrogat»"]
+            ]
+          },
+          {
+            "no": "21",
+            "label": "Art. 21",
+            "items": [
+              ["(1)","Angajatorul are obligaţia ca, în prima lună a fiecărui an, să evalueze activitatea pe care a desfăşurat-o personalul silvic în anul precedent, întocmind în acest sens un document de evaluare specific fiecărei categorii de personal prevăzut la art. 4 alin. (1) lit. b) şi c)."],
+              ["(2)","Evaluarea anuală a activităţii personalului silvic angajat cu contract individual de muncă se realizează în baza următoarelor criterii:"],
+              ["a)","modul de îndeplinire a sarcinilor, îndatoririlor şi responsabilităţilor înscrise în fişa postului;"],
+              ["b)","nivelul cunoştinţelor şi deprinderilor specifice, raportat la cerinţele postului;"],
+              ["c)","aptitudinile personale şi respectarea normelor de etică şi deontologie profesională;"],
+              ["d)","aptitudinile organizatorice sau capacităţile manageriale, exclusiv pentru personalul care ocupă funţii de conducere."],
+              ["(3)","Pentru fiecare dintre criteriile prevăzute la alin. (2), angajatorul stabileşte în fişa de evaluare indicatorii de performanţă şi punctajele aferente fiecărui indicator."],
+              ["(4)","În funcţie de punctajul general obţinut, angajatorul stabileşte următoarele calificative: \"foarte bine\", \"bine\", \"satisfăcător\", \"nesatisfăcător\"."],
+              ["(5)","Punctajul acordat fiecărui indicator de evaluare, punctajul general, constatările şi concluziile evaluării şi calificativul se consemnează în documentul de evaluare a activităţii."],
+              ["(6)","Personalul silvic nemulţumit de evaluarea anuală poate face contestaţie în termen de 10 zile de la data luării la cunoştinţă, sub semnătură. Contestaţia va fi soluţionată în termen de 30 de zile de la înregistrare de către organul ierarhic superior celui care a aprobat rezultatul evaluării anuale."],
+              ["(7)","Personalul silvic nemulţumit de răspunsul la contestaţie se poate adresa instanţelor judecătoreşti competente, conform legii."]
+            ]
+          },
+          {
+            "no": "22",
+            "label": "Art. 22",
+            "items": [
+              ["(1)","La stabilirea drepturilor salariale pentru personalul silvic se vor avea în vedere următoarele: nivelul studiilor, funcţia, titlul ştiinţific, vechimea în muncă, vechimea în domeniul silviculturii, locul şi condiţiile în care îşi exercită profesia."],
+              ["(2)","Indemnizaţia de grad profesional şi sporul de risc reprezintă componente ale drepturilor salariale şi se acordă lunar personalului silvic prevăzut la art. 4 alin. (1) în conformitate cu prevederile art. 120 alin. (3) - (5) din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările şi completările ulterioare."],
+              ["(3)","Sumele necesare pentru acordarea indemnizaţiei de grad profesional prevăzute la alin. (2) se calculează, anual, prin înmulţirea valorii salariului minim brut garantat în plată la nivel naţional cu coeficientul k prevăzut pentru fiecare grad şi pentru fiecare gradaţie."],
+              ["(4)","Valorile coeficientului k sunt prevăzute în anexa nr. 2."],
+              ["(5)","Sumele necesare pentru acordarea indemnizaţiei de grad profesional prevăzute la alin. (2) se asigură de către angajator din bugetul propriu."],
+              ["(6)","În situaţia în care personalul silvic se află în raporturi de muncă cu două sau mai multe entităţi din cele prevăzute la art. 2, beneficiază de o singură indemnizaţie de grad profesional care se acordă de angajatorul la care are funcţia de bază."],
+              ["(7)","În unităţile şi subunităţile care administrează fondul forestier naţional, salarizarea pentru funcţia de bază pădurar, salariul de bază va fi mai mare de 1,5 ori faţă de salariul minim brut pe ţară garantat în plată."]
+            ]
+          },
+          {
+            "no": "23",
+            "label": "Art. 23",
+            "items": [
+              ["(1)","În exercitarea atribuţiilor de serviciu, personalul silvic cu atribuţii de pază a fondului forestier naţional, a fondului cinegetic naţional, a fondului piscicol şi a ariilor naturale protejate are statut special, este dotat cu armament de serviciu letal sau neletal, după caz, şi poate face uz de armă, în condiţiile reglementărilor privind regimul armelor şi muniţiilor."],
+              ["(2)","Statutul special este conferit de portul de armă, de îndatoririle specifice în îndeplinirea atribuţiilor de serviciu şi de riscurile meseriei, care îi pot afecta integritatea fizică şi viaţa."]
+            ]
+          },
+          {
+            "no": "23^1",
+            "label": "Art. 23¹",
+            "items": [
+              ["(1)","În scopul realizării controlului de specialitate potrivit art. 131 alin. (1) din Legea nr. 331/2024, cu modificările şi completările ulterioare, a atribuţiilor de serviciu privind paza fondului forestier, a fondului cinegetic, a fondului piscicol, a ariilor naturale protejate, acţiunile personalului cu atribuţii de control şi pază care îşi desfăşoară activitatea în entităţile prevăzute la art. 2 lit. a) -f) şi n) pot fi înregistrate cu mijloacele foto-audio-video din dotare, fără consimţământul persoanelor vizate. Înregistrările foto-audio-video constituie mijloace de probă."],
+              ["(2)","Imaginile fotografice ori înregistrările audio şi/sau video obţinute potrivit alin. (1) pot fi păstrate pe o perioadă de 6 luni de la data obţinerii acestora, cu excepţia situaţiilor în care sunt utilizate în cadrul unei proceduri judiciare, caz în care acestea urmează regimul probelor. La împlinirea acestui termen imaginile şi/sau înregistrările se distrug, prin proceduri ireversibile."],
+              ["(3)","Se interzice prelucrarea datelor cu caracter personal conţinute de imaginile fotografice ori înregistrările audio şi/sau video în alte scopuri decât cele în care au fost colectate, cu excepţia situaţiilor prevăzute expres de lege şi numai dacă sunt asigurate garanţiile necesare pentru protejarea drepturilor persoanelor vizate."],
+              ["(4)","Prelucrarea datelor cu caracter personal, efectuată de entităţile prevăzute la alin. (1), se realizează cu respectarea prevederilor Regulamentului (UE) 2016/679 al Parlamentului European şi al Consiliului din 27 aprilie 2016 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare a Directivei 95/46/CE (Regulamentul general privind protecţia datelor), precum şi a legislaţiei naţionale aplicabile domeniului protecţiei datelor."],
+              ["(5)","Procedura privind înregistrarea şi fixarea cu mijloace foto-audio-video din dotare a activităţilor specifice prevăzute la alin. (1), precum şi stocarea şi accesarea acestora se stabileşte prin hotărâre a Guvernului."]
+            ]
+          },
+          {
+            "no": "24",
+            "label": "Art. 24",
+            "items": [
+              ["(1)","Personalul silvic cu rezultate foarte bune în activitatea profesională poate primi distincţii, acte de mulţumire şi premii."],
+              ["(2)","Conducătorul autorităţii publice centrale care răspunde de silvicultură va acorda, pentru merite deosebite, următoarele distincţii sau acte de mulţumire:"],
+              ["a)","Diploma \"Marin Drăcea\", cu 3 clase, respectiv:"],
+              ["–","clasa I pentru personalul silvic cu pregătire superioară;"],
+              ["–","clasa a II-a pentru personalul silvic cu pregătire medie;"],
+              ["–","clasa a III-a pentru personalul silvic cu pregătire de bază;"],
+              ["b)","scrisoare de mulţumire publică."],
+              ["(3)","Acordarea de distincţii sau de acte de mulţumire şi premii se face pentru personalul din structurile prevăzute la art. 2, la propunerea direcţiei de specialitate din cadrul autorităţii publice centrale care răspunde de silvicultură sau a conducerii Regiei Naţionale a Pădurilor, fiecare pentru personalul pe care îl are în subordine."],
+              ["(4)","Premiul poate fi până la 20% din suma salariilor primite în ultimele 12 luni de angajatul premiat şi se acordă de unitatea la care este încadrat din fondul constituit în acest sens."],
+              ["(5)","Distincţiile şi premiile prevăzute la alin. (2), (3) şi (4) se acordă anual, în cadrul manifestărilor dedicate Zilei silvicultorului."],
+              ["(6)","Conducătorul entităţii angajatoare acordă pentru merite deosebite diplome, distincţii şi premii, conform procedurilor proprii."]
+            ]
+          },
+          {
+            "no": "25",
+            "label": "Art. 25",
+            "items": [
+              ["","Personalul silvic care nu deţine locuinţă personală în localitatea în care îşi desfăşoară activitatea beneficiază de locuinţă de serviciu, de protocol sau de intervenţie, după caz. În cazul în care acest lucru nu este posibil, personalul silvic beneficiază de o indemnizaţie lunară neimpozabilă în cuantum de 30% din salariul mediu brut pe economie, dacă îşi desfăşoară activitatea la o distanţă mai mare de 50 km faţă de domiciliu."]
+            ]
+          },
+          {
+            "no": "25^1",
+            "label": "Art. 25¹",
+            "items": [
+              ["(1)","Prin excepţie de la art. 25, personalul silvic, angajat al Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", care nu deţine locuinţă personală în localitatea în care îşi desfăşoară activitatea, beneficiază de canton, cu destinaţia de locuinţă de serviciu, cu titlu gratuit. În cazul în care acest lucru nu este posibil, personalul silvic din cadrul Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" beneficiază de acoperirea totală a costului de transport la şi de la locul de muncă, respectiv a biletelor sau a abonamentelor de transport în comun sau de transport cu maşinile regiei, acolo unde nu există transport în comun."],
+              ["(2)","Contractul de comodat pentru canton se încheie în formă autentică, devenind anexă la contractul individual de muncă."]
+            ]
+          },
+          {
+            "no": "26",
+            "label": "Art. 26",
+            "items": [
+              ["","În cazul în care reşedinţa sau domiciliul personalului silvic de teren - pădurari, brigadieri silvici, ajutori şef district, şefi district - se află în afara perimetrului unei localităţi, acesta beneficiază de un spor de izolare, care variază, în funcţie de distanţă, între 10% şi 30% din salariul negociat, în condiţii negociate cu angajatorul."]
+            ]
+          },
+          {
+            "no": "27",
+            "label": "Art. 27",
+            "items": [
+              ["(1)","Personalul silvic poate fi transferat în interesul serviciului la o altă unitate silvică situată în altă localitate."],
+              ["(2)","La cerere, personalul silvic poate fi transferat la o altă unitate silvică, pe un post similar sau echivalent, vacant, cu aprobarea prealabilă a conducătorului unităţii silvice unde se solicită transferul."],
+              ["(3)","În cazul transferului în interesul serviciului, personalul silvic are dreptul la plata unei indemnizaţii impozabile egale cu salariul brut pe 3 luni şi decontarea cheltuielilor de transport pentru el şi membrii familiei, precum şi pentru bunurile personale."]
+            ]
+          },
+          {
+            "no": "28",
+            "label": "Art. 28",
+            "items": [
+              ["(1)","Personalul silvic de execuţie poate fi detaşat la un alt loc de muncă din aceeaşi sau din altă unitate silvică teritorială pentru executarea unor lucrări care necesită urgenţă, specifice funcţiei şi pregătirii sale profesionale, pentru o perioadă de cel mult 6 luni."],
+              ["(2)","Pe perioada detaşării personalul silvic îşi păstrează funcţia şi drepturile salariale. Dacă salariul corespunzător funcţiei pe care este detaşat este mai mare, el are dreptul la acest salariu. Pe perioada detaşării în altă localitate unitatea silvică beneficiară este obligată să îi suporte costul legal al transportului, dus şi întors, cel puţin o dată pe lună, al cazării şi al indemnizaţiei de detaşare."],
+              ["(3)","Detaşarea poate fi refuzată de cel în cauză, dacă unitatea nu respectă prevederile alin. (1) şi (2)."]
+            ]
+          },
+          {
+            "no": "29",
+            "label": "Art. 29",
+            "items": [
+              ["(1)","Personalul silvic cu studii superioare, prevăzut la art. 4 alin. (1), poate presta, prin cumul, activităţi specifice în învăţământ, cu condiţia de a nu a afecta îndeplinirea atribuţiilor de serviciu."],
+              ["(2)","În condiţiile prevăzute la alin. (1) personalul silvic poate presta şi alte servicii şi/sau activităţi specifice domeniului silvicultură pentru care deţine atestat/autorizaţie, dar numai în situaţia în care acestea nu se află în domeniul de autoritate al angajatorului şi dacă nu este prevăzut în fişa postului."]
+            ]
+          },
+          {
+            "no": "30",
+            "label": "Art. 30",
+            "items": [
+              ["(1)","Personalul silvic prevăzut la art. 4 alin. (1) şi cei care ocupă o funcţie de demnitate publică, urmează cursuri de masterat/postuniversitare/doctorat în domeniul silvicultură, forma de zi, beneficiază de rezervarea postului pe care îl ocupă, pe perioada în care ocupă funcţia de demnitate publică sau urmează cursurile respective."],
+              ["(2)","Personalul silvic prevăzut la art. 4 alin. (1) poate urma cursuri de masterat/postuniversitare/doctorat cu frecvenţă, cursuri de zi, cu condiţia de a nu afecta îndeplinirea atribuţiilor de serviciu; personalul silvic în cauză, pe toată durata efectuării studiilor, are dreptul la suspendarea raporturilor de serviciu pe o perioadă de maximum 3 luni pe an."],
+              ["(3)","Personalul silvic prevăzut la art. 4 alin. (1) are dreptul de a fi înscris şi de a frecventa o formă de învăţământ, cursuri de zi, cu condiţia de a nu a afecta îndeplinirea atribuţiilor de serviciu."]
+            ]
+          },
+          {
+            "no": "31",
+            "label": "Art. 31",
+            "items": [
+              ["","Inginerii silvici care îşi exercită profesiunea în structurile prevăzute la art. 2 au dreptul de a executa măsurători topografice, expertize şi lucrări tehnice din domeniul silviculturii, precum şi hotărnicii, potrivit reglementărilor legale."]
+            ]
+          },
+          {
+            "no": "32",
+            "label": "Art. 32",
+            "items": [
+              ["(1)","Personalul silvic de teren - şefi district, ajutori şef district, brigadieri şi pădurari - are dreptul, pe durata angajării la o unitate silvică, să folosească gratuit un teren apt pentru culturi agricole - arabil sau fâneaţă - cu suprafaţa de maximum 5.000 m 2 , în limita terenurilor existente în fondul forestier, destinat unor asemenea culturi."],
+              ["(2)","Este interzisă defrişarea de pădure pentru crearea de terenuri agricole, care să fie date în folosinţă personalului silvic."],
+              ["(3)","Terenurile atribuite personalului menţionat la alin. (1) vor fi în mod obligatoriu cultivate, folosindu-se tehnologii de lucru care să asigure protecţia solului."],
+              ["(4)","Terenurile prevăzute la alin. (1) nu pot fi arendate sau închiriate."],
+              ["(5)","În situaţia în care nu se acoperă necesarul de terenuri pentru personalul prevăzut la alin. (1), se poate acorda în schimb o cantitate de material lemnos pentru construcţii sau pentru foc, care să echivaleze valoric producţia medie a principalelor culturi agricole din zonă."]
+            ]
+          },
+          {
+            "no": "33",
+            "label": "Art. 33",
+            "items": [
+              ["(1)","Personalul silvic prevăzut la art. 4 alin. (1) are dreptul să primească, anual, gratuit, un volum de 6 mc lemn fasonat de foc dacă venitul lunar net din salariul aferent lunii anterioare acordării acestuia este mai mic decât salariul mediu brut pe economie. Contravaloarea lemnului fasonat de foc se stabileşte folosind media valorilor lemnului de foc din Lista preţurilor de referinţă, pe specii şi sortimente stabilite anual, pentru materialele lemnoase care nu se găsesc sau care nu pot fi identificate, stabilită de autoritatea publică centrală pentru silvicultură, în baza art. 152 alin. (6) din Legea nr. 331/2024 privind Codul silvic, cu modificările ulterioare, se suportă de angajator şi se prevede în bugetul de venituri şi cheltuieli."],
+              ["(2)","Pentru personalul silvic angajat cu contract individual de muncă, acordarea dreptului prevăzut la alin. (1) se face în baza contractului colectiv de muncă negociat la nivel de unitate sau sector de activitate."],
+              ["(3)","Dreptul prevăzut la alin. (1) se poate acorda şi din alte sortimente de lemn fasonat destinat valorificării la populaţie, în condiţiile legii, în echivalent valoric lemn fasonat de foc."],
+              ["(4)","În situaţia în care angajatorul nu poate asigura volumul de lemn fasonat prevăzut la alin. (1), dreptul se acordă în bani personalului silvic, în cuantum reprezentând contravaloarea lemnului de foc."],
+              ["(5)","De dreptul prevăzut la alin. (1) beneficiază şi persoanele care au avut cel puţin 15 ani calitatea de angajat la una din entităţile prevăzute la art. 2 şi s-au pensionat de la una din acestea. Acesta va fi asigurat de către ultimul angajator de la care s-au pensionat. În cazul în care ultimul angajator nu mai există, se află în organizare judiciară sau faliment, dreptul prevăzut la alin. (1) se asigură de către structura silvică de stat care administrează pădurile pe raza domiciliului solicitantului."],
+              ["(6)","În cazul decesului titularului, de dreptul prevăzut la alin. (1) beneficiază soţul supravieţuitor sau, după caz, copiii aflaţi în întreţinere."]
+            ]
+          },
+          {
+            "no": "34",
+            "label": "Art. 34",
+            "items": [
+              ["(1)","Personalul silvic prevăzut la art. 4 alin. (1) lit. b), cu o vechime minimă de 5 ani în domeniul silvicultură, are dreptul să primească pentru nevoi proprii, o singură dată pe perioada derulării contractului de muncă, un volum de 10 mc lemn de lucru fasonat. Contravaloarea lemnului, la nivelul ultimului preţ al lemnului de lucru fasonat stabilit de Institutul Naţional de Statistică, se suportă de angajatorul beneficiarului. Acordarea acestui drept se face în baza contractului colectiv de muncă negociat la nivel de unitate sau sector de activitate. În cazul decesului titularului, de dreptul prevăzut în prezentul alineat beneficiază soţul supravieţuitor sau, după caz, copiii aflaţi în întreţinere."],
+              ["(2)","De dreptul prevăzut la alin. (1) nu se mai poate beneficia după încetarea contractului individual de muncă/contractului de mandat."],
+              ["(3)","În situaţia în care angajatorul nu poate asigura volumul de lemn fasonat de lucru prevăzut la alin. (1), dreptul se acordă în bani în cuantum egal cu contravaloarea lemnului."]
+            ]
+          },
+          {
+            "no": "35",
+            "label": "Art. 35",
+            "items": [
+              ["","Personalul silvic este obligat să cunoască şi să aplice întocmai prevederile Codului silvic, precum şi cele cuprinse în actele normative în vigoare, specifice domeniului silviculturii."]
+            ]
+          },
+          {
+            "no": "36",
+            "label": "Art. 36",
+            "items": [
+              ["(1)","În executarea sarcinilor de serviciu personalul silvic din cadrul unităţilor silvice care administrează şi gestionează fondul forestier naţional, proprietate publică a statului, are obligaţia să cunoască şi să respecte dispoziţiile prevăzute la art. 35, precum şi prevederile actelor cu caracter normativ emise de autoritatea publică centrală care răspunde de silvicultură. Personalul silvic angajat al Regiei Naţionale a Pădurilor este obligat să cunoască şi să aplice întocmai deciziile conducerii acesteia."],
+              ["(2)","Personalul silvic angajat în unităţile menţionate la alin. (1) este obligat să păstreze secretul de serviciu."]
+            ]
+          },
+          {
+            "no": "37",
+            "label": "Art. 37",
+            "items": [
+              ["","Principiile care stau la baza exercitării funcţiei şi/sau profesiei de către personalul silvic sunt:"],
+              ["a)","legalitate, imparţialitate şi obiectivitate;"],
+              ["b)","transparenţă;"],
+              ["c)","profesionalism;"],
+              ["d)","eficienţă şi eficacitate;"],
+              ["e)","responsabilitate, în conformitate cu prevederile legale;"],
+              ["f)","orientare către pădure şi către cetăţean;"],
+              ["g)","stabilitate şi continuitate în exercitarea profesiei;"],
+              ["h)","subordonare ierarhică, în condiţiile legii."]
+            ]
+          },
+          {
+            "no": "38",
+            "label": "Art. 38",
+            "items": [
+              ["(1)","Personalul silvic prevăzut la art. 4 alin. (1) are obligaţia de a participa la formele şi la programele de perfecţionare a pregătirii profesionale care se desfăşoară periodic, în funcţie de evoluţia activităţilor din silvicultură, precum şi de necesităţile şi interesele proprii de perfecţionare ale salariatului."],
+              ["(2)","Angajatorii au obligaţia de a organiza, cel puţin anual, activităţi de perfecţionare a pregătirii profesionale a personalului silvic propriu. Asigurarea participării personalului silvic la formele şi la programele de perfecţionare a pregătirii profesionale, precum şi suportarea costurilor sunt în răspunderea angajatorului."],
+              ["(3)","Autoritatea publică centrală care răspunde de silvicultură organizează, în sistem centralizat, stagii de perfecţionare a pregătirii profesionale şi a managementului pentru activităţile aflate în domeniul său de competenţă, atât pentru personalul silvic din entităţile din structura sa, cât şi pentru cel din unităţile aflate în coordonarea şi/sau sub autoritatea sa, precum şi pentru cel din alte entităţi, cu suportarea costurilor de către fiecare angajator."]
+            ]
+          },
+          {
+            "no": "39",
+            "label": "Art. 39",
+            "items": [
+              ["(1)","Personalul silvic prevăzut la art. 2 lit. a) -f) şi n) este obligat să poarte, în exerciţiul atribuţiilor de serviciu, uniforma şi însemnele distinctive stabilite prin ordin al conducătorului autorităţii publice centrale care răspunde de silvicultură; pentru personalul silvic din ocoalele silvice de regim, modelul uniformei şi însemnele distinctive se aprobă de autoritatea publică centrală care răspunde de silvicultură la propunerea Asociaţiei administratorilor de păduri."],
+              ["(2)","Uniforma şi însemnele prevăzute la alin. (1) se asigură gratuit de angajator, iar pentru personalul silvic din cadrul autorităţii publice centrale care răspunde de silvicultură se asigură prin bugetul acesteia. Valoarea uniformei nu se impozitează."],
+              ["(3)","În situaţia în care angajatorul nu asigură uniforma, este obligat să acorde personalului silvic o indemnizaţie anuală netă la nivelul unui salariu minim brut garantat în plată pentru achiziţionarea uniformei."],
+              ["(4)","Personalul silvic care desfăşoară activităţi de pază a fondului forestier, de pază a fondurilor cinegetice/piscicole şi/sau de pază a ariilor naturale protejate, precum şi activităţi de control este dotat cu mijloace de transport şi de comunicaţii şi poartă echipamente de autoapărare şi de protecţie specifice, în condiţiile legii."],
+              ["(5)","Cheltuielile privind dotările prevăzute la alin. (4) se suportă din bugetul propriu al angajatorului. Valoarea acestuia nu se impozitează."]
+            ]
+          },
+          {
+            "no": "40",
+            "label": "Art. 40",
+            "items": [
+              ["(1)","Pentru personalul silvic angajat cu contract individual de muncă, principiile care stau la baza prevenirii conflictului de interese în exercitarea atribuţiilor de serviciu sunt: imparţialitatea, integritatea, transparenţa deciziei şi supremaţia interesului public."],
+              ["(2)","Personalul angajat cu contract individual de muncă se află în conflict de interese în situaţia în care, în exercitarea funcţiei, acesta are un interes personal de natură patrimonială care ar putea influenţa îndeplinirea, cu obiectivitate, a atribuţiilor care îi revin potrivit Constituţiei şi altor acte normative, contractului colectiv de muncă şi/sau contractului individual de muncă, fişei postului sau contractului de mandat, după caz."],
+              ["(3)","Personalul silvic angajat cu contract individual de muncă este în conflict de interese dacă se află în una dintre următoarele situaţii:"],
+              ["a)","este chemat să rezolve cereri, să ia decizii sau să participe la luarea deciziilor cu privire la persoane fizice şi juridice cu care are relaţii cu caracter patrimonial;"],
+              ["b)","participă în cadrul aceleiaşi comisii, constituite conform legii, cu persoane care au calitatea de soţ sau rudă de gradul I;"],
+              ["c)","interesele sale patrimoniale, ale soţului sau rudelor sale de gradul I pot influenţa deciziile pe care trebuie să le ia în exercitarea funcţiei."],
+              ["(4)","Calitatea de personal silvic angajat în structurile administratorilor fondului forestier proprietate publică a statului este incompatibilă cu aceea de proprietar, membru asociat sau de salariat al unei societăţi comerciale care desfăşoară activitate concurenţială sau cu care sunt stabilite relaţii contractuale. Incompatibilitatea are loc şi atunci când membrii de familie ai personalului silvic se află în una dintre situaţiile de proprietar sau de membru asociat al unei asemenea societăţi comerciale. În sensul prezentei legi, prin familie se înţelege: soţul, soţia, copiii şi părinţii soţilor, care locuiesc şi gospodăresc împreună."],
+              ["(5)","În cazul existenţei unui conflict de interese, aşa cum este definit la alin. (3) şi (4), salariatul în cauză, care are calitatea de personal silvic angajat cu contract individual de muncă, este obligat să se abţină de la rezolvarea cererii, luarea deciziei sau participarea la luarea unei decizii şi să îl informeze, de îndată, pe şeful ierarhic căruia îi este subordonat direct. Acesta este obligat să ia măsurile care se impun pentru exercitarea cu imparţialitate a funcţiei, în termen de cel mult 3 zile de la data luării la cunoştinţă."],
+              ["(6)","În cazurile prevăzute la alin. (5), conducătorul entităţii, la propunerea şefului ierarhic căruia îi este subordonat direct salariatul în cauză, va desemna un alt salariat, care are competenţa necesară."],
+              ["(7)","Încălcarea dispoziţiilor alin. (5) poate atrage, după caz, răspunderea disciplinară, administrativă, civilă ori penală, potrivit legii."]
+            ]
+          },
+          {
+            "no": "46",
+            "label": "Art. 46",
+            "items": [
+              ["(1)","Personalul silvic care în timpul sau în legătură cu serviciul şi-a pierdut total sau parţial capacitatea de muncă ca urmare a săvârşirii împotriva sa a unei infracţiuni contra vieţii, integrităţii corporale şi sănătăţii sau ca urmare a unei boli profesionale primeşte pensie de invaliditate, în condiţiile legii."],
+              ["(2)","Pierderea capacităţii de muncă în condiţiile prevăzute la alin. (1) se asimilează cu accidentul de muncă."],
+              ["(3)","Personalul silvic pensionat în condiţiile alin. (1) şi (2) va beneficia, pe lângă pensia de invaliditate, şi de o gratificaţie egală cu de 10 ori salariul brut pe ultima lună de activitate, suportată de angajator."],
+              ["(4)","«abrogat»"],
+              ["(5)","Personalul silvic beneficiază de asigurare de răspundere profesională, de asigurare de sănătate şi asigurare de risc de accidente suportate de angajator pe toată durata contractului de muncă."],
+              ["(6)","În cazul în care personalul silvic este parte în plângeri promovate de terţe persoane în instanţe împotriva acestuia, ca urmare a îndeplinirii obligaţiilor de serviciu, angajatorul este obligat să îi asigure asistenţa juridică şi apărarea în respectivul proces, până la pronunţarea soluţiei definitive."],
+              ["(7)","În situaţia în care personalul silvic aflat în exercitarea atribuţiilor de serviciu este supus ameninţărilor, ultrajului, vătămării corporale, lovirii sau şantajului, unitatea angajatoare este obligată să sesizeze organele de cercetare penală."],
+              ["(8)","Personalul silvic nu răspunde patrimonial pentru pagubele provocate de forţa majoră sau de alte cauze neprevăzute care nu puteau fi înlăturate şi nici de pagubele care se încadrează în riscul normal al serviciului sau în riscul profesional."]
+            ]
+          },
+          {
+            "no": "47",
+            "label": "Art. 47",
+            "items": [
+              ["(1)","Soţului supravieţuitor şi copiilor aflaţi în întreţinere ai personalului silvic decedat ca urmare a exercitării profesiei li se acordă o pensie de urmaş egală cu venitul net lunar pe care salariatul l-a avut la data producerii evenimentului, aceştia beneficiind şi de facilităţile prevăzute la art. 33 şi 34."],
+              ["(2)","În cazul în care nu există urmaşi şi nici soţ, respectiv soţie, vor beneficia, în condiţiile legii, de jumătate din pensia de urmaş, stabilită potrivit prevederilor alin. (1), părinţii celui decedat, dacă acesta avea calitatea de întreţinător."]
+            ]
+          },
+          {
+            "no": "48",
+            "label": "Art. 48",
+            "items": [
+              ["(1)","Personalul silvic răspunde disciplinar pentru încălcarea prevederilor legale, regulamentului intern, contractului individual de muncă sau contractului colectiv de muncă aplicabil, ordinelor şi dispoziţiilor legale ale conducătorului ierarhic, precum şi pentru nerespectarea codului de etică şi deontologie profesională al personalului silvic."],
+              ["(2)","Pentru săvârşirea abaterilor disciplinare prevăzute la alin. (1), personalului silvic angajat cu contract individual de muncă i se aplică una dintre următoarele sancţiuni:"],
+              ["a)","mustrare;"],
+              ["b)","avertisment scris;"],
+              ["c)","reducerea salariului de bază pe o durată de 1-3 luni, cu 5-10%;"],
+              ["d)","reducerea salariului de bază şi/sau, după caz, a indemnizaţiei de conducere, pe o perioadă de 1-3 luni, cu 5-10%;"],
+              ["e)","prelungirea cu 1-3 ani a duratei de acordare a unei gradaţii sau de promovare în grad profesional;"],
+              ["f)","retrogradarea din funcţie, în cazul funcţiilor de conducere, cu acordarea salariului corespunzător funcţiei în care s-a dispus retrogradarea, pentru o durată ce nu poate depăşi 60 de zile;"],
+              ["g)","desfacerea disciplinară a contractului individual de muncă."],
+              ["(3)","Constatarea abaterilor disciplinare se face de şeful ierarhic sau de personalul cu atribuţii de control al activităţii pe care o desfăşoară personalul silvic angajat cu contract individual de muncă, pe linie de serviciu; prezentarea fiecărui caz constatat va conţine toate datele necesare în vederea luării unei decizii obiective. Stabilirea sancţiunii se va face numai în urma cercetării şi analizării împrejurărilor în care s-a comis abaterea disciplinară şi a audierii salariatului în cauză."],
+              ["(4)","Sancţiunile prevăzute la alin. (2) nu exclud aplicarea celorlalte forme de răspundere prevăzute de lege şi nu înlătură obligaţia despăgubirii pentru pagubele produse."]
+            ]
+          },
+          {
+            "no": "49",
+            "label": "Art. 49",
+            "items": [
+              ["(1)","Pentru personalul silvic angajat cu contract individual de muncă, în cadrul procedurii privind sancţionarea acestuia, se stabilesc următoarele reguli:"],
+              ["a)","analizarea faptei/faptelor şi aplicarea sancţiunii, în cazul abaterilor pentru care organele constatatoare propun sancţiunile prevăzute la art. 48 alin. (2) lit. a) -d), se fac de conducătorul entităţii la care este angajată persoana în cauză;"],
+              ["b)","în cazul abaterilor disciplinare pentru care se propun sancţiunile menţionate la art. 48 alin. (2) lit. e) -g) se constituie consilii de disciplină, care analizează fapta/faptele săvârşită/săvârşite, în vederea adoptării hotărârii de aplicare a uneia dintre sancţiunile respective;"],
+              ["c)","consiliul de disciplină analizează fapta/faptele şi comunică conducătorului angajatorului hotărârea privind sancţionarea personalului silvic, în maximum 5 zile de la pronunţarea acesteia; prin hotărârea adoptată, consiliul de disciplină propune conducătorului entităţii angajatoare aplicarea sancţiunii disciplinare;"],
+              ["d)","sancţiunea se stabileşte şi se aplică de conducătorul angajatorului prin decizie/ordin al acestuia şi se comunică persoanei în cauză în maximum 5 zile;"],
+              ["e)","conducătorul angajatorului poate stabili şi aplica şi altă sancţiune decât cea propusă prin hotărârea consiliului de disciplină, caz în care acesta prezintă justificarea şi îşi asumă răspunderea."],
+              ["(2)","Împotriva sancţiunii aplicate, persoana în cauză poate face contestaţie la instanţa competentă teritorial în termen de 30 de zile de la data comunicării sancţiunii."],
+              ["(3)","Sancţiunile disciplinare prevăzute la art. 48 alin. (2) lit. a) şi b) se radiază de drept în termen de 6 luni de la aplicare, dacă salariatului nu i se aplică o nouă sancţiune disciplinară în acest termen."],
+              ["(4)","Radierea sancţiunilor disciplinare se face prin ordin/decizie emis(ă), în formă scrisă, de conducătorul angajatorului."]
+            ]
+          },
+          {
+            "no": "50",
+            "label": "Art. 50",
+            "items": [
+              ["(1)","În cadrul administratorilor fondului forestier proprietate publică a statului şi al ocoalelor silvice de regim se constituie şi funcţionează consilii de disciplină pentru cercetarea abaterilor disciplinare ale personalului silvic angajat cu contract individual de muncă prevăzut la art. 4 alin. (1) lit. b)."],
+              ["(2)","Administratorii fondului forestier proprietate publică a statului pot înfiinţa consilii de disciplină şi la nivelul structurilor din subordine."],
+              ["(3)","Consiliile de disciplină prevăzute la alin. (1) sunt organizate şi îşi desfăşoară activitatea conform procedurii prevăzute în regulamentul de organizare şi funcţionare, care se aprobă prin ordin al conducătorului autorităţii publice centrale care răspunde de silvicultură."],
+              ["(4)","Consiliile de disciplină prevăzute la alin. (1) sunt compuse din 3-5 membri titulari, din care un reprezentant al organizaţiei sindicale reprezentative şi cel mult 2 membri supleanţi, pentru situaţiile în care membrii titulari sunt indisponibili, nominalizaţi prin decizie a conducătorului entităţii pe o perioadă de 4 ani."]
+            ]
+          },
+          {
+            "no": "52",
+            "label": "Art. 52",
+            "items": [
+              ["","Pentru personalul silvic angajat cu contract individual de muncă prevăzut la art. 4 alin. (1) lit. b), constituie abateri disciplinare:"],
+              ["a)","manifestările care aduc atingere onoarei sau probităţii profesionale ori prestigiului domeniului silvicultură, săvârşite în exercitarea sau în afara exercitării atribuţiilor de serviciu;"],
+              ["b)","nerespectarea codului de etică şi de deontologie profesională a personalului silvic;"],
+              ["c)","atitudinile nedemne în timpul exercitării atribuţiilor de serviciu faţă de colegi, personalul subordonat, proprietarii terenurilor forestiere, reprezentanţii entităţilor prevăzute la art. 2 ori ai altor instituţii sau autorităţi;"],
+              ["d)","desfăşurarea de activităţi publice cu caracter politic sau manifestarea convingerilor politice în timpul exercitării atribuţiilor de serviciu;"],
+              ["e)","refuzul nejustificat de a îndeplini o îndatorire de serviciu;"],
+              ["f)","nerespectarea dispoziţiilor scrise date de şeful ierarhic superior, cu excepţia cazului în care acestea sunt abuzive şi ilegale;"],
+              ["g)","nerespectarea, în mod repetat şi din motive imputabile salariatului, a dispoziţiilor legale ori întârzierea repetată în efectuarea lucrărilor, din motive imputabile acestuia;"],
+              ["h)","nerespectarea secretului de serviciu sau a confidenţialităţii lucrărilor care au acest caracter, precum şi a altor informaţii de aceeaşi natură de care a luat cunoştinţă în exercitarea atribuţiilor de serviciu, cu excepţia celor de interes public, în condiţiile legii;"],
+              ["i)","absenţe nemotivate de la serviciu, în mod repetat sau prin care se afectează în mod direct activitatea entităţii în care îşi desfăşoară activitatea;"],
+              ["j)","nerespectarea, în mod nejustificat, a dispoziţiilor ori deciziilor cu caracter administrativ dispuse de conducătorul entităţii în care îşi desfăşoară activitatea ori a altor obligaţii cu caracter administrativ stabilite de lege sau regulamente;"],
+              ["k)","exercitarea atribuţiilor de serviciu cu rea-credinţă sau gravă neglijenţă."]
+            ]
+          },
+          {
+            "no": "55",
+            "label": "Art. 55",
+            "items": [
+              ["(1)","Personalul silvic ales în funcţii la nivelul organizaţiilor sindicale, organizaţiilor profesionale din domeniile silvicultură, administraţiei publice locale şi centrale, Parlamentului României, precum şi cel numit în funcţii de demnitate publică beneficiază de aceleaşi drepturi ca şi personalul silvic angajat în cadrul entităţilor prevăzute la art. 2."],
+              ["(2)","Perioada de activitate desfăşurată, cu remunerare, într-o funcţie eligibilă şi/sau de demnitate publică de către o persoană care îndeplineşte condiţiile de la alin. (1) se consideră vechime în domeniul silvicultură."],
+              ["(3)","Personalul silvic şi membrii familiei acestuia au dreptul la protecţie din partea structurilor specializate ale statului faţă de ameninţările sau violenţele la care sunt şi/sau ar putea fi supuşi ca urmare a exercitării atribuţiilor de serviciu sau în legătură cu acesta."],
+              ["(4)","Daunele materiale suferite în timpul exercitării atribuţiilor de serviciu de personalul silvic sau de membrii familiei se vor suporta de unităţile angajatoare, urmând a fi recuperate de către acestea de la cei vinovaţi, potrivit legii."]
+            ]
+          },
+          {
+            "no": "56",
+            "label": "Art. 56",
+            "items": [
+              ["","Ziua Silvicultorului, zi aniversară a întregului personal silvic din ţară, se organizează anual, în a doua săptămână din luna iunie, la nivel naţional, şi în a treia săptămână din luna iunie, la nivelul entităţilor prevăzute la art. 2."]
+            ]
+          },
+          {
+            "no": "59",
+            "label": "Art. 59",
+            "items": [["", "Anexele nr. 1 şi 2 fac parte integrantă din prezenta ordonanţă de urgenţă."]]
+          }
+        ]
+      }
+    ],
+    "annexes": {
+      "title": "Anexele OUG 59/2000",
+      "items": [
+        {
+          "no": "1",
+          "items": [
+            ["","VECHIMEA MINIMĂ în domeniul silvicultură pentru încadrarea și promovarea în grade profesionale și gradații (gradația I e cea superioară)."],
+            ["","A. Studii superioare de lungă durată"],
+            ["Inginer consilier silvic","–: 25 ani"],
+            ["Inginer inspector general silvic","I: 23 · II: 21 · III: 19 ani"],
+            ["Inginer inspector silvic","I: 17 · II: 15 · III: 13 ani"],
+            ["Inginer-şef silvic","I: 11 · II: 9 · III: 7 ani"],
+            ["Inginer silvic","I: 5 · II: 3 · III: 1 an"],
+            ["Inginer silvic debutant","fără vechime"],
+            ["","B. Studii superioare de scurtă durată"],
+            ["Subinginer silvic principal / inginer colegiu principal","I: 16 · II: 13 · III: 10 ani"],
+            ["Subinginer silvic / inginer colegiu","I: 7 · II: 4 · III: 1 an"],
+            ["Subinginer silvic debutant","fără vechime"],
+            ["","C. Studii postliceale și de maiștri"],
+            ["Tehnician silvic principal","I: 16 · II: 13 · III: 10 ani"],
+            ["Tehnician silvic","I: 7 · II: 4 · III: 1 an"],
+            ["Tehnician silvic debutant","fără vechime"],
+            ["","D. Liceu, școală profesională, formare profesională"],
+            ["Pădurar principal","I: 16 · II: 13 · III: 10 ani"],
+            ["Pădurar","I: 7 · II: 4 · III: 1 an"],
+            ["Pădurar debutant","fără vechime"],
+            ["*)","Vechimea minimă se diminuează corespunzător, în condițiile art. 7¹ alin. (5)."]
+          ]
+        },
+        {
+          "no": "2",
+          "items": [
+            ["","Valorile coeficientului „K” pentru calculul indemnizației de grad profesional (K × salariul minim brut garantat)."],
+            ["","A. Studii superioare de lungă durată"],
+            ["Inginer consilier silvic","1,00"],
+            ["Inginer inspector general silvic","0,98 / 0,96 / 0,94"],
+            ["Inginer inspector silvic","0,92 / 0,90 / 0,88"],
+            ["Inginer-şef silvic","0,86 / 0,84 / 0,82"],
+            ["Inginer silvic","0,80 / 0,78 / 0,76"],
+            ["Inginer silvic debutant","0,74"],
+            ["","B. Studii superioare de scurtă durată"],
+            ["Subinginer silvic principal / inginer colegiu principal","0,75 / 0,70 / 0,65"],
+            ["Subinginer silvic / inginer colegiu","0,60 / 0,55 / 0,50"],
+            ["Subinginer silvic debutant","0,45"],
+            ["","C. Studii postliceale și de maiștri"],
+            ["Tehnician silvic principal","0,60 / 0,55 / 0,50"],
+            ["Tehnician silvic","0,45 / 0,40 / 0,35"],
+            ["Tehnician silvic debutant","0,30"],
+            ["","D. Liceu, școală profesională, formare profesională"],
+            ["Pădurar principal","0,45 / 0,40 / 0,35"],
+            ["Pădurar","0,30 / 0,25 / 0,20"],
+            ["Pădurar debutant","0,17"],
+            ["*)","Prin tehnician se înțeleg: tehnician în silvicultură și exploatări forestiere; tehnician silvic; tehnician exploatări forestiere; maistru exploatări forestiere; maistru silvic; maistru de vânătoare."]
+          ]
+        }
+      ]
+    }
+  }
+}

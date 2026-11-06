@@ -1,0 +1,1586 @@
+{
+  "id": "cs4",
+  "title": "Codul silvic IV – Amenajament și gestionare durabilă",
+  "act": "Legea 331/2024, Titlul III, cap. IV și cap. V secț. 1–6 (art. 61–92)",
+  "version": "Codul silvic consolidat la 29 octombrie 2026",
+  "intro": "Partea tehnică a Codului: cum se face și cât e valabil un amenajament, ce sunt grupele funcționale, când se admit tăierile rase, cum se respectă posibilitatea, în cât timp regenerezi, unde e interzis pășunatul și ce înseamnă conservarea biodiversității (păduri virgine, insule de îmbătrânire, arii protejate). E partea cea mai întrebată la un concurs de inginer.",
+  "lesson": [
+    {
+      "title": "1. Amenajarea și grupele funcționale",
+      "paragraphs": [
+        {
+          "text": "Gestionarea FFN se reglementează prin **amenajamente silvice**, care stabilesc și țelurile de gospodărire. La pădurile statului, amenajamentul servește și pentru inventarul domeniului public și cadastru.",
+          "refs": ["Cod art. 61"]
+        },
+        {
+          "text": "Pădurile se împart în **două grupe funcționale**: **grupa I**, cu funcții speciale de protecție, și **grupa a II-a**, cu funcții de producție și de protecție. Încadrarea se face după normele tehnice de amenajare.",
+          "refs": ["Cod art. 62"]
+        }
+      ],
+      "keep": [
+        "Gestionarea FFN: prin amenajamente silvice",
+        "Grupa I: funcții speciale de protecție",
+        "Grupa a II-a: producție și protecție"
+      ],
+      "quiz": [
+        {
+          "q": "Încadrarea în grupe funcționale se face după:",
+          "options": ["Dorința proprietarului", "Normele tehnice de amenajare", "Decizia Gărzii", "Cadastru"],
+          "answer": 1,
+          "explain": "Normele tehnice pentru amenajarea pădurilor.",
+          "ref": "Cod art. 62 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "2. Elaborarea amenajamentului",
+      "paragraphs": [
+        {
+          "text": "Amenajamentul se face pe **unități de producție și/sau de protecție**. E **obligatoriu peste 10 ha**, iar **suprafața minimă a unui amenajament este de 100 ha**. Până la 100 ha inclusiv, producția se reglementează la nivel de unitate de gospodărire sau pe arboret.",
+          "refs": ["Cod art. 63 alin. (1)–(3)"]
+        },
+        {
+          "text": "Normele de amenajare respectă **patru principii**: **continuității**, **eficacității funcționale**, **conservării și ameliorării biodiversității** și **principiul economic**.",
+          "refs": ["Cod art. 63 alin. (4)"]
+        },
+        {
+          "text": "Durata: din **2028**, amenajamentele se fac pe **20 de ani**; la plop, salcie și alte specii repede crescătoare, pe **5 sau 10 ani**. Cele cu Conferința I ținută înainte de 31 decembrie 2027 se aprobă pe **10 ani** (plop și salcie: 5 ani).",
+          "refs": ["Cod art. 63 alin. (5)","Cod art. 63 alin. (5^1)"]
+        },
+        {
+          "text": "Cât e valabil un amenajament, nu se poate aproba altul pentru același teren, cu excepții: s-a depășit posibilitatea; terenuri retrocedate, la cererea proprietarului; comasarea amenajamentelor aceluiași proprietar; rearondarea ocoalelor Romsilva; expirarea în cursul anului (rămâne valabil până la 31 decembrie); hotărâre judecătorească.",
+          "refs": ["Cod art. 63 alin. (6)"]
+        },
+        {
+          "text": "Conferințele de amenajare și avizarea se fac **cu informarea și participarea publicului**. Amenajamentele le elaborează **persoane juridice atestate**; la stat, prin achiziție publică. Costul îl suportă administratorul (la stat) sau proprietarul ori administratorul prin contract.",
+          "refs": ["Cod art. 63 alin. (8)","Cod art. 63 alin. (10)–(13)"]
+        }
+      ],
+      "keep": [
+        "Amenajament obligatoriu peste 10 ha; minim 100 ha pe amenajament",
+        "4 principii: continuitate, eficacitate funcțională, biodiversitate, economic",
+        "Din 2028: 20 de ani (plop, salcie: 5 sau 10)",
+        "Conferința I înainte de 2028: 10 ani (plop, salcie: 5)",
+        "Fără al doilea amenajament în perioada de valabilitate (cu excepții)"
+      ],
+      "quiz": [
+        {
+          "q": "Pentru un proprietar cu 60 ha inclus într-un amenajament, producția se reglementează:",
+          "options": [
+            "Doar la nivel de UP",
+            "La nivel de unitate de gospodărire sau pe arboret",
+            "Nu se reglementează",
+            "Prin Gardă"
+          ],
+          "answer": 1,
+          "explain": "Până la 100 ha: UG sau decizii pe arboret.",
+          "ref": "Cod art. 63 alin. (3)"
+        },
+        {
+          "q": "Conferințele de amenajare se țin:",
+          "options": ["Secret", "Cu informarea și participarea publicului", "Doar cu Garda", "Doar online"],
+          "answer": 1,
+          "explain": "Cu informarea prealabilă și participarea publicului.",
+          "ref": "Cod art. 63 alin. (8)"
+        }
+      ]
+    },
+    {
+      "title": "3. Evaluarea de mediu, avizarea și aprobarea",
+      "paragraphs": [
+        {
+          "text": "Autoritatea face **planuri de gestionare durabilă** la nivel de regiune, valabile **20 de ani**; amenajamentele se încadrează în ele.",
+          "refs": ["Cod art. 64 alin. (1)–(3)"]
+        },
+        {
+          "text": "Evaluarea de mediu începe la avizarea temei, la **Conferința I**, merge în paralel cu elaborarea și se termină cu actul de reglementare de mediu după **Conferința a II-a** (preavizarea soluțiilor tehnice). Amenajamentele suprapuse total cu situri de interes comunitar fac **evaluare adecvată**.",
+          "refs": ["Cod art. 64 alin. (4)","Cod art. 64 alin. (7)"]
+        },
+        {
+          "text": "Avizarea se face în **Comisia tehnică de avizare pentru silvicultură**, iar aprobarea prin **ordin al conducătorului Autorității**. Amenajamentele aprobate se publică pe site-ul Autorității.",
+          "refs": ["Cod art. 64 alin. (5)–(6)","Cod art. 65 alin. (1)"]
+        },
+        {
+          "text": "Amenajamentul intră în vigoare **la aprobare** și e valabil până la **31 decembrie a anului al 20-lea** (sau al 10-lea), numărat din anul **Conferinței a II-a**.",
+          "refs": ["Cod art. 65 alin. (2)"]
+        },
+        {
+          "text": "Un amenajament expirat rămâne valabil până la aprobarea celui nou, dar **cel mult până la 31 decembrie a anului următor** expirării. În acest timp se pot face împăduriri, îngrijiri în arborete tinere, protecție, accidentale și extraordinare, exploatarea masei rămase și se dau compensații. Accidentalele apărute atunci se **precomptează din noul amenajament**.",
+          "refs": ["Cod art. 65 alin. (3)–(4)"]
+        }
+      ],
+      "keep": [
+        "Planuri regionale de gestionare durabilă: 20 de ani",
+        "Evaluarea de mediu: de la Conferința I până după Conferința a II-a",
+        "Avizare CTAS, aprobare prin ordin al conducătorului Autorității",
+        "Valabil până la 31 decembrie al anului 20 (10), numărat de la Conferința a II-a",
+        "Prelungire tacită: max. până la 31 decembrie al anului următor expirării"
+      ],
+      "quiz": [
+        {
+          "q": "Amenajamentele suprapuse total cu un sit Natura 2000 fac:",
+          "options": ["Nimic special", "Evaluare adecvată", "Doar avizul Gărzii", "Studiu de impact social"],
+          "answer": 1,
+          "explain": "Evaluare adecvată (OUG 57/2007).",
+          "ref": "Cod art. 64 alin. (7)"
+        },
+        {
+          "q": "Accidentalele apărute cât amenajamentul expirat e prelungit se precomptează din:",
+          "options": ["Amenajamentul vechi", "Noul amenajament", "Nimic", "Bugetul ocolului"],
+          "answer": 1,
+          "explain": "Din posibilitatea noului amenajament.",
+          "ref": "Cod art. 65 alin. (4)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Viața unui amenajament",
+        "steps": [
+          {
+            "title": "Conferința I",
+            "text": "tema de proiectare; începe evaluarea de mediu",
+            "ref": "Cod art. 64 alin. (4)"
+          },
+          {
+            "title": "Elaborare",
+            "text": "de o persoană juridică atestată, cu publicul informat",
+            "ref": "Cod art. 63 alin. (8)–(10)"
+          },
+          {
+            "title": "Conferința a II-a",
+            "text": "preavizarea soluțiilor; actul de mediu; de aici se numără valabilitatea",
+            "ref": "Cod art. 65 alin. (2)"
+          },
+          {"title": "Avizare CTAS", "text": "", "ref": "Cod art. 64 alin. (5)"},
+          {
+            "title": "Aprobare",
+            "text": "ordin al conducătorului Autorității; intră în vigoare",
+            "ref": "Cod art. 65 alin. (1)"
+          },
+          {
+            "title": "Verificare",
+            "text": "la jumătatea perioadei, pe indicatori",
+            "ref": "Cod art. 67 alin. (2)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4. Norme, ghiduri, indicatori",
+      "paragraphs": [
+        {
+          "text": "**Normele tehnice**, aprobate prin ordin al Autorității, stabilesc cerințele **minime obligatorii**, inclusiv indicatorii de stare. **Ghidurile de bune practici** sunt **neobligatorii**; aplicarea lor e încurajată prin stimulente și compensații.",
+          "refs": ["Cod art. 66"]
+        },
+        {
+          "text": "Indicatorii de stare urmăresc fondul de producție, calitatea lucrărilor, eficacitatea funcțională, sănătatea pădurii, conservarea habitatelor și reziliența la climă. Aplicarea amenajamentului se verifică **la jumătatea perioadei**.",
+          "refs": ["Cod art. 67"]
+        },
+        {
+          "text": "Îngrijirile și tratamentele fac parte din modelul **silviculturii apropiate de natură**.",
+          "refs": ["Cod art. 69"]
+        }
+      ],
+      "keep": [
+        "Normele: obligatorii; ghidurile: voluntare",
+        "Verificarea amenajamentului: la jumătatea perioadei",
+        "Model: silvicultura apropiată de natură"
+      ],
+      "quiz": [
+        {
+          "q": "Indicatorii de stare urmăresc, între altele:",
+          "options": [
+            "Profitul ocolului",
+            "Reziliența la schimbările climatice",
+            "Numărul de angajați",
+            "Prețul lemnului"
+          ],
+          "answer": 1,
+          "explain": "Și sănătatea, eficacitatea funcțională etc.",
+          "ref": "Cod art. 67 alin. (1)"
+        }
+      ]
+    },
+    {
+      "title": "5. Îngrijiri și tăieri rase",
+      "paragraphs": [
+        {
+          "text": "Suprafața prevăzută pentru îngrijiri în amenajament e **minimală**, iar volumul e **orientativ**. Îngrijirile sunt **obligatorii** pentru toți deținătorii și se fac de ocoale sau persoane atestate. Lemnul care nu se vinde la licitație merge cu prioritate ca **lemn de foc pentru populație**.",
+          "refs": ["Cod art. 70"]
+        },
+        {
+          "text": "**Tăierile rase pe parchete mici** se admit doar la **molid, pin, larice** (echiene și relativ echiene), **plop euramerican**, **salcie selecționată** și la substituiri sau refaceri unde alt tratament nu e posibil.",
+          "refs": ["Cod art. 71 alin. (1)"]
+        },
+        {
+          "text": "Parchetul are **maximum 3 ha**; la plop și salcie în incinte îndiguite, cu pregătire mecanizată a terenului, **maximum 5 ha**. Între parchete se lasă cel puțin **două înălțimi de arbori**, iar alăturarea e permisă doar după realizarea **stării de masiv** pe parchetul anterior.",
+          "refs": ["Cod art. 71 alin. (2)"]
+        },
+        {
+          "text": "Tăierile rase sunt **interzise în ariile naturale protejate**, cu excepția arboretelor cu cicluri scurte. La accidentale și extraordinare, parchetul are mărimea suprafeței afectate.",
+          "refs": ["Cod art. 71 alin. (3)–(5)"]
+        }
+      ],
+      "keep": [
+        "Îngrijiri: suprafață minimală, volum orientativ, obligatorii",
+        "Tăieri rase doar: molid, pin, larice, plop euramerican, salcie selecționată, substituiri/refaceri",
+        "Parchet ras: max. 3 ha (plop/salcie îndiguit: 5 ha)",
+        "Distanța: min. 2 înălțimi; alăturare după starea de masiv",
+        "Interzise în arii protejate (excepție: cicluri scurte)"
+      ],
+      "quiz": [
+        {
+          "q": "Lemnul din îngrijiri care nu se vinde la licitație merge cu prioritate:",
+          "options": ["La export", "Ca lemn de foc pentru populație", "La Romsilva", "La distrus"],
+          "answer": 1,
+          "explain": "Lemn de foc pentru populație.",
+          "ref": "Cod art. 70 alin. (5)"
+        },
+        {
+          "q": "Parchetul ras de plop în incintă îndiguită, cu pregătire mecanizată, are max.:",
+          "options": ["3 ha", "5 ha", "10 ha", "Nelimitat"],
+          "answer": 1,
+          "explain": "5 ha.",
+          "ref": "Cod art. 71 alin. (2)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Tăieri rase pe parchete mici",
+        "items": [
+          {
+            "title": "Unde",
+            "text": "molid, pin, larice (echiene), plop euramerican, salcie selecționată, substituiri/refaceri",
+            "ref": "Cod art. 71 alin. (1)"
+          },
+          {
+            "title": "Cât",
+            "text": "max. 3 ha; 5 ha la plop/salcie în incinte îndiguite",
+            "ref": "Cod art. 71 alin. (2)"
+          },
+          {
+            "title": "Distanță",
+            "text": "min. 2 înălțimi; alăturare după starea de masiv",
+            "ref": "Cod art. 71 alin. (2)"
+          },
+          {
+            "title": "Interzis",
+            "text": "în arii protejate (excepție: cicluri scurte)",
+            "ref": "Cod art. 71 alin. (5)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "6. Recoltarea și posibilitatea",
+      "paragraphs": [
+        {
+          "text": "Produsele principale dintr-o unitate de gospodărire nu pot depăși **posibilitatea** pe durata amenajamentului, iar anual **posibilitatea anuală**.",
+          "refs": ["Cod art. 72 alin. (1)–(2)"]
+        },
+        {
+          "text": "Posibilitatea anuală se poate depăși: dacă reglementarea e la nivel de arboret sau e un singur arboret în plan; cu volumul nerecoltat în anii anteriori; pentru accidentale I și extraordinare, cu aprobarea Gărzii; pentru anii de sămânță la cvercinee; prin recoltare anticipată de cel mult **o posibilitate anuală** pe toată perioada.",
+          "refs": ["Cod art. 72 alin. (3)"]
+        },
+        {
+          "text": "Accidentalele și extraordinarele se recoltează **de urgență, integral**, de pe toată suprafața. Dacă depășesc posibilitatea, ocolul face documentația, iar depășirea o aprobă **conducătorul Gărzii** prin decizie. În ariile protejate, avizul vine în **30 de zile**; altfel e aprobare tacită.",
+          "refs": ["Cod art. 72 alin. (5)","Cod art. 72 alin. (7)"]
+        },
+        {
+          "text": "Accidentalele I, extraordinarele și **arborii tăiați ilegal** se **precomptează** din posibilitate, în aceeași proprietate, la nivel de unitate de gospodărire; ce depășește posibilitatea anuală se precomptează proporțional în anii următori.",
+          "refs": ["Cod art. 72 alin. (8)–(10)"]
+        },
+        {
+          "text": "În **pădurile virgine, cvasivirgine și rezervațiile științifice**, recoltarea e **strict interzisă**.",
+          "refs": ["Cod art. 72 alin. (6)"]
+        },
+        {
+          "text": "Lemnul fasonat din proprietatea publică se vinde din depozite în proporție de cel puțin **50%**, iar din **2030** cel puțin **70%**. Prețul de pornire se anunță în **lei/m³ volum brut, fără TVA**.",
+          "refs": ["Cod art. 72 alin. (12)","Cod art. 72 alin. (14)"]
+        }
+      ],
+      "keep": [
+        "Nu depășești posibilitatea, nici posibilitatea anuală (cu excepțiile din lege)",
+        "Recoltare anticipată: max. o posibilitate anuală pe toată perioada",
+        "Accidentale și extraordinare: de urgență, integral; depășirea o aprobă conducătorul Gărzii",
+        "Precomptare: accidentale I, extraordinare, tăieri ilegale",
+        "Virgine, cvasivirgine, rezervații științifice: recoltare interzisă",
+        "Lemn fasonat public din depozite: ≥ 50%, din 2030 ≥ 70%"
+      ],
+      "quiz": [
+        {
+          "q": "Avizul pentru accidentale I într-o arie protejată, neemis în 30 de zile:",
+          "options": ["Înseamnă refuz", "Se consideră aprobat tacit", "Se cere din nou", "Trece la minister"],
+          "answer": 1,
+          "explain": "Adoptare tacită.",
+          "ref": "Cod art. 72 alin. (5)"
+        },
+        {
+          "q": "Prețul de pornire la licitațiile din FFN public se exprimă în:",
+          "options": ["Lei/m³ volum net, cu TVA", "Lei/m³ volum brut, fără TVA", "Euro/arbore", "Lei/ha"],
+          "answer": 1,
+          "explain": "Lei/m³ volum brut, fără TVA.",
+          "ref": "Cod art. 72 alin. (14)"
+        }
+      ]
+    },
+    {
+      "title": "7. Regenerarea pădurilor",
+      "paragraphs": [
+        {
+          "text": "La regenerare se aplică **regimul codrului**. **Crângul** e admis doar la **plopi, salcie, salcâm, anin** și în **zăvoaie**.",
+          "refs": ["Cod art. 73 alin. (2)–(3)"]
+        },
+        {
+          "text": "Regenerarea artificială, completările și împădurirea terenurilor de compensare se fac în **cel mult 2 ani** de la tăierea unică sau definitivă, de la accidentale sau de la aprobare. La **doborâturi și rupturi masive**, Garda stabilește termenul, dar **cel mult 5 ani**.",
+          "refs": ["Cod art. 74 alin. (1)–(2)"]
+        },
+        {
+          "text": "Regenerările și întreținerile le fac ocoalele sau persoanele **atestate** de comisia asociației tehnico-profesionale silvice, care organizează și cursuri de cel puțin **8 ore/an**.",
+          "refs": ["Cod art. 74 alin. (4)–(6)"]
+        },
+        {
+          "text": "Dacă proprietarul nu regenerează din vina lui, **Garda dispune ocolului** lucrările, pe **deviz** plătit de proprietar. Devizul necontestat în **30 de zile** e **titlu executoriu**; între timp plătește statul din fondul de ameliorare, apoi recuperează prin executare silită.",
+          "refs": ["Cod art. 77 alin. (1)–(5)"]
+        },
+        {
+          "text": "Dacă proprietarul nu se poate identifica, Garda poate: transfera creanța deținătorului, cu acordul lui; porni procedura bunului abandonat sau a succesiunii vacante; sau **exproprierea** pentru utilitate publică, prin Romsilva. În ultimele două cazuri regenerarea se face în **3 ani** de la finalizarea procedurii.",
+          "refs": ["Cod art. 77 alin. (6)–(7)"]
+        }
+      ],
+      "keep": [
+        "Regimul codrului; crâng doar la plopi, salcie, salcâm, anin, zăvoaie",
+        "Regenerare în max. 2 ani; doborâturi masive: max. 5 ani",
+        "Executanți atestați; cursuri min. 8 ore/an",
+        "Proprietar care nu regenerează: Garda dispune ocolul, pe deviz; 30 zile → titlu executoriu",
+        "Proprietar neidentificat: creanță transferată, bun abandonat sau expropriere"
+      ],
+      "quiz": [
+        {
+          "q": "Atestarea executanților de regenerări o face:",
+          "options": ["Garda", "Comisia asociației tehnico-profesionale silvice", "Ministerul Muncii", "Romsilva"],
+          "answer": 1,
+          "explain": "Comisia din asociația tehnico-profesională recunoscută național.",
+          "ref": "Cod art. 74 alin. (5)"
+        },
+        {
+          "q": "Devizul de regenerare necontestat în 30 de zile devine:",
+          "options": ["Nul", "Titlu executoriu", "Recomandare", "Act de constatare"],
+          "answer": 1,
+          "explain": "Titlu executoriu.",
+          "ref": "Cod art. 77 alin. (3)"
+        }
+      ],
+      "figure": {
+        "type": "flow",
+        "title": "Proprietarul nu regenerează",
+        "steps": [
+          {
+            "title": "Garda dispune",
+            "text": "ocolului: control anual, regenerare, întreținere",
+            "ref": "Cod art. 77 alin. (1)"
+          },
+          {
+            "title": "Deviz",
+            "text": "întocmit de ocol, aprobat de Gardă, comunicat proprietarului",
+            "ref": "Cod art. 77 alin. (2)"
+          },
+          {
+            "title": "30 de zile",
+            "text": "necontestat = titlu executoriu",
+            "ref": "Cod art. 77 alin. (3)"
+          },
+          {
+            "title": "Plata",
+            "text": "întâi din fondul de ameliorare, apoi executare silită",
+            "ref": "Cod art. 77 alin. (4)–(5)"
+          }
+        ]
+      }
+    },
+    {
+      "title": "8. Pășunatul și protecția pădurilor",
+      "paragraphs": [
+        {
+          "text": "Pășunatul e **interzis** în **perdelele forestiere** și în **perimetrele de ameliorare**. În urgențe, Garda îl poate aproba temporar, pe anumite perimetre, la cererea autorităților locale și cu acordul proprietarului și al ocolului.",
+          "refs": ["Cod art. 78 alin. (1)–(2)"]
+        },
+        {
+          "text": "E interzis fără excepție în **arboretele în curs de regenerare**, **plantații și regenerări tinere** și în arboretele din **tipurile funcționale I și II**.",
+          "refs": ["Cod art. 78 alin. (3)"]
+        },
+        {
+          "text": "**Trecerea animalelor** spre pășune sau adăpat o aprobă **ocolul**, cu acordul proprietarului, pe trasee și perioade precise (la stat, conducătorul structurii). Trecerea e interzisă prin regenerări, plantații tinere, arii protejate de interes național, perimetre de ameliorare și perdele.",
+          "refs": ["Cod art. 78 alin. (5)–(6)"]
+        },
+        {
+          "text": "**Stupii** se pot amplasa **gratuit** pe FFN al statului, pe perioada pastoralului, cu aprobarea ocolului.",
+          "refs": ["Cod art. 78 alin. (7)"]
+        },
+        {
+          "text": "Monitorizarea sănătății pădurii o coordonează **Autoritatea**; **ocoalele** fac depistarea, prognoza, prevenirea și combaterea bolilor și dăunătorilor. Proprietarii trebuie să facă aceste lucrări.",
+          "refs": ["Cod art. 79","Cod art. 80"]
+        }
+      ],
+      "keep": [
+        "Pășunat interzis: perdele, perimetre de ameliorare (urgențe: Garda)",
+        "Interzis absolut: regenerări, plantații tinere, TI și TII",
+        "Trecerea animalelor: aprobă ocolul, pe trasee și perioade",
+        "Stupi: gratuit pe FFN al statului, cu aprobarea ocolului",
+        "Sănătatea pădurii: coordonează Autoritatea, execută ocoalele"
+      ],
+      "quiz": [
+        {
+          "q": "În situații de urgență, pășunatul în FFN îl poate aproba:",
+          "options": ["Ocolul", "Garda Forestieră", "Primarul", "Proprietarul singur"],
+          "answer": 1,
+          "explain": "Garda, cu condiții cumulative.",
+          "ref": "Cod art. 78 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "9. Clima și Luna plantării arborilor",
+      "paragraphs": [
+        {
+          "text": "Normele și ghidurile includ măsuri de reziliență la schimbările climatice. Dreptul de a valorifica **creditele de carbon** e al **proprietarului sau administratorului**, iar banii sunt veniturile lor.",
+          "refs": ["Cod art. 81 alin. (1)–(4)"]
+        },
+        {
+          "text": "**Luna plantării arborilor**: **15 martie – 15 aprilie**, organizată de Autoritate, cu instituțiile locale și școlile; administratorii statului și ocoalele de regim trebuie să facă acțiuni publice și plantări.",
+          "refs": ["Cod art. 82"]
+        }
+      ],
+      "keep": ["Creditele de carbon: ale proprietarului sau administratorului","Luna plantării arborilor: 15 martie – 15 aprilie"],
+      "quiz": [
+        {
+          "q": "Banii din creditele de carbon sunt venituri ale:",
+          "options": ["Statului", "Proprietarului sau administratorului", "Gărzii", "Autorității"],
+          "answer": 1,
+          "explain": "Proprietarului sau administratorului FFN.",
+          "ref": "Cod art. 81 alin. (4)"
+        }
+      ]
+    },
+    {
+      "title": "10. Biodiversitatea și ariile protejate",
+      "paragraphs": [
+        {
+          "text": "Biodiversitatea are **trei forme**: genetică, a speciilor și ecosistemică. Se conservă prin silvicultură apropiată de natură, peisaj mozaicat, coridoare ecologice, **lemn mort**, **arbori-habitat**, **insule de îmbătrânire**, regenerare naturală din sămânță, vegetație de-a lungul apelor.",
+          "refs": ["Cod art. 83 alin. (1)–(2)"]
+        },
+        {
+          "text": "Măsurile **obligatorii** sunt în norme și dau dreptul la **compensații**; cele **voluntare** sunt în ghiduri și dau dreptul la **stimulente** (pentru proprietarii, alții decât statul).",
+          "refs": ["Cod art. 83 alin. (3)–(4)","Cod art. 84"]
+        },
+        {
+          "text": "Sunt **ecosisteme cu valoare ridicată de conservare, strict protejate**: pădurile **virgine și cvasivirgine** din catalog, **rezervațiile științifice**, arboretele din rezervațiile cu regim strict, **monumentele naturii**, zonele strict protejate ale ariilor protejate, **jnepenișurile** din FFN și pădurile din **patrimoniul UNESCO**.",
+          "refs": ["Cod art. 86 alin. (1)"]
+        },
+        {
+          "text": "Ele intră în **Catalogul național al ecosistemelor forestiere strict protejate** (cu acordul proprietarului); statul le cumpără cu prioritate.",
+          "refs": ["Cod art. 87"]
+        },
+        {
+          "text": "Regenerarea se face **preponderent natural, din sămânță**; la cea artificială se folosesc materiale de bază din catalog, **specii autohtone** și proveniențe adaptate.",
+          "refs": ["Cod art. 88"]
+        },
+        {
+          "text": "În ariile protejate, **planul de management** (sau măsurile minime de conservare) are **prioritate față de normele tehnice**, iar amenajamentul îl preia; restricțiile dau compensații.",
+          "refs": ["Cod art. 89 alin. (3)–(5)"]
+        },
+        {
+          "text": "Cine vinde o pădure strict protejată sau din arie protejată trebuie să-l informeze pe cumpărător despre obligații cu **cel puțin 30 de zile** înainte.",
+          "refs": ["Cod art. 92"]
+        }
+      ],
+      "keep": [
+        "3 forme: genetică, specii, ecosisteme",
+        "Obligatoriu (norme) → compensații; voluntar (ghiduri) → stimulente",
+        "Strict protejate: virgine/cvasivirgine, rezervații științifice, monumente ale naturii, jnepenișuri, UNESCO…",
+        "Regenerare preponderent naturală, specii autohtone",
+        "Arii protejate: planul de management are prioritate",
+        "Vânzarea unei păduri protejate: informarea cumpărătorului cu 30 de zile înainte"
+      ],
+      "quiz": [
+        {
+          "q": "Regenerarea pădurilor se face preponderent:",
+          "options": [
+            "Artificial cu specii exotice",
+            "Natural, din sămânță",
+            "Din lăstari",
+            "Prin semănături aeriene"
+          ],
+          "answer": 1,
+          "explain": "Natural, din sămânță.",
+          "ref": "Cod art. 88 alin. (1)"
+        },
+        {
+          "q": "Ecosistemele cu valoare ridicată de conservare existente se declară:",
+          "options": ["Fără acordul proprietarului", "Cu acordul proprietarului", "Doar la stat", "Prin HG"],
+          "answer": 1,
+          "explain": "Cu acordul proprietarului.",
+          "ref": "Cod art. 87 alin. (2)"
+        }
+      ],
+      "figure": {
+        "type": "grid",
+        "title": "Strict protejate (art. 86)",
+        "items": [
+          {
+            "title": "Păduri virgine și cvasivirgine",
+            "text": "din catalog; recoltare interzisă",
+            "ref": "Cod art. 86 alin. (1)"
+          },
+          {
+            "title": "Rezervații științifice, monumente ale naturii",
+            "text": "și rezervații cu regim strict",
+            "ref": "Cod art. 86 alin. (1)"
+          },
+          {
+            "title": "Zone strict protejate ale ariilor",
+            "text": "și de protecție integrală",
+            "ref": "Cod art. 86 alin. (1)"
+          },
+          {"title": "Jnepenișuri din FFN, păduri UNESCO", "text": "", "ref": "Cod art. 86 alin. (1)"}
+        ]
+      }
+    }
+  ],
+  "memo": [
+    {
+      "title": "Amenajamentul",
+      "rows": [
+        {"what": "Obligatoriu peste", "value": "10 ha", "ref": "Cod art. 63 alin. (2)"},
+        {
+          "what": "Suprafața minimă a unui amenajament",
+          "value": "100 ha",
+          "ref": "Cod art. 63 alin. (2)"
+        },
+        {
+          "what": "Durata din 2028",
+          "value": "20 ani (plop, salcie: 5 sau 10)",
+          "ref": "Cod art. 63 alin. (5)"
+        },
+        {
+          "what": "Conferința I înainte de 31.12.2027",
+          "value": "10 ani (plop, salcie: 5)",
+          "ref": "Cod art. 63 alin. (5^1)"
+        },
+        {
+          "what": "Planul regional de gestionare durabilă",
+          "value": "20 ani",
+          "ref": "Cod art. 64 alin. (1)"
+        },
+        {
+          "what": "Aprobă amenajamentul",
+          "value": "conducătorul Autorității, prin ordin",
+          "ref": "Cod art. 65 alin. (1)"
+        },
+        {
+          "what": "Valabilitate",
+          "value": "până la 31 dec. al anului 20/10, de la Conferința a II-a",
+          "ref": "Cod art. 65 alin. (2)"
+        },
+        {
+          "what": "Prelungirea amenajamentului expirat",
+          "value": "max. până la 31 dec. anul următor",
+          "ref": "Cod art. 65 alin. (3)"
+        },
+        {
+          "what": "Verificarea aplicării",
+          "value": "la jumătatea perioadei",
+          "ref": "Cod art. 67 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "Tăieri și recoltare",
+      "rows": [
+        {
+          "what": "Parchet de tăiere rasă",
+          "value": "max. 3 ha (plop/salcie în incinte îndiguite: 5 ha)",
+          "ref": "Cod art. 71 alin. (2)"
+        },
+        {
+          "what": "Distanța între parchete rase",
+          "value": "min. 2 înălțimi de arbori",
+          "ref": "Cod art. 71 alin. (2)"
+        },
+        {
+          "what": "Recoltare anticipată",
+          "value": "max. o posibilitate anuală pe toată perioada",
+          "ref": "Cod art. 72 alin. (3)"
+        },
+        {
+          "what": "Aviz în arii protejate pentru accidentale",
+          "value": "30 zile, apoi tacit",
+          "ref": "Cod art. 72 alin. (5)"
+        },
+        {
+          "what": "Aprobă depășirea posibilității",
+          "value": "conducătorul Gărzii",
+          "ref": "Cod art. 72 alin. (7)"
+        },
+        {
+          "what": "Lemn fasonat public vândut din depozit",
+          "value": "≥ 50%; din 2030 ≥ 70%",
+          "ref": "Cod art. 72 alin. (12)"
+        }
+      ]
+    },
+    {
+      "title": "Regenerare, pășunat, climă",
+      "rows": [
+        {"what": "Termen de regenerare", "value": "max. 2 ani", "ref": "Cod art. 74 alin. (1)"},
+        {
+          "what": "Doborâturi masive",
+          "value": "max. 5 ani (stabilește Garda)",
+          "ref": "Cod art. 74 alin. (2)"
+        },
+        {
+          "what": "Cursuri pentru executanții atestați",
+          "value": "min. 8 ore/an",
+          "ref": "Cod art. 74 alin. (6)"
+        },
+        {
+          "what": "Contestarea devizului de regenerare",
+          "value": "30 zile",
+          "ref": "Cod art. 77 alin. (3)"
+        },
+        {
+          "what": "Regenerare după expropriere/bun abandonat",
+          "value": "3 ani",
+          "ref": "Cod art. 77 alin. (7)"
+        },
+        {
+          "what": "Pășunat interzis absolut",
+          "value": "regenerări, plantații tinere, TI, TII",
+          "ref": "Cod art. 78 alin. (3)"
+        },
+        {
+          "what": "Luna plantării arborilor",
+          "value": "15 martie – 15 aprilie",
+          "ref": "Cod art. 82 alin. (1)"
+        },
+        {
+          "what": "Rărituri în Ilfov",
+          "value": "1 noiembrie – 31 martie",
+          "ref": "Cod art. 90 alin. (2)"
+        },
+        {
+          "what": "Informarea cumpărătorului de pădure protejată",
+          "value": "min. 30 zile înainte",
+          "ref": "Cod art. 92"
+        }
+      ]
+    }
+  ],
+  "tricks": [
+    "Amenajament „10 și 100”: obligatoriu peste 10 ha, dar nu se face pe mai puțin de 100 ha.",
+    "Tăierile rase sunt pentru rășinoasele de lumină și molid, plus „plopul și salcia”; 3 ha, iar în incintele îndiguite 5.",
+    "Regenerezi în 2 ani; după o calamitate, cel mult 5.",
+    "Crângul e pentru „cei care lăstăresc bine”: plop, salcie, salcâm, anin, zăvoaie.",
+    "Obligatoriu → compensație; voluntar → stimulent."
+  ],
+  "cards": [
+    {
+      "q": "Prin ce se reglementează gestionarea FFN?",
+      "a": "Prin amenajamente silvice.",
+      "ref": "Cod art. 61 alin. (1)"
+    },
+    {
+      "q": "Care sunt cele două grupe funcționale?",
+      "a": "Grupa I – funcții speciale de protecție; grupa a II-a – producție și protecție.",
+      "ref": "Cod art. 62 alin. (1)"
+    },
+    {
+      "q": "Peste ce suprafață e obligatoriu amenajamentul?",
+      "a": "Peste 10 ha.",
+      "ref": "Cod art. 63 alin. (2)"
+    },
+    {
+      "q": "Ce suprafață minimă are un amenajament?",
+      "a": "100 ha.",
+      "ref": "Cod art. 63 alin. (2)"
+    },
+    {
+      "q": "Care sunt cele 4 principii ale normelor de amenajare?",
+      "a": "Continuității, eficacității funcționale, conservării și ameliorării biodiversității, economic.",
+      "ref": "Cod art. 63 alin. (4)"
+    },
+    {
+      "q": "Pe ce perioadă se fac amenajamentele din 2028?",
+      "a": "20 de ani; la plop, salcie și alte specii repede crescătoare, 5 sau 10 ani.",
+      "ref": "Cod art. 63 alin. (5)"
+    },
+    {
+      "q": "Pe cât se aprobă amenajamentele cu Conferința I înainte de 2028?",
+      "a": "10 ani (plop și salcie: 5 ani).",
+      "ref": "Cod art. 63 alin. (5^1)"
+    },
+    {
+      "q": "Se poate face un amenajament nou dacă s-a depășit posibilitatea?",
+      "a": "Da, e una din excepțiile de la interdicție.",
+      "ref": "Cod art. 63 alin. (6)"
+    },
+    {
+      "q": "Cine elaborează amenajamentele?",
+      "a": "Persoane juridice atestate (la stat, prin achiziție publică).",
+      "ref": "Cod art. 63 alin. (10)–(11)"
+    },
+    {
+      "q": "Unde se avizează amenajamentele?",
+      "a": "În Comisia tehnică de avizare pentru silvicultură.",
+      "ref": "Cod art. 64 alin. (5)"
+    },
+    {
+      "q": "Când se încheie evaluarea de mediu a amenajamentului?",
+      "a": "Cu actul de reglementare emis după Conferința a II-a.",
+      "ref": "Cod art. 64 alin. (4)"
+    },
+    {
+      "q": "Până când e valabil un amenajament?",
+      "a": "Până la 31 decembrie a anului al 20-lea (al 10-lea), de la anul Conferinței a II-a.",
+      "ref": "Cod art. 65 alin. (2)"
+    },
+    {
+      "q": "Cât timp rămâne valabil un amenajament expirat?",
+      "a": "Până la aprobarea celui nou, dar cel mult până la 31 decembrie a anului următor expirării.",
+      "ref": "Cod art. 65 alin. (3)"
+    },
+    {
+      "q": "Sunt obligatorii ghidurile de bune practici?",
+      "a": "Nu; obligatorii sunt normele tehnice.",
+      "ref": "Cod art. 66 alin. (3)"
+    },
+    {
+      "q": "Când se verifică aplicarea amenajamentului?",
+      "a": "La jumătatea perioadei de amenajare.",
+      "ref": "Cod art. 67 alin. (2)"
+    },
+    {
+      "q": "Ce caracter are volumul din amenajament pentru îngrijiri?",
+      "a": "Orientativ; suprafața e minimală.",
+      "ref": "Cod art. 70 alin. (1)–(2)"
+    },
+    {
+      "q": "La ce specii se admit tăierile rase pe parchete mici?",
+      "a": "Molid, pin, larice (echiene, relativ echiene), plop euramerican, salcie selecționată; plus substituiri/refaceri.",
+      "ref": "Cod art. 71 alin. (1)"
+    },
+    {
+      "q": "Ce suprafață maximă are un parchet de tăiere rasă?",
+      "a": "3 ha; 5 ha la plop/salcie în incinte îndiguite.",
+      "ref": "Cod art. 71 alin. (2)"
+    },
+    {
+      "q": "Ce distanță se lasă între parchetele rase?",
+      "a": "Cel puțin două înălțimi de arbori.",
+      "ref": "Cod art. 71 alin. (2)"
+    },
+    {
+      "q": "Sunt permise tăierile rase în arii protejate?",
+      "a": "Nu, cu excepția arboretelor cu cicluri scurte.",
+      "ref": "Cod art. 71 alin. (5)"
+    },
+    {
+      "q": "Cât se poate recolta anticipat din posibilitate?",
+      "a": "Cel mult o posibilitate anuală pe toată perioada.",
+      "ref": "Cod art. 72 alin. (3)"
+    },
+    {
+      "q": "Cine aprobă depășirea posibilității prin accidentale?",
+      "a": "Conducătorul Gărzii, prin decizie.",
+      "ref": "Cod art. 72 alin. (7)"
+    },
+    {
+      "q": "Ce se precomptează din posibilitate?",
+      "a": "Accidentalele I, extraordinarele și arborii tăiați ilegal.",
+      "ref": "Cod art. 72 alin. (8)"
+    },
+    {
+      "q": "Unde e strict interzisă recoltarea lemnului?",
+      "a": "În pădurile virgine, cvasivirgine și rezervațiile științifice.",
+      "ref": "Cod art. 72 alin. (6)"
+    },
+    {
+      "q": "Ce procent din lemnul fasonat public se vinde din depozit din 2030?",
+      "a": "Cel puțin 70%.",
+      "ref": "Cod art. 72 alin. (12)"
+    },
+    {
+      "q": "Unde e admis regimul crângului?",
+      "a": "Plopi, salcie, salcâm, anin și zăvoaie.",
+      "ref": "Cod art. 73 alin. (3)"
+    },
+    {
+      "q": "În cât timp se face regenerarea după tăierea definitivă?",
+      "a": "Cel mult 2 ani.",
+      "ref": "Cod art. 74 alin. (1)"
+    },
+    {
+      "q": "Termenul maxim de regenerare după doborâturi masive?",
+      "a": "5 ani, stabilit de Gardă.",
+      "ref": "Cod art. 74 alin. (2)"
+    },
+    {
+      "q": "Ce face Garda dacă proprietarul nu regenerează?",
+      "a": "Dispune ocolului lucrările, pe deviz plătit de proprietar.",
+      "ref": "Cod art. 77 alin. (1)"
+    },
+    {
+      "q": "Unde e interzis absolut pășunatul?",
+      "a": "În regenerări, plantații și regenerări tinere, tipurile funcționale I și II.",
+      "ref": "Cod art. 78 alin. (3)"
+    },
+    {
+      "q": "Cine aprobă trecerea animalelor prin pădure?",
+      "a": "Ocolul, cu acordul proprietarului, pe trasee și perioade precise.",
+      "ref": "Cod art. 78 alin. (5)"
+    },
+    {
+      "q": "În ce condiții se pun stupi în pădurea statului?",
+      "a": "Gratuit, pe perioada pastoralului, cu aprobarea ocolului.",
+      "ref": "Cod art. 78 alin. (7)"
+    },
+    {
+      "q": "Al cui e dreptul la creditele de carbon?",
+      "a": "Al proprietarului sau administratorului.",
+      "ref": "Cod art. 81 alin. (4)"
+    },
+    {
+      "q": "Când e Luna plantării arborilor?",
+      "a": "15 martie – 15 aprilie.",
+      "ref": "Cod art. 82 alin. (1)"
+    },
+    {
+      "q": "Care sunt cele 3 forme ale biodiversității?",
+      "a": "Genetică, a speciilor, ecosistemică.",
+      "ref": "Cod art. 83 alin. (1)"
+    },
+    {
+      "q": "Ce primesc proprietarii pentru măsurile voluntare de conservare?",
+      "a": "Stimulente financiare (cele obligatorii: compensații).",
+      "ref": "Cod art. 84"
+    },
+    {
+      "q": "Sunt jnepenișurile din FFN strict protejate?",
+      "a": "Da, sunt ecosisteme cu valoare ridicată de conservare.",
+      "ref": "Cod art. 86 alin. (1)"
+    },
+    {
+      "q": "În ariile protejate, ce are prioritate: normele sau planul de management?",
+      "a": "Planul de management (sau măsurile minime de conservare).",
+      "ref": "Cod art. 89 alin. (3)"
+    },
+    {
+      "q": "Cu cât timp înainte de vânzare trebuie informat cumpărătorul unei păduri strict protejate?",
+      "a": "Cel puțin 30 de zile.",
+      "ref": "Cod art. 92"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Pădurile cu funcții speciale de protecție sunt în:",
+      "options": ["Grupa I", "Grupa a II-a", "Grupa a III-a", "Tipul funcțional VI"],
+      "answer": 0,
+      "explain": "Grupa I.",
+      "ref": "Cod art. 62 alin. (1)"
+    },
+    {
+      "q": "Suprafața minimă pentru elaborarea unui amenajament este:",
+      "options": ["10 ha", "50 ha", "100 ha", "500 ha"],
+      "answer": 2,
+      "explain": "100 ha; obligativitatea începe peste 10 ha.",
+      "ref": "Cod art. 63 alin. (2)"
+    },
+    {
+      "q": "Care NU e un principiu al normelor de amenajare din Cod?",
+      "options": [
+        "Continuității",
+        "Eficacității funcționale",
+        "Maximizării profitului",
+        "Conservării biodiversității"
+      ],
+      "answer": 2,
+      "explain": "Principiul e „economic”, nu maximizarea profitului.",
+      "ref": "Cod art. 63 alin. (4)"
+    },
+    {
+      "q": "Din 2028, un amenajament pentru o pădure de fag se face pe:",
+      "options": ["5 ani", "10 ani", "20 de ani", "Nedeterminat"],
+      "answer": 2,
+      "explain": "20 de ani.",
+      "ref": "Cod art. 63 alin. (5)"
+    },
+    {
+      "q": "Un amenajament pentru plopi euramericani cu Conferința I în 2026 se aprobă pe:",
+      "options": ["5 ani", "10 ani", "15 ani", "20 de ani"],
+      "answer": 0,
+      "explain": "Înainte de 2028: 10 ani, dar plop și salcie 5 ani.",
+      "ref": "Cod art. 63 alin. (5^1)"
+    },
+    {
+      "q": "Amenajamentele silvice se aprobă prin:",
+      "options": ["HG", "Ordin al conducătorului Autorității", "Decizie a Gărzii", "Decizie Romsilva"],
+      "answer": 1,
+      "explain": "Ordin al conducătorului Autorității.",
+      "ref": "Cod art. 65 alin. (1)"
+    },
+    {
+      "q": "Valabilitatea amenajamentului se numără din anul:",
+      "options": ["Conferinței I", "Conferinței a II-a", "Aprobării", "Publicării"],
+      "answer": 1,
+      "explain": "Din anul Conferinței a II-a (preavizarea soluțiilor tehnice).",
+      "ref": "Cod art. 65 alin. (2)"
+    },
+    {
+      "q": "Un amenajament expirat în 2026 rămâne valabil cel mult până la:",
+      "options": ["31 decembrie 2026", "31 decembrie 2027", "31 decembrie 2028", "Nedeterminat"],
+      "answer": 1,
+      "explain": "31 decembrie a anului următor expirării.",
+      "ref": "Cod art. 65 alin. (3)"
+    },
+    {
+      "q": "Ghidurile de bune practici sunt:",
+      "options": [
+        "Obligatorii",
+        "Neobligatorii, încurajate prin stimulente",
+        "Obligatorii doar la stat",
+        "Abrogate"
+      ],
+      "answer": 1,
+      "explain": "Nu au caracter obligatoriu.",
+      "ref": "Cod art. 66 alin. (3)"
+    },
+    {
+      "q": "Suprafața de îngrijiri din amenajament este:",
+      "options": ["Maximală", "Minimală", "Orientativă", "Opțională"],
+      "answer": 1,
+      "explain": "Suprafața e minimală; volumul e orientativ.",
+      "ref": "Cod art. 70 alin. (1)"
+    },
+    {
+      "q": "Tăierile rase pe parchete mici NU se admit la:",
+      "options": ["Molid echien", "Plop euramerican", "Fag", "Larice"],
+      "answer": 2,
+      "explain": "Fagul nu e în listă.",
+      "ref": "Cod art. 71 alin. (1)"
+    },
+    {
+      "q": "Parchetul de tăiere rasă de molid are cel mult:",
+      "options": ["1 ha", "3 ha", "5 ha", "10 ha"],
+      "answer": 1,
+      "explain": "3 ha.",
+      "ref": "Cod art. 71 alin. (2)"
+    },
+    {
+      "q": "Două parchete de tăieri rase pot fi alăturate:",
+      "options": ["Oricând", "După realizarea stării de masiv pe primul", "După 2 ani", "Niciodată"],
+      "answer": 1,
+      "explain": "Doar după starea de masiv.",
+      "ref": "Cod art. 71 alin. (2)"
+    },
+    {
+      "q": "Posibilitatea anuală se poate depăși prin recoltare anticipată cu cel mult:",
+      "options": ["10%", "O posibilitate anuală pe toată perioada", "Două posibilități anuale", "Nelimitat"],
+      "answer": 1,
+      "explain": "Max. o posibilitate anuală cumulat.",
+      "ref": "Cod art. 72 alin. (3)"
+    },
+    {
+      "q": "Depășirea posibilității prin accidentale I se aprobă de:",
+      "options": ["Șeful ocolului", "Conducătorul Gărzii", "Ministrul", "Romsilva"],
+      "answer": 1,
+      "explain": "Prin decizie a conducătorului Gărzii.",
+      "ref": "Cod art. 72 alin. (7)"
+    },
+    {
+      "q": "Volumul arborilor tăiați ilegal:",
+      "options": [
+        "Nu contează",
+        "Se precomptează din posibilitate",
+        "Se adaugă la posibilitate",
+        "Se scade din impozit"
+      ],
+      "answer": 1,
+      "explain": "Se precomptează.",
+      "ref": "Cod art. 72 alin. (8)"
+    },
+    {
+      "q": "Recoltarea lemnului într-o rezervație științifică este:",
+      "options": ["Permisă la accidentale", "Strict interzisă", "Permisă cu aviz", "Permisă la igienă"],
+      "answer": 1,
+      "explain": "Strict interzisă.",
+      "ref": "Cod art. 72 alin. (6)"
+    },
+    {
+      "q": "Regimul crângului e admis la:",
+      "options": ["Fag", "Gorun", "Salcâm", "Molid"],
+      "answer": 2,
+      "explain": "Plopi, salcie, salcâm, anin, zăvoaie.",
+      "ref": "Cod art. 73 alin. (3)"
+    },
+    {
+      "q": "După o tăiere definitivă, regenerarea artificială se face în cel mult:",
+      "options": ["1 an", "2 ani", "3 ani", "5 ani"],
+      "answer": 1,
+      "explain": "2 ani.",
+      "ref": "Cod art. 74 alin. (1)"
+    },
+    {
+      "q": "După doborâturi masive de vânt, termenul maxim de regenerare este:",
+      "options": ["2 ani", "3 ani", "5 ani", "10 ani"],
+      "answer": 2,
+      "explain": "Max. 5 ani, stabilit de Gardă.",
+      "ref": "Cod art. 74 alin. (2)"
+    },
+    {
+      "q": "Dacă proprietarul nu regenerează, lucrările sunt dispuse de:",
+      "options": ["Primărie", "Garda Forestieră, prin ocol", "Poliție", "Romsilva direct"],
+      "answer": 1,
+      "explain": "Garda dispune ocolului, pe deviz.",
+      "ref": "Cod art. 77 alin. (1)"
+    },
+    {
+      "q": "Pășunatul într-o plantație de 4 ani este:",
+      "options": ["Permis cu acord", "Interzis", "Permis în urgență", "Permis cu taxă"],
+      "answer": 1,
+      "explain": "Interzis în plantații și regenerări tinere.",
+      "ref": "Cod art. 78 alin. (3)"
+    },
+    {
+      "q": "Trecerea animalelor prin pădure spre adăpat o aprobă:",
+      "options": ["Primarul", "Ocolul silvic, cu acordul proprietarului", "Garda", "Poliția"],
+      "answer": 1,
+      "explain": "Ocolul, pe trasee și perioade precise.",
+      "ref": "Cod art. 78 alin. (5)"
+    },
+    {
+      "q": "Luna plantării arborilor are loc între:",
+      "options": [
+        "1 martie–31 martie",
+        "15 martie–15 aprilie",
+        "1 aprilie–30 aprilie",
+        "15 octombrie–15 noiembrie"
+      ],
+      "answer": 1,
+      "explain": "15 martie – 15 aprilie.",
+      "ref": "Cod art. 82 alin. (1)"
+    },
+    {
+      "q": "Care NU e ecosistem strict protejat după art. 86?",
+      "options": [
+        "Jnepenișurile din FFN",
+        "Rezervațiile științifice",
+        "Pădurile de grupa a II-a",
+        "Pădurile UNESCO"
+      ],
+      "answer": 2,
+      "explain": "Grupa a II-a nu e, prin ea însăși, strict protejată.",
+      "ref": "Cod art. 86 alin. (1)"
+    },
+    {
+      "q": "În ariile protejate, la amenajare au prioritate:",
+      "options": [
+        "Normele tehnice",
+        "Planul de management sau măsurile minime de conservare",
+        "Dorința proprietarului",
+        "Ghidurile"
+      ],
+      "answer": 1,
+      "explain": "Planul de management.",
+      "ref": "Cod art. 89 alin. (3)"
+    }
+  ],
+  "cases": [
+    {
+      "title": "Molidișul de tăiat ras",
+      "situation": "Ai un arboret echien de molid de 110 ani, de 9 ha, propus în amenajament pentru tăieri rase, în afara ariilor protejate.",
+      "steps": [
+        {
+          "q": "Poți tăia tot arboretul deodată?",
+          "a": "Nu: tăierile rase se fac pe parchete mici de max. 3 ha.",
+          "ref": "Cod art. 71 alin. (2)"
+        },
+        {
+          "q": "Cum amplasezi parchetele?",
+          "a": "Cu cel puțin două înălțimi de arbori între ele; parchetul alăturat se taie doar după realizarea stării de masiv pe cel anterior.",
+          "ref": "Cod art. 71 alin. (2)"
+        },
+        {
+          "q": "În cât timp trebuie regenerată suprafața?",
+          "a": "În cel mult 2 ani de la tăierea unică.",
+          "ref": "Cod art. 74 alin. (1)"
+        },
+        {
+          "q": "Te încadrezi în posibilitate?",
+          "a": "Volumul de produse principale nu poate depăși posibilitatea anuală, decât în excepțiile de la art. 72 alin. (3), de exemplu cu volumul nerecoltat în anii anteriori.",
+          "ref": "Cod art. 72 alin. (2)–(3)"
+        }
+      ]
+    },
+    {
+      "title": "Furtuna din ianuarie",
+      "situation": "Vântul a doborât 6.000 m³ într-o unitate de gospodărire cu posibilitatea anuală de 4.000 m³, din care se recoltaseră deja 1.500 m³.",
+      "steps": [
+        {
+          "q": "Cum recoltezi doborâturile?",
+          "a": "De urgență, integral, de pe toată suprafața afectată.",
+          "ref": "Cod art. 72 alin. (5)"
+        },
+        {
+          "q": "Volumul depășește posibilitatea anuală. Ce faci?",
+          "a": "Ocolul întocmește documentația și o trimite Gărzii; depășirea se aprobă prin decizia conducătorului Gărzii.",
+          "ref": "Cod art. 72 alin. (5)"
+        },
+        {
+          "q": "Cum se reflectă în posibilitate?",
+          "a": "Accidentalele I se precomptează din posibilitate; ce trece de posibilitatea anuală se precomptează proporțional în anii următori.",
+          "ref": "Cod art. 72 alin. (8)–(10)"
+        },
+        {
+          "q": "Ce termen ai pentru regenerare?",
+          "a": "La doborâturi masive, Garda stabilește termenul, dar cel mult 5 ani.",
+          "ref": "Cod art. 74 alin. (2)"
+        }
+      ]
+    },
+    {
+      "title": "Ciobanul de lângă plantație",
+      "situation": "Un cioban vrea să treacă turma prin pădurea statului spre o stână, pe lângă o plantație de 3 ani, și să-și lase oile la păscut în pădure.",
+      "steps": [
+        {
+          "q": "Poate paște oile în plantație?",
+          "a": "Nu: pășunatul e interzis în plantații și regenerări tinere.",
+          "ref": "Cod art. 78 alin. (3)"
+        },
+        {
+          "q": "Poate trece turma prin pădure?",
+          "a": "Doar cu aprobarea conducătorului structurii (la stat), pe traseu delimitat și în perioadă precizată, și niciodată prin plantație sau regenerare.",
+          "ref": "Cod art. 78 alin. (5)–(6)"
+        },
+        {
+          "q": "Și un apicultor care vrea să-și pună stupii?",
+          "a": "Poate, gratuit, pe perioada pastoralului, cu aprobarea ocolului.",
+          "ref": "Cod art. 78 alin. (7)"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "docs": [
+      {
+        "key": "Cod",
+        "name": "Codul silvic (Legea 331/2024)",
+        "title": "Codul silvic – Titlul III, cap. IV–V, secț. 1–6 (art. 61–92)",
+        "note": "Legea nr. 331/2024, consolidată la 29 octombrie 2026 (ultima modificare: Legea 168/2026, în vigoare din 8 august 2026).",
+        "inText": true,
+        "chapters": [
+          {"title": "Capitolul IV – Amenajamentul silvic", "from": "61"},
+          {
+            "title": "Capitolul V – Gestionarea durabilă a terenurilor din FFN · Secţiunea 1 – Norme şi ghiduri tehnice şi monitorizarea pădurilor prin indicatori de stare",
+            "from": "66"
+          },
+          {
+            "title": "Secţiunea a 2-a – Lucrările de îngrijire şi conducere a arboretelor şi tratamentele silviculturale",
+            "from": "69"
+          },
+          {
+            "title": "Secţiunea a 3-a – Regenerarea şi reconstrucţia ecologică a pădurilor",
+            "from": "73"
+          },
+          {"title": "Secţiunea a 4-a – Protecţia pădurilor", "from": "78"},
+          {"title": "Secţiunea a 5-a – Limitarea efectelor schimbărilor climatice", "from": "81"},
+          {"title": "Secţiunea a 6-a – Conservarea biodiversităţii", "from": "82"}
+        ],
+        "articles": [
+          {
+            "no": "61",
+            "label": "Art. 61 – Amenajarea pădurilor",
+            "items": [
+              ["(1)","Modul de gestionare a FFN se reglementează prin amenajamente silvice. În cazul terenurilor proprietate publică a statului, amenajamentele furnizează date şi informaţii necesare înregistrării/actualizării acestora în inventarul centralizat al bunurilor din domeniul public al statului şi înregistrării în sistemul integrat de cadastru şi carte funciară."],
+              ["(2)","Înregistrarea terenurilor din FFN în inventarul centralizat al bunurilor din domeniul public al statului, precum şi actualizarea acestuia, până la înregistrarea în sistemul integrat de cadastru şi carte funciară, se face de către Autoritate în baza prevederilor amenajamentelor silvice în vigoare."],
+              ["(3)","Ţelurile de gospodărire a FFN se stabilesc prin amenajamente silvice, în concordanţă cu obiectivele ecologice, sociale şi economice şi cu respectarea dreptului de proprietate asupra pădurilor, exercitat potrivit prevederilor prezentei legi."]
+            ]
+          },
+          {
+            "no": "62",
+            "label": "Art. 62 – Grupe funcţionale",
+            "items": [
+              ["(1)","În raport cu funcţiile pe care le îndeplinesc, pădurile se încadrează în două grupe funcţionale:"],
+              ["a)","grupa I, care cuprinde păduri cu funcţii speciale de protecţie;"],
+              ["b)","grupa a II-a, care cuprinde păduri cu funcţii de producţie şi de protecţie."],
+              ["(2)","Încadrarea pădurilor în grupe funcţionale se face în baza normelor tehnice pentru amenajarea pădurilor."],
+              ["(3)","Modul de gestionare a pădurilor din fiecare grupă funcţională se diferenţiază în raport cu intensitatea şi natura funcţiilor atribuite, stabilite prin amenajamentele silvice."]
+            ]
+          },
+          {
+            "no": "63",
+            "label": "Art. 63 – Elaborarea amenajamentelor silvice",
+            "items": [
+              ["(1)","Amenajamentul silvic se elaborează pe unităţi de producţie şi/sau de protecţie, în baza normelor tehnice de amenajare a pădurilor. Unităţile de producţie/protecţie se constituie la nivelul fondului forestier proprietate publică şi privată a statului, precum şi al fondului forestier aparţinând unui proprietar, unei asociaţii de proprietari sau unei unităţi administrativ-teritoriale."],
+              ["(2)","Elaborarea amenajamentelor silvice este obligatorie pentru terenurile din FFN cu suprafaţa mai mare de 10 hectare. Suprafaţa minimă pentru elaborarea unui amenajament silvic este de 100 hectare."],
+              ["(3)","Pentru terenurile cu o suprafaţă de până la 100 hectare, inclusiv, incluse într-un amenajament silvic, reglementarea procesului de producţie lemnoasă se face la nivel de unitate de gospodărire sau pe baza deciziilor de conducere structurală la nivel de arboret cu condiţia asigurării continuităţii la acest nivel, aplicând tratamente adecvate. Modul de elaborare a amenajamentului silvic se stabileşte la avizarea temei de proiectare."],
+              ["(4)","Normele tehnice prevăzute la alin. (1) se elaborează şi se aprobă de către Autoritate, cu respectarea următoarelor principii:"],
+              ["a)","principiul continuităţii;"],
+              ["b)","principiul eficacităţii funcţionale;"],
+              ["c)","principiul conservării şi ameliorării biodiversităţii;"],
+              ["d)","principiul economic."],
+              ["(5)","Începând cu anul 2028, amenajamentele silvice se elaborează pentru o perioadă de 20 de ani, cu excepţia celor întocmite pentru pădurile de plop, salcie şi alte specii repede crescătoare, care se elaborează pentru o perioadă de 5 sau de 10 ani."],
+              ["(5^1)","Amenajamentele silvice pentru care conferinţa I de amenajare a pădurilor a fost organizată anterior datei de 31 decembrie 2027 se aprobă pentru o perioadă de 10 ani, cu excepţia celor întocmite pentru pădurile de plop şi salcie, care se aprobă pentru o perioadă de 5 ani."],
+              ["(6)","Pe perioada de valabilitate a unui amenajament silvic este interzisă aprobarea elaborării altui amenajament silvic pentru terenul respectiv sau pentru o parte din acesta, cu excepţia următoarelor cazuri:"],
+              ["a)","atunci când volumul recoltat din produse principale, inclusiv din produse accidentale I, pentru care există aprobările legale, depăşeşte posibilitatea stabilită prin amenajamentul silvic;"],
+              ["b)","pentru terenurile forestiere retrocedate ca urmare a aplicării prevederilor legilor funciare, la cererea proprietarului; în caz contrar se aplică prevederile amenajamentului silvic în vigoare pentru fondul forestier proprietate publică a statului din care s-a retrocedat proprietatea forestieră, până la expirarea valabilităţii acestuia în condiţiile prezentei legi;"],
+              ["c)","când un proprietar solicită elaborarea unui amenajament silvic pentru proprietăţile pe care le deţine şi pentru care există amenajamente silvice elaborate la momente diferite; acest tip de amenajament silvic se elaborează şi se poate aplica numai de la data la care expiră amenajamentul/amenajamentele silvic/silvice cu suprafaţa/suprafaţa cumulată mai mare, iar volumul recoltat prin aplicarea celuilalt/celorlalte amenajament(e) silvic(e) nu depăşeşte posibilitatea anuală, multiplicată cu numărul de ani de aplicare a amenajamentului silvic;"],
+              ["d)","la solicitarea Romsilva, ca urmare a rearondării, pe ocoale silvice, a fondului forestier proprietate publică a statului;"],
+              ["e)","când unui amenajament silvic îi încetează valabilitatea în cursul unui an calendaristic, înainte de data de 31 decembrie a anului respectiv; în această situaţie amenajamentul silvic îşi păstrează valabilitatea până la data de 31 decembrie a anului respectiv;"],
+              ["f)","în situaţia unei hotărâri judecătoreşti definitive prin care se dispune suspendarea/anularea unui amenajament silvic."],
+              ["(7)","Grăniţuirea terenurilor din FFN se efectuează cu respectarea prevederilor Legii nr. 287/2009, republicată, cu modificările şi completările ulterioare, şi nu se aplică în interiorul acestora."],
+              ["(8)","Elaborarea amenajamentelor silvice se face sub coordonarea şi controlul Autorităţii. Toate şedinţele de preavizare a soluţiilor tehnice, conferinţele I şi II de amenajare, precum şi şedinţele de avizare din Comisia tehnică de avizare pentru silvicultură se organizează cu informarea prealabilă a publicului şi cu posibilitatea participării publicului."],
+              ["(9)","Autoritatea verifică în baza metodologiei adoptate modul de aplicare a prevederilor amenajamentelor silvice."],
+              ["(10)","Amenajamentele silvice se elaborează prin persoane juridice specializate atestate în baza metodologiei privind procedura şi condiţiile de atestare, aprobată prin ordin al conducătorului Autorităţii, în termen de 120 de zile de la data intrării în vigoare a prezentei legi."],
+              ["(11)","Amenajamentele silvice pentru terenurile proprietate publică a statului se elaborează pe bază de proceduri de achiziţie publică de către institute/instituţii de cercetare-dezvoltare-inovare acreditate de autoritatea de stat pentru cercetare-dezvoltare, iar începând cu anul 2026 acestea se elaborează pe bază de proceduri de achiziţie publică de către persoane juridice atestate în condiţiile alin. (10)."],
+              ["(12)","Cheltuielile aferente elaborării amenajamentelor silvice pentru proprietatea publică şi privată a statului se suportă de administratorul acestora."],
+              ["(13)","Cheltuielile aferente elaborării amenajamentelor silvice pentru alte tipuri de proprietate forestieră decât cea prevăzută la alin. (12) se suportă de către administrator în baza unui contract de administrare sau de către proprietar dacă acesta nu are contract de administrare încheiat cu un ocol silvic."]
+            ]
+          },
+          {
+            "no": "64",
+            "label": "Art. 64 – Evaluarea de mediu şi avizarea amenajamentelor silvice",
+            "items": [
+              ["(1)","În vederea gestionării unitare a FFN, Autoritatea elaborează planuri de gestionare durabilă a pădurilor, cu o valabilitate de 20 de ani, elaborat la nivel de regiune, în termen de maximum 24 de luni de la data intrării în vigoare a prezentei legi, cu respectarea prevederilor Hotărârii Guvernului nr. 1.076/2004 privind stabilirea procedurii de realizare a evaluării de mediu pentru planuri şi programe, cu modificările ulterioare."],
+              ["(2)","Autoritatea organizează dezbateri publice cu factorii interesaţi pentru a asigura elaborarea planurilor de gestionare durabilă a pădurilor prevăzute la alin. (1). După elaborare, planurile se aprobă prin ordin al conducătorului Autorităţii."],
+              ["(3)","Amenajamentele silvice stabilesc lucrările silviculturale cu încadrarea în planul de gestionare durabilă a pădurilor aferent."],
+              ["(4)","Procedura de evaluare de mediu pentru amenajamentele silvice începe odată cu avizarea temei de proiectare la Conferinţa I de amenajare a pădurilor, se desfăşoară concomitent cu elaborarea amenajamentului silvic şi se finalizează prin emiterea actului de reglementare de către autoritatea competentă pentru protecţia mediului după şedinţa de preavizare a soluţiilor tehnice - Conferinţa a II-a de amenajare a pădurilor."],
+              ["(5)","Avizarea amenajamentelor silvice se realizează în Comisia tehnică de avizare pentru silvicultură din cadrul Autorităţii, a cărei funcţionare se reglementează prin metodologia aprobată prin ordin al conducătorului Autorităţii."],
+              ["(6)","Planurile de gestionare durabilă şi amenajamentele silvice aprobate se publică de către Autoritate pe pagina de internet a acesteia."],
+              ["(7)","Amenajamentele silvice care se suprapun total cu arii naturale protejate de interes comunitar se supun evaluării adecvate, conform dispoziţiilor Ordonanţei de urgenţă a Guvernului nr. 57/2007, aprobată cu modificări şi completări prin Legea nr. 49/2011, cu modificările şi completările ulterioare. Amenajamentele silvice care se suprapun parţial cu arii naturale protejate de interes comunitar şi care conţin proiectele enumerate în anexa nr. 1 sau 2 din Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice şi private asupra mediului se supun evaluării adecvate, conform Ordonanţei de urgenţă a Guvernului nr. 57/2007, aprobată cu modificări şi completări prin Legea nr. 49/2011, cu modificările şi completările ulterioare."],
+              ["(8)","Amenajamentele silvice, altele decât cele prevăzute la alin. (7), se supun etapei de încadrare în procedura de evaluare adecvată, conform prevederilor Ordonanţei de urgenţă a Guvernului nr. 57/2007, aprobată cu modificări şi completări prin Legea nr. 49/2011, cu modificările şi completările ulterioare."],
+              ["(9)","Amenajamentele silvice care se suprapun, parţial sau total, cu arii naturale protejate de interes comunitar, valabile şi aprobate la data intrării în vigoare a prezentei legi şi pentru care nu s-au elaborat studiul de evaluare adecvată şi raportul de mediu în cadrul procedurii de evaluare de mediu, potrivit dispoziţiilor Hotărârii Guvernului nr. 1.076/2004, cu modificările ulterioare, se supun revizuirii, prin reluarea procedurii de evaluare de mediu şi a celei de evaluare adecvată."],
+              ["(10)","Pentru amenajamentele silvice prevăzute la alin. (7) şi (9) se aplică metodologia de derulare a procedurii de evaluare de mediu pentru amenajamentele silvice, aprobată prin Hotărârea Guvernului nr. 236/2023."],
+              ["(11)","Titularii amenajamentelor silvice prevăzuţi la alin. (9) au obligaţia de a notifica autoritatea competentă pentru protecţia mediului în vederea reluării procedurii de evaluare de mediu, inclusiv evaluare adecvată, în termen de 6 luni de la data intrării în vigoare a prezentei legi."]
+            ]
+          },
+          {
+            "no": "65",
+            "label": "Art. 65 – Aprobarea amenajamentelor silvice şi intrarea acestora în vigoare",
+            "items": [
+              ["(1)","Amenajamentele silvice şi modificările acestora se aprobă prin ordin al conducătorului Autorităţii."],
+              ["(2)","Amenajamentul silvic intră în vigoare la data aprobării acestuia şi este valabil până la data de 31 decembrie a anului al douăzecilea sau, după caz, a anului al zecelea de aplicare, calculat din anul în care a avut loc şedinţa de preavizare a soluţiilor tehnice - Conferinţa a II-a de amenajare a pădurilor."],
+              ["(3)","Amenajamentele silvice intrate în vigoare anterior prezentei legi îşi păstrează valabilitatea până la data aprobării noului amenajament, dar nu mai târziu de data de 31 decembrie a anului următor expirării acestuia. Până la data intrării în vigoare a noului amenajament silvic, în amenajamentul silvic care îşi păstrează valabilitatea sunt permise următoarele activităţi şi acţiuni:"],
+              ["a)","acordarea de compensaţii reprezentând contravaloarea produselor pe care proprietarii nu le recoltează, ca urmare a funcţiilor de protecţie stabilite prin amenajamente silvice care determină restricţii în recoltarea de lemn;"],
+              ["b)","realizarea împăduririlor, a reîmpăduririlor, a lucrărilor de îngrijire şi conducere a arboretelor tinere prevăzute în amenajamentul silvic şi a lucrărilor de protecţie a pădurilor, inclusiv prin recoltarea produselor accidentale şi extraordinare; volumul produselor accidentale I şi extraordinare recoltat, cu care se depăşeşte posibilitatea stabilită pentru amenajamentul silvic care îşi păstrează valabilitatea, se precomptează din posibilitatea stabilită prin noul amenajament silvic;"],
+              ["c)","punerea în valoare şi exploatarea lemnului pe picior rămas neexploatat, până la volumul aferent posibilităţii stabilite prin amenajamentul silvic, şi transportul stocurilor de lemn din partizile autorizate spre exploatare anterior aprobării noului amenajament silvic şi neexploatate integral până la data aprobării noului amenajament silvic."],
+              ["(4)","Produsele accidentale apărute în perioada prevăzută la alin. (3) se precomptează din posibilitatea noului amenajament silvic."]
+            ]
+          },
+          {
+            "no": "66",
+            "label": "Art. 66 – Norme şi ghiduri tehnice pentru gestionarea durabilă a pădurilor",
+            "items": [
+              ["(1)","Autoritatea elaborează normele tehnice prin care se asigură gestionarea durabilă a pădurilor, pe care le aprobă prin ordin al conducătorului Autorităţii."],
+              ["(2)","Normele tehnice stabilesc cerinţele minime obligatorii pentru gestionarea pădurilor, inclusiv indicatori de stare."],
+              ["(3)","Autoritatea elaborează ghiduri de bune practici suplimentare normelor tehnice, ghiduri care nu au caracter obligatoriu."],
+              ["(4)","Acceptarea de către proprietarul de pădure a unor opţiuni din ghidurile de bune practici prevăzute la alin. (3) este încurajată prin aplicarea instrumentelor de stimulare financiară şi/sau compensaţii pentru proprietari, prevăzute la art. 121 şi 123, şi de sprijin al proprietarilor, prevăzute la art. 125 şi 126."]
+            ]
+          },
+          {
+            "no": "67",
+            "label": "Art. 67 – Indicatorii de stare a pădurilor",
+            "items": [
+              ["(1)","Indicatorii de stare a pădurilor trebuie să permită monitorizarea:"],
+              ["a)","menţinerii şi îmbunătăţirii principalelor caracteristici ale fondului de producţie;"],
+              ["b)","gradului de îndeplinire a obiectivelor urmărite la efectuarea lucrărilor silvotehnice în arborete şi monitorizarea calităţii acestora;"],
+              ["c)","eficacităţii funcţionale în privinţa funcţiilor ecologice, economice şi sociale atribuite;"],
+              ["d)","stării de sănătate a pădurilor;"],
+              ["e)","stării de conservare a habitatelor forestiere;"],
+              ["f)","rezilienţei la schimbările climatice."],
+              ["(2)","Modul de implementare a amenajamentelor silvice se verifică la jumătatea perioadei de amenajare, prin raportare la valorile indicatorilor de stare a pădurilor."]
+            ]
+          },
+          {
+            "no": "68",
+            "label": "Art. 68 – Informarea şi conştientizarea proprietarilor terenurilor din FFN",
+            "items": [
+              ["(1)","Statul sprijină gestionarea durabilă a terenurilor din FFN prin acţiuni de informare şi conştientizare a proprietarilor."],
+              ["(2)","Autoritatea promovează, prin programe specifice, activităţile de conştientizare, de consiliere, de cooperare, de formare a abilităţilor proprietarilor privaţi în sprijinul înţelegerii necesităţii practicilor de gestiune durabilă."],
+              ["(3)","Ghidurile de bune practici definite la art. 66 alin. (3) prevăd măsuri specifice pentru gestionarea pădurilor private."]
+            ]
+          },
+          {
+            "no": "69",
+            "label": "Art. 69 – Silvicultura apropiată de natură",
+            "items": [
+              ["","Lucrările de îngrijire şi conducere a arboretelor şi tratamentele silviculturale sunt parte componentă a modelului silviculturii apropiate de natură, aplicat pentru gestionarea FFN, iar executarea acestora se realizează prin norme şi, după caz, prin ghiduri de bune practici, prevăzute la art. 66 alin. (2) şi (3)."]
+            ]
+          },
+          {
+            "no": "70",
+            "label": "Art. 70 – Aplicarea lucrărilor de îngrijire şi conducere a arboretelor",
+            "items": [
+              ["(1)","Suprafaţa prevăzută în amenajamentul silvic pentru parcurgerea cu lucrări de îngrijire şi conducere a arboretelor este minimală. Suprafeţele de parcurs suplimentar cu astfel de lucrări se selectează luând în considerare criteriile din ghidurile de bune practici prevăzute la art. 66 alin. (3)."],
+              ["(2)","Volumul de lemn prevăzut în amenajamentul silvic pentru extragere prin lucrările de îngrijire şi conducere a arboretelor este orientativ şi se recoltează cu respectarea prevederilor normei tehnice specifice."],
+              ["(3)","Lucrările de îngrijire şi conducere a arboretelor se realizează de către ocoale silvice sau de către persoane juridice atestate."],
+              ["(4)","Realizarea lucrărilor de îngrijire şi conducere a arboretelor este obligatorie pentru toţi deţinătorii de păduri. Nerealizarea lucrărilor prevăzute la alin. (1) conform prevederilor amenajamentelor silvice se sancţionează conform legii."],
+              ["(5)","Lemnul rezultat din realizarea lucrărilor de îngrijire şi conducere a arboretelor care nu se poate valorifica prin licitaţii se valorifică cu prioritate ca lemn de foc pentru aprovizionarea populaţiei."]
+            ]
+          },
+          {
+            "no": "71",
+            "label": "Art. 71 – Aplicarea tratamentului tăierilor rase",
+            "items": [
+              ["(1)","Tratamentul tăierilor rase pe parchete mici este admis numai în arboretele de molid, pin, larice, echiene şi relativ echiene, de plop euramerican, de salcie selecţionată, precum şi în cazul lucrărilor de substituire ori refacere a unor arborete, în care nu este posibilă aplicarea altor tratamente."],
+              ["(2)","În situaţiile prevăzute la alin. (1), mărimea suprafeţei de pădure care se parcurge cu tratamentul tăierilor rase pe parchete mici este de maximum 3 hectare inclusiv, cu excepţia arboretelor de plop euramerican şi salcie selecţionată, amplasate în incintele îndiguite, care necesită pregătirea mecanizată a terenului în vederea reîmpăduririi, situaţie în care suprafaţa este de maximum 5 hectare inclusiv. Între parchetele cu tăieri rase pe parchete mici se păstrează o distanţă de minimum două înălţimi de arbori. Alăturarea parchetelor în cazul tăierilor rase pe parchete mici este permisă numai după realizarea stării de masiv pe suprafeţele parcurse anterior."],
+              ["(3)","În situaţia apariţiei de produse accidentale pe suprafeţe compacte, mărimea parchetului este determinată de mărimea suprafeţei pe care s-a manifestat factorul dăunător şi de modul de intervenţie pentru înlăturarea efectelor generate de acesta."],
+              ["(4)","În cazul produselor extraordinare, suprafaţa parchetului este determinată de mărimea suprafeţei pe care se constituie aceste produse."],
+              ["(5)","Tratamentul tăierilor rase în ariile naturale protejate este interzis, cu excepţia arboretelor cu cicluri scurte de producţie."]
+            ]
+          },
+          {
+            "no": "72",
+            "label": "Art. 72 – Reguli de recoltare a lemnului",
+            "items": [
+              ["(1)","Volumul maxim de lemn care se recoltează ca produse principale într-o unitate de gospodărire nu poate depăşi posibilitatea stabilită prin amenajamentul silvic, pentru perioada de valabilitate a acestuia."],
+              ["(2)","Volumul maxim de lemn prevăzut la alin. (1), care se recoltează anual ca produse principale într-o unitate de gospodărire, nu poate depăşi posibilitatea anuală."],
+              ["(3)","Prin excepţie de la prevederile alin. (2), se poate depăşi posibilitatea anuală în următoarele situaţii:"],
+              ["a)","dacă reglementarea procesului de producţie lemnoasă se realizează la nivel de arboret, precum şi în cazul în care există un singur arboret în planul decenal de recoltare a produselor principale;"],
+              ["b)","cu volumul de lemn nerecoltat, până la nivelul posibilităţii anuale, în anii anteriori de aplicare a amenajamentului silvic în vigoare;"],
+              ["c)","pentru recoltarea produselor accidentale I şi extraordinare, cu aprobarea Gărzii Forestiere;"],
+              ["d)","cu volumul de lemn prevăzut a se recolta din arboretele cuprinse în planul decenal, pentru valorificarea anilor de sămânţă în arborete cu baza în cvercinee;"],
+              ["e)","cu recoltarea anticipată a unui volum cumulat maxim echivalent cu o posibilitate anuală, pe întreaga perioadă de valabilitate a amenajamentului silvic."],
+              ["(4)","Prin excepţie de la prevederile alin. (1), posibilitatea stabilită prin amenajamentul silvic, pentru perioada de valabilitate a acestuia, se poate depăşi prin recoltarea produselor accidentale I şi extraordinare, care se precomptează, la nivel de unitate de gospodărire, din posibilitatea stabilită prin noul amenajament silvic pentru perioada de valabilitate a acestuia."],
+              ["(5)","Produsele accidentale şi extraordinare se recoltează, în regim de urgenţă, fără excepţie, în integralitate de pe toată suprafaţa afectată din FFN; în situaţia în care volumul produselor accidentale I, cumulat cu volumul tăierilor ilegale şi cu volumul recoltat anterior apariţiei acestora depăşeşte posibilitatea/posibilitatea anuală, ocolul silvic care asigură administrarea/serviciile silvice, după caz, întocmeşte documentaţia potrivit metodologiei aprobate prin ordin al conducătorului Autorităţii şi o transmite spre aprobare Gărzii Forestiere competente teritorial. În ariile naturale protejate se respectă legislaţia specifică protecţiei mediului; avizele pentru recoltarea produselor accidentale I şi a celor extraordinare din ariile naturale protejate se eliberează în termen maxim de 30 de zile de la solicitare, neemiterea avizului în termen de 30 de zile considerându-se adoptare tacită."],
+              ["(6)","În pădurile virgine, cvasivirgine şi rezervaţiile ştiinţifice recoltarea lemnului este strict interzisă."],
+              ["(7)","Depăşirea posibilităţii prevăzute la alin. (5) se aprobă prin decizie a conducătorului Gărzii Forestiere competente teritorial."],
+              ["(8)","Volumul produselor accidentale I şi extraordinare, înregistrate în unităţi de gospodărire în care se reglementează procesul de producţie lemnoasă, precum şi volumul arborilor tăiaţi ilegal se precomptează din posibilitate."],
+              ["(9)","Precomptarea se realizează în cadrul aceleiaşi proprietăţi la nivelul unităţii de gospodărire."],
+              ["(10)","Volumul lemnului prevăzut la alin. (5), care depăşeşte posibilitatea anuală, se precomptează proporţional în anii următori de aplicare a amenajamentului silvic."],
+              ["(11)","Sortarea lemnului fasonat valorificat din FFN proprietate publică a statului se face pe specii, sortimente şi clase de calitate, conform standardelor în vigoare, astfel încât să se asigure creşterea valorii adăugate şi utilizarea lemnului în cascadă. Piesele care formează un lot de lemn fasonat trebuie concentrate în tasoane."],
+              ["(12)","Lemnul fasonat provenit din proprietatea publică se valorifică din depozite în proporţie de cel puţin 50% din lemnul fasonat începând cu data intrării în vigoare a prezentei legi şi de cel puţin 70% din lemnul fasonat începând cu 2030."],
+              ["(13)","Nerespectarea clasei de calitate prezentate la licitaţie se constată de către reprezentanţi ai vânzătorului şi cumpărătorului, iar volumul de lemn fasonat care nu corespunde calitativ sortimentului adjudecat poate fi refuzat de producătorul atestat din industria mobilei fără consecinţe asupra acestuia."],
+              ["(14)","Preţul de pornire la licitaţiile de vânzare de masă lemnoasă şi lemn fasonat din fondul forestier proprietate publică şi pasul de licitare vor fi anunţate de organizatorul licitaţiei în lei/metru cub volum brut, pentru fiecare partidă/lot de lemn fasonat. Preţul este fără TVA."]
+            ]
+          },
+          {
+            "no": "73",
+            "label": "Art. 73 – Regimul şi regenerarea arboretelor",
+            "items": [
+              ["(1)","Regenerarea şi reconstrucţia ecologică a pădurilor se realizează în concordanţă cu prevederile amenajamentelor silvice sau ale studiilor de specialitate/proiectelor tehnice."],
+              ["(2)","La regenerarea pădurilor se aplică regimul codrului, urmărindu-se realizarea de arborete de calitate superioară, precum şi exercitarea cu continuitate de către acestea a funcţiilor de protecţie."],
+              ["(3)","Se exceptează de la prevederile alin. (2) arboretele de plopi, de salcie, de salcâm, de anin, precum şi zăvoaiele, în care este admis regimul crângului."]
+            ]
+          },
+          {
+            "no": "74",
+            "label": "Art. 74 – Condiţii de asigurare a regenerării pădurilor",
+            "items": [
+              ["(1)","Lucrările de regenerare artificială, de completare a regenerărilor naturale şi împădurirea terenurilor oferite în compensare în cadrul procedurilor de scoatere din FFN şi schimb de terenuri se execută în termen de cel mult 2 ani de la tăierea unică/definitivă/după tăieri de produse accidentale sau de la data aprobării operaţiunii în celelalte cazuri."],
+              ["(2)","Fac excepţie de la prevederile alin. (1) arboretele afectate de doborâturi şi rupturi masive provocate de vânt şi zăpadă. În cazul acestora, în funcţie de amploarea fenomenului, Garda Forestieră stabileşte perioada maximă de regenerare artificială şi completarea regenerărilor naturale, care nu poate să fie mai mare de 5 ani de la data manifestării fenomenului care le-a cauzat."],
+              ["(3)","Compoziţia, schemele şi tehnologiile de împădurire care se aplică respectă prevederile din normele tehnice de specialitate şi/sau din studiile de specialitate aprobate."],
+              ["(4)","Lucrările de regenerare a pădurilor şi de întreţinere a seminţişurilor naturale şi plantaţiilor se realizează de către ocoale silvice sau de către persoane juridice atestate."],
+              ["(5)","Atestarea persoanelor fizice şi juridice care realizează lucrări de regenerare a pădurilor şi de întreţinere a seminţişurilor naturale şi plantaţiilor se realizează de Comisia de atestare care funcţionează în cadrul asociaţiei tehnico-profesionale din domeniul silvic recunoscute la nivel naţional. Comisia funcţionează pe baza Regulamentului privind organizarea, funcţionarea şi componenţa comisiei de atestare a persoanelor fizice şi juridice care realizează lucrări de regenerare a pădurilor şi de întreţinere a seminţişurilor naturale şi plantaţiilor, aprobat prin ordin al conducătorului Autorităţii."],
+              ["(6)","Asociaţia tehnico-profesională din domeniul silvic recunoscută la nivel naţional are obligaţia organizării de cursuri de formare profesională pentru persoanele atestate în condiţiile alin. (5), în vederea creşterii gradului de cunoaştere a legislaţiei şi a principiilor de execuţie a lucrărilor. Cursurile de formare profesională sunt realizate cu participarea personalului din instituţiile de învăţământ superior de specialitate, iar durata acestor cursuri trebuie să fie de minimum 8 ore/an."]
+            ]
+          },
+          {
+            "no": "75",
+            "label": "Art. 75 – Condiţii de executare a reconstrucţiei ecologice",
+            "items": [
+              ["","Reconstrucţia ecologică a terenurilor degradate din afara FFN se realizează pe baza soluţiilor tehnice stabilite prin proiectele tehnice elaborate de persoane fizice şi juridice atestate în baza metodologiei aprobate prin ordin al conducătorului Autorităţii."]
+            ]
+          },
+          {
+            "no": "76",
+            "label": "Art. 76 – Materiale forestiere de reproducere",
+            "items": [
+              ["(1)","Modalităţile de producere, de comercializare şi de utilizare a materialelor forestiere de reproducere se aprobă prin lege, în concordanţă cu prevederile legislaţiei Uniunii Europene în domeniu."],
+              ["(2)","În vederea conservării şi ameliorării diversităţii genetice a pădurilor, Autoritatea asigură trasabilitatea materialelor forestiere de reproducere."]
+            ]
+          },
+          {
+            "no": "77",
+            "label": "Art. 77 – Asigurarea respectării obligaţiei de regenerare a pădurilor",
+            "items": [
+              ["(1)","În cazul în care proprietarul nu îşi îndeplineşte obligaţia privind lucrările de regenerare, prevăzută la art. 23 alin. (2) lit. d) şi e) şi alin. (4) lit. c), din motive imputabile, Garda Forestieră competentă teritorial dispune ocolului silvic executarea lucrărilor de control anual al regenerărilor, de regenerare artificială şi de întreţinere a culturilor, pe bază de deviz, contravaloarea acestor lucrări fiind suportată de proprietar."],
+              ["(2)","Devizul lucrărilor prevăzut la alin. (1), întocmit de ocolul silvic sau de prestatorul atestat şi aprobat de Garda Forestieră, se comunică proprietarului."],
+              ["(3)","Devizul prevăzut la alin. (1), acceptat în mod expres sau tacit prin necontestare de către proprietar în termen de 30 de zile calendaristice de la data comunicării, constituie titlu executoriu, reprezentând temei pentru executarea lucrărilor de regenerare."],
+              ["(4)","Contravaloarea lucrărilor de control anual al regenerărilor şi de regenerare efectuate şi recepţionate în conformitate cu devizul aprobat este suportată de la bugetul de stat, din fondul de ameliorare a fondului funciar cu destinaţie silvică, precum şi din fonduri europene, până la recuperarea creanţei de la proprietar."],
+              ["(5)","Creanţa prevăzută la alin. (4) se recuperează prin executare silită, potrivit procedurii de recuperare a creanţelor bugetare."],
+              ["(6)","În situaţia terenurilor pentru care nu s-a îndeplinit obligaţia de regenerare, iar proprietarul nu se poate identifica sau pentru care proprietarul a decedat şi nu s-a realizat dezbaterea succesorală, Garda Forestieră dispune executarea lucrărilor de control anual al regenerărilor, de regenerare artificială şi de întreţinere a culturilor, pe bază de deviz. Garda Forestieră notifică în scris unitatea administrativ-teritorială în raza căreia se găseşte terenul cu privire la intenţia de a se asigura regenerarea pentru aceste suprafeţe, precum şi ocolul silvic nominalizat, care întocmeşte devizul lucrărilor şi efectuează lucrările de regenerare artificială şi întreţinere a culturilor."],
+              ["(7)","Pentru recuperarea creanţei în condiţiile alin. (6), Garda Forestieră va dispune una dintre următoarele căi de acţiune:"],
+              ["a)","executarea lucrărilor de către ocolul silvic nominalizat şi transferarea creanţei la deţinător cu acordul acestuia, indiferent dacă acesta este unul dintre potenţialii succesori sau un deţinător fără titlu care asigură gestiunea economică a terenului forestier;"],
+              ["b)","declanşarea procedurii privitoare la bunurile abandonate conform dispoziţiilor Legii nr. 287/2009, republicată, cu modificările şi completările ulterioare, sau succesiunii vacante dacă cerinţele legale sunt îndeplinite în acest caz şi efectuarea lucrării de regenerare în termen de 3 ani de la finalizarea procedurii;"],
+              ["c)","declanşarea procedurii de expropriere pentru cauză de utilitate publică şi efectuarea lucrării de regenerare în termen de 3 ani de la finalizarea procedurii, expropriator fiind Autoritatea, prin Romsilva. Sumele necesare exproprierii se asigură de la bugetul de stat prin bugetul Autorităţii."]
+            ]
+          },
+          {
+            "no": "78",
+            "label": "Art. 78 – Păşunatul în FFN",
+            "items": [
+              ["(1)","Se interzice păşunatul în FFN în perdelele forestiere de protecţie şi în perimetrele de ameliorare a terenurilor degradate."],
+              ["(2)","Prin excepţie de la prevederile alin. (1), în situaţii de urgenţă, Garda forestieră poate aproba păşunatul în FFN, dacă sunt îndeplinite cumulativ următoarele condiţii:"],
+              ["a)","se desfăşoară pe durată limitată;"],
+              ["b)","se practică doar în anumite perimetre ale pădurii;"],
+              ["c)","solicitările de aprobare aparţin autorităţilor publice locale;"],
+              ["d)","s-a obţinut acordul proprietarului şi al ocolului silvic prestator al serviciilor silvice."],
+              ["(3)","Se interzice păşunatul în arboretele în curs de regenerare, în plantaţiile şi regenerările tinere, precum şi în arboretele incluse în tipurile funcţionale I şi II."],
+              ["(4)","În cazul pădurilor proprietate publică a statului, acordul prevăzut la alin. (2) lit. d) se dă de către administrator."],
+              ["(5)","Trecerea animalelor domestice prin terenurile din FFN spre zonele de păşunat, adăpat şi adăpostire se aprobă de către ocolul silvic, cu acordul proprietarului fondului forestier, pe trasee delimitate şi în perioade precizate. Pentru terenurile proprietate publică a statului, aprobarea se emite de către conducătorii structurilor prevăzute la art. 12 alin. (1) lit. a)."],
+              ["(6)","Se interzice trecerea animalelor domestice prin pădure în arboretele în curs de regenerare, în plantaţiile şi regenerările tinere, în ariile naturale protejate de interes naţional, în perimetrele de ameliorare, precum şi în perdelele forestiere de protecţie."],
+              ["(7)","Cu aprobarea ocolului silvic se permite amplasarea, în mod gratuit, a stupilor de albine pe terenurile din FFN proprietate publică a statului, pe perioada pastoralului."],
+              ["(8)","Cuantumul plăţii pentru acţiunile prevăzute la alin. (2) şi (5) se stabileşte prin înţelegerea părţilor."]
+            ]
+          },
+          {
+            "no": "79",
+            "label": "Art. 79 – Monitorizarea stării de sănătate a pădurilor",
+            "items": [
+              ["(1)","Coordonarea monitorizării stării de sănătate a pădurilor se realizează de către Autoritate."],
+              ["(2)","Ocoalele silvice realizează lucrările de depistare, prognoză, prevenire şi combatere a atacurilor bolilor şi dăunătorilor pădurii, în conformitate cu normele tehnice privind protecţia pădurilor împotriva bolilor şi dăunătorilor."]
+            ]
+          },
+          {
+            "no": "80",
+            "label": "Art. 80 – Măsuri de protecţie a pădurilor",
+            "items": [
+              ["(1)","Costul lucrărilor de protecţie a pădurilor se suportă, după caz, de proprietar, respectiv de către administrator, din fondul de conservare şi regenerare sau din surse proprii."],
+              ["(2)","Proprietarii şi deţinătorii de păduri au obligaţia de a executa lucrările necesare pentru prevenirea şi combaterea bolilor şi dăunătorilor pădurilor."]
+            ]
+          },
+          {
+            "no": "81",
+            "label": "Art. 81 – Consolidarea rezilienţei pădurilor şi creşterea contribuţiei acestora la limitarea efectelor schimbărilor climatice",
+            "items": [
+              ["(1)","Normele tehnice şi ghidurile de bune practici prevăzute la art. 66 includ măsuri specifice pentru creşterea rezistenţei şi rezilienţei arboretelor la efectele schimbărilor climatice."],
+              ["(2)","Proprietarul poate implementa măsuri de management silvic specifice creşterii cantităţii de dioxid de carbon sechestrat de arborete în pădurile pentru care există amenajament silvic valabil."],
+              ["(3)","Evaluarea cantităţii de dioxid de carbon sechestrat se va efectua în conformitate cu normele tehnice, care includ atât măsurile specifice de creştere a cantităţii de carbon sechestrat de arborete, cât şi metodologia de determinare/acordare şi determinare/valorificare a creditelor de carbon."],
+              ["(4)","Dreptul de valorificare a creditelor de carbon stabilite conform alineatului precedent revine proprietarului sau administratorului FFN. Sumele rezultate din valorificarea creditelor de carbon constituie venituri ale proprietarului sau administratorului FFN."],
+              ["(5)","Autoritatea finanţează programe naţionale care au ca scop creşterea cantităţii de carbon sechestrate prin utilizarea lemnului în domeniul construcţiilor şi al industriei mobilei."],
+              ["(6)","Din sumele provenite în urma valorificării certificatelor de emisii de gaze cu efect de seră, conform Directivei 2003/87/CE a Parlamentului European şi a Consiliului din 13 octombrie 2003 de stabilire a unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul Comunităţii şi de modificare a Directivei 96/61/CE a Consiliului, cu modificările şi completările ulterioare, Autoritatea va aloca plăţi compensatorii persoanelor fizice şi persoanelor juridice proprietari de fond forestier, respectiv unităţilor administrativ-teritoriale care deţin în proprietate fond forestier."]
+            ]
+          },
+          {
+            "no": "82",
+            "label": "Art. 82 – Luna plantării arborilor",
+            "items": [
+              ["(1)","În perioada 15 martie-15 aprilie a fiecărui an, Autoritatea organizează \"Luna plantării arborilor\" în vederea promovării mijloacelor de limitare a efectelor schimbărilor climatice."],
+              ["(2)","\"Luna plantării arborilor\" se organizează cu participarea consiliilor judeţene, a prefecturilor, a primăriilor, a inspectoratelor şcolare teritoriale, a instituţiilor confesionale, a unităţilor militare, precum şi a altor instituţii publice."],
+              ["(3)","Cu prilejul organizării manifestărilor prevăzute la alin. (1), Autoritatea, prin unităţile aflate în subordinea, în coordonarea sau sub autoritatea acesteia, pune la dispoziţia celor interesaţi materialul săditor şi logistica necesară."],
+              ["(4)","În perioada prevăzută la alin. (1), Autoritatea, administratorii pădurilor proprietate publică a statului şi ocoalele silvice de regim sunt obligaţi să desfăşoare acţiuni publice de popularizare şi educare privind rolul şi importanţa pădurii şi activităţi practice de realizare de plantaţii forestiere, întreţinere şi conducere a arboretelor."]
+            ]
+          },
+          {
+            "no": "83",
+            "label": "Art. 83 – Forme şi modalităţi de conservare şi ameliorare a biodiversităţii",
+            "items": [
+              ["(1)","Pentru conservarea sau, după caz, ameliorarea biodiversităţii pădurilor se vor lua în considerare cele 3 forme ale acesteia: diversitatea genetică, diversitatea speciilor, diversitatea ecosistemică."],
+              ["(2)","Conservarea şi ameliorarea biodiversităţii pădurilor se realizează prin:"],
+              ["a)","adoptarea de măsuri specifice silviculturii apropiate de natură;"],
+              ["b)","adoptarea de măsuri pentru crearea şi/sau menţinerea peisajului forestier mozaicat;"],
+              ["c)","asigurarea conectivităţii ecologice, inclusiv prin coridoare ecologice;"],
+              ["d)","menţinerea de lemn mort pe picior şi pe sol în limitele ecologice necesare;"],
+              ["e)","menţinerea şi protejarea arborilor-habitat;"],
+              ["f)","constituirea de insule de îmbătrânire ca arborete sau părţi de arborete;"],
+              ["g)","menţinerea unui procent cât mai ridicat de păduri regenerate natural din sămânţă;"],
+              ["h)","menţinerea sau, după caz, crearea unor culoare de vegetaţie forestieră în lungul cursurilor de apă;"],
+              ["i)","menţinerea unui nivel ridicat de diversitate a speciilor de floră şi faună sălbatică prin ocrotirea elementelor de biodiversitate cu valoare deosebită definite prin normele tehnice."],
+              ["(3)","Nivelul de implementare a formelor şi modalităţilor de conservare şi ameliorare a biodiversităţii, cu caracter obligatoriu, este reglementat în normele tehnice prevăzute la art. 66 alin. (2)."],
+              ["(4)","Nivelul de implementare a formelor şi modalităţilor de conservare şi ameliorare a biodiversităţii, recomandate cu caracter voluntar, este stabilit în ghidurile de bune practici prevăzute la art. 66 alin. (3)."],
+              ["(5)","Planurile de management, planurile de reconstrucţie ecologică şi amenajamentele silvice cuprind măsuri de îmbunătăţire sau menţinere a biodiversităţii ecosistemelor forestiere."],
+              ["(6)","Proprietarul poate opta pentru implementarea unor măsuri de conservare, cu caracter voluntar, cu excepţia lucrărilor obligatorii de îngrijire prevăzute la art. 70."]
+            ]
+          },
+          {
+            "no": "84",
+            "label": "Art. 84 – Stimularea conservării biodiversităţii",
+            "items": [
+              ["(1)","Proprietarii terenurilor din FFN, alţii decât statul, care aplică măsurile cu caracter obligatoriu necesare pentru conservarea şi ameliorarea biodiversităţii pădurilor, conform prevederilor art. 83 alin. (3), beneficiază de compensaţii financiare acordate de către stat pentru restricţiile impuse, conform metodologiei definite la art. 123 alin. (2)."],
+              ["(2)","Proprietarii terenurilor din FFN, alţii decât statul, care îşi asumă angajamente de mediu, conform dispoziţiilor art. 83 alin. (4), prin care aplică măsuri de conservare a biodiversităţii beneficiază de stimulente financiare conform metodologiei definite la art. 123 alin. (2)."]
+            ]
+          },
+          {
+            "no": "85",
+            "label": "Art. 85 – Monitorizarea conservării şi ameliorării biodiversităţii",
+            "items": [
+              ["","Realizarea obiectivelor de gospodărire a pădurilor şi de conservare a biodiversităţii şi funcţiilor acestora se monitorizează cu ajutorul unor indicatori de stare fundamentaţi ştiinţific şi reglementaţi prin normele tehnice din silvicultură, în conformitate cu art. 66 alin. (2)."]
+            ]
+          },
+          {
+            "no": "86",
+            "label": "Art. 86 – Ecosisteme forestiere şi alte elemente cu valoare ridicată de conservare",
+            "items": [
+              ["(1)","Constituie ecosisteme forestiere cu valoare ridicată de conservare şi sunt strict protejate:"],
+              ["a)","pădurile virgine şi cvasivirgine cuprinse în Catalogul naţional al pădurilor virgine şi cvasivirgine;"],
+              ["b)","rezervaţiile ştiinţifice;"],
+              ["c)","arboretele din rezervaţiile naturale cu regim strict de protecţie;"],
+              ["d)","arboretele declarate monumente ale naturii;"],
+              ["e)","arboretele din zonele strict protejate şi de protecţie integrală ale ariilor naturale protejate;"],
+              ["f)","jnepenişurile din FFN;"],
+              ["g)","pădurile incluse în patrimoniul UNESCO."],
+              ["(2)","Au valoare ridicată de conservare: arborii-habitat, arborii cu valoare deosebită identificaţi ca atare în diferite acte normative, arborii remarcabili din afara FFN, precum şi cei din FFN, arborii din insulele de îmbătrânire, precum şi habitate marginale naturale cu valoare conservativă care se găsesc pe terenurile neproductive din FFN sau de-a lungul apelor situate în FFN."]
+            ]
+          },
+          {
+            "no": "87",
+            "label": "Art. 87 – Catalogul naţional al ecosistemelor forestiere strict protejate",
+            "items": [
+              ["(1)","Se înfiinţează Catalogul naţional al ecosistemelor forestiere strict protejate, care se actualizează prin includerea de arborete identificate în baza unor criterii ştiinţifice aprobate de Autoritate."],
+              ["(2)","Ecosistemele cu valoare ridicată de conservare existente se declară cu acordul proprietarului şi se înscriu în Catalogul naţional al ecosistemelor forestiere strict protejate."],
+              ["(3)","Pădurile virgine şi cvasivirgine sunt strict protejate şi se includ în Catalogul naţional al pădurilor virgine şi cvasivirgine, parte integrantă a Catalogului naţional al ecosistemelor forestiere strict protejate."],
+              ["(4)","Arboretele nou-identificate, care îndeplinesc criteriile de încadrare în una dintre categoriile ecosistemelor forestiere cu valoare ridicată de conservare prevăzute la art. 86, se încadrează în categoria respectivă."],
+              ["(5)","Statul, atât la solicitarea proprietarului, cât şi din proprie iniţiativă, prin administratorul fondului forestier proprietate publică, achiziţionează cu prioritate terenuri din fondul forestier încadrate în categoria ecosistemelor cu valoare ridicată de conservare."]
+            ]
+          },
+          {
+            "no": "88",
+            "label": "Art. 88 – Reguli de conservare a biodiversităţii în regenerări",
+            "items": [
+              ["(1)","Regenerarea pădurilor se realizează preponderent pe cale naturală din sămânţă, în vederea conservării diversităţii genetice a speciilor de arbori."],
+              ["(2)","În cazul regenerărilor artificiale, conservarea şi ameliorarea biodiversităţii pădurilor constituie principalul mijloc de creştere a rezilienţei acestora şi se asigură prin:"],
+              ["a)","utilizarea resurselor genetice incluse în Catalogul naţional al materialelor de bază pentru producerea materialelor forestiere de reproducere, care se revizuieşte;"],
+              ["b)","promovarea cu prioritate a speciilor autohtone;"],
+              ["c)","utilizarea provenienţelor adaptate la condiţiile de vegetaţie."]
+            ]
+          },
+          {
+            "no": "89",
+            "label": "Art. 89 – Asigurarea conservării şi ameliorării biodiversităţii pădurilor",
+            "items": [
+              ["(1)","Conservarea şi ameliorarea biodiversităţii pădurilor se realizează în concordanţă cu obiectivele de conservare, în mod unitar la nivel naţional, în baza măsurilor de gestionare aprobate prin normele tehnice."],
+              ["(2)","Obiectivele de conservare pentru pădurile situate în arii naturale protejate se stabilesc având în vedere cu prioritate menţinerea sau restabilirea stării de conservare favorabilă a habitatelor naturale. Amenajamentul silvic al acestor păduri este instrument de planificare pentru atingerea obiectivelor ariilor naturale protejate."],
+              ["(3)","În procesul de amenajare a pădurilor situate în arii naturale protejate prevederile planurilor de management sau, după caz, setul de măsuri minime de conservare ale ariilor naturale protejate cu care acestea se suprapun sunt prioritare în raport cu prevederile normelor tehnice."],
+              ["(4)","Amenajamentele silvice pentru terenurile din FFN incluse în arii naturale protejate preiau şi implementează măsurile de management din planurile de management aprobate sau măsurile minime de conservare dacă nu există planuri de management aprobate şi se armonizează prin încadrarea în categorii funcţionale specifice şi stabilirea de soluţii tehnice corespunzătoare."],
+              ["(5)","Amenajamentele silvice elaborate pentru pădurile situate în arii naturale protejate stau la baza acordării, pentru restricţiile impuse de măsurile prevăzute la alin. (4), a compensaţiilor aferente aplicării măsurilor de conservare din planurile de management ale ariilor naturale protejate; compensaţiile reprezintă contravaloarea produselor/serviciilor pe care proprietarii nu le recoltează sau de care nu beneficiază, după caz."]
+            ]
+          },
+          {
+            "no": "90",
+            "label": "Art. 90",
+            "items": [
+              ["(1)","Pentru pădurile de pe raza teritorială a unităţii administrativ-teritoriale Ilfov sunt permise doar lucrări în scop de reconstrucţie ecologică, lucrări de împăduriri, reîmpăduriri şi completare a regenerării naturale, lucrări de îngrijire a culturilor şi seminţişurilor până la realizarea stării de masiv şi lucrări de îngrijire şi conducere a arboretelor din categoria degajărilor, depresajului, curăţirilor şi răriturilor şi extragerea produselor extraordinare de pe terenurile pentru care este aprobată scoaterea definitivă/ocuparea temporară, necesare realizării obiectivelor de utilitate publică, de interes naţional şi a produselor accidentale, aşa cum sunt prevăzute la art. 99 alin. (2) lit. c). În cazuri strict justificate, se poate proceda la doborârea arborilor care creează o stare de pericol pentru siguranţa utilizatorilor pădurii."],
+              ["(2)","Lucrările de rărituri prevăzute la alin. (1) ce implică tăieri de arbori se execută în perioada 1 noiembrie-31 martie a anului."],
+              ["(3)","Prin excepţie de la prevederile alin. (1), în cazul pădurilor încadrate la tipul funcţional TI, se aplică regimul juridic specific acestei încadrări. În cazul pădurilor cuprinse în arii naturale protejate, în privinţa recoltării de lemn, se aplică măsurile cele mai restrictive dintre cele prevăzute în planul de management sau cele de la alin. (1)."],
+              ["(4)","Titularii dreptului de proprietate privată asupra pădurilor de pe raza teritorială a unităţii administrativ-teritoriale Ilfov beneficiază de compensaţii, la cerere, pentru implementarea prevederilor alin. (1). Cuantumul şi metodologia acordării compensaţiilor sunt cele stabilite prin normele metodologice de acordare, utilizare şi control al compensaţiilor reprezentând contravaloarea produselor pe care proprietarii nu le recoltează, datorită funcţiilor de protecţie stabilite prin amenajamente silvice care determină restricţii în recoltarea de masă lemnoasă."]
+            ]
+          },
+          {
+            "no": "91",
+            "label": "Art. 91 – Comunităţile dependente critic de pădure din arii naturale protejate",
+            "items": [
+              ["","La elaborarea planurilor de management pentru ariile naturale protejate şi stabilirea măsurilor prevăzute de acestea se ţine cont de asigurarea accesului la resursele forestiere tradiţionale pentru comunităţile dependente critic de pădure, aşa cum sunt definite în prezenta lege."]
+            ]
+          },
+          {
+            "no": "92",
+            "label": "Art. 92 – Transferul obligaţiilor de conservare a biodiversităţii",
+            "items": [
+              ["","Proprietarul care intenţionează să transmită dreptul de proprietate asupra terenurilor din FFN încadrate în categoria ecosistemelor cu valoare ridicată de conservare sau în arii naturale protejate este obligat să informeze dobânditorul în legătură cu obligaţiile referitoare la conservarea biodiversităţii, cu minimum 30 de zile înainte de transmiterea dreptului de proprietate."]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
