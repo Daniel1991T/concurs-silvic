@@ -8,7 +8,8 @@ export default function GreseliPage() {
     <>
       <PageHead title="Greșelile mele" />
       <EmptyState title="Nicio greșeală încă">
-        Aici apar grilele la care ultimul tău răspuns a fost greșit, din toate modulele. Când le răspunzi corect, dispar.
+        Aici apar grilele la care ultimul tău răspuns a fost greșit, din toate modulele. Când le răspunzi corect,
+        dispar.
       </EmptyState>
     </>
   );

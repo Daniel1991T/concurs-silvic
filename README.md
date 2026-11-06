@@ -11,6 +11,7 @@ npm run dev      # http://localhost:3000
 npm run build    # verifică tipurile și conținutul, generează paginile
 npm run lint
 npm run check:content   # verifică tot conținutul și toate trimiterile, cu lista completă de probleme
+npm run format          # formatează codul (Prettier, rânduri de 120 de caractere)
 ```
 
 ## Structură
@@ -24,12 +25,14 @@ npm run check:content   # verifică tot conținutul și toate trimiterile, cu li
   fonturile și scara tipografică, legate de Tailwind.
 - `src/components/shell/` — antetul, navigarea, cronometrul, bara laterală și sertarul de pe telefon.
 - `src/components/ui/` — componente: `Stamp`, `Bar`, `Button`, `PageHead`.
+- `src/components/module/` — filele unui modul: lecția cu stepper, fișa, flashcards, situațiile, testul, textul oficial, cipul de trimitere cu popover.
+- `src/lib/progress/` — progresul (secțiuni citite, grile, cutiile cardurilor); deocamdată în browser, din etapa 4 în baza de date.
 
 ## Etape
 
 1. Schelet și design ✔
 2. Conținutul în JSON (+ conversia modulelor existente) ✔
-3. Ecranele modulului
+3. Ecranele modulului ✔
 4. Conturi și baza de date (Better Auth, Neon, Drizzle)
 5. Panou, Simulare, Greșeli
 6. PWA, offline, publicare pe Vercel

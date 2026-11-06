@@ -29,7 +29,9 @@ for (const file of readdirSync(path.join(root, "exams")).filter((f) => f.endsWit
   }
 }
 
-for (const file of readdirSync(path.join(root, "modules")).filter((f) => f.endsWith(".json")).sort()) {
+for (const file of readdirSync(path.join(root, "modules"))
+  .filter((f) => f.endsWith(".json"))
+  .sort()) {
   const id = file.replace(/\.json$/, "");
   const r = validateModule(JSON.parse(readFileSync(path.join(root, "modules", file), "utf8")), id);
   refs += r.refCount;

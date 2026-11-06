@@ -47,6 +47,17 @@ export function getModule(id: string): ModuleContent {
   return module;
 }
 
+/** Câte secțiuni, carduri și grile are fiecare modul cu conținut (pentru procentele de progres). */
+export function getModuleCounts(): Record<string, { lesson: number; cards: number; questions: number }> {
+  const out: Record<string, { lesson: number; cards: number; questions: number }> = {};
+  for (const r of exam.modules) {
+    if (r.status !== "ready") continue;
+    const m = getModule(r.id);
+    out[r.id] = { lesson: m.lesson.length, cards: m.cards.length, questions: m.questions.length };
+  }
+  return out;
+}
+
 /** Rândurile din bara laterală: module simple și grupuri pliabile, în ordinea bibliografiei. */
 export type SideEntry =
   | { kind: "module"; module: ModuleRef }

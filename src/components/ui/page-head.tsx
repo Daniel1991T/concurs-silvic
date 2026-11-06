@@ -6,7 +6,9 @@ export function PageHead({ title, eyebrow, children }: { title: string; eyebrow?
     <div className="mb-4 flex flex-wrap items-end justify-between gap-4 md:mb-6">
       <div>
         {eyebrow && <p className="eyebrow mb-2">{eyebrow}</p>}
-        <h1 className="font-serif text-[1.875rem] leading-[1.1] font-semibold tracking-[-0.015em] md:text-h1">{title}</h1>
+        <h1 className="font-serif text-[1.875rem] leading-[1.1] font-semibold tracking-[-0.015em] md:text-h1">
+          {title}
+        </h1>
       </div>
       {children}
     </div>

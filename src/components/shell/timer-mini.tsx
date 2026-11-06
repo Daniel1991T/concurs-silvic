@@ -73,10 +73,15 @@ export function TimerMini({ className }: { className?: string }) {
       aria-label="Cronometru"
     >
       <span
-        className={cx("hidden size-[9px] flex-none rounded-full md:block", running ? "pulse-dot bg-hdr-accent" : "bg-hdr-fg-2")}
+        className={cx(
+          "hidden size-[9px] flex-none rounded-full md:block",
+          running ? "pulse-dot bg-hdr-accent" : "bg-hdr-fg-2",
+        )}
         aria-hidden="true"
       />
-      <span className="font-mono text-[0.875rem] leading-none font-medium tabular-nums md:text-sm">{formatClock(elapsed)}</span>
+      <span className="font-mono text-[0.875rem] leading-none font-medium tabular-nums md:text-sm">
+        {formatClock(elapsed)}
+      </span>
       <button
         type="button"
         onClick={running ? stop : start}

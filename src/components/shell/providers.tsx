@@ -3,6 +3,8 @@
 import { ThemeProvider } from "next-themes";
 import { usePathname } from "next/navigation";
 import { createContext, useContext, useState, type ReactNode } from "react";
+import type { ModuleCounts } from "@/lib/progress/stats";
+import { CountsProvider } from "./progress-context";
 
 type Drawer = { open: boolean; setOpen: (v: boolean) => void };
 const DrawerContext = createContext<Drawer | null>(null);
@@ -23,11 +25,13 @@ function DrawerProvider({ children }: { children: ReactNode }) {
   return <DrawerContext.Provider value={{ open, setOpen }}>{children}</DrawerContext.Provider>;
 }
 
-export function Providers({ children }: { children: ReactNode }) {
+export function Providers({ counts, children }: { counts: Record<string, ModuleCounts>; children: ReactNode }) {
   return (
     // data-theme pe <html>: "light" sau "dark"; implicit urmează setarea sistemului.
     <ThemeProvider attribute="data-theme" defaultTheme="system" enableSystem disableTransitionOnChange>
-      <DrawerProvider>{children}</DrawerProvider>
+      <CountsProvider counts={counts}>
+        <DrawerProvider>{children}</DrawerProvider>
+      </CountsProvider>
     </ThemeProvider>
   );
 }

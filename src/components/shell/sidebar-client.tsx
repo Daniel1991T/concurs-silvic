@@ -8,6 +8,7 @@ import { Stamp } from "@/components/ui/stamp";
 import type { SideEntry } from "@/lib/content";
 import type { ModuleRef } from "@/lib/content/schema";
 import { cx } from "@/lib/cx";
+import { useGroupPercent, useModulePercent } from "./progress-context";
 import { useDrawer } from "./providers";
 
 /** Butonul „☰ Lecții” din antet; există doar pe telefon. */
@@ -20,7 +21,15 @@ export function DrawerButton() {
       className="mr-2 inline-flex min-h-11 cursor-pointer items-center gap-1.5 rounded-md border-[1.5px] border-hdr-line bg-white/6 px-3 text-sm font-semibold text-hdr-fg md:hidden"
       aria-haspopup="dialog"
     >
-      <svg className="size-4" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden="true">
+      <svg
+        className="size-4"
+        viewBox="0 0 20 20"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        aria-hidden="true"
+      >
         <path d="M3 5h14M3 10h14M3 15h14" />
       </svg>
       Lecții
@@ -30,7 +39,7 @@ export function DrawerButton() {
 
 function ModuleRow({ m, current }: { m: ModuleRef; current: boolean }) {
   const empty = m.status === "missing";
-  const p = 0; // progresul vine din baza de date în etapa 4
+  const p = useModulePercent(m.id);
   const body = (
     <>
       <Stamp abbr={m.abbr} progress={p} empty={empty} className="[grid-area:st]" />
@@ -38,7 +47,12 @@ function ModuleRow({ m, current }: { m: ModuleRef; current: boolean }) {
         {m.title}
         <span className="block text-xs font-normal text-text-2">{empty ? "lipsește textul" : m.act}</span>
       </span>
-      <span className={cx("font-mono text-xs leading-none font-medium tabular-nums [grid-area:pc]", empty ? "text-text-3" : "text-text-2")}>
+      <span
+        className={cx(
+          "font-mono text-xs leading-none font-medium tabular-nums [grid-area:pc]",
+          empty ? "text-text-3" : "text-text-2",
+        )}
+      >
         {empty ? "–" : `${p}%`}
       </span>
       <Bar value={p} className={cx("[grid-area:bar]", empty && "opacity-50")} />
@@ -52,7 +66,11 @@ function ModuleRow({ m, current }: { m: ModuleRef; current: boolean }) {
     <Link
       href={`/modul/${m.id}`}
       aria-current={current ? "page" : undefined}
-      className={cx(cls, "hover:bg-surface-2", current && "bg-brand-soft shadow-[inset_0_0_0_1.5px_var(--brand)] hover:bg-brand-soft")}
+      className={cx(
+        cls,
+        "hover:bg-surface-2",
+        current && "bg-brand-soft shadow-[inset_0_0_0_1.5px_var(--brand)] hover:bg-brand-soft",
+      )}
     >
       {body}
     </Link>
@@ -71,24 +89,7 @@ export function SideList({ entries }: { entries: SideEntry[] }) {
           </li>
         ) : (
           <li key={e.group.id}>
-            <details className="grp my-2 border-t border-line" open={e.modules.some((m) => m.id === currentId) || undefined}>
-              <summary className="flex min-h-13 cursor-pointer items-center gap-3 px-2 font-semibold">
-                <Stamp abbr={e.group.abbr} size={36} />
-                <span className="min-w-0">
-                  {e.group.title}
-                  <span className="block text-xs font-normal text-text-2">
-                    {e.modules.filter((m) => m.status === "ready").length} din {e.modules.length} părți · {e.group.act}
-                  </span>
-                </span>
-              </summary>
-              <ul className="pl-4">
-                {e.modules.map((m) => (
-                  <li key={m.id}>
-                    <ModuleRow m={m} current={m.id === currentId} />
-                  </li>
-                ))}
-              </ul>
-            </details>
+            <GroupBlock entry={e} currentId={currentId} />
           </li>
         ),
       )}
@@ -96,14 +97,50 @@ export function SideList({ entries }: { entries: SideEntry[] }) {
   );
 }
 
+function GroupBlock({
+  entry: e,
+  currentId,
+}: {
+  entry: Extract<SideEntry, { kind: "group" }>;
+  currentId: string | null;
+}) {
+  const pct = useGroupPercent(e.modules.map((m) => m.id));
+  return (
+    <details className="grp my-2 border-t border-line" open={e.modules.some((m) => m.id === currentId) || undefined}>
+      <summary className="flex min-h-13 cursor-pointer items-center gap-3 px-2 font-semibold">
+        <Stamp abbr={e.group.abbr} size={36} progress={pct} />
+        <span className="min-w-0">
+          {e.group.title}
+          <span className="block text-xs font-normal text-text-2">
+            {e.modules.filter((m) => m.status === "ready").length} din {e.modules.length} părți · {e.group.act}
+          </span>
+        </span>
+      </summary>
+      <ul className="pl-4">
+        {e.modules.map((m) => (
+          <li key={m.id}>
+            <ModuleRow m={m} current={m.id === currentId} />
+          </li>
+        ))}
+      </ul>
+    </details>
+  );
+}
+
 function SideHead({ ready, total, close }: { ready: number; total: number; close?: boolean }) {
   return (
     <div className="mx-2 mt-2 mb-3 flex items-center justify-between gap-3">
       <h2 className="font-serif text-lg font-semibold">
-        Lecții <span className="ml-1 font-sans text-xs font-normal text-text-2">{ready} din {total} gata</span>
+        Lecții{" "}
+        <span className="ml-1 font-sans text-xs font-normal text-text-2">
+          {ready} din {total} gata
+        </span>
       </h2>
       {close && (
-        <Dialog.Close className="grid size-11 cursor-pointer place-items-center rounded-md text-2xl text-text hover:bg-surface-2" aria-label="Închide lista de lecții">
+        <Dialog.Close
+          className="grid size-11 cursor-pointer place-items-center rounded-md text-2xl text-text hover:bg-surface-2"
+          aria-label="Închide lista de lecții"
+        >
           ×
         </Dialog.Close>
       )}

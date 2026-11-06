@@ -24,7 +24,12 @@ const linkClass =
 export function NavLinks() {
   const pathname = usePathname();
   return NAV.map((n) => (
-    <Link key={n.href} href={n.href} className={linkClass} aria-current={isActive(pathname, n.href) ? "page" : undefined}>
+    <Link
+      key={n.href}
+      href={n.href}
+      className={linkClass}
+      aria-current={isActive(pathname, n.href) ? "page" : undefined}
+    >
       {n.label}
     </Link>
   ));
