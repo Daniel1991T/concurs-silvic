@@ -1,0 +1,428 @@
+@import "tailwindcss";
+
+/* „dark:” în Tailwind = modul întunecat ales în aplicație (nu doar setarea sistemului) */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* =====================================================================
+   „Carnet de teren” — sistemul de design al aplicației
+   Culorile sunt variabile CSS pe :root (mod luminos) și pe
+   [data-theme="dark"] (mod întunecat, lucrat separat, nu inversat).
+   next-themes pune data-theme pe <html>, inclusiv când urmează sistemul.
+   ===================================================================== */
+
+/* ---------- 1. Mod luminos: hârtie caldă, verde de pădure, ruginiu de marcaj ---------- */
+:root {
+  color-scheme: light;
+  --bg: #f2eddd;
+  --surface: #faf7ec;
+  --surface-2: #e9e3cf;
+  --sunk: #e4ddc6;
+  --line: #d5ccb1;
+  --ctl: #8a7f5c;
+
+  --text: #1d2a21;
+  --text-2: #46534a;
+  --text-3: #5b685d;
+
+  --brand: #1f4a33;
+  --brand-hover: #163a28;
+  --brand-ink: #f6f2e4;
+  --brand-text: #1f4a33;
+  --brand-soft: #dde7d3;
+
+  --accent: #b0481a;
+  --accent-hover: #963c14;
+  --accent-ink: #fff8ee;
+  --accent-text: #9a3e14;
+  --accent-soft: #f4dfcb;
+
+  --ok: #1b64a6;
+  --ok-bg: #dceaf2;
+  --ok-ink: #ffffff;
+  --err: #8f1233;
+  --err-bg: #f6dde2;
+  --err-ink: #ffffff;
+
+  --note-bg: #efe5c2;
+  --note-line: #bfae6e;
+  --chip: #f1ebd6;
+
+  --hdr-bg: #1f4a33;
+  --hdr-fg: #f6f2e4;
+  --hdr-fg-2: #c3d1c0;
+  --hdr-line: #3c6a50;
+  --hdr-accent: #f2a877;
+  --feat-bg: #1f4a33;
+  --feat-fg: #f6f2e4;
+  --feat-fg-2: #c3d1c0;
+  --feat-accent: #f2a877;
+  --card-back-bg: #1f4a33;
+  --card-back-fg: #f6f2e4;
+
+  --contour: rgba(246, 242, 228, 0.11);
+  --contour-soft: rgba(31, 74, 51, 0.075);
+  --heat-0: #e4ddc6;
+  --heat-1: #c3d3b1;
+  --heat-2: #8cb07f;
+  --heat-3: #4b8156;
+  --heat-4: #1f4a33;
+  --focus: #b0481a;
+  --shadow: 0 1px 0 rgba(29, 42, 33, 0.06), 0 12px 26px -16px rgba(29, 42, 33, 0.38);
+  --shadow-pop: 0 22px 44px -14px rgba(29, 42, 33, 0.5);
+  --scrim: rgba(20, 28, 22, 0.5);
+
+  /* curbe de nivel și amprenta ciocanului (măști SVG) */
+  --topo: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='200' viewBox='0 0 600 200'%3E%3Cg fill='none' stroke='black' stroke-width='1.3'%3E%3Cpath d='M440 20C520 18 590 60 585 105C580 150 500 180 430 176C350 172 300 135 310 90C320 45 380 22 440 20Z'/%3E%3Cpath d='M440 40C505 38 560 68 556 104C552 140 490 160 432 157C368 154 330 126 338 92C346 58 392 42 440 40Z'/%3E%3Cpath d='M440 60C488 58 528 78 524 104C520 130 478 142 434 140C388 138 362 118 368 94C374 72 404 61 440 60Z'/%3E%3Cpath d='M440 79C468 78 492 90 489 104C486 118 464 124 438 123C412 122 396 112 400 98C404 86 420 80 440 79Z'/%3E%3Cpath d='M110 70C160 66 205 95 200 130C195 165 140 185 95 180C45 175 15 145 25 110C35 78 70 72 110 70Z'/%3E%3Cpath d='M110 90C148 88 178 108 174 132C170 156 132 168 98 164C62 160 44 140 52 118C60 100 82 91 110 90Z'/%3E%3Cpath d='M110 108C133 107 150 118 148 132C146 146 124 152 104 150C84 148 74 138 80 126C86 114 98 109 110 108Z'/%3E%3Cpath d='M0 38C90 14 170 52 260 30S470 -6 600 14'/%3E%3Cpath d='M0 196C110 176 210 200 300 190S520 186 600 176'/%3E%3C/g%3E%3C/svg%3E");
+  --hammer: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='40' viewBox='0 0 32 40'%3E%3Cpath d='M4 4h19l5 3v8l-5 3H4z M12 18h6v19a3 3 0 0 1-6 0z' fill='black'/%3E%3C/svg%3E");
+}
+
+/* ---------- 2. Mod întunecat: verde-negru, text cremă, linii în loc de umbre ---------- */
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #111813;
+  --surface: #18211b;
+  --surface-2: #202b24;
+  --sunk: #0d130f;
+  --line: #2f3c34;
+  --ctl: #6f8277;
+
+  --text: #e8e3d1;
+  --text-2: #bac1b0;
+  --text-3: #98a38f;
+
+  --brand: #9cc794;
+  --brand-hover: #b3d8ab;
+  --brand-ink: #0e1b12;
+  --brand-text: #a8d19f;
+  --brand-soft: #1f3226;
+
+  --accent: #e8895a;
+  --accent-hover: #f09d74;
+  --accent-ink: #1f0f06;
+  --accent-text: #f0a27b;
+  --accent-soft: #3a2417;
+
+  --ok: #8fcbf2;
+  --ok-bg: #152b3b;
+  --ok-ink: #0c1822;
+  --err: #ee7f97;
+  --err-bg: #3c1923;
+  --err-ink: #2a0a12;
+
+  --note-bg: #262517;
+  --note-line: #5b5530;
+  --chip: #222d26;
+
+  --hdr-bg: #0b110d;
+  --hdr-fg: #e8e3d1;
+  --hdr-fg-2: #9fad9b;
+  --hdr-line: #25322a;
+  --hdr-accent: #e8895a;
+  --feat-bg: #1e3326;
+  --feat-fg: #e8e3d1;
+  --feat-fg-2: #b7c7b2;
+  --feat-accent: #f0a27b;
+  --card-back-bg: #223a2b;
+  --card-back-fg: #e8e3d1;
+
+  --contour: rgba(168, 209, 159, 0.1);
+  --contour-soft: rgba(168, 209, 159, 0.07);
+  --heat-0: #1f2a23;
+  --heat-1: #2c4733;
+  --heat-2: #3e6b4b;
+  --heat-3: #61a06b;
+  --heat-4: #a3d49a;
+  --focus: #e8895a;
+  --shadow: 0 0 0 1px rgba(255, 255, 255, 0.03);
+  --shadow-pop: 0 22px 44px -10px rgba(0, 0, 0, 0.75);
+  --scrim: rgba(0, 0, 0, 0.6);
+}
+
+/* ---------- 3. Legătura cu Tailwind ----------
+   Culorile devin clase: bg-bg, bg-surface, text-text-2, border-line, bg-brand…
+   Spațierile Tailwind au deja pasul de 4 px din design:
+   s1=1 (4px) s2=2 (8) s3=3 (12) s4=4 (16) s5=6 (24) s6=8 (32) s7=12 (48) s8=16 (64). */
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-sunk: var(--sunk);
+  --color-line: var(--line);
+  --color-ctl: var(--ctl);
+  --color-text: var(--text);
+  --color-text-2: var(--text-2);
+  --color-text-3: var(--text-3);
+  --color-brand: var(--brand);
+  --color-brand-hover: var(--brand-hover);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-text: var(--brand-text);
+  --color-brand-soft: var(--brand-soft);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-text: var(--accent-text);
+  --color-accent-soft: var(--accent-soft);
+  --color-ok: var(--ok);
+  --color-ok-bg: var(--ok-bg);
+  --color-ok-ink: var(--ok-ink);
+  --color-err: var(--err);
+  --color-err-bg: var(--err-bg);
+  --color-err-ink: var(--err-ink);
+  --color-note-bg: var(--note-bg);
+  --color-note-line: var(--note-line);
+  --color-chip: var(--chip);
+  --color-hdr-bg: var(--hdr-bg);
+  --color-hdr-fg: var(--hdr-fg);
+  --color-hdr-fg-2: var(--hdr-fg-2);
+  --color-hdr-line: var(--hdr-line);
+  --color-hdr-accent: var(--hdr-accent);
+  --color-feat-bg: var(--feat-bg);
+  --color-feat-fg: var(--feat-fg);
+  --color-feat-fg-2: var(--feat-fg-2);
+  --color-feat-accent: var(--feat-accent);
+  --color-scrim: var(--scrim);
+
+  --font-serif: "Fraunces Variable", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --font-sans: "Source Sans 3 Variable", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  /* scara tipografică din design (bază 16 px) */
+  --text-xs: 0.8125rem; /* 13 etichete mono */
+  --text-sm: 0.9375rem; /* 15 text auxiliar, butoane */
+  --text-base: 1rem; /* 16 interfață */
+  --text-read: 1.1875rem; /* 19 text lung */
+  --text-lg: 1.3125rem; /* 21 titluri de card */
+  --text-h3: 1.5rem; /* 24 */
+  --text-h2: 1.875rem; /* 30 */
+  --text-h1: 2.5rem; /* 40 */
+  --text-display: 4.5rem; /* 72 cronometru */
+
+  /* colțuri sobre, ca marginea unei file */
+  --radius-sm: 3px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+
+  --shadow-card: var(--shadow);
+  --shadow-pop: var(--shadow-pop);
+
+  /* „md:” = desktop. Sub 821 px e layout-ul de telefon din design. */
+  --breakpoint-md: 51.3125rem;
+}
+
+/* ---------- 4. Bază ---------- */
+@layer base {
+  html {
+    background: var(--bg);
+  }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  :focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+  }
+  .on-dark :focus-visible {
+    outline-color: var(--hdr-accent);
+  }
+}
+
+/* ---------- 5. Utilitare din design ---------- */
+@utility eyebrow {
+  font: 500 var(--text-xs) / 1.2 var(--font-mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-2);
+}
+
+/* textură de curbe de nivel (decor, nu poartă informație) */
+@utility contours {
+  position: relative;
+  isolation: isolate;
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background: var(--contour);
+    -webkit-mask: var(--topo) right center / cover no-repeat;
+    mask: var(--topo) right center / cover no-repeat;
+  }
+}
+@utility contours-soft {
+  &::before {
+    background: var(--contour-soft);
+  }
+}
+
+/* ---------- 6. Componente cu pseudo-elemente (greu de scris doar cu clase) ---------- */
+@layer components {
+  /* ștampila modulului: inelul se umple cu progresul (--p), amprenta ciocanului în fundal */
+  .stamp {
+    --p: 0;
+    --sz: 44px;
+    position: relative;
+    flex: none;
+    width: var(--sz);
+    height: var(--sz);
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    color: var(--brand-text);
+    font-family: var(--font-mono);
+    font-weight: 600;
+    font-size: calc(var(--sz) * 0.31);
+    letter-spacing: 0.02em;
+    line-height: 1;
+    background: conic-gradient(var(--brand) calc(var(--p) * 1%), var(--line) 0);
+  }
+  .stamp::before {
+    content: "";
+    position: absolute;
+    inset: max(3px, calc(var(--sz) * 0.07));
+    border-radius: 50%;
+    background: var(--surface);
+    box-shadow: inset 0 0 0 1px var(--line);
+  }
+  .stamp::after {
+    content: "";
+    position: absolute;
+    inset: 18% 24% 12%;
+    background: currentColor;
+    opacity: 0.13;
+    transform: rotate(-28deg);
+    -webkit-mask: var(--hammer) center / contain no-repeat;
+    mask: var(--hammer) center / contain no-repeat;
+  }
+  .stamp > b {
+    position: relative;
+    z-index: 1;
+    font-weight: 600;
+  }
+  .stamp.is-done {
+    --p: 100;
+    color: var(--brand-ink);
+  }
+  .stamp.is-done::before {
+    background: var(--brand);
+    box-shadow:
+      inset 0 0 0 max(2px, calc(var(--sz) * 0.045)) var(--brand),
+      inset 0 0 0 calc(max(2px, calc(var(--sz) * 0.045)) + 1px)
+        color-mix(in srgb, var(--brand-ink) 50%, transparent);
+  }
+  .stamp.is-done::after {
+    opacity: 0.2;
+  }
+  .stamp.is-empty {
+    background: none;
+    color: var(--text-3);
+    border: 1.5px dashed var(--ctl);
+  }
+  .stamp.is-empty::before {
+    display: none;
+  }
+  .stamp.is-empty::after {
+    opacity: 0.08;
+  }
+
+  /* bară de progres */
+  .bar {
+    --p: 0;
+    display: block;
+    height: 6px;
+    border-radius: 999px;
+    background: var(--sunk);
+    box-shadow: inset 0 0 0 1px var(--line);
+    overflow: hidden;
+  }
+  .bar > i {
+    display: block;
+    height: 100%;
+    width: calc(var(--p) * 1%);
+    border-radius: inherit;
+    background: var(--brand);
+    animation: fill 0.9s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .bar.bar-lg {
+    height: 10px;
+  }
+  .bar.bar-accent > i {
+    background: var(--accent);
+  }
+
+  /* punctul care pulsează la cronometrul pornit */
+  .pulse-dot {
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  /* subliniere ruginie sub fila activă din navigare */
+  .nav-link[aria-current="page"]::after {
+    content: "";
+    position: absolute;
+    left: 16px;
+    right: 16px;
+    bottom: 3px;
+    height: 3px;
+    border-radius: 2px;
+    background: var(--hdr-accent);
+  }
+  @media (width < 51.3125rem) {
+    .nav-link[aria-current="page"]::after {
+      left: 6px;
+      right: 6px;
+    }
+  }
+
+  /* săgeata grupurilor pliabile din bara laterală */
+  .grp > summary {
+    list-style: none;
+  }
+  .grp > summary::-webkit-details-marker {
+    display: none;
+  }
+  .grp > summary::after {
+    content: "";
+    margin-left: auto;
+    width: 9px;
+    height: 9px;
+    border-right: 2px solid var(--text-2);
+    border-bottom: 2px solid var(--text-2);
+    transform: rotate(45deg);
+    transition: transform 0.2s;
+  }
+  .grp[open] > summary::after {
+    transform: rotate(225deg);
+  }
+}
+
+@keyframes fill {
+  from {
+    width: 0;
+  }
+}
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--hdr-accent) 70%, transparent);
+  }
+  70%,
+  100% {
+    box-shadow: 0 0 0 9px transparent;
+  }
+}
+
+/* ---------- 7. Mișcare redusă ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
