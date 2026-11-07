@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useSyncExternalStore } from "react";
 import { cx } from "@/lib/cx";
+import { addSession } from "@/lib/progress/store";
 
 /*
  * Cronometrul mic din antet. Deocamdată ține momentul pornirii în browser;
@@ -36,6 +37,12 @@ function write(v: number | null) {
   window.dispatchEvent(new Event(EVENT));
 }
 
+/** Modulul deschis când oprești cronometrul (pentru „timp pe modul” din Panou). */
+function moduleFromPath() {
+  const m = window.location.pathname.match(/^\/modul\/([^/]+)/);
+  return m ? m[1] : "";
+}
+
 export function useTimer() {
   const start = useSyncExternalStore(subscribe, read, () => null);
   // „acum” se citește doar în browser (0 la randarea pe server), apoi la fiecare secundă
@@ -51,7 +58,14 @@ export function useTimer() {
     };
   }, [start]);
   const elapsed = start === null || now === 0 ? 0 : Math.max(0, now - start);
-  return { running: start !== null, elapsed, start: () => write(Date.now()), stop: () => write(null) };
+  const stop = () => {
+    const began = read();
+    const end = Date.now();
+    // sesiunile sub un minut (pornit din greșeală) nu se păstrează
+    if (began !== null && end - began >= 60_000) addSession(began, end, moduleFromPath());
+    write(null);
+  };
+  return { running: start !== null, elapsed, start: () => write(Date.now()), stop };
 }
 
 export function formatClock(ms: number) {

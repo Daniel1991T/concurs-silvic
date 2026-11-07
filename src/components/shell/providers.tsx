@@ -4,6 +4,7 @@ import { ThemeProvider } from "next-themes";
 import { usePathname } from "next/navigation";
 import { createContext, useContext, useState, type ReactNode } from "react";
 import type { ModuleCounts } from "@/lib/progress/stats";
+import { ProgressSync } from "@/lib/progress/sync";
 import { CountsProvider } from "./progress-context";
 
 type Drawer = { open: boolean; setOpen: (v: boolean) => void };
@@ -30,6 +31,8 @@ export function Providers({ counts, children }: { counts: Record<string, ModuleC
     // data-theme pe <html>: "light" sau "dark"; implicit urmează setarea sistemului.
     <ThemeProvider attribute="data-theme" defaultTheme="system" enableSystem disableTransitionOnChange>
       <CountsProvider counts={counts}>
+        {/* trimite progresul în baza de date cât timp ești logat */}
+        <ProgressSync />
         <DrawerProvider>{children}</DrawerProvider>
       </CountsProvider>
     </ThemeProvider>

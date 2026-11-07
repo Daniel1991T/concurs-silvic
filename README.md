@@ -5,6 +5,8 @@ lecții, fișe de memorat, flashcards, situații din teren, teste și textul ofi
 
 ## Pornire
 
+Prima dată: copiază `.env.example` în `.env.local` și completează-l (vezi „Baza de date și conturile”), apoi:
+
 ```bash
 npm install
 npm run dev      # http://localhost:3000
@@ -12,6 +14,8 @@ npm run build    # verifică tipurile și conținutul, generează paginile
 npm run lint
 npm run check:content   # verifică tot conținutul și toate trimiterile, cu lista completă de probleme
 npm run format          # formatează codul (Prettier, rânduri de 120 de caractere)
+npm run db:migrate      # creează / actualizează tabelele în baza de date
+npm run db:studio       # vezi datele din baza de date în browser
 ```
 
 ## Structură
@@ -26,14 +30,17 @@ npm run format          # formatează codul (Prettier, rânduri de 120 de caract
 - `src/components/shell/` — antetul, navigarea, cronometrul, bara laterală și sertarul de pe telefon.
 - `src/components/ui/` — componente: `Stamp`, `Bar`, `Button`, `PageHead`.
 - `src/components/module/` — filele unui modul: lecția cu stepper, fișa, flashcards, situațiile, testul, textul oficial, cipul de trimitere cu popover.
-- `src/lib/progress/` — progresul (secțiuni citite, grile, cutiile cardurilor); deocamdată în browser, din etapa 4 în baza de date.
+- `src/lib/progress/` — progresul (secțiuni citite, grile, cutiile cardurilor, sesiuni): `model.ts` (forma și unirea a două copii),
+  `store.ts` (în browser), `sync.tsx` (sincronizarea cu baza de date când ești logat).
+- `src/db/` — schema bazei de date (Drizzle) și conexiunea; `drizzle/` — migrațiile SQL generate din schemă.
+- `src/lib/auth.ts` — conturile (Better Auth, email + parolă); `src/app/api/` — rutele de login și de progres.
 
 ## Etape
 
 1. Schelet și design ✔
 2. Conținutul în JSON (+ conversia modulelor existente) ✔
 3. Ecranele modulului ✔
-4. Conturi și baza de date (Better Auth, Neon, Drizzle)
+4. Conturi și baza de date (Better Auth, Neon, Drizzle) ✔
 5. Panou, Simulare, Greșeli
 6. PWA, offline, publicare pe Vercel
 
@@ -53,3 +60,18 @@ npm run format          # formatează codul (Prettier, rânduri de 120 de caract
 În texte, `**așa**` înseamnă îngroșat. Trimiterile (`ref`, `refs`) au forma folosită în lecții:
 `Reg. art. 7 lit. k)`, `Cod art. 145 alin. (2)`, `L407 anexa 1`, `Ghid pct. 3.3`, `NT Anexa 2`.
 Fiecare trebuie să ducă la un articol existent în `texts`, altfel build-ul se oprește.
+
+## Baza de date și conturile
+
+1. În [Neon](https://console.neon.tech) creează un proiect (regiunea Frankfurt, `eu-central-1`).
+2. Copiază „Connection string” (cu `?sslmode=require`) în `.env.local`, la `DATABASE_URL`.
+3. Pune la `BETTER_AUTH_SECRET` un șir aleator de minimum 32 de caractere.
+4. Rulează `npm run db:migrate`: creează tabelele `user`, `session`, `account`, `verification` și `progress`.
+5. Pornește aplicația, intră pe pagina **Cont** și fă-ți contul.
+6. Opțional: pune `DISABLE_SIGNUP="true"` în `.env.local` ca să nu mai poată crea nimeni alt cont.
+
+Progresul merge și fără cont (rămâne în browser). Cu cont, se sincronizează: la fiecare schimbare
+(după 1,5 secunde) și când revii în aplicație. Două dispozitive se unesc cheie cu cheie: câștigă
+schimbarea mai nouă, deci nu se pierde nimic.
+
+Când schimbi `src/db/schema.ts`: `npm run db:generate -- --name ce-ai-schimbat`, apoi `npm run db:migrate`.

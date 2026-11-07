@@ -3,13 +3,13 @@
 import { useTheme } from "next-themes";
 
 /** Comută între modul luminos și cel întunecat. Iconița o alege CSS-ul, deci nu „clipește” la încărcare. */
-export function ThemeToggle() {
+export function ThemeToggle({ className = "" }: { className?: string }) {
   const { resolvedTheme, setTheme } = useTheme();
   return (
     <button
       type="button"
       onClick={() => setTheme(resolvedTheme === "dark" ? "light" : "dark")}
-      className="grid size-11 flex-none cursor-pointer place-items-center rounded-md border-[1.5px] border-hdr-line bg-white/6 text-hdr-fg hover:bg-white/12"
+      className={`grid size-11 flex-none cursor-pointer place-items-center rounded-md border-[1.5px] border-hdr-line bg-white/6 text-hdr-fg hover:bg-white/12 ${className}`}
       aria-label="Schimbă modul luminos sau întunecat"
     >
       {/* lună: arătată în modul luminos */}

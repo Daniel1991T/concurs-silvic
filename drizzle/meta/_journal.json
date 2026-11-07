@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794002270572,
+      "tag": "0000_conturi_si_progres",
+      "breakpoints": true
+    }
+  ]
+}

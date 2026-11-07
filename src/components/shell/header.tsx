@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Suspense } from "react";
+import { AccountButton } from "@/components/account/account-button";
 import { DrawerButton } from "./sidebar-client";
 import { NavLinks, NavLinksFallback } from "./nav";
 import { ThemeToggle } from "./theme-toggle";
@@ -42,7 +43,9 @@ export function Header({ title }: { title: string }) {
 
         <div className="order-2 flex items-center gap-2 md:order-3">
           <TimerMini />
-          <ThemeToggle />
+          {/* pe telefon, comutatorul de temă stă în pagina Cont, ca titlul să încapă */}
+          <ThemeToggle className="max-md:hidden" />
+          <AccountButton />
         </div>
       </div>
     </header>
