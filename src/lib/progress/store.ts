@@ -1,7 +1,7 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
-import { EMPTY, mergeProgress, normalize, setValue, type Field, type Progress } from "./model";
+import { EMPTY, mergeProgress, normalize, setValue, type Field, type Progress, type Val } from "./model";
 
 export type { Progress } from "./model";
 
@@ -108,7 +108,7 @@ export function useToday(): number | null {
 
 /* ---------- acțiuni ---------- */
 
-const put = <F extends Field>(field: F, key: string, value: Progress[F][string] | undefined) =>
+const put = <F extends Field>(field: F, key: string, value: Val<F> | undefined) =>
   updateProgress((p) => setValue(p, field, key, value));
 
 export function setRead(mod: string, sec: number, value: boolean) {
@@ -154,4 +154,44 @@ export function gradeCard(mod: string, card: number, knew: boolean) {
 /** O sesiune de studiu cronometrată (de la pornirea până la oprirea cronometrului). */
 export function addSession(start: number, end: number, moduleId: string) {
   put("sessions", String(start), { s: start, e: end, m: moduleId });
+}
+
+/** Șterge o sesiune (de ex. cronometrul uitat pornit). */
+export function deleteSession(start: string) {
+  put("sessions", start, undefined);
+}
+
+/** Setările: data examenului, ținta zilnică. */
+export function setPref<K extends "exam" | "goal">(key: K, value: K extends "exam" ? string : number) {
+  put("prefs", key, value);
+}
+
+/** La finalul unei simulări: toate răspunsurile odată (intră în test și în Greșeli) și rezultatul simulării. */
+export function finishSimulation(
+  start: number,
+  total: number,
+  answers: Array<{ m: string; i: number; ok: boolean }>,
+  durationMs: number,
+) {
+  updateProgress((p) => {
+    let next = p;
+    for (const a of answers) {
+      const k = `${a.m}:${a.i}`;
+      const s = next.answers[k] ?? { n: 0, ok: 0, last: 0 };
+      next = setValue(next, "answers", k, { n: s.n + 1, ok: s.ok + (a.ok ? 1 : 0), last: a.ok ? 1 : 0 });
+    }
+    const ok = answers.filter((a) => a.ok).length;
+    return setValue(next, "sims", String(start), { n: total, ok, dur: durationMs });
+  });
+}
+
+/* ---------- ora curentă, rotunjită la minut, doar în browser (pentru Panou) ---------- */
+const minuteNow = () => Math.floor(Date.now() / 60000) * 60000;
+function subscribeMinute(cb: () => void) {
+  const id = setInterval(cb, 20000);
+  return () => clearInterval(id);
+}
+/** null la randarea pe server, apoi momentul curent (se actualizează în fiecare minut). */
+export function useMinute(): number | null {
+  return useSyncExternalStore(subscribeMinute, minuteNow, () => null);
 }

@@ -24,6 +24,8 @@ export const auth = betterAuth({
     // rămâi logat 60 de zile; sesiunea se prelungește singură când folosești aplicația
     expiresIn: 60 * 60 * 24 * 60,
     updateAge: 60 * 60 * 24,
+    // o copie semnată a sesiunii în cookie, valabilă 5 minute: paznicul (proxy.ts) n-o mai caută în baza de date
+    cookieCache: { enabled: true, maxAge: 5 * 60 },
   },
   plugins: [nextCookies()],
 });

@@ -1,0 +1,1749 @@
+diff --git a/src/app/(app)/greseli/page.tsx b/src/app/(app)/greseli/page.tsx
+index e1353c7..01fd0fd 100644
+--- a/src/app/(app)/greseli/page.tsx
++++ b/src/app/(app)/greseli/page.tsx
+@@ -1,16 +1,19 @@
+ import type { Metadata } from "next";
+-import { EmptyState, PageHead } from "@/components/ui/page-head";
++import { Mistakes } from "@/components/panou/mistakes";
++import { PageHead } from "@/components/ui/page-head";
++import { getAllQuestions, getExam } from "@/lib/content";
+ 
+ export const metadata: Metadata = { title: "Greșeli" };
+ 
++/** Greșelile: care grile sunt greșite se știe doar din progresul tău, deci filtrarea se face în browser. */
+ export default function GreseliPage() {
++  const modules = getExam()
++    .modules.filter((m) => m.status === "ready")
++    .map(({ id, abbr, title }) => ({ id, abbr, title }));
+   return (
+     <>
+       <PageHead title="Greșelile mele" />
+-      <EmptyState title="Nicio greșeală încă">
+-        Aici apar grilele la care ultimul tău răspuns a fost greșit, din toate modulele. Când le răspunzi corect,
+-        dispar.
+-      </EmptyState>
++      <Mistakes questions={getAllQuestions()} modules={modules} />
+     </>
+   );
+ }
+diff --git a/src/app/(app)/panou/page.tsx b/src/app/(app)/panou/page.tsx
+index b32d8d9..3ecbfb4 100644
+--- a/src/app/(app)/panou/page.tsx
++++ b/src/app/(app)/panou/page.tsx
+@@ -1,15 +1,19 @@
+ import type { Metadata } from "next";
+-import { EmptyState, PageHead } from "@/components/ui/page-head";
++import { Panou } from "@/components/panou/panou";
++import { PageHead } from "@/components/ui/page-head";
++import { getExam } from "@/lib/content";
+ 
+ export const metadata: Metadata = { title: "Panou" };
+ 
++/** Panoul. Datele de progres sunt în browser (și în cont), deci tot calculul se face acolo. */
+ export default function PanouPage() {
++  const modules = getExam()
++    .modules.filter((m) => m.status === "ready")
++    .map(({ id, abbr, title }) => ({ id, abbr, title }));
+   return (
+     <>
+       <PageHead title="Panou" />
+-      <EmptyState title="Panoul vine în etapa 5">
+-        Aici vor fi cronometrul mare, zilele până la examen, timpul pe zile, calendarul de studiu și situația pe module.
+-      </EmptyState>
++      <Panou modules={modules} />
+     </>
+   );
+ }
+diff --git a/src/app/(app)/simulare/page.tsx b/src/app/(app)/simulare/page.tsx
+index 766dac4..ac01dbb 100644
+--- a/src/app/(app)/simulare/page.tsx
++++ b/src/app/(app)/simulare/page.tsx
+@@ -1,15 +1,19 @@
+ import type { Metadata } from "next";
+-import { EmptyState, PageHead } from "@/components/ui/page-head";
++import { Simulation } from "@/components/panou/simulation";
++import { PageHead } from "@/components/ui/page-head";
++import { getAllQuestions, getExam } from "@/lib/content";
+ 
+ export const metadata: Metadata = { title: "Simulare" };
+ 
++/** Simularea de examen: grilele tuturor modulelor ajung în browser, care le amestecă. */
+ export default function SimularePage() {
++  const modules = getExam()
++    .modules.filter((m) => m.status === "ready")
++    .map(({ id, abbr, title }) => ({ id, abbr, title }));
+   return (
+     <>
+       <PageHead title="Simulare de examen" />
+-      <EmptyState title="Simularea vine în etapa 5">
+-        Grile amestecate din toate modulele, cronometrate, cu răspunsurile arătate abia la final.
+-      </EmptyState>
++      <Simulation questions={getAllQuestions()} modules={modules} />
+     </>
+   );
+ }
+diff --git a/src/app/globals.css b/src/app/globals.css
+index 4978516..2377b2e 100644
+--- a/src/app/globals.css
++++ b/src/app/globals.css
+@@ -1366,7 +1366,487 @@
+   }
+ }
+ 
+-/* ---------- 8. Mișcare redusă ---------- */
++/* ---------- 8. Panoul (preluat din styles.css al designului) ---------- */
++@layer components {
++  .card {
++    background: var(--surface);
++    border: 1px solid var(--line);
++    border-radius: var(--radius-lg);
++    padding: 24px;
++    box-shadow: var(--shadow);
++    min-width: 0;
++  }
++  .card__h {
++    display: flex;
++    flex-wrap: wrap;
++    align-items: baseline;
++    justify-content: space-between;
++    gap: 8px 12px;
++    margin-bottom: 16px;
++  }
++  .card__h h2 {
++    font-family: var(--font-serif);
++    font-weight: 600;
++    font-size: var(--text-lg);
++    line-height: 1.2;
++  }
++  .row {
++    display: grid;
++    gap: 24px;
++    margin-bottom: 24px;
++  }
++  .cols-7-5 {
++    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
++  }
++  .cols-5-7 {
++    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
++  }
++
++  /* indicatorii: dungă verde sus, cifră mare serif */
++  .stats {
++    display: grid;
++    grid-template-columns: repeat(5, minmax(0, 1fr));
++    gap: 16px;
++    margin-bottom: 24px;
++  }
++  .stat {
++    padding: 16px 24px;
++    background: var(--surface);
++    border: 1px solid var(--line);
++    border-top: 3px solid var(--brand);
++    border-radius: var(--radius-md);
++    min-width: 0;
++  }
++  .stat__l {
++    font: 500 var(--text-xs) / 1.3 var(--font-mono);
++    letter-spacing: 0.1em;
++    text-transform: uppercase;
++    color: var(--text-2);
++  }
++  .stat__v {
++    margin-top: 8px;
++    font-family: var(--font-serif);
++    font-weight: 600;
++    font-size: 2.5rem;
++    line-height: 1;
++    letter-spacing: -0.02em;
++    font-variant-numeric: tabular-nums;
++  }
++  .stat__v small {
++    margin-left: 4px;
++    font: 600 var(--text-sm) / 1 var(--font-sans);
++    letter-spacing: 0;
++    color: var(--text-2);
++  }
++
++  /* cronometrul mare */
++  .timer-card {
++    display: flex;
++    flex-direction: column;
++    justify-content: space-between;
++    gap: 24px;
++  }
++  .timer-big {
++    font: 500 var(--text-display) / 1 var(--font-mono);
++    font-variant-numeric: tabular-nums;
++    letter-spacing: -0.03em;
++  }
++  .timer-state {
++    display: inline-flex;
++    align-items: center;
++    gap: 8px;
++    font: 500 var(--text-xs) / 1 var(--font-mono);
++    letter-spacing: 0.12em;
++    text-transform: uppercase;
++    color: var(--text-2);
++  }
++  .timer-state i {
++    width: 10px;
++    height: 10px;
++    border-radius: 50%;
++    background: var(--text-3);
++  }
++  .timer-card.is-running .timer-state i {
++    background: var(--accent);
++    animation: pulse2 1.8s ease-out infinite;
++  }
++
++  /* numărătoarea inversă: card verde cu curbe de nivel */
++  .feat {
++    display: flex;
++    flex-direction: column;
++    justify-content: space-between;
++    gap: 24px;
++    padding: 24px;
++    border-radius: var(--radius-lg);
++    background: var(--feat-bg);
++    color: var(--feat-fg);
++    min-width: 0;
++  }
++  .feat .eyebrow {
++    color: var(--feat-fg-2);
++  }
++  .feat__n {
++    font-family: var(--font-serif);
++    font-weight: 600;
++    font-size: 7rem;
++    line-height: 0.9;
++    letter-spacing: -0.04em;
++    font-variant-numeric: tabular-nums;
++  }
++  .feat__n small {
++    margin-left: 12px;
++    font-size: var(--text-lg);
++    font-weight: 500;
++    letter-spacing: 0;
++    color: var(--feat-fg-2);
++  }
++  .feat .bar {
++    background: rgba(0, 0, 0, 0.28);
++    box-shadow: none;
++  }
++  .feat .bar > i {
++    background: var(--feat-accent);
++  }
++
++  /* graficul cu bare */
++  .chart {
++    display: grid;
++    grid-template-columns: 40px minmax(0, 1fr);
++    grid-template-rows: 240px auto;
++    column-gap: 8px;
++  }
++  .chart__y {
++    position: relative;
++    font: 500 var(--text-xs) / 1 var(--font-mono);
++    color: var(--text-2);
++    text-align: right;
++  }
++  .chart__y span {
++    position: absolute;
++    right: 0;
++    transform: translateY(50%);
++  }
++  .chart__plot {
++    position: relative;
++    display: flex;
++    align-items: flex-end;
++    gap: 6px;
++    padding: 0 4px;
++    border-bottom: 1.5px solid var(--ctl);
++  }
++  .chart__grid {
++    position: absolute;
++    left: 0;
++    right: 0;
++    border-top: 1px solid var(--line);
++  }
++  .chart__bar {
++    position: relative;
++    flex: 1;
++    height: calc(var(--h) * 1%);
++    min-height: 3px;
++    border-radius: 3px 3px 0 0;
++    background: var(--brand);
++    animation: rise 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
++  }
++  .chart__bar.is-low {
++    background: var(--brand-soft);
++    box-shadow: inset 0 0 0 1.5px var(--brand);
++  }
++  .chart__bar.is-zero {
++    min-height: 0;
++    box-shadow: none;
++  }
++  .chart__t {
++    position: absolute;
++    left: 0;
++    right: 0;
++    bottom: calc(var(--t) * 1%);
++    border-top: 2px dashed var(--accent);
++    pointer-events: none;
++  }
++  .chart__t span {
++    position: absolute;
++    right: 0;
++    bottom: 4px;
++    padding: 0 6px;
++    background: var(--surface);
++    font: 600 var(--text-xs) / 1.4 var(--font-mono);
++    color: var(--accent-text);
++  }
++  .chart__x {
++    grid-column: 2;
++    display: flex;
++    gap: 6px;
++    padding: 8px 4px 0;
++    font: 500 var(--text-xs) / 1 var(--font-mono);
++    color: var(--text-2);
++  }
++  .chart__x span {
++    flex: 1;
++    text-align: center;
++  }
++  .chart__x span.is-today {
++    color: var(--accent-text);
++    font-weight: 600;
++  }
++  .legend {
++    display: flex;
++    flex-wrap: wrap;
++    gap: 8px 16px;
++    margin-top: 16px;
++    font-size: var(--text-xs);
++    color: var(--text-2);
++  }
++  .legend span {
++    display: inline-flex;
++    align-items: center;
++    gap: 8px;
++  }
++  .legend i {
++    display: inline-block;
++    width: 14px;
++    height: 14px;
++    border-radius: 2px;
++    background: var(--brand);
++  }
++  .legend i.l {
++    background: var(--brand-soft);
++    box-shadow: inset 0 0 0 1.5px var(--brand);
++  }
++  .legend i.t {
++    height: 0;
++    border-top: 2px dashed var(--accent);
++    border-radius: 0;
++    align-self: center;
++  }
++
++  /* calendarul de studiu */
++  .heatwrap {
++    display: grid;
++    grid-template-columns: 28px minmax(0, 1fr);
++    column-gap: 8px;
++  }
++  .heat__d {
++    display: grid;
++    grid-template-rows: repeat(7, 1fr);
++    gap: 3px;
++    font: 500 0.6875rem/1 var(--font-mono);
++    color: var(--text-2);
++  }
++  .heat__d span {
++    display: flex;
++    align-items: center;
++  }
++  .heat {
++    display: grid;
++    grid-template-rows: repeat(7, auto);
++    grid-auto-flow: column;
++    grid-auto-columns: minmax(0, 1fr);
++    gap: 3px;
++  }
++  .heat i {
++    display: block;
++    aspect-ratio: 1;
++    border-radius: 2px;
++    background: var(--heat-0);
++  }
++  .heat i.h1 {
++    background: var(--heat-1);
++  }
++  .heat i.h2 {
++    background: var(--heat-2);
++  }
++  .heat i.h3 {
++    background: var(--heat-3);
++  }
++  .heat i.h4 {
++    background: var(--heat-4);
++  }
++  .heat i.is-future {
++    background: transparent;
++    box-shadow: inset 0 0 0 1px var(--line);
++  }
++  .heat i.is-today {
++    outline: 2px solid var(--accent);
++    outline-offset: 1px;
++  }
++  .heat__lg {
++    display: flex;
++    align-items: center;
++    gap: 8px;
++    margin-top: 12px;
++    font: 500 var(--text-xs) / 1 var(--font-mono);
++    color: var(--text-2);
++  }
++  .heat__lg i {
++    display: block;
++    width: 16px;
++    height: 16px;
++    border-radius: 2px;
++    background: var(--heat-0);
++  }
++  .heat__lg i.h1 {
++    background: var(--heat-1);
++  }
++  .heat__lg i.h2 {
++    background: var(--heat-2);
++  }
++  .heat__lg i.h3 {
++    background: var(--heat-3);
++  }
++  .heat__lg i.h4 {
++    background: var(--heat-4);
++  }
++
++  /* tabelul pe module și sesiunile */
++  .tbl td.n,
++  .tbl th.n {
++    text-align: right;
++    font-family: var(--font-mono);
++    font-variant-numeric: tabular-nums;
++    white-space: nowrap;
++    padding-left: 16px;
++    padding-right: 0;
++  }
++  .tbl td {
++    vertical-align: middle;
++  }
++  .tbl .who {
++    display: flex;
++    align-items: center;
++    gap: 12px;
++    font-weight: 600;
++  }
++  .tbl .bar {
++    min-width: 90px;
++  }
++  .sess li {
++    display: grid;
++    grid-template-columns: minmax(0, 1fr) auto auto;
++    align-items: center;
++    gap: 2px 16px;
++    padding: 12px 0;
++    border-bottom: 1px solid var(--line);
++  }
++  .sess li:last-child {
++    border-bottom: 0;
++  }
++  .sess small {
++    display: block;
++    color: var(--text-2);
++    font-size: var(--text-sm);
++  }
++  .sess .t {
++    font: 500 var(--text-base) / 1 var(--font-mono);
++  }
++
++  /* „Ce faci azi”: bifa se pune singură când sarcina e făcută */
++  .todo li {
++    border-bottom: 1px solid var(--line);
++  }
++  .todo li:last-child {
++    border-bottom: 0;
++  }
++  .todo a,
++  .todo .todo__row {
++    display: flex;
++    align-items: center;
++    gap: 12px;
++    min-height: 52px;
++    color: var(--text);
++    text-decoration: none;
++  }
++  .todo a:hover .todo__t {
++    color: var(--brand-text);
++    text-decoration: underline;
++  }
++  .todo__box {
++    flex: none;
++    display: grid;
++    place-items: center;
++    width: 26px;
++    height: 26px;
++    border: 2px solid var(--ctl);
++    border-radius: var(--radius-sm);
++    background: var(--surface);
++  }
++  .todo .is-done .todo__box {
++    background: var(--brand);
++    border-color: var(--brand);
++    color: var(--brand-ink);
++  }
++  .todo .is-done .todo__t {
++    color: var(--text-2);
++    text-decoration: line-through;
++    text-decoration-thickness: 1px;
++  }
++}
++
++@keyframes rise {
++  from {
++    height: 0;
++  }
++}
++@keyframes pulse2 {
++  0% {
++    box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 60%, transparent);
++  }
++  70%,
++  100% {
++    box-shadow: 0 0 0 10px transparent;
++  }
++}
++
++@media (width < 51.3125rem) {
++  .row,
++  .cols-7-5,
++  .cols-5-7 {
++    grid-template-columns: minmax(0, 1fr);
++    gap: 16px;
++    margin-bottom: 16px;
++  }
++  .card {
++    padding: 16px;
++  }
++  .stats {
++    grid-template-columns: repeat(2, minmax(0, 1fr));
++    gap: 12px;
++    margin-bottom: 16px;
++  }
++  .stat:last-child {
++    grid-column: 1 / -1;
++  }
++  .stat {
++    padding: 12px 16px;
++  }
++  .stat__v {
++    font-size: 2rem;
++  }
++  .timer-big {
++    font-size: 3.25rem;
++  }
++  .feat__n {
++    font-size: 5rem;
++  }
++  .chart {
++    grid-template-rows: 200px auto;
++    grid-template-columns: 32px minmax(0, 1fr);
++  }
++  .chart__plot,
++  .chart__x {
++    gap: 3px;
++  }
++  .tbl .hide-m {
++    display: none;
++  }
++  .tbl .bar {
++    min-width: 60px;
++  }
++}
++
++/* ---------- 9. Mișcare redusă ---------- */
+ @media (prefers-reduced-motion: reduce) {
+   *,
+   *::before,
+diff --git a/src/components/panou/mistakes.tsx b/src/components/panou/mistakes.tsx
+new file mode 100644
+index 0000000..3a937f0
+--- /dev/null
++++ b/src/components/panou/mistakes.tsx
+@@ -0,0 +1,97 @@
++"use client";
++
++import Link from "next/link";
++import { useState } from "react";
++import { Feedback, Options } from "@/components/module/options";
++import { supRef } from "@/components/module/ref-chip";
++import { EmptyState } from "@/components/ui/page-head";
++import type { QuestionLite } from "@/lib/content";
++import { recordAnswer, useProgress } from "@/lib/progress/store";
++import type { PanouModule } from "./panou";
++
++/** O grilă greșită: o refaci pe loc; dacă răspunzi corect, iese din listă la următoarea vizită. */
++function MistakeItem({ q, onAnswer }: { q: QuestionLite; onAnswer: () => void }) {
++  const [picked, setPicked] = useState<number | null>(null);
++  return (
++    <li className="border-t border-line pt-6 first:border-t-0 first:pt-0">
++      <p className="mb-4 font-serif text-lg leading-snug font-medium">{q.q}</p>
++      <Options
++        compact
++        options={q.o}
++        answer={q.a}
++        picked={picked}
++        onPick={(i) => {
++          setPicked(i);
++          onAnswer();
++          recordAnswer(q.m, q.i, i === q.a);
++        }}
++      />
++      {picked !== null && (
++        <Feedback ok={picked === q.a} explain={picked === q.a ? `Bravo, iese din greșeli. ${q.e}` : q.e}>
++          <p className="fb__src">
++            Sursa{" "}
++            <Link href={`/modul/${q.m}/test`} className="ref">
++              {supRef(q.r)}
++            </Link>
++          </p>
++          {picked !== q.a && (
++            <button
++              type="button"
++              className="mt-2 min-h-11 cursor-pointer font-semibold text-brand-text underline"
++              onClick={() => setPicked(null)}
++            >
++              Încearcă din nou
++            </button>
++          )}
++        </Feedback>
++      )}
++    </li>
++  );
++}
++
++/** Pagina Greșeli: grilele la care ultimul tău răspuns a fost greșit, pe module. */
++export function Mistakes({ questions, modules }: { questions: QuestionLite[]; modules: PanouModule[] }) {
++  const p = useProgress();
++  // grilele la care ai răspuns acum rămân pe pagină (cu explicația), chiar dacă le-ai refăcut corect
++  const [kept, setKept] = useState<Set<string>>(new Set());
++  const wrong = questions.filter((q) => {
++    const k = `${q.m}:${q.i}`;
++    return p.answers[k]?.last === 0 || kept.has(k);
++  });
++  if (!wrong.length) {
++    return (
++      <EmptyState title="Nicio greșeală de refăcut">
++        Aici apar grilele la care ultimul tău răspuns a fost greșit, din test, din simulări și de aici. Când le răspunzi
++        corect, dispar.
++      </EmptyState>
++    );
++  }
++  const groups = modules.map((m) => ({ m, items: wrong.filter((q) => q.m === m.id) })).filter((g) => g.items.length);
++  return (
++    <>
++      <p className="mb-6 text-text-2">
++        {wrong.length} {wrong.length === 1 ? "grilă" : "grile"} în {groups.length}{" "}
++        {groups.length === 1 ? "modul" : "module"}. Răspunde din nou; cele corecte ies din listă.
++      </p>
++      <div className="space-y-6">
++        {groups.map(({ m, items }) => (
++          <section key={m.id} className="sheet">
++            <h2 className="mb-6 flex flex-wrap items-baseline justify-between gap-2 font-serif text-h3 font-semibold">
++              {m.title}
++              <span className="eyebrow">{items.length} de refăcut</span>
++            </h2>
++            <ol className="space-y-6">
++              {items.map((q) => (
++                <MistakeItem
++                  key={`${q.m}:${q.i}`}
++                  q={q}
++                  onAnswer={() => setKept((s) => new Set(s).add(`${q.m}:${q.i}`))}
++                />
++              ))}
++            </ol>
++          </section>
++        ))}
++      </div>
++    </>
++  );
++}
+diff --git a/src/components/panou/panou.tsx b/src/components/panou/panou.tsx
+new file mode 100644
+index 0000000..f0f55e7
+--- /dev/null
++++ b/src/components/panou/panou.tsx
+@@ -0,0 +1,469 @@
++"use client";
++
++import Link from "next/link";
++import { useContext, useState, type CSSProperties } from "react";
++import { CountsContext } from "@/components/shell/progress-context";
++import { formatClock, useTimer } from "@/components/shell/timer-mini";
++import { Bar } from "@/components/ui/bar";
++import { Button } from "@/components/ui/button";
++import { Stamp } from "@/components/ui/stamp";
++import { cx } from "@/lib/cx";
++import { modulePercent } from "@/lib/progress/stats";
++import { deleteSession, setPref, useMinute, useProgress, useToday } from "@/lib/progress/store";
++import { activeDays, dayAt, dayKey, formatMinutes, minutesByDay, streak, weekMinutes } from "@/lib/progress/study";
++
++export type PanouModule = { id: string; abbr: string; title: string };
++
++const DEFAULT_GOAL = 120;
++const WEEKDAYS = ["Duminică", "Luni", "Marți", "Miercuri", "Joi", "Vineri", "Sâmbătă"];
++const MONTHS = ["ian", "feb", "mar", "apr", "mai", "iun", "iul", "aug", "sep", "oct", "nov", "dec"];
++
++function Tick() {
++  return (
++    <svg
++      viewBox="0 0 20 20"
++      className="size-4"
++      fill="none"
++      stroke="currentColor"
++      strokeWidth="2.8"
++      strokeLinecap="round"
++      strokeLinejoin="round"
++      aria-hidden="true"
++    >
++      <path d="M4 10.5l4 4 8-9" />
++    </svg>
++  );
++}
++
++/** Panoul: cronometrul, examenul, indicatorii, ce faci azi, timpul pe zile, calendarul, modulele și sesiunile. */
++export function Panou({ modules }: { modules: PanouModule[] }) {
++  const p = useProgress();
++  const today = useToday(); // null la randarea pe server
++  const counts = useContext(CountsContext);
++  const timer = useTimer();
++  const [editExam, setEditExam] = useState(false);
++
++  const now = useMinute(); // null la randarea pe server
++  const goal = p.prefs.goal ?? DEFAULT_GOAL;
++  const byDay = minutesByDay(p);
++  const days = activeDays(p);
++  const byId = new Map(modules.map((m) => [m.id, m]));
++
++  // indicatorii
++  const week = now ? weekMinutes(byDay, now) : 0;
++  const pctAll = Math.round(
++    modules.reduce((a, m) => a + (counts[m.id] ? modulePercent(p, m.id, counts[m.id]).pct : 0), 0) / modules.length,
++  );
++  const answered = Object.values(p.answers).reduce((a, x) => a + x.n, 0);
++  const stats = [
++    // în ore cu o zecimală, ca să încapă pe un rând în card
++    week < 60
++      ? { l: "Săptămâna", v: String(Math.round(week)), u: "min" }
++      : { l: "Săptămâna", v: (week / 60).toFixed(1).replace(".", ","), u: "ore" },
++    { l: "Zile la rând", v: now ? String(streak(days, now)) : "0" },
++    { l: "Zile de studiu", v: String(days.size) },
++    { l: "% din bibliografie", v: String(pctAll), u: "%" },
++    { l: "Grile", v: String(answered) },
++  ];
++
++  // examenul
++  const exam = p.prefs.exam;
++  const examMs = exam ? new Date(`${exam}T09:00:00`).getTime() : null;
++  const daysLeft = examMs && now ? Math.max(0, Math.ceil((examMs - now) / 864e5)) : null;
++  const firstDay = Math.min(
++    ...[...Object.values(p.sessions).map((s) => s.s), ...Object.values(p.t).filter((t) => t > 1e12)],
++  );
++  const elapsedPct =
++    examMs && now && Number.isFinite(firstDay) && examMs > firstDay
++      ? Math.min(100, Math.round((100 * (now - firstDay)) / (examMs - firstDay)))
++      : 0;
++
++  // „ce faci azi”
++  const todayKey = now ? dayKey(now) : "";
++  const todayMin = byDay.get(todayKey) ?? 0;
++  const lastPos = Object.entries(p.t)
++    .filter(([k]) => k.startsWith("pos|"))
++    .sort((a, b) => b[1] - a[1])[0];
++  const lastMod = lastPos ? byId.get(lastPos[0].slice(4)) : modules[0];
++  const lastSec = lastMod ? (p.pos[lastMod.id] ?? 0) : 0;
++  const dueByModule = modules
++    .map((m) => {
++      let due = 0;
++      for (let i = 0; i < (counts[m.id]?.cards ?? 0); i++) {
++        const c = p.cards[`${m.id}:${i}`];
++        if (c && today !== null && c.due <= today) due++;
++      }
++      return { m, due };
++    })
++    .sort((a, b) => b.due - a.due);
++  const dueTotal = dueByModule.reduce((a, x) => a + x.due, 0);
++  const wrong = Object.values(p.answers).filter((a) => a.last === 0).length;
++  const todo = [
++    lastMod && {
++      href: `/modul/${lastMod.id}`,
++      text: `${lastMod.title}: secțiunea ${lastSec + 1}`,
++      done: !!p.read[`${lastMod.id}:${lastSec}`],
++    },
++    {
++      href: dueTotal ? `/modul/${dueByModule[0].m.id}/carduri` : null,
++      text: dueTotal ? `Flashcards: ${dueTotal} de repetat` : "Flashcards: nimic de repetat azi",
++      done: dueTotal === 0,
++    },
++    {
++      href: wrong ? "/greseli" : null,
++      text: wrong ? `Greșeli: ${wrong} ${wrong === 1 ? "grilă de refăcut" : "grile de refăcut"}` : "Greșeli: niciuna",
++      done: wrong === 0,
++    },
++    {
++      href: null,
++      text: `Ținta zilei: ${formatMinutes(todayMin)} din ${formatMinutes(goal)}`,
++      done: todayMin >= goal,
++    },
++  ].filter(Boolean) as Array<{ href: string | null; text: string; done: boolean }>;
++
++  // timp pe zile (14 zile)
++  const bars = now
++    ? Array.from({ length: 14 }, (_, i) => {
++        const d = dayAt(now, i - 13);
++        return { d, min: byDay.get(dayKey(d.getTime())) ?? 0, today: i === 13 };
++      })
++    : [];
++  const maxMin = Math.max(goal * 1.5, ...bars.map((b) => b.min));
++  const top = Math.ceil(maxMin / 60) * 60; // axa urcă din oră în oră
++  const ticks = Array.from({ length: top / 60 + 1 }, (_, i) => i * 60).filter(
++    (_, i, a) => a.length <= 5 || i % 2 === 0,
++  );
++
++  // calendarul: 20 de săptămâni, coloane de luni până duminică
++  const heat = now
++    ? (() => {
++        const monday = dayAt(now, -((new Date(now).getDay() + 6) % 7));
++        const start = dayAt(monday.getTime(), -7 * 19);
++        return Array.from({ length: 140 }, (_, i) => {
++          const d = dayAt(start.getTime(), i);
++          const k = dayKey(d.getTime());
++          const m = byDay.get(k) ?? 0;
++          const future = d.getTime() > now + 36e5 * 12;
++          const lvl = m >= goal ? 4 : m >= goal / 2 ? 3 : m >= goal / 4 ? 2 : m > 0 || days.has(k) ? 1 : 0;
++          return { k, m, lvl, future, today: k === todayKey, d };
++        });
++      })()
++    : [];
++
++  // timp pe modul, din sesiuni
++  const timeByModule = new Map<string, number>();
++  for (const s of Object.values(p.sessions)) timeByModule.set(s.m, (timeByModule.get(s.m) ?? 0) + (s.e - s.s) / 60000);
++
++  const sessions = Object.entries(p.sessions)
++    .sort((a, b) => b[1].s - a[1].s)
++    .slice(0, 8);
++
++  return (
++    <>
++      <div className="row cols-7-5">
++        <section className={cx("card timer-card", timer.running && "is-running")} aria-label="Cronometru">
++          <div className="flex items-center justify-between">
++            <span className="eyebrow">Cronometru</span>
++            <span className="timer-state">
++              <i />
++              {timer.running ? "Se măsoară" : "Oprit"}
++            </span>
++          </div>
++          <p className="timer-big" role="timer" aria-live="off">
++            {formatClock(timer.elapsed)}
++          </p>
++          <div className="flex flex-wrap gap-3">
++            <Button
++              variant="accent"
++              size="lg"
++              className="max-md:flex-1"
++              onClick={timer.running ? timer.stop : timer.start}
++            >
++              {timer.running ? "Stop" : "Start"}
++            </Button>
++          </div>
++        </section>
++
++        <section className="feat contours" aria-label="Numărătoare inversă până la examen">
++          <span className="eyebrow text-feat-fg-2">Până la examen</span>
++          {exam && !editExam ? (
++            <p className="feat__n">
++              {daysLeft ?? "–"}
++              <small>{daysLeft === 1 ? "zi" : "zile"}</small>
++            </p>
++          ) : (
++            <form
++              className="flex flex-wrap items-end gap-3"
++              onSubmit={(e) => {
++                e.preventDefault();
++                const v = String(new FormData(e.currentTarget).get("exam") ?? "");
++                if (/^\d{4}-\d{2}-\d{2}$/.test(v)) setPref("exam", v);
++                setEditExam(false);
++              }}
++            >
++              <label className="flex flex-col gap-1 text-sm text-feat-fg-2">
++                Data examenului
++                <input
++                  type="date"
++                  name="exam"
++                  defaultValue={exam}
++                  required
++                  className="min-h-11 rounded-md border-[1.5px] border-feat-fg-2 bg-transparent px-3 text-feat-fg [color-scheme:dark]"
++                />
++              </label>
++              <Button type="submit" variant="accent">
++                Salvează
++              </Button>
++            </form>
++          )}
++          <div>
++            {exam && !editExam && (
++              <p className="mb-2.5 flex flex-wrap items-center gap-x-3 font-mono text-xs leading-snug tracking-[0.1em] text-feat-fg-2 uppercase">
++                {new Date(`${exam}T12:00:00`).toLocaleDateString("ro-RO", {
++                  day: "numeric",
++                  month: "long",
++                  year: "numeric",
++                })}
++                <button
++                  type="button"
++                  className="min-h-11 cursor-pointer tracking-normal normal-case underline"
++                  onClick={() => setEditExam(true)}
++                >
++                  schimbă data
++                </button>
++              </p>
++            )}
++            <Bar value={elapsedPct} size="lg" label="Cât a trecut din perioada de pregătire" />
++          </div>
++        </section>
++      </div>
++
++      <ul className="stats">
++        {stats.map((s) => (
++          <li key={s.l} className="stat">
++            <p className="stat__l">{s.l}</p>
++            <p className="stat__v">
++              {s.v}
++              {s.u && <small>{s.u}</small>}
++            </p>
++          </li>
++        ))}
++      </ul>
++
++      <div className="row cols-5-7">
++        <section className="card" aria-label="Ce faci azi">
++          <div className="card__h">
++            <h2>Ce faci azi</h2>
++          </div>
++          <ul className="todo">
++            {todo.map((t) => {
++              const inner = (
++                <>
++                  <span className="todo__box">{t.done && <Tick />}</span>
++                  <span className="todo__t">{t.text}</span>
++                  <span className="sr-only">{t.done ? " — făcut" : ""}</span>
++                </>
++              );
++              return (
++                <li key={t.text} className={cx(t.done && "is-done")}>
++                  {t.href ? <Link href={t.href}>{inner}</Link> : <span className="todo__row">{inner}</span>}
++                </li>
++              );
++            })}
++          </ul>
++        </section>
++
++        <section className="card" aria-label="Timp pe zile">
++          <div className="card__h">
++            <h2>Timp pe zile</h2>
++            <label className="flex items-center gap-2 text-sm text-text-2">
++              Ținta zilnică
++              <select
++                value={goal}
++                onChange={(e) => setPref("goal", Number(e.target.value))}
++                className="min-h-11 rounded-md border-[1.5px] border-ctl bg-surface px-2 text-text"
++              >
++                {[30, 60, 90, 120, 150, 180, 240].map((v) => (
++                  <option key={v} value={v}>
++                    {formatMinutes(v)}
++                  </option>
++                ))}
++              </select>
++            </label>
++          </div>
++          <div
++            className="chart"
++            role="img"
++            aria-label={`Timp de studiu în ultimele 14 zile, cu ținta de ${formatMinutes(goal)} pe zi`}
++          >
++            <div className="chart__y" aria-hidden="true">
++              {ticks.map((v) => (
++                <span key={v} style={{ bottom: `${(100 * v) / top}%` }}>
++                  {v === 0 ? "0" : `${v / 60} h`}
++                </span>
++              ))}
++            </div>
++            <div className="chart__plot">
++              {ticks.slice(1).map((v) => (
++                <span key={v} className="chart__grid" style={{ bottom: `${(100 * v) / top}%` }} aria-hidden="true" />
++              ))}
++              {bars.map((b) => (
++                <span
++                  key={b.d.getTime()}
++                  className={cx("chart__bar", b.min < goal && "is-low", b.min === 0 && "is-zero")}
++                  style={{ "--h": ((100 * b.min) / top).toFixed(1) } as CSSProperties}
++                  title={`${b.d.getDate()} ${MONTHS[b.d.getMonth()]}: ${formatMinutes(b.min)}`}
++                />
++              ))}
++              <div className="chart__t" style={{ "--t": ((100 * goal) / top).toFixed(1) } as CSSProperties}>
++                <span>Ținta</span>
++              </div>
++            </div>
++            <div className="chart__x" aria-hidden="true">
++              {bars.map((b) => (
++                <span key={b.d.getTime()} className={cx(b.today && "is-today")}>
++                  {b.d.getDate()}
++                </span>
++              ))}
++            </div>
++          </div>
++          <div className="legend">
++            <span>
++              <i />
++              Țintă atinsă
++            </span>
++            <span>
++              <i className="l" />
++              Sub țintă
++            </span>
++            <span>
++              <i className="t" />
++              Ținta zilnică
++            </span>
++          </div>
++          <p className="mt-3 text-xs text-text-2">Timpul vine din cronometru.</p>
++        </section>
++      </div>
++
++      <section className="card mb-6" aria-label="Calendar de studiu">
++        <div className="card__h">
++          <h2>Calendar de studiu</h2>
++          <span className="eyebrow">20 de săptămâni</span>
++        </div>
++        <div className="heatwrap">
++          <div className="heat__d" aria-hidden="true">
++            <span>L</span>
++            <span />
++            <span>M</span>
++            <span />
++            <span>V</span>
++            <span />
++            <span>D</span>
++          </div>
++          <div className="heat" role="img" aria-label={`Calendar de studiu: ${days.size} zile active`}>
++            {heat.map((c) => (
++              <i
++                key={c.k}
++                className={cx(c.lvl ? `h${c.lvl}` : null, c.future && "is-future", c.today && "is-today")}
++                title={`${c.d.getDate()} ${MONTHS[c.d.getMonth()]}: ${c.m ? formatMinutes(c.m) : days.has(c.k) ? "activitate fără cronometru" : "nimic"}`}
++              />
++            ))}
++          </div>
++        </div>
++        <div className="heat__lg">
++          <span>Mai puțin</span>
++          <i />
++          <i className="h1" />
++          <i className="h2" />
++          <i className="h3" />
++          <i className="h4" />
++          <span>Mai mult</span>
++        </div>
++      </section>
++
++      <div className="row cols-7-5">
++        <section className="card" aria-label="Pe module">
++          <div className="card__h">
++            <h2>Pe module</h2>
++          </div>
++          <div className="overflow-x-auto">
++            <table className="tbl">
++              <thead>
++                <tr>
++                  <th>Modul</th>
++                  <th className="hide-m n">Timp</th>
++                  <th className="pl-4">Progres</th>
++                  <th className="n">Grile</th>
++                </tr>
++              </thead>
++              <tbody>
++                {modules.map((m) => {
++                  const c = counts[m.id];
++                  const st = c ? modulePercent(p, m.id, c) : { pct: 0, mastered: 0 };
++                  const t = timeByModule.get(m.id) ?? 0;
++                  return (
++                    <tr key={m.id}>
++                      <td>
++                        <Link href={`/modul/${m.id}`} className="who text-text no-underline hover:text-brand-text">
++                          <Stamp abbr={m.abbr} progress={st.pct} size={36} />
++                          <span className="max-md:sr-only">{m.title}</span>
++                        </Link>
++                      </td>
++                      <td className="hide-m n">{t ? formatMinutes(t) : "–"}</td>
++                      <td className="pl-4">
++                        <Bar value={st.pct} label={`${m.title}: ${st.pct}%`} />
++                      </td>
++                      <td className="n">{c?.questions ? `${Math.round((100 * st.mastered) / c.questions)}%` : "–"}</td>
++                    </tr>
++                  );
++                })}
++              </tbody>
++            </table>
++          </div>
++          <p className="mt-3 text-xs text-text-2">Grile = cât la sută din grilele de test ai la zi corect.</p>
++        </section>
++
++        <section className="card" aria-label="Sesiuni">
++          <div className="card__h">
++            <h2>Sesiuni</h2>
++          </div>
++          {sessions.length === 0 ? (
++            <p className="text-text-2">
++              Încă nicio sesiune. Pornește cronometrul din antet când te apuci de învățat; sesiunile de peste un minut
++              apar aici.
++            </p>
++          ) : (
++            <ul className="sess">
++              {sessions.map(([id, s]) => {
++                const d = new Date(s.s);
++                const m = byId.get(s.m);
++                return (
++                  <li key={id}>
++                    <span className="min-w-0">
++                      <b className="font-semibold">
++                        {WEEKDAYS[d.getDay()]}, {d.getDate()} {MONTHS[d.getMonth()]}
++                      </b>
++                      <small>
++                        {m ? m.title : "General"} ·{" "}
++                        {d.toLocaleTimeString("ro-RO", { hour: "2-digit", minute: "2-digit" })}
++                      </small>
++                    </span>
++                    <span className="t">{formatMinutes((s.e - s.s) / 60000)}</span>
++                    <button
++                      type="button"
++                      className="grid size-11 cursor-pointer place-items-center rounded-md text-xl text-text-2 hover:bg-surface-2 hover:text-err"
++                      aria-label={`Șterge sesiunea din ${d.getDate()} ${MONTHS[d.getMonth()]}`}
++                      onClick={() => deleteSession(id)}
++                    >
++                      ×
++                    </button>
++                  </li>
++                );
++              })}
++            </ul>
++          )}
++        </section>
++      </div>
++    </>
++  );
++}
+diff --git a/src/components/panou/simulation.tsx b/src/components/panou/simulation.tsx
+new file mode 100644
+index 0000000..a0ad271
+--- /dev/null
++++ b/src/components/panou/simulation.tsx
+@@ -0,0 +1,284 @@
++"use client";
++
++import Link from "next/link";
++import { useEffect, useState } from "react";
++import { Feedback, Options } from "@/components/module/options";
++import { supRef } from "@/components/module/ref-chip";
++import { Button } from "@/components/ui/button";
++import type { QuestionLite } from "@/lib/content";
++import { cx } from "@/lib/cx";
++import { finishSimulation, useProgress } from "@/lib/progress/store";
++import { formatMinutes } from "@/lib/progress/study";
++import type { PanouModule } from "./panou";
++
++/*
++ * Simularea de examen: grile amestecate din toate modulele, cu timp limită.
++ * Răspunsurile se văd abia la final, ca la examen; atunci intră și în progres
++ * (testul modulelor și pagina Greșeli).
++ */
++
++const SIZES = [
++  { n: 20, min: 30 },
++  { n: 30, min: 45 },
++  { n: 50, min: 75 },
++];
++
++type Run = { start: number; ends: number; items: QuestionLite[]; picks: Record<number, number>; pos: number };
++
++function shuffle<T>(a: T[]) {
++  const b = a.slice();
++  for (let i = b.length - 1; i > 0; i--) {
++    const j = Math.floor(Math.random() * (i + 1));
++    [b[i], b[j]] = [b[j], b[i]];
++  }
++  return b;
++}
++
++function clock(ms: number) {
++  const s = Math.max(0, Math.round(ms / 1000));
++  return `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
++}
++
++/** O simulare nouă: grilele amestecate și momentul în care se termină timpul. */
++function newRun(questions: QuestionLite[], n: number, min: number): Run {
++  const t = Date.now();
++  return { start: t, ends: t + min * 60000, items: shuffle(questions).slice(0, n), picks: {}, pos: 0 };
++}
++
++/** Salvează simularea terminată în progres (răspunsurile și rezultatul). */
++function saveRun(r: Run) {
++  const at = Date.now();
++  // în progres intră doar grilele la care ai răspuns; cele sărite nu ajung la Greșeli
++  const answers = r.items.flatMap((q, i) =>
++    r.picks[i] === undefined ? [] : [{ m: q.m, i: q.i, ok: r.picks[i] === q.a }],
++  );
++  finishSimulation(r.start, r.items.length, answers, at - r.start);
++  return { ...r, finishedAt: at };
++}
++
++export function Simulation({ questions, modules }: { questions: QuestionLite[]; modules: PanouModule[] }) {
++  const p = useProgress();
++  const [run, setRun] = useState<Run | null>(null);
++  const [result, setResult] = useState<(Run & { finishedAt: number }) | null>(null);
++  const [now, setNow] = useState(0);
++  const title = new Map(modules.map((m) => [m.id, m.title]));
++
++  const finish = (r: Run) => {
++    setResult(saveRun(r));
++    setRun(null);
++  };
++
++  // ceasul simulării; la zero, simularea se încheie singură
++  useEffect(() => {
++    if (!run) return;
++    const tick = () => {
++      const t = Date.now();
++      setNow(t);
++      if (t >= run.ends) finish(run);
++    };
++    const first = setTimeout(tick, 0);
++    const id = setInterval(tick, 1000);
++    return () => {
++      clearTimeout(first);
++      clearInterval(id);
++    };
++  }, [run]);
++
++  const start = (n: number, min: number) => {
++    setResult(null);
++    setRun(newRun(questions, n, min));
++  };
++
++  /* ---------- rezultatul ---------- */
++  if (result) {
++    const ok = result.items.filter((q, i) => result.picks[i] === q.a).length;
++    const pct = Math.round((100 * ok) / result.items.length);
++    const wrongItems = result.items.map((q, i) => ({ q, pick: result.picks[i] })).filter((x) => x.pick !== x.q.a);
++    return (
++      <div className="sheet">
++        <p className="eyebrow">Rezultat</p>
++        <p className="mt-2 font-serif text-[3.5rem] leading-none font-semibold tabular-nums">
++          {pct}%
++          <span className="ml-3 text-h3 text-text-2">
++            {ok} din {result.items.length}
++          </span>
++        </p>
++        <p className="mt-2 text-text-2">
++          Timp: {formatMinutes((result.finishedAt - result.start) / 60000)}.{" "}
++          {pct >= 70 ? "Peste pragul obișnuit de promovare." : "Sub pragul obișnuit de 70%."}
++        </p>
++        <div className="mt-6 flex flex-wrap gap-3">
++          <Button variant="primary" onClick={() => setResult(null)}>
++            Simulare nouă
++          </Button>
++          <Link href="/greseli" className="inline-flex min-h-11 items-center px-2 font-semibold text-brand-text">
++            Refă greșelile →
++          </Link>
++        </div>
++        {wrongItems.length > 0 && (
++          <section className="mt-10">
++            <h2 className="mb-4 font-serif text-h3 font-semibold">Unde ai greșit ({wrongItems.length})</h2>
++            <ol className="space-y-8">
++              {wrongItems.map(({ q, pick }) => (
++                <li key={`${q.m}:${q.i}`}>
++                  <p className="eyebrow mb-2">{title.get(q.m)}</p>
++                  <p className="qtext mb-4! text-lg!">{q.q}</p>
++                  <Options compact options={q.o} answer={q.a} picked={pick ?? -1} onPick={() => {}} />
++                  <Feedback ok={false} explain={pick === undefined ? `Fără răspuns. ${q.e}` : q.e}>
++                    <p className="fb__src">
++                      Sursa{" "}
++                      <Link href={`/modul/${q.m}/test`} className="ref">
++                        {supRef(q.r)}
++                      </Link>
++                    </p>
++                  </Feedback>
++                </li>
++              ))}
++            </ol>
++          </section>
++        )}
++      </div>
++    );
++  }
++
++  /* ---------- alegerea simulării ---------- */
++  if (!run) {
++    const past = Object.entries(p.sims)
++      .sort((a, b) => Number(b[0]) - Number(a[0]))
++      .slice(0, 5);
++    return (
++      <>
++        <p className="mb-6 max-w-[62ch] text-text-2">
++          Grile amestecate din toate cele {modules.length} module, cu timp limită (un minut și jumătate pe grilă).
++          Răspunsurile se văd abia la final. Ai {questions.length} de grile în total.
++        </p>
++        <div className="mb-8 grid gap-4 sm:grid-cols-3">
++          {SIZES.map((s) => (
++            <button
++              key={s.n}
++              type="button"
++              onClick={() => start(s.n, s.min)}
++              className="card cursor-pointer text-left hover:border-brand"
++            >
++              <span className="block font-serif text-[2.5rem] leading-none font-semibold">{s.n}</span>
++              <span className="mt-1 block font-semibold">grile</span>
++              <span className="mt-2 block font-mono text-xs tracking-[0.1em] text-text-2 uppercase">
++                {s.min} de minute
++              </span>
++            </button>
++          ))}
++        </div>
++        {past.length > 0 && (
++          <section className="card max-w-xl">
++            <div className="card__h">
++              <h2>Ultimele simulări</h2>
++            </div>
++            <ul className="sess">
++              {past.map(([id, s]) => (
++                <li key={id}>
++                  <span>
++                    <b className="font-semibold">
++                      {new Date(Number(id)).toLocaleDateString("ro-RO", {
++                        weekday: "long",
++                        day: "numeric",
++                        month: "short",
++                      })}
++                    </b>
++                    <small>
++                      {s.ok} din {s.n} · {formatMinutes(s.dur / 60000)}
++                    </small>
++                  </span>
++                  <span className="t">{Math.round((100 * s.ok) / s.n)}%</span>
++                </li>
++              ))}
++            </ul>
++          </section>
++        )}
++      </>
++    );
++  }
++
++  /* ---------- simularea în curs ---------- */
++  const q = run.items[run.pos];
++  const left = now ? run.ends - now : run.ends - run.start;
++  const answeredCount = Object.keys(run.picks).length;
++  const set = (patch: Partial<Run>) => setRun({ ...run, ...patch });
++  return (
++    <div className="sheet">
++      <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
++        <span className="eyebrow">
++          Grila {run.pos + 1} din {run.items.length} · {title.get(q.m)}
++        </span>
++        <span
++          className={cx("font-mono text-lg font-semibold tabular-nums", left < 5 * 60000 && "text-accent-text")}
++          role="timer"
++          aria-label="Timp rămas"
++        >
++          {clock(left)}
++        </span>
++      </div>
++      <ol className="qgrid" aria-label="Grilele simulării">
++        {run.items.map((_, i) => (
++          <li key={i} className={cx(run.picks[i] !== undefined && "ok", i === run.pos && "cur")}>
++            <button
++              type="button"
++              className="size-full cursor-pointer"
++              onClick={() => set({ pos: i })}
++              aria-label={`Grila ${i + 1}${run.picks[i] !== undefined ? ", răspunsă" : ""}`}
++            >
++              {i + 1}
++            </button>
++          </li>
++        ))}
++      </ol>
++      <p className="qtext">{q.q}</p>
++      {/* la simulare nu se arată corect/greșit: varianta aleasă se marchează doar ca „aleasă” */}
++      <div className="opts" role="radiogroup" aria-label="Variante de răspuns">
++        {q.o.map((o, i) => (
++          <button
++            key={i}
++            type="button"
++            role="radio"
++            aria-checked={run.picks[run.pos] === i}
++            className={cx("opt", run.picks[run.pos] === i && "border-brand! bg-brand-soft!")}
++            onClick={() => set({ picks: { ...run.picks, [run.pos]: i } })}
++          >
++            <span className={cx("opt__k", run.picks[run.pos] === i && "border-brand bg-brand text-brand-ink")}>
++              {"ABCDEF"[i]}
++            </span>
++            <span className="opt__t">{o}</span>
++            <span />
++          </button>
++        ))}
++      </div>
++      <div className="mt-8 flex flex-wrap items-center justify-between gap-3">
++        <Button variant="secondary" disabled={run.pos === 0} onClick={() => set({ pos: run.pos - 1 })}>
++          Înapoi
++        </Button>
++        <span className="text-sm text-text-2">
++          {answeredCount} din {run.items.length} răspunse
++        </span>
++        {run.pos < run.items.length - 1 ? (
++          <Button variant="primary" onClick={() => set({ pos: run.pos + 1 })}>
++            Următoarea
++          </Button>
++        ) : (
++          <Button variant="accent" onClick={() => finish(run)}>
++            Termină simularea
++          </Button>
++        )}
++      </div>
++      {run.pos < run.items.length - 1 && (
++        <p className="mt-4 text-right">
++          <button
++            type="button"
++            className="cursor-pointer text-sm font-semibold text-accent-text underline"
++            onClick={() => finish(run)}
++          >
++            Termină acum
++          </button>
++        </p>
++      )}
++    </div>
++  );
++}
+diff --git a/src/components/shell/progress-context.tsx b/src/components/shell/progress-context.tsx
+index c3eab47..bfe67c2 100644
+--- a/src/components/shell/progress-context.tsx
++++ b/src/components/shell/progress-context.tsx
+@@ -4,7 +4,7 @@ import { createContext, useContext, type ReactNode } from "react";
+ import { modulePercent, type ModuleCounts } from "@/lib/progress/stats";
+ import { useProgress } from "@/lib/progress/store";
+ 
+-const CountsContext = createContext<Record<string, ModuleCounts>>({});
++export const CountsContext = createContext<Record<string, ModuleCounts>>({});
+ 
+ /** Câte secțiuni, carduri și grile are fiecare modul; vin o singură dată de pe server. */
+ export function CountsProvider({ counts, children }: { counts: Record<string, ModuleCounts>; children: ReactNode }) {
+diff --git a/src/lib/content/index.ts b/src/lib/content/index.ts
+index df2f759..6b72a8d 100644
+--- a/src/lib/content/index.ts
++++ b/src/lib/content/index.ts
+@@ -58,6 +58,26 @@ export function getModuleCounts(): Record<string, { lesson: number; cards: numbe
+   return out;
+ }
+ 
++/** O grilă de test, în forma scurtă trimisă browserului pentru Simulare și Greșeli. */
++export type QuestionLite = { m: string; i: number; q: string; o: string[]; a: number; e: string; r: string };
++
++/** Toate grilele de test din modulele cu conținut (pentru Simulare și Greșeli). */
++export function getAllQuestions(): QuestionLite[] {
++  return exam.modules
++    .filter((r) => r.status === "ready")
++    .flatMap((r) =>
++      getModule(r.id).questions.map((q, i) => ({
++        m: r.id,
++        i,
++        q: q.q,
++        o: q.options,
++        a: q.answer,
++        e: q.explain,
++        r: q.ref,
++      })),
++    );
++}
++
+ /** Rândurile din bara laterală: module simple și grupuri pliabile, în ordinea bibliografiei. */
+ export type SideEntry =
+   | { kind: "module"; module: ModuleRef }
+diff --git a/src/lib/progress/model.ts b/src/lib/progress/model.ts
+index 17f959b..2d28909 100644
+--- a/src/lib/progress/model.ts
++++ b/src/lib/progress/model.ts
+@@ -6,6 +6,8 @@ import { z } from "zod";
+  */
+ 
+ export type Session = { s: number; e: number; m: string; man?: true };
++export type SimResult = { n: number; ok: number; dur: number };
++export type Prefs = { exam: string; goal: number };
+ 
+ export type Progress = {
+   v: 2;
+@@ -21,6 +23,10 @@ export type Progress = {
+   pos: Record<string, number>;
+   /** sesiunile de studiu cronometrate, după momentul pornirii (ms) */
+   sessions: Record<string, Session>;
++  /** simulările de examen terminate, după momentul pornirii: câte grile, câte corecte, cât a durat (ms) */
++  sims: Record<string, SimResult>;
++  /** setările tale: data examenului ("2027-08-30"), ținta zilnică în minute */
++  prefs: Partial<Prefs>;
+   /**
+    * Când s-a schimbat ultima oară fiecare valoare: `${câmp}|${cheie}` → ms.
+    * La unire câștigă valoarea mai nouă; o ștergere are tot o dată, ca să nu reapară.
+@@ -28,17 +34,30 @@ export type Progress = {
+   t: Record<string, number>;
+ };
+ 
+-export const FIELDS = ["read", "mini", "answers", "cards", "pos", "sessions"] as const;
++export const FIELDS = ["read", "mini", "answers", "cards", "pos", "sessions", "sims", "prefs"] as const;
+ export type Field = (typeof FIELDS)[number];
++/** Tipul unei valori dintr-un câmp (ex. Val<"cards"> = { box, due }). */
++export type Val<F extends Field> = Progress[F] extends Record<string, infer V> ? V : never;
+ 
+-export const EMPTY: Progress = { v: 2, read: {}, mini: {}, answers: {}, cards: {}, pos: {}, sessions: {}, t: {} };
++export const EMPTY: Progress = {
++  v: 2,
++  read: {},
++  mini: {},
++  answers: {},
++  cards: {},
++  pos: {},
++  sessions: {},
++  sims: {},
++  prefs: {},
++  t: {},
++};
+ 
+ /** Copie modificată: pune (sau șterge, cu `undefined`) o valoare și îi notează momentul. */
+ export function setValue<F extends Field>(
+   p: Progress,
+   field: F,
+   key: string,
+-  value: Progress[F][string] | undefined,
++  value: Val<F> | undefined,
+   now = Date.now(),
+ ): Progress {
+   const map = { ...p[field] } as Record<string, unknown>;
+@@ -52,7 +71,18 @@ export function setValue<F extends Field>(
+  * La egalitate (de ex. date vechi, fără dată) se păstrează valoarea existentă, preferând-o pe `b`.
+  */
+ export function mergeProgress(a: Progress, b: Progress): Progress {
+-  const out: Progress = { ...EMPTY, read: {}, mini: {}, answers: {}, cards: {}, pos: {}, sessions: {}, t: {} };
++  const out: Progress = {
++    v: 2,
++    read: {},
++    mini: {},
++    answers: {},
++    cards: {},
++    pos: {},
++    sessions: {},
++    sims: {},
++    prefs: {},
++    t: {},
++  };
+   for (const f of FIELDS) {
+     const keys = new Set([...Object.keys(a[f]), ...Object.keys(b[f])]);
+     for (const k of Object.keys(a.t).concat(Object.keys(b.t)))
+@@ -105,6 +135,14 @@ export const ProgressSchema = z.object({
+   cards: rec(z.object({ box: z.number().int().min(1).max(5), due: z.number().int() })),
+   pos: rec(z.number().int().min(0)),
+   sessions: rec(z.object({ s: z.number(), e: z.number(), m: z.string().max(40), man: z.literal(true).optional() })),
++  sims: rec(z.object({ n: z.number().int().min(1), ok: z.number().int().min(0), dur: z.number().min(0) })),
++  prefs: z.object({
++    exam: z
++      .string()
++      .regex(/^\d{4}-\d{2}-\d{2}$/)
++      .optional(),
++    goal: z.number().int().min(5).max(720).optional(),
++  }),
+   t: rec(z.number()),
+ });
+ 
+@@ -119,6 +157,8 @@ export function normalize(x: unknown): Progress {
+     cards: o.cards ?? {},
+     pos: o.pos ?? {},
+     sessions: o.sessions ?? {},
++    sims: o.sims ?? {},
++    prefs: o.prefs ?? {},
+     t: o.t ?? {},
+   };
+ }
+@@ -131,7 +171,7 @@ type Legacy = {
+   cards?: Record<string, { box?: number; due?: number }>;
+   mq?: Record<string, { pick?: number; ok?: boolean }>;
+   pos?: Record<string, { sec?: number }>;
+-  study?: { ses?: Array<{ s: number; e: number; m?: string; man?: number | boolean }> };
++  study?: { ses?: Array<{ s: number; e: number; m?: string; man?: number | boolean }>; exam?: string; goal?: number };
+ };
+ 
+ /**
+@@ -158,5 +198,7 @@ export function fromLegacy(raw: unknown, at = 1): Progress {
+       { s: s.s, e: s.e, m: s.m ?? "", ...(s.man ? { man: true as const } : {}) },
+       at,
+     );
++  if (L.study?.exam && /^\d{4}-\d{2}-\d{2}$/.test(L.study.exam)) p = setValue(p, "prefs", "exam", L.study.exam, at);
++  if (L.study?.goal) p = setValue(p, "prefs", "goal", L.study.goal, at);
+   return p;
+ }
+diff --git a/src/lib/progress/store.ts b/src/lib/progress/store.ts
+index d9fa8a0..b0a2e51 100644
+--- a/src/lib/progress/store.ts
++++ b/src/lib/progress/store.ts
+@@ -1,7 +1,7 @@
+ "use client";
+ 
+ import { useSyncExternalStore } from "react";
+-import { EMPTY, mergeProgress, normalize, setValue, type Field, type Progress } from "./model";
++import { EMPTY, mergeProgress, normalize, setValue, type Field, type Progress, type Val } from "./model";
+ 
+ export type { Progress } from "./model";
+ 
+@@ -108,7 +108,7 @@ export function useToday(): number | null {
+ 
+ /* ---------- acțiuni ---------- */
+ 
+-const put = <F extends Field>(field: F, key: string, value: Progress[F][string] | undefined) =>
++const put = <F extends Field>(field: F, key: string, value: Val<F> | undefined) =>
+   updateProgress((p) => setValue(p, field, key, value));
+ 
+ export function setRead(mod: string, sec: number, value: boolean) {
+@@ -155,3 +155,43 @@ export function gradeCard(mod: string, card: number, knew: boolean) {
+ export function addSession(start: number, end: number, moduleId: string) {
+   put("sessions", String(start), { s: start, e: end, m: moduleId });
+ }
++
++/** Șterge o sesiune (de ex. cronometrul uitat pornit). */
++export function deleteSession(start: string) {
++  put("sessions", start, undefined);
++}
++
++/** Setările: data examenului, ținta zilnică. */
++export function setPref<K extends "exam" | "goal">(key: K, value: K extends "exam" ? string : number) {
++  put("prefs", key, value);
++}
++
++/** La finalul unei simulări: toate răspunsurile odată (intră în test și în Greșeli) și rezultatul simulării. */
++export function finishSimulation(
++  start: number,
++  total: number,
++  answers: Array<{ m: string; i: number; ok: boolean }>,
++  durationMs: number,
++) {
++  updateProgress((p) => {
++    let next = p;
++    for (const a of answers) {
++      const k = `${a.m}:${a.i}`;
++      const s = next.answers[k] ?? { n: 0, ok: 0, last: 0 };
++      next = setValue(next, "answers", k, { n: s.n + 1, ok: s.ok + (a.ok ? 1 : 0), last: a.ok ? 1 : 0 });
++    }
++    const ok = answers.filter((a) => a.ok).length;
++    return setValue(next, "sims", String(start), { n: total, ok, dur: durationMs });
++  });
++}
++
++/* ---------- ora curentă, rotunjită la minut, doar în browser (pentru Panou) ---------- */
++const minuteNow = () => Math.floor(Date.now() / 60000) * 60000;
++function subscribeMinute(cb: () => void) {
++  const id = setInterval(cb, 20000);
++  return () => clearInterval(id);
++}
++/** null la randarea pe server, apoi momentul curent (se actualizează în fiecare minut). */
++export function useMinute(): number | null {
++  return useSyncExternalStore(subscribeMinute, minuteNow, () => null);
++}
+diff --git a/src/lib/progress/study.ts b/src/lib/progress/study.ts
+new file mode 100644
+index 0000000..2debd1c
+--- /dev/null
++++ b/src/lib/progress/study.ts
+@@ -0,0 +1,68 @@
++import type { Progress } from "./model";
++
++/*
++ * Calculele pentru Panou: zile de studiu, timp pe zile, serie, săptămână.
++ * Timpul vine din sesiunile cronometrate; o zi contează „de studiu” și dacă ai lucrat
++ * fără cronometru (ai citit, ai răspuns la grile, ai repetat carduri).
++ */
++
++/** „2026-11-07”, după ora României (ora locală a dispozitivului). */
++export function dayKey(ms: number) {
++  const d = new Date(ms);
++  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
++}
++
++/** Ziua cu `offset` zile înainte (negativ) sau după azi, la miezul zilei (evită problemele de la ora de vară). */
++export function dayAt(now: number, offset: number) {
++  const d = new Date(now);
++  d.setHours(12, 0, 0, 0);
++  d.setDate(d.getDate() + offset);
++  return d;
++}
++
++/** Minutele cronometrate pe fiecare zi (sesiunea intră în ziua în care a început). */
++export function minutesByDay(p: Progress) {
++  const out = new Map<string, number>();
++  for (const s of Object.values(p.sessions)) {
++    const k = dayKey(s.s);
++    out.set(k, (out.get(k) ?? 0) + Math.max(0, (s.e - s.s) / 60000));
++  }
++  return out;
++}
++
++/** Zilele în care ai făcut ceva: o sesiune sau orice schimbare de progres. */
++export function activeDays(p: Progress) {
++  const out = new Set<string>();
++  for (const s of Object.values(p.sessions)) out.add(dayKey(s.s));
++  // momentele schimbărilor; cele foarte mici sunt date importate fără dată reală
++  for (const [k, t] of Object.entries(p.t)) if (t > 1e12 && !k.startsWith("prefs|")) out.add(dayKey(t));
++  return out;
++}
++
++/** Câte zile la rând, până azi (sau până ieri, dacă azi încă n-ai început). */
++export function streak(days: Set<string>, now: number) {
++  let n = 0;
++  let off = days.has(dayKey(now)) ? 0 : -1;
++  while (days.has(dayKey(dayAt(now, off).getTime()))) {
++    n++;
++    off--;
++  }
++  return n;
++}
++
++/** Minutele din săptămâna curentă (de luni). */
++export function weekMinutes(byDay: Map<string, number>, now: number) {
++  const d = new Date(now);
++  const fromMonday = (d.getDay() + 6) % 7;
++  let sum = 0;
++  for (let i = 0; i <= fromMonday; i++) sum += byDay.get(dayKey(dayAt(now, -i).getTime())) ?? 0;
++  return sum;
++}
++
++/** „1 h 35 min”, „40 min”, „2 h”. */
++export function formatMinutes(min: number) {
++  const m = Math.round(min);
++  if (m < 60) return `${m} min`;
++  const h = Math.floor(m / 60);
++  return m % 60 ? `${h} h ${m % 60} min` : `${h} h`;
++}

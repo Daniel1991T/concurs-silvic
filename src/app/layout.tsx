@@ -6,9 +6,7 @@ import "@fontsource/ibm-plex-mono/400.css";
 import "@fontsource/ibm-plex-mono/500.css";
 import "@fontsource/ibm-plex-mono/600.css";
 import "./globals.css";
-import { Header } from "@/components/shell/header";
 import { Providers } from "@/components/shell/providers";
-import { Sidebar } from "@/components/shell/sidebar";
 import { getExam, getModuleCounts } from "@/lib/content";
 
 const exam = getExam();
@@ -37,13 +35,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           >
             Sari la conținut
           </a>
-          <Header title={exam.title} />
-          <div className="md:grid md:grid-cols-[304px_minmax(0,1fr)]">
-            <Sidebar />
-            <main id="continut" className="min-w-0">
-              <div className="px-4 pt-6 pb-12 md:px-12 md:pt-8 md:pb-16">{children}</div>
-            </main>
-          </div>
+          {children}
         </Providers>
       </body>
     </html>

@@ -12,8 +12,8 @@ const field =
   "min-h-11 w-full rounded-md border-[1.5px] border-ctl bg-surface px-3 text-base text-text placeholder:text-text-3";
 const label = "mb-1 block text-sm font-semibold";
 
-/** Formularul de intrare în cont sau de cont nou. */
-function AuthForm() {
+/** Formularul de intrare în cont sau de cont nou. `onDone` rulează după ce ai intrat. */
+export function AuthForm({ onDone }: { onDone?: () => void }) {
   const [mode, setMode] = useState<"in" | "new">("in");
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
@@ -29,8 +29,13 @@ function AuthForm() {
       mode === "in"
         ? await signIn.email({ email, password })
         : await signUp.email({ email, password, name: String(f.get("name") ?? "").trim() || email });
-    setBusy(false);
-    if (res.error) setError(messageFor(res.error.code, res.error.message));
+    if (res.error) {
+      setBusy(false);
+      setError(messageFor(res.error.code, res.error.message));
+      return;
+    }
+    if (onDone) onDone();
+    else setBusy(false);
   }
 
   return (
@@ -257,7 +262,14 @@ export function AccountPanel() {
           <Button variant="secondary" onClick={() => void syncNow()}>
             Sincronizează acum
           </Button>
-          <Button variant="ghost" onClick={() => void signOut()}>
+          <Button
+            variant="ghost"
+            onClick={() =>
+              // după ieșire, înapoi la pagina de start (restul aplicației cere cont);
+              // încărcare completă: paginile aplicației, deja preîncărcate, nu mai rămân în memorie
+              void signOut().then(() => window.location.replace("/"))
+            }
+          >
             Ieși din cont
           </Button>
         </div>

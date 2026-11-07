@@ -9,7 +9,7 @@ export function AccountButton() {
   const name = data?.user.name || data?.user.email || "";
   return (
     <Link
-      href="/cont"
+      href={data ? "/cont" : "/intra"}
       className="grid size-11 flex-none place-items-center rounded-md border-[1.5px] border-hdr-line bg-white/6 font-serif text-lg font-semibold text-hdr-fg no-underline hover:bg-white/12"
       aria-label={data ? `Contul tău (${name})` : "Intră în cont"}
     >

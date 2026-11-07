@@ -24,7 +24,10 @@ export function Header({ title }: { title: string }) {
   return (
     <header className="on-dark contours sticky top-0 z-20 border-b border-hdr-line bg-hdr-bg text-hdr-fg">
       <div className="flex flex-wrap items-center gap-x-3 gap-y-2 px-3 pt-2 md:min-h-18 md:flex-nowrap md:gap-6 md:px-8 md:pt-0">
-        <Link href="/" className="order-1 flex min-w-0 flex-1 items-center gap-3 text-hdr-fg no-underline md:flex-none">
+        <Link
+          href="/module"
+          className="order-1 flex min-w-0 flex-1 items-center gap-3 text-hdr-fg no-underline md:flex-none"
+        >
           <HammerMark className="hidden h-[34px] w-7 flex-none text-hdr-accent md:block" />
           <span className="font-serif text-lg leading-[1.15] font-semibold tracking-[-0.005em] md:text-[1.375rem] md:whitespace-nowrap">
             {title}

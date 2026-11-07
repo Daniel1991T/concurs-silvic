@@ -6,6 +6,8 @@ import { z } from "zod";
  */
 
 export type Session = { s: number; e: number; m: string; man?: true };
+export type SimResult = { n: number; ok: number; dur: number };
+export type Prefs = { exam: string; goal: number };
 
 export type Progress = {
   v: 2;
@@ -21,6 +23,10 @@ export type Progress = {
   pos: Record<string, number>;
   /** sesiunile de studiu cronometrate, după momentul pornirii (ms) */
   sessions: Record<string, Session>;
+  /** simulările de examen terminate, după momentul pornirii: câte grile, câte corecte, cât a durat (ms) */
+  sims: Record<string, SimResult>;
+  /** setările tale: data examenului ("2027-08-30"), ținta zilnică în minute */
+  prefs: Partial<Prefs>;
   /**
    * Când s-a schimbat ultima oară fiecare valoare: `${câmp}|${cheie}` → ms.
    * La unire câștigă valoarea mai nouă; o ștergere are tot o dată, ca să nu reapară.
@@ -28,17 +34,30 @@ export type Progress = {
   t: Record<string, number>;
 };
 
-export const FIELDS = ["read", "mini", "answers", "cards", "pos", "sessions"] as const;
+export const FIELDS = ["read", "mini", "answers", "cards", "pos", "sessions", "sims", "prefs"] as const;
 export type Field = (typeof FIELDS)[number];
+/** Tipul unei valori dintr-un câmp (ex. Val<"cards"> = { box, due }). */
+export type Val<F extends Field> = Progress[F] extends Record<string, infer V> ? V : never;
 
-export const EMPTY: Progress = { v: 2, read: {}, mini: {}, answers: {}, cards: {}, pos: {}, sessions: {}, t: {} };
+export const EMPTY: Progress = {
+  v: 2,
+  read: {},
+  mini: {},
+  answers: {},
+  cards: {},
+  pos: {},
+  sessions: {},
+  sims: {},
+  prefs: {},
+  t: {},
+};
 
 /** Copie modificată: pune (sau șterge, cu `undefined`) o valoare și îi notează momentul. */
 export function setValue<F extends Field>(
   p: Progress,
   field: F,
   key: string,
-  value: Progress[F][string] | undefined,
+  value: Val<F> | undefined,
   now = Date.now(),
 ): Progress {
   const map = { ...p[field] } as Record<string, unknown>;
@@ -52,7 +71,18 @@ export function setValue<F extends Field>(
  * La egalitate (de ex. date vechi, fără dată) se păstrează valoarea existentă, preferând-o pe `b`.
  */
 export function mergeProgress(a: Progress, b: Progress): Progress {
-  const out: Progress = { ...EMPTY, read: {}, mini: {}, answers: {}, cards: {}, pos: {}, sessions: {}, t: {} };
+  const out: Progress = {
+    v: 2,
+    read: {},
+    mini: {},
+    answers: {},
+    cards: {},
+    pos: {},
+    sessions: {},
+    sims: {},
+    prefs: {},
+    t: {},
+  };
   for (const f of FIELDS) {
     const keys = new Set([...Object.keys(a[f]), ...Object.keys(b[f])]);
     for (const k of Object.keys(a.t).concat(Object.keys(b.t)))
@@ -105,6 +135,14 @@ export const ProgressSchema = z.object({
   cards: rec(z.object({ box: z.number().int().min(1).max(5), due: z.number().int() })),
   pos: rec(z.number().int().min(0)),
   sessions: rec(z.object({ s: z.number(), e: z.number(), m: z.string().max(40), man: z.literal(true).optional() })),
+  sims: rec(z.object({ n: z.number().int().min(1), ok: z.number().int().min(0), dur: z.number().min(0) })),
+  prefs: z.object({
+    exam: z
+      .string()
+      .regex(/^\d{4}-\d{2}-\d{2}$/)
+      .optional(),
+    goal: z.number().int().min(5).max(720).optional(),
+  }),
   t: rec(z.number()),
 });
 
@@ -119,6 +157,8 @@ export function normalize(x: unknown): Progress {
     cards: o.cards ?? {},
     pos: o.pos ?? {},
     sessions: o.sessions ?? {},
+    sims: o.sims ?? {},
+    prefs: o.prefs ?? {},
     t: o.t ?? {},
   };
 }
@@ -131,7 +171,7 @@ type Legacy = {
   cards?: Record<string, { box?: number; due?: number }>;
   mq?: Record<string, { pick?: number; ok?: boolean }>;
   pos?: Record<string, { sec?: number }>;
-  study?: { ses?: Array<{ s: number; e: number; m?: string; man?: number | boolean }> };
+  study?: { ses?: Array<{ s: number; e: number; m?: string; man?: number | boolean }>; exam?: string; goal?: number };
 };
 
 /**
@@ -158,5 +198,7 @@ export function fromLegacy(raw: unknown, at = 1): Progress {
       { s: s.s, e: s.e, m: s.m ?? "", ...(s.man ? { man: true as const } : {}) },
       at,
     );
+  if (L.study?.exam && /^\d{4}-\d{2}-\d{2}$/.test(L.study.exam)) p = setValue(p, "prefs", "exam", L.study.exam, at);
+  if (L.study?.goal) p = setValue(p, "prefs", "goal", L.study.goal, at);
   return p;
 }

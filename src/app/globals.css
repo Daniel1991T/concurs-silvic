@@ -1366,7 +1366,487 @@
   }
 }
 
-/* ---------- 8. Mișcare redusă ---------- */
+/* ---------- 8. Panoul (preluat din styles.css al designului) ---------- */
+@layer components {
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    box-shadow: var(--shadow);
+    min-width: 0;
+  }
+  .card__h {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px 12px;
+    margin-bottom: 16px;
+  }
+  .card__h h2 {
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: var(--text-lg);
+    line-height: 1.2;
+  }
+  .row {
+    display: grid;
+    gap: 24px;
+    margin-bottom: 24px;
+  }
+  .cols-7-5 {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+  }
+  .cols-5-7 {
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  }
+
+  /* indicatorii: dungă verde sus, cifră mare serif */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .stat {
+    padding: 16px 24px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-top: 3px solid var(--brand);
+    border-radius: var(--radius-md);
+    min-width: 0;
+  }
+  .stat__l {
+    font: 500 var(--text-xs) / 1.3 var(--font-mono);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-2);
+  }
+  .stat__v {
+    margin-top: 8px;
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    font-variant-numeric: tabular-nums;
+  }
+  .stat__v small {
+    margin-left: 4px;
+    font: 600 var(--text-sm) / 1 var(--font-sans);
+    letter-spacing: 0;
+    color: var(--text-2);
+  }
+
+  /* cronometrul mare */
+  .timer-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 24px;
+  }
+  .timer-big {
+    font: 500 var(--text-display) / 1 var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.03em;
+  }
+  .timer-state {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font: 500 var(--text-xs) / 1 var(--font-mono);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-2);
+  }
+  .timer-state i {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--text-3);
+  }
+  .timer-card.is-running .timer-state i {
+    background: var(--accent);
+    animation: pulse2 1.8s ease-out infinite;
+  }
+
+  /* numărătoarea inversă: card verde cu curbe de nivel */
+  .feat {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 24px;
+    border-radius: var(--radius-lg);
+    background: var(--feat-bg);
+    color: var(--feat-fg);
+    min-width: 0;
+  }
+  .feat .eyebrow {
+    color: var(--feat-fg-2);
+  }
+  .feat__n {
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: 7rem;
+    line-height: 0.9;
+    letter-spacing: -0.04em;
+    font-variant-numeric: tabular-nums;
+  }
+  .feat__n small {
+    margin-left: 12px;
+    font-size: var(--text-lg);
+    font-weight: 500;
+    letter-spacing: 0;
+    color: var(--feat-fg-2);
+  }
+  .feat .bar {
+    background: rgba(0, 0, 0, 0.28);
+    box-shadow: none;
+  }
+  .feat .bar > i {
+    background: var(--feat-accent);
+  }
+
+  /* graficul cu bare */
+  .chart {
+    display: grid;
+    grid-template-columns: 40px minmax(0, 1fr);
+    grid-template-rows: 240px auto;
+    column-gap: 8px;
+  }
+  .chart__y {
+    position: relative;
+    font: 500 var(--text-xs) / 1 var(--font-mono);
+    color: var(--text-2);
+    text-align: right;
+  }
+  .chart__y span {
+    position: absolute;
+    right: 0;
+    transform: translateY(50%);
+  }
+  .chart__plot {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    gap: 6px;
+    padding: 0 4px;
+    border-bottom: 1.5px solid var(--ctl);
+  }
+  .chart__grid {
+    position: absolute;
+    left: 0;
+    right: 0;
+    border-top: 1px solid var(--line);
+  }
+  .chart__bar {
+    position: relative;
+    flex: 1;
+    height: calc(var(--h) * 1%);
+    min-height: 3px;
+    border-radius: 3px 3px 0 0;
+    background: var(--brand);
+    animation: rise 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .chart__bar.is-low {
+    background: var(--brand-soft);
+    box-shadow: inset 0 0 0 1.5px var(--brand);
+  }
+  .chart__bar.is-zero {
+    min-height: 0;
+    box-shadow: none;
+  }
+  .chart__t {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: calc(var(--t) * 1%);
+    border-top: 2px dashed var(--accent);
+    pointer-events: none;
+  }
+  .chart__t span {
+    position: absolute;
+    right: 0;
+    bottom: 4px;
+    padding: 0 6px;
+    background: var(--surface);
+    font: 600 var(--text-xs) / 1.4 var(--font-mono);
+    color: var(--accent-text);
+  }
+  .chart__x {
+    grid-column: 2;
+    display: flex;
+    gap: 6px;
+    padding: 8px 4px 0;
+    font: 500 var(--text-xs) / 1 var(--font-mono);
+    color: var(--text-2);
+  }
+  .chart__x span {
+    flex: 1;
+    text-align: center;
+  }
+  .chart__x span.is-today {
+    color: var(--accent-text);
+    font-weight: 600;
+  }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    margin-top: 16px;
+    font-size: var(--text-xs);
+    color: var(--text-2);
+  }
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .legend i {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border-radius: 2px;
+    background: var(--brand);
+  }
+  .legend i.l {
+    background: var(--brand-soft);
+    box-shadow: inset 0 0 0 1.5px var(--brand);
+  }
+  .legend i.t {
+    height: 0;
+    border-top: 2px dashed var(--accent);
+    border-radius: 0;
+    align-self: center;
+  }
+
+  /* calendarul de studiu */
+  .heatwrap {
+    display: grid;
+    grid-template-columns: 28px minmax(0, 1fr);
+    column-gap: 8px;
+  }
+  .heat__d {
+    display: grid;
+    grid-template-rows: repeat(7, 1fr);
+    gap: 3px;
+    font: 500 0.6875rem/1 var(--font-mono);
+    color: var(--text-2);
+  }
+  .heat__d span {
+    display: flex;
+    align-items: center;
+  }
+  .heat {
+    display: grid;
+    grid-template-rows: repeat(7, auto);
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
+    gap: 3px;
+  }
+  .heat i {
+    display: block;
+    aspect-ratio: 1;
+    border-radius: 2px;
+    background: var(--heat-0);
+  }
+  .heat i.h1 {
+    background: var(--heat-1);
+  }
+  .heat i.h2 {
+    background: var(--heat-2);
+  }
+  .heat i.h3 {
+    background: var(--heat-3);
+  }
+  .heat i.h4 {
+    background: var(--heat-4);
+  }
+  .heat i.is-future {
+    background: transparent;
+    box-shadow: inset 0 0 0 1px var(--line);
+  }
+  .heat i.is-today {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  .heat__lg {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 12px;
+    font: 500 var(--text-xs) / 1 var(--font-mono);
+    color: var(--text-2);
+  }
+  .heat__lg i {
+    display: block;
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+    background: var(--heat-0);
+  }
+  .heat__lg i.h1 {
+    background: var(--heat-1);
+  }
+  .heat__lg i.h2 {
+    background: var(--heat-2);
+  }
+  .heat__lg i.h3 {
+    background: var(--heat-3);
+  }
+  .heat__lg i.h4 {
+    background: var(--heat-4);
+  }
+
+  /* tabelul pe module și sesiunile */
+  .tbl td.n,
+  .tbl th.n {
+    text-align: right;
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    padding-left: 16px;
+    padding-right: 0;
+  }
+  .tbl td {
+    vertical-align: middle;
+  }
+  .tbl .who {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-weight: 600;
+  }
+  .tbl .bar {
+    min-width: 90px;
+  }
+  .sess li {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto auto;
+    align-items: center;
+    gap: 2px 16px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .sess li:last-child {
+    border-bottom: 0;
+  }
+  .sess small {
+    display: block;
+    color: var(--text-2);
+    font-size: var(--text-sm);
+  }
+  .sess .t {
+    font: 500 var(--text-base) / 1 var(--font-mono);
+  }
+
+  /* „Ce faci azi”: bifa se pune singură când sarcina e făcută */
+  .todo li {
+    border-bottom: 1px solid var(--line);
+  }
+  .todo li:last-child {
+    border-bottom: 0;
+  }
+  .todo a,
+  .todo .todo__row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-height: 52px;
+    color: var(--text);
+    text-decoration: none;
+  }
+  .todo a:hover .todo__t {
+    color: var(--brand-text);
+    text-decoration: underline;
+  }
+  .todo__box {
+    flex: none;
+    display: grid;
+    place-items: center;
+    width: 26px;
+    height: 26px;
+    border: 2px solid var(--ctl);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+  }
+  .todo .is-done .todo__box {
+    background: var(--brand);
+    border-color: var(--brand);
+    color: var(--brand-ink);
+  }
+  .todo .is-done .todo__t {
+    color: var(--text-2);
+    text-decoration: line-through;
+    text-decoration-thickness: 1px;
+  }
+}
+
+@keyframes rise {
+  from {
+    height: 0;
+  }
+}
+@keyframes pulse2 {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 60%, transparent);
+  }
+  70%,
+  100% {
+    box-shadow: 0 0 0 10px transparent;
+  }
+}
+
+@media (width < 51.3125rem) {
+  .row,
+  .cols-7-5,
+  .cols-5-7 {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  .card {
+    padding: 16px;
+  }
+  .stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .stat:last-child {
+    grid-column: 1 / -1;
+  }
+  .stat {
+    padding: 12px 16px;
+  }
+  .stat__v {
+    font-size: 2rem;
+  }
+  .timer-big {
+    font-size: 3.25rem;
+  }
+  .feat__n {
+    font-size: 5rem;
+  }
+  .chart {
+    grid-template-rows: 200px auto;
+    grid-template-columns: 32px minmax(0, 1fr);
+  }
+  .chart__plot,
+  .chart__x {
+    gap: 3px;
+  }
+  .tbl .hide-m {
+    display: none;
+  }
+  .tbl .bar {
+    min-width: 60px;
+  }
+}
+
+/* ---------- 9. Mișcare redusă ---------- */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

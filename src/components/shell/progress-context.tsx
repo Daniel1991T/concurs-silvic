@@ -4,7 +4,7 @@ import { createContext, useContext, type ReactNode } from "react";
 import { modulePercent, type ModuleCounts } from "@/lib/progress/stats";
 import { useProgress } from "@/lib/progress/store";
 
-const CountsContext = createContext<Record<string, ModuleCounts>>({});
+export const CountsContext = createContext<Record<string, ModuleCounts>>({});
 
 /** Câte secțiuni, carduri și grile are fiecare modul; vin o singură dată de pe server. */
 export function CountsProvider({ counts, children }: { counts: Record<string, ModuleCounts>; children: ReactNode }) {

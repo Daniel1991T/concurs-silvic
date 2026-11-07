@@ -58,6 +58,26 @@ export function getModuleCounts(): Record<string, { lesson: number; cards: numbe
   return out;
 }
 
+/** O grilă de test, în forma scurtă trimisă browserului pentru Simulare și Greșeli. */
+export type QuestionLite = { m: string; i: number; q: string; o: string[]; a: number; e: string; r: string };
+
+/** Toate grilele de test din modulele cu conținut (pentru Simulare și Greșeli). */
+export function getAllQuestions(): QuestionLite[] {
+  return exam.modules
+    .filter((r) => r.status === "ready")
+    .flatMap((r) =>
+      getModule(r.id).questions.map((q, i) => ({
+        m: r.id,
+        i,
+        q: q.q,
+        o: q.options,
+        a: q.answer,
+        e: q.explain,
+        r: q.ref,
+      })),
+    );
+}
+
 /** Rândurile din bara laterală: module simple și grupuri pliabile, în ordinea bibliografiei. */
 export type SideEntry =
   | { kind: "module"; module: ModuleRef }

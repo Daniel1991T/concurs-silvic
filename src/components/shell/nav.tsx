@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { cx } from "@/lib/cx";
 
 export const NAV = [
-  { href: "/", label: "Module" },
+  { href: "/module", label: "Module" },
   { href: "/panou", label: "Panou" },
   { href: "/simulare", label: "Simulare" },
   { href: "/greseli", label: "Greșeli" },
@@ -13,7 +13,7 @@ export const NAV = [
 
 function isActive(pathname: string | null, href: string) {
   if (!pathname) return false;
-  if (href === "/") return pathname === "/" || pathname.startsWith("/modul/");
+  if (href === "/module") return pathname === "/module" || pathname.startsWith("/modul/");
   return pathname === href || pathname.startsWith(href + "/");
 }
 

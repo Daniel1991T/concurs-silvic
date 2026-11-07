@@ -1,0 +1,274 @@
+diff --git a/src/app/(landing)/intra/login-form.tsx b/src/app/(landing)/intra/login-form.tsx
+new file mode 100644
+index 0000000..b13d43d
+--- /dev/null
++++ b/src/app/(landing)/intra/login-form.tsx
+@@ -0,0 +1,12 @@
++"use client";
++
++import { useSearchParams } from "next/navigation";
++import { AuthForm } from "@/components/account/account-panel";
++import { safeNext } from "@/lib/safe-next";
++
++/** Formularul de intrare; după login mergi la pagina pe care voiai s-o deschizi (sau la module). */
++export function LoginForm() {
++  const next = safeNext(useSearchParams().get("next"));
++  // încărcare completă, ca paznicul (proxy.ts) să vadă noul cookie al sesiunii
++  return <AuthForm onDone={() => window.location.assign(next)} />;
++}
+diff --git a/src/app/(landing)/intra/page.tsx b/src/app/(landing)/intra/page.tsx
+new file mode 100644
+index 0000000..cf5f3b1
+--- /dev/null
++++ b/src/app/(landing)/intra/page.tsx
+@@ -0,0 +1,31 @@
++import type { Metadata } from "next";
++import { Suspense } from "react";
++import { LandingHeader } from "@/components/shell/landing-header";
++import { getExam } from "@/lib/content";
++import { LoginForm } from "./login-form";
++
++export const metadata: Metadata = { title: "Intră în cont" };
++
++/** Pagina de intrare: singura pagină, în afară de cea de start, pe care o vezi fără cont. */
++export default function LoginPage() {
++  const exam = getExam();
++  return (
++    <div className="flex min-h-dvh flex-col">
++      <LandingHeader title={exam.title} />
++      <main id="continut" className="flex-1 px-4 py-10 md:px-8 md:py-16">
++        <div className="mx-auto w-full max-w-md">
++          <p className="eyebrow">Contul tău</p>
++          <h1 className="mt-2 mb-3 font-serif text-h1 font-semibold">Intră în cont</h1>
++          <p className="mb-8 text-text-2">
++            Lecțiile, testele și panoul sunt disponibile după ce intri în cont. Progresul tău se salvează în cont și îl
++            găsești pe orice dispozitiv.
++          </p>
++          {/* formularul citește „?next=” din adresă, deci se randează în browser */}
++          <Suspense fallback={<p className="text-text-2">Se încarcă…</p>}>
++            <LoginForm />
++          </Suspense>
++        </div>
++      </main>
++    </div>
++  );
++}
+diff --git a/src/app/(landing)/page.tsx b/src/app/(landing)/page.tsx
+index 9c75ce1..aba17a5 100644
+--- a/src/app/(landing)/page.tsx
++++ b/src/app/(landing)/page.tsx
+@@ -1,7 +1,6 @@
+ import Link from "next/link";
+-import { AccountButton } from "@/components/account/account-button";
+ import { RefChip } from "@/components/module/ref-chip";
+-import { HammerMark } from "@/components/shell/header";
++import { LandingHeader } from "@/components/shell/landing-header";
+ import { ModuleStamp } from "@/components/shell/module-pct";
+ import { buttonClass } from "@/components/ui/button";
+ import { getExam, getModule, getModuleRef } from "@/lib/content";
+@@ -13,9 +12,6 @@ import { LandingModuleRow } from "./module-row";
+  * titlul, cele două butoane, un card cu exemple din aplicație și patru cifre jos.
+  */
+ 
+-const navLink =
+-  "nav-link relative inline-flex min-h-11 items-center rounded-md px-3 text-sm font-semibold text-hdr-fg-2 no-underline hover:bg-white/8 hover:text-hdr-fg md:px-4";
+-
+ export default function LandingPage() {
+   const exam = getExam();
+   // un exemplu real din conținut pentru caseta „De reținut” din card
+@@ -26,28 +22,7 @@ export default function LandingPage() {
+ 
+   return (
+     <div className="flex min-h-dvh flex-col md:h-dvh md:min-h-[560px] md:overflow-hidden">
+-      <header className="on-dark contours border-b border-hdr-line bg-hdr-bg text-hdr-fg">
+-        <div className="flex min-h-16 items-center gap-3 px-3 md:min-h-18 md:gap-6 md:px-8">
+-          <Link href="/" className="flex min-w-0 flex-1 items-center gap-3 text-hdr-fg no-underline md:flex-none">
+-            <HammerMark className="hidden h-[34px] w-7 flex-none text-hdr-accent md:block" />
+-            <span className="font-serif text-lg leading-[1.15] font-semibold md:text-[1.375rem] md:whitespace-nowrap">
+-              {exam.title}
+-            </span>
+-          </Link>
+-          <nav aria-label="Pagina de prezentare" className="hidden md:ml-auto md:flex md:gap-1">
+-            <Link href="/modul/paza" className={navLink}>
+-              Cum înveți
+-            </Link>
+-            <Link href="/modul/paza/text" className={navLink}>
+-              Textul legii
+-            </Link>
+-            <Link href="/panou" className={navLink}>
+-              Progres
+-            </Link>
+-          </nav>
+-          <AccountButton />
+-        </div>
+-      </header>
++      <LandingHeader title={exam.title} />
+ 
+       <main
+         id="continut"
+diff --git a/src/components/account/account-button.tsx b/src/components/account/account-button.tsx
+index 716b99b..0643033 100644
+--- a/src/components/account/account-button.tsx
++++ b/src/components/account/account-button.tsx
+@@ -9,7 +9,7 @@ export function AccountButton() {
+   const name = data?.user.name || data?.user.email || "";
+   return (
+     <Link
+-      href="/cont"
++      href={data ? "/cont" : "/intra"}
+       className="grid size-11 flex-none place-items-center rounded-md border-[1.5px] border-hdr-line bg-white/6 font-serif text-lg font-semibold text-hdr-fg no-underline hover:bg-white/12"
+       aria-label={data ? `Contul tău (${name})` : "Intră în cont"}
+     >
+diff --git a/src/components/account/account-panel.tsx b/src/components/account/account-panel.tsx
+index ec7f6be..8c2458b 100644
+--- a/src/components/account/account-panel.tsx
++++ b/src/components/account/account-panel.tsx
+@@ -12,8 +12,8 @@ const field =
+   "min-h-11 w-full rounded-md border-[1.5px] border-ctl bg-surface px-3 text-base text-text placeholder:text-text-3";
+ const label = "mb-1 block text-sm font-semibold";
+ 
+-/** Formularul de intrare în cont sau de cont nou. */
+-function AuthForm() {
++/** Formularul de intrare în cont sau de cont nou. `onDone` rulează după ce ai intrat. */
++export function AuthForm({ onDone }: { onDone?: () => void }) {
+   const [mode, setMode] = useState<"in" | "new">("in");
+   const [error, setError] = useState<string | null>(null);
+   const [busy, setBusy] = useState(false);
+@@ -29,8 +29,13 @@ function AuthForm() {
+       mode === "in"
+         ? await signIn.email({ email, password })
+         : await signUp.email({ email, password, name: String(f.get("name") ?? "").trim() || email });
+-    setBusy(false);
+-    if (res.error) setError(messageFor(res.error.code, res.error.message));
++    if (res.error) {
++      setBusy(false);
++      setError(messageFor(res.error.code, res.error.message));
++      return;
++    }
++    if (onDone) onDone();
++    else setBusy(false);
+   }
+ 
+   return (
+@@ -257,7 +262,14 @@ export function AccountPanel() {
+           <Button variant="secondary" onClick={() => void syncNow()}>
+             Sincronizează acum
+           </Button>
+-          <Button variant="ghost" onClick={() => void signOut()}>
++          <Button
++            variant="ghost"
++            onClick={() =>
++              // după ieșire, înapoi la pagina de start (restul aplicației cere cont);
++              // încărcare completă: paginile aplicației, deja preîncărcate, nu mai rămân în memorie
++              void signOut().then(() => window.location.replace("/"))
++            }
++          >
+             Ieși din cont
+           </Button>
+         </div>
+diff --git a/src/components/shell/landing-header.tsx b/src/components/shell/landing-header.tsx
+new file mode 100644
+index 0000000..049ebe2
+--- /dev/null
++++ b/src/components/shell/landing-header.tsx
+@@ -0,0 +1,34 @@
++import Link from "next/link";
++import { AccountButton } from "@/components/account/account-button";
++import { HammerMark } from "@/components/shell/header";
++
++const navLink =
++  "nav-link relative inline-flex min-h-11 items-center rounded-md px-3 text-sm font-semibold text-hdr-fg-2 no-underline hover:bg-white/8 hover:text-hdr-fg md:px-4";
++
++/** Antetul verde al paginii de start și al paginii de intrare (fără bara laterală a aplicației). */
++export function LandingHeader({ title }: { title: string }) {
++  return (
++    <header className="on-dark contours border-b border-hdr-line bg-hdr-bg text-hdr-fg">
++      <div className="flex min-h-16 items-center gap-3 px-3 md:min-h-18 md:gap-6 md:px-8">
++        <Link href="/" className="flex min-w-0 flex-1 items-center gap-3 text-hdr-fg no-underline md:flex-none">
++          <HammerMark className="hidden h-[34px] w-7 flex-none text-hdr-accent md:block" />
++          <span className="font-serif text-lg leading-[1.15] font-semibold md:text-[1.375rem] md:whitespace-nowrap">
++            {title}
++          </span>
++        </Link>
++        <nav aria-label="Pagina de prezentare" className="hidden md:ml-auto md:flex md:gap-1">
++          <Link href="/modul/paza" className={navLink}>
++            Cum înveți
++          </Link>
++          <Link href="/modul/paza/text" className={navLink}>
++            Textul legii
++          </Link>
++          <Link href="/panou" className={navLink}>
++            Progres
++          </Link>
++        </nav>
++        <AccountButton />
++      </div>
++    </header>
++  );
++}
+diff --git a/src/lib/auth.ts b/src/lib/auth.ts
+index 820c74e..dedf748 100644
+--- a/src/lib/auth.ts
++++ b/src/lib/auth.ts
+@@ -24,6 +24,8 @@ export const auth = betterAuth({
+     // rămâi logat 60 de zile; sesiunea se prelungește singură când folosești aplicația
+     expiresIn: 60 * 60 * 24 * 60,
+     updateAge: 60 * 60 * 24,
++    // o copie semnată a sesiunii în cookie, valabilă 5 minute: paznicul (proxy.ts) n-o mai caută în baza de date
++    cookieCache: { enabled: true, maxAge: 5 * 60 },
+   },
+   plugins: [nextCookies()],
+ });
+diff --git a/src/lib/safe-next.ts b/src/lib/safe-next.ts
+new file mode 100644
+index 0000000..51b8839
+--- /dev/null
++++ b/src/lib/safe-next.ts
+@@ -0,0 +1,4 @@
++/** Unde te duce aplicația după login: doar adrese din aplicație (nu „//alt-site.ro”), altfel lista de module. */
++export function safeNext(next: string | null | undefined) {
++  return next && next.startsWith("/") && !next.startsWith("//") ? next : "/module";
++}
+diff --git a/src/proxy.ts b/src/proxy.ts
+new file mode 100644
+index 0000000..6a60b81
+--- /dev/null
++++ b/src/proxy.ts
+@@ -0,0 +1,37 @@
++import { NextResponse, type NextRequest } from "next/server";
++import { auth } from "@/lib/auth";
++import { safeNext } from "@/lib/safe-next";
++
++/*
++ * Paznicul aplicației: rulează pe server înaintea fiecărei pagini.
++ * Fără cont poți vedea doar pagina de start („/”) și pagina de intrare („/intra”);
++ * orice altă pagină te trimite la „/intra”, iar după login te întorci unde voiai să ajungi.
++ */
++
++const PUBLIC = new Set(["/", "/intra"]);
++
++export async function proxy(req: NextRequest) {
++  const { pathname, search } = req.nextUrl;
++  // sesiunea se verifică din cookie-ul semnat (fără drum la baza de date în majoritatea cazurilor)
++  const { headers, response: session } = await auth.api.getSession({ headers: req.headers, returnHeaders: true });
++
++  let res: NextResponse;
++  if (session && pathname === "/intra") {
++    // ești deja logat: direct în aplicație
++    res = NextResponse.redirect(new URL(safeNext(req.nextUrl.searchParams.get("next")), req.url));
++  } else if (!session && !PUBLIC.has(pathname)) {
++    const url = new URL("/intra", req.url);
++    url.searchParams.set("next", pathname + search);
++    res = NextResponse.redirect(url);
++  } else {
++    res = NextResponse.next();
++  }
++  // dacă Better Auth a reîmprospătat cookie-ul sesiunii, îl trimitem mai departe browserului
++  for (const c of headers.getSetCookie()) res.headers.append("set-cookie", c);
++  return res;
++}
++
++export const config = {
++  // nu pentru API (are verificarea lui), fișierele Next.js și iconițe
++  matcher: ["/((?!api|_next/static|_next/image|favicon.ico|icon.svg|.*\\.(?:png|jpg|svg|webp|ico|txt|xml|json)$).*)"],
++};
